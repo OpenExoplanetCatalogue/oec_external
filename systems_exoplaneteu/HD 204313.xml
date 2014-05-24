@@ -1,0 +1,46 @@
+<system>
+	<name>HD 204313</name>
+	<rightascension>21 28 12</rightascension>
+	<declination>-21 16 25</declination>
+	<distance>47.37</distance>
+	<star>
+		<name>HD 204313</name>
+		<age>3.38</age>
+		<mass>1.045</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5767.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 204313 b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">3.04</semimajoraxis>
+			<periastron errorminus="6.0" errorplus="6.0">298.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.23</eccentricity>
+			<period errorminus="25.0" errorplus="25.0">1920.1</period>
+			<mass errorminus="0.2" errorplus="0.2">3.55</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>12/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 204313 c</name>
+			<semimajoraxis errorminus="0.0035" errorplus="0.0035">0.2103</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.17</eccentricity>
+			<period errorminus="0.0388" errorplus="0.0388">34.873</period>
+			<mass errorminus="0.0054" errorplus="0.0054">0.054</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 204313 d</name>
+			<semimajoraxis errorminus="0.14" errorplus="0.14">3.93</semimajoraxis>
+			<periastron errorminus="16.0" errorplus="16.0">247.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.28</eccentricity>
+			<period errorminus="150.0" errorplus="150.0">2831.6</period>
+			<mass errorminus="0.3" errorplus="0.3">1.68</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

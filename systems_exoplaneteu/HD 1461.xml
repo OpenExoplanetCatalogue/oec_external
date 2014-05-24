@@ -1,0 +1,36 @@
+<system>
+	<name>HD 1461</name>
+	<rightascension>00 18 42</rightascension>
+	<declination>-08 56 49</declination>
+	<distance>23.4</distance>
+	<star>
+		<name>HD 1461</name>
+		<age>6.3</age>
+		<radius>1.095</radius>
+		<mass>1.08</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>5765.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 1461 b</name>
+			<semimajoraxis errorminus="1.8e-05" errorplus="1.8e-05">0.063438</semimajoraxis>
+			<periastron errorminus="69.0" errorplus="69.0">58.0</periastron>
+			<eccentricity errorminus="0.19" errorplus="0.19">0.14</eccentricity>
+			<period errorminus="0.0025" errorplus="0.0025">5.7727</period>
+			<mass errorminus="0.0038" errorplus="0.0038">0.0239</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/12/15</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 1461 c</name>
+			<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.1117</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.0031" errorplus="0.0031">13.505</period>
+			<mass errorminus="0.0024" errorplus="0.0024">0.0186</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

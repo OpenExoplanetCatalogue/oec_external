@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-152</name>
+	<rightascension>19 07 28</rightascension>
+	<declination>+41 59 21</declination>
+	<star>
+		<name>Kepler-152</name>
+		<radius>0.72</radius>
+		<temperature>5088.0</temperature>
+		<metallicity>-0.138</metallicity>
+		<planet>
+			<name>Kepler-152 b</name>
+			<semimajoraxis>0.124</semimajoraxis>
+			<period errorminus="2.3e-05" errorplus="2.3e-05">18.207973</period>
+			<radius errorminus="0.015" errorplus="0.015">0.249</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-152 c</name>
+			<semimajoraxis>0.356</semimajoraxis>
+			<period errorminus="0.000309" errorplus="0.000309">88.255055</period>
+			<radius errorminus="0.014" errorplus="0.014">0.213</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

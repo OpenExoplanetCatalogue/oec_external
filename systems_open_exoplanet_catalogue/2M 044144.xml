@@ -1,0 +1,21 @@
+<system>
+	<name>2M 044144</name>
+	<rightascension>04 41 45</rightascension>
+	<declination>+23 01 51</declination>
+	<distance>140</distance>
+	<star>
+		<mass>0.02</mass>
+		<spectraltype>M8.5</spectraltype>
+		<planet>
+			<name>2M 044144 b</name>
+			<list>Confirmed planets</list>
+			<mass>7.5</mass>
+			<semimajoraxis>15</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>10/04/06</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+		<name>2M 044144</name>
+		<temperature>3840.0</temperature>
+	</star>
+</system>

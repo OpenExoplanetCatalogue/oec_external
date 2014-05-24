@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-7</name>
+	<rightascension>19 14 20</rightascension>
+	<declination>+41 05 23</declination>
+	<star>
+		<name>Kepler-7</name>
+		<radius errorminus="0.05" errorplus="0.05">1.84</radius>
+		<magJ errorminus="0.020" errorplus="0.020">11.833</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.601</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.535</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.35</mass>
+		<temperature errorminus="44.00" errorplus="44.00">5933.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-7 b</name>
+			<semimajoraxis errorminus="-0.000840" errorplus="0.001090">0.062240</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.400" errorplus="0.400">86.500</inclination>
+			<period errorminus="-0.00004000" errorplus="0.00004000">4.88552500</period>
+			<mass errorminus="-0.04100" errorplus="0.04000">0.43300</mass>
+			<radius errorminus="-0.051" errorplus="0.050">1.478</radius>
+			<temperature errorminus="-200" errorplus="200">1540</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2012 11 02</lastupdate>
+			<transittime errorminus="-0.000140" errorplus="0.000140">2454967.275710</transittime>
+		</planet>
+	</star>
+</system>

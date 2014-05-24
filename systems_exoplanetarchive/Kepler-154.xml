@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-154</name>
+	<rightascension>19 19 07</rightascension>
+	<declination>+49 53 48</declination>
+	<star>
+		<name>Kepler-154</name>
+		<radius errorminus="0.19" errorplus="0.19">1.00</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.389</magJ>
+		<magH errorminus="0.036" errorplus="0.036">13.089</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.986</magK>
+		<mass>0.89</mass>
+		<temperature errorminus="108.00" errorplus="108.00">5690.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-154 b</name>
+			<semimajoraxis>0.198000</semimajoraxis>
+			<period errorminus="-0.00021500" errorplus="0.00021500">33.04053200</period>
+			<radius errorminus="-0.039" errorplus="0.039">0.202</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004290" errorplus="0.004290">2454994.220870</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-154 c</name>
+			<semimajoraxis>0.303000</semimajoraxis>
+			<period errorminus="-0.00040600" errorplus="0.00040600">62.30327600</period>
+			<radius errorminus="-0.055" errorplus="0.055">0.263</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003850" errorplus="0.003850">2455012.094230</transittime>
+		</planet>
+	</star>
+</system>

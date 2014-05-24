@@ -1,0 +1,69 @@
+<system>
+	<name>HD 20782</name>
+	<name>HD 20781</name>
+	<rightascension>03 20 03</rightascension>
+	<declination>-28 51 14</declination>
+	<distance>36.02</distance>
+	<binary>
+		<semimajoraxis>9080</semimajoraxis>
+		<eccentricity>0.24</eccentricity>
+		<star>
+			<name>HD 20782</name>
+			<mass>0.9</mass>
+			<magV>7.366</magV>
+			<magB>8.03</magB>
+			<metallicity>-0.05</metallicity>
+			<spectraltype>G2 V</spectraltype>
+			<planet>
+				<name>HD 20782 b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>1.9</mass>
+				<period>591.9</period>
+				<semimajoraxis>1.381</semimajoraxis>
+				<eccentricity>0.97</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<description>The planet HD 20782 b is orbiting the main sequence star HD 20782, a star in a binary system in which both stars host a planetary systems. This is the first such system.</description>
+				<lastupdate>12/12/09</lastupdate>
+				<discoveryyear>2006</discoveryyear>
+				<temperature>211.4</temperature>
+			</planet>
+			<temperature>5578.0</temperature>
+		</star>
+		<star>
+			<name>HD 20781</name>
+			<magV>8.45</magV>
+			<mass>0.84</mass>
+			<spectraltype>G9.5V</spectraltype>
+			<planet>
+				<name>HD 20781 b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>0.0379</mass>
+				<period>29.15</period>
+				<semimajoraxis>0.169</semimajoraxis>
+				<eccentricity>0.11</eccentricity>
+				<description>The planet HD 20781 b is orbiting a star in a binary system in which both stars host a planetary systems. This is the first such system. It was announced as part of a large data release by the Euopean HARPS team.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/12/09</lastupdate>
+				<discoveryyear>2011</discoveryyear>
+				<temperature>509.8</temperature>
+			</planet>
+			<planet>
+				<name>HD 20781 c</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>0.0496</mass>
+				<period>85.131</period>
+				<semimajoraxis>0.3456</semimajoraxis>
+				<eccentricity>0.28</eccentricity>
+				<description>The planet HD 20781 c is orbiting a star in a binary system in which both stars host a planetary systems. This is the first such system. It was announced as part of a large data release by the Euopean HARPS team.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/12/09</lastupdate>
+				<discoveryyear>2011</discoveryyear>
+				<temperature>355.0</temperature>
+			</planet>
+			<temperature>5940.0</temperature>
+		</star>
+	</binary>
+</system>

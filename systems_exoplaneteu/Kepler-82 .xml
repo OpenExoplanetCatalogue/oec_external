@@ -1,0 +1,31 @@
+<system>
+	<name>Kepler-82</name>
+	<rightascension>19 31 30</rightascension>
+	<declination>+42 57 58</declination>
+	<star>
+		<name>Kepler-82</name>
+		<temperature>5500.0</temperature>
+		<planet>
+			<name>Kepler-82 b</name>
+			<semimajoraxis>0.169</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.38</inclination>
+			<period errorminus="0.00013" errorplus="0.00013">26.44288</period>
+			<radius errorminus="0.161" errorplus="0.161">0.3573</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-82 c</name>
+			<semimajoraxis>0.264</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.95</inclination>
+			<period errorminus="0.00018" errorplus="0.00018">51.53005</period>
+			<radius errorminus="0.214" errorplus="0.214">0.4734</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/22</lastupdate>
+		</planet>
+	</star>
+</system>

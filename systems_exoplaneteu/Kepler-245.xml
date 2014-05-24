@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-245</name>
+	<rightascension>19 26 33</rightascension>
+	<declination>+42 26 11</declination>
+	<star>
+		<name>Kepler-245</name>
+		<radius>0.8</radius>
+		<mass>0.8</mass>
+		<temperature>5100.0</temperature>
+		<metallicity>-0.028</metallicity>
+		<planet>
+			<name>Kepler-245 b</name>
+			<semimajoraxis>0.071</semimajoraxis>
+			<period errorminus="1.9e-05" errorplus="1.9e-05">7.49019</period>
+			<radius errorminus="0.016" errorplus="0.016">0.229</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-245 c</name>
+			<semimajoraxis>0.124</semimajoraxis>
+			<period errorminus="7.6e-05" errorplus="7.6e-05">17.460812</period>
+			<radius errorminus="0.015" errorplus="0.015">0.194</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-245 d</name>
+			<semimajoraxis>0.202</semimajoraxis>
+			<period errorminus="0.000173" errorplus="0.000173">36.277108</period>
+			<radius errorminus="0.019" errorplus="0.019">0.27</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

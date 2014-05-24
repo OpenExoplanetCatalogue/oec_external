@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-96</name>
+	<rightascension>00 04 11</rightascension>
+	<declination>-47 38 22</declination>
+	<star>
+		<name>WASP-96</name>
+		<age>8.0</age>
+		<radius>1.05</radius>
+		<mass>1.06</mass>
+		<spectraltype>G8</spectraltype>
+		<temperature>5540.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>WASP-96 b</name>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0453</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">85.6</inclination>
+			<period errorminus="2.7e-06" errorplus="2.7e-06">3.4252602</period>
+			<mass errorminus="0.03" errorplus="0.03">0.48</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.2</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/10/22</lastupdate>
+		</planet>
+	</star>
+</system>

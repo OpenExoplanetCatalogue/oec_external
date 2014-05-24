@@ -1,0 +1,28 @@
+<system>
+	<name>XO-3</name>
+	<rightascension>04 21 53</rightascension>
+	<declination>+57 49 01</declination>
+	<distance>260.0</distance>
+	<star>
+		<name>XO-3</name>
+		<age>2.82</age>
+		<radius>1.377</radius>
+		<mass>1.213</mass>
+		<spectraltype>F5V</spectraltype>
+		<temperature>6429.0</temperature>
+		<metallicity>-0.177</metallicity>
+		<planet>
+			<name>XO-3 b</name>
+			<semimajoraxis errorminus="0.00082" errorplus="0.00082">0.0454</semimajoraxis>
+			<periastron errorminus="7.3" errorplus="7.3">345.8</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.26</eccentricity>
+			<inclination errorminus="0.54" errorplus="0.54">84.2</inclination>
+			<period errorminus="0.00023" errorplus="0.00023">3.1915239</period>
+			<mass errorminus="0.59" errorplus="0.59">11.79</mass>
+			<radius errorminus="0.073" errorplus="0.073">1.217</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>13/05/31</lastupdate>
+		</planet>
+	</star>
+</system>

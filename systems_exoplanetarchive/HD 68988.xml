@@ -1,0 +1,22 @@
+<system>
+	<name>HD 68988</name>
+	<rightascension>08 18 22</rightascension>
+	<declination>+61 27 39</declination>
+	<star>
+		<name>HD 68988</name>
+		<magV errorminus="0.011" errorplus="0.011">8.188</magV>
+		<magJ errorminus="0.021" errorplus="0.021">7.060</magJ>
+		<magH errorminus="0.020" errorplus="0.020">6.812</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.743</magK>
+		<planet>
+			<name>HD 68988 b</name>
+			<semimajoraxis>0.071000</semimajoraxis>
+			<eccentricity>0.140000</eccentricity>
+			<period>6.27600000</period>
+			<mass>1.90000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

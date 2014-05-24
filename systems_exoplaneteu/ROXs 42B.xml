@@ -1,0 +1,21 @@
+<system>
+	<name>ROXs 42B</name>
+	<rightascension>16 31 15</rightascension>
+	<declination>-24 27 16</declination>
+	<distance>135.0</distance>
+	<star>
+		<name>ROXs 42B</name>
+		<age>0.002</age>
+		<mass>0.6</mass>
+		<spectraltype>M0 D</spectraltype>
+		<temperature>2200.0</temperature>
+		<planet>
+			<name>ROXs 42B b</name>
+			<semimajoraxis errorminus="10.0" errorplus="10.0">140.0</semimajoraxis>
+			<mass errorminus="4.0" errorplus="4.0">10.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/02</lastupdate>
+		</planet>
+	</star>
+</system>

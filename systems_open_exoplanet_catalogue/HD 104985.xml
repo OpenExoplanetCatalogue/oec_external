@@ -1,0 +1,33 @@
+<system>
+	<name>HD 104985</name>
+	<rightascension>12 05 15</rightascension>
+	<declination>+76 54 20</declination>
+	<distance>102</distance>
+	<star>
+		<mass>1.6</mass>
+		<radius>10.87</radius>
+		<magV>5.79</magV>
+		<magB>6.819</magB>
+		<magR>5.2</magR>
+		<magI>4.7</magI>
+		<magJ>4.11</magJ>
+		<magH>3.55</magH>
+		<magK>3.27</magK>
+		<metallicity>-0.35</metallicity>
+		<spectraltype>G9 III</spectraltype>
+		<planet>
+			<name>HD 104985 b</name>
+			<list>Confirmed planets</list>
+			<mass>6.3</mass>
+			<period>198.2</period>
+			<semimajoraxis>0.78</semimajoraxis>
+			<eccentricity>0.03</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/29</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+			<temperature>787.7</temperature>
+		</planet>
+		<name>HD 104985</name>
+		<temperature>4786.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>HD 100777</name>
+	<rightascension>11 35 52</rightascension>
+	<declination>-04 14 39</declination>
+	<distance>52.8</distance>
+	<star>
+		<name>HD 100777</name>
+		<age>2.0</age>
+		<mass>1.0</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5582.0</temperature>
+		<metallicity>0.27</metallicity>
+		<planet>
+			<name>HD 100777 b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.03</semimajoraxis>
+			<periastron errorminus="3.1" errorplus="3.1">202.7</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.36</eccentricity>
+			<period errorminus="1.2" errorplus="1.2">383.7</period>
+			<mass errorminus="0.03" errorplus="0.03">1.16</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/04/07</lastupdate>
+		</planet>
+	</star>
+</system>

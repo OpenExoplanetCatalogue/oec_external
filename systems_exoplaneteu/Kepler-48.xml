@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-48</name>
+	<rightascension>19 56 33</rightascension>
+	<declination>+40 56 56</declination>
+	<star>
+		<name>Kepler-48</name>
+		<radius>0.89</radius>
+		<mass>0.89</mass>
+		<temperature>5190.0</temperature>
+		<planet>
+			<name>Kepler-48 b</name>
+			<period errorminus="1.4e-05" errorplus="1.4e-05">4.7779803</period>
+			<mass errorminus="0.00660730579240475" errorplus="0.00660730579240475">0.012396564200988</mass>
+			<radius errorminus="0.00892141836277699" errorplus="0.00892141836277699">0.167722665220207</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/01/12</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-48 c</name>
+			<period errorminus="2e-05" errorplus="2e-05">9.6739283</period>
+			<mass errorminus="0.00723657301072901" errorplus="0.00723657301072901">0.0459679702985873</mass>
+			<radius errorminus="0.0124899857078878" errorplus="0.0124899857078878">0.241770437631256</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/01/12</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-48 d</name>
+			<period>42.8961</period>
+			<mass errorminus="0.014473146021458" errorplus="0.014473146021458">0.024950445206557</mass>
+			<radius errorminus="0.00981356019905469" errorplus="0.00981356019905469">0.181996934600651</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/01/12</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-48 e</name>
+			<period errorminus="8.0" errorplus="8.0">982.0</period>
+			<mass errorminus="0.0786584022905327" errorplus="0.0786584022905327">2.0671428121952</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/01/12</lastupdate>
+		</planet>
+	</star>
+</system>

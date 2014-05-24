@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-336</name>
+	<rightascension>19 20 57</rightascension>
+	<declination>+41 19 53</declination>
+	<star>
+		<name>Kepler-336</name>
+		<radius>1.3</radius>
+		<mass>0.89</mass>
+		<temperature>5867.0</temperature>
+		<metallicity>-0.401</metallicity>
+		<planet>
+			<name>Kepler-336 b</name>
+			<semimajoraxis>0.033</semimajoraxis>
+			<period errorminus="1.7e-05" errorplus="1.7e-05">2.024823</period>
+			<radius errorminus="0.017" errorplus="0.017">0.091</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-336 c</name>
+			<semimajoraxis>0.092</semimajoraxis>
+			<period errorminus="3.5e-05" errorplus="3.5e-05">9.600001</period>
+			<radius errorminus="0.033" errorplus="0.033">0.187</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-336 d</name>
+			<semimajoraxis>0.154</semimajoraxis>
+			<period errorminus="0.000102" errorplus="0.000102">20.678772</period>
+			<radius errorminus="0.043" errorplus="0.043">0.211</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,33 @@
+<system>
+	<name>HD 222155</name>
+	<rightascension>23 38 00</rightascension>
+	<declination>+48 59 47</declination>
+	<distance>49.1</distance>
+	<star>
+		<mass>1.13</mass>
+		<radius>1.67</radius>
+		<magV>7.1</magV>
+		<magB>7.76</magB>
+		<magR>6.7</magR>
+		<magI>6.4</magI>
+		<magJ errorminus="0.024" errorplus="0.024">5.885</magJ>
+		<magH errorminus="0.018" errorplus="0.018">5.579</magH>
+		<magK errorminus="0.023" errorplus="0.023">5.510</magK>
+		<metallicity>-0.11</metallicity>
+		<spectraltype>G2V</spectraltype>
+		<planet>
+			<name>HD 222155 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.9</mass>
+			<period>3999</period>
+			<semimajoraxis>5.1</semimajoraxis>
+			<eccentricity>0.16</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/05/25</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<temperature>145.2</temperature>
+		</planet>
+		<name>HD 222155</name>
+		<temperature>5765.0</temperature>
+	</star>
+</system>

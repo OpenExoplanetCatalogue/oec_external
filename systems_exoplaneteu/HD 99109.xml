@@ -1,0 +1,25 @@
+<system>
+	<name>HD 99109</name>
+	<rightascension>11 24 17</rightascension>
+	<declination>-01 28 16</declination>
+	<distance>60.5</distance>
+	<star>
+		<name>HD 99109</name>
+		<age>12.2</age>
+		<mass>0.93</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5272.0</temperature>
+		<metallicity>0.315</metallicity>
+		<planet>
+			<name>HD 99109 b</name>
+			<semimajoraxis errorminus="0.065" errorplus="0.065">1.105</semimajoraxis>
+			<periastron>256.0</periastron>
+			<eccentricity errorminus="0.16" errorplus="0.16">0.09</eccentricity>
+			<period errorminus="5.6" errorplus="5.6">439.3</period>
+			<mass errorminus="0.07" errorplus="0.07">0.502</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>06/07/15</lastupdate>
+		</planet>
+	</star>
+</system>

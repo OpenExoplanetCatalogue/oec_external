@@ -1,0 +1,23 @@
+<system>
+	<name>HD 72659</name>
+	<rightascension>08 34 03</rightascension>
+	<declination>-01 34 06</declination>
+	<star>
+		<name>HD 72659</name>
+		<magV errorminus="0.011" errorplus="0.011">7.465</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.358</magJ>
+		<magH errorminus="0.027" errorplus="0.027">6.089</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.982</magK>
+		<planet>
+			<name>HD 72659 b</name>
+			<semimajoraxis errorminus="-0.114000" errorplus="0.114000">4.511000</semimajoraxis>
+			<eccentricity errorminus="-0.022000" errorplus="0.022000">0.271000</eccentricity>
+			<periastron errorminus="-8.0000" errorplus="8.0000">241.0000</periastron>
+			<period errorminus="-100.00000000" errorplus="100.00000000">3383.00000000</period>
+			<mass errorminus="-0.14000" errorplus="0.14000">3.15000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

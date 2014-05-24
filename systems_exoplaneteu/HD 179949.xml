@@ -1,0 +1,26 @@
+<system>
+	<name>HD 179949</name>
+	<rightascension>19 15 33</rightascension>
+	<declination>-24 49 15</declination>
+	<distance>27.0</distance>
+	<star>
+		<name>HD 179949</name>
+		<age>2.05</age>
+		<radius>1.19</radius>
+		<mass>1.28</mass>
+		<spectraltype>F8 V</spectraltype>
+		<temperature>6260.0</temperature>
+		<metallicity>0.22</metallicity>
+		<planet>
+			<name>HD 179949 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.045</semimajoraxis>
+			<periastron errorminus="34.0" errorplus="34.0">183.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.022</eccentricity>
+			<period errorminus="3e-05" errorplus="3e-05">3.0925</period>
+			<mass errorminus="0.04" errorplus="0.04">0.95</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>14/04/16</lastupdate>
+		</planet>
+	</star>
+</system>

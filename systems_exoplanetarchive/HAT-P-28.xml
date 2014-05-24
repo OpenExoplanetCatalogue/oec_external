@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-28</name>
+	<rightascension>00 52 00</rightascension>
+	<declination>+34 43 42</declination>
+	<star>
+		<name>HAT-P-28</name>
+		<radius errorminus="0.09" errorplus="0.09">1.10</radius>
+		<magJ errorminus="0.020" errorplus="0.020">11.561</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.206</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.104</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.02</mass>
+		<temperature errorminus="90.00" errorplus="90.00">5680.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-28 b</name>
+			<semimajoraxis errorminus="-0.000700" errorplus="0.000700">0.043400</semimajoraxis>
+			<eccentricity errorminus="-0.033000" errorplus="0.033000">0.051000</eccentricity>
+			<periastron errorminus="-90.0000" errorplus="90.0000">233.0000</periastron>
+			<inclination errorminus="-0.900" errorplus="0.900">88.000</inclination>
+			<period errorminus="-0.00000700" errorplus="0.00000700">3.25721500</period>
+			<mass errorminus="-0.03700" errorplus="0.03700">0.62600</mass>
+			<radius errorminus="-0.082" errorplus="0.113">1.212</radius>
+			<temperature errorminus="-52" errorplus="52">1384</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000530" errorplus="0.000530">2455417.598320</transittime>
+		</planet>
+	</star>
+</system>

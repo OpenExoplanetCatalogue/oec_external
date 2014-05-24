@@ -1,0 +1,22 @@
+<system>
+	<name>Oph 11</name>
+	<rightascension>16 22 25</rightascension>
+	<declination>-24 05 14</declination>
+	<distance>145</distance>
+	<star>
+		<mass>0.162</mass>
+		<spectraltype>M9</spectraltype>
+		<planet>
+			<name>Oph 11 b</name>
+			<list>Confirmed planets</list>
+			<mass>21</mass>
+			<period>730000</period>
+			<semimajoraxis>243</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>11/12/14</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+		<name>Oph 11</name>
+		<temperature>2375.0</temperature>
+	</star>
+</system>

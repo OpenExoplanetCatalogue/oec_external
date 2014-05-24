@@ -1,0 +1,34 @@
+<system>
+	<name>14 And</name>
+	<rightascension>23 31 17</rightascension>
+	<declination>+39 14 10</declination>
+	<distance>76.4</distance>
+	<star>
+		<mass>2.2</mass>
+		<radius>11</radius>
+		<magV>5.22</magV>
+		<magB>6.24</magB>
+		<magR>4.6</magR>
+		<magI>4.1</magI>
+		<magJ errorminus="0.180" errorplus="0.180">3.019</magJ>
+		<magH errorminus="0.184" errorplus="0.184">2.608</magH>
+		<magK errorminus="0.240" errorplus="0.240">2.331</magK>
+		<metallicity>-0.24</metallicity>
+		<spectraltype>K0III</spectraltype>
+		<planet>
+			<name>14 And b</name>
+			<list>Confirmed planets</list>
+			<mass>4.8</mass>
+			<period>185.84</period>
+			<semimajoraxis>0.83</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly an A-type dwarf.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>08/07/11</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>772.6</temperature>
+		</planet>
+		<name>14 And</name>
+		<temperature>4813.0</temperature>
+	</star>
+</system>

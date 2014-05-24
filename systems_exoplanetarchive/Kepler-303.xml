@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-303</name>
+	<rightascension>18 52 33</rightascension>
+	<declination>+43 39 25</declination>
+	<star>
+		<name>Kepler-303</name>
+		<radius errorminus="0.03" errorplus="0.03">0.48</radius>
+		<magJ errorminus="0.022" errorplus="0.022">12.410</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.761</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.596</magK>
+		<mass>0.59</mass>
+		<temperature errorminus="150.00" errorplus="150.00">3944.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-303 b</name>
+			<semimajoraxis>0.024000</semimajoraxis>
+			<period errorminus="-0.00000400" errorplus="0.00000400">1.93705500</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.079</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001240" errorplus="0.001240">2454967.718670</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-303 c</name>
+			<semimajoraxis>0.057000</semimajoraxis>
+			<period errorminus="-0.00001900" errorplus="0.00001900">7.06114900</period>
+			<radius errorminus="-0.008" errorplus="0.008">0.102</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001520" errorplus="0.001520">2454969.271870</transittime>
+		</planet>
+	</star>
+</system>

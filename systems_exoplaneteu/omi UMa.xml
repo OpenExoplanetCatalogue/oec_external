@@ -1,0 +1,23 @@
+<system>
+	<name>omi UMa</name>
+	<rightascension>08 30 16</rightascension>
+	<declination>+60 43 05</declination>
+	<distance>56.3</distance>
+	<star>
+		<name>omi UMa</name>
+		<radius>14.1</radius>
+		<mass>3.09</mass>
+		<spectraltype>G4II-III</spectraltype>
+		<temperature>5242.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>omi UMa b</name>
+			<semimajoraxis>3.9</semimajoraxis>
+			<period errorminus="35.0" errorplus="35.0">1630.0</period>
+			<mass>4.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/10/10</lastupdate>
+		</planet>
+	</star>
+</system>

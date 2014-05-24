@@ -1,0 +1,43 @@
+<system>
+	<name>HD 200964</name>
+	<rightascension>21 06 40</rightascension>
+	<declination>+03 48 11</declination>
+	<distance>68.4</distance>
+	<star>
+		<mass>1.44</mass>
+		<radius>4.3</radius>
+		<magV>6.64</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.379</magB>
+		<magJ errorminus="0.021" errorplus="0.021">4.802</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.459</magH>
+		<magK errorminus="0.015" errorplus="0.015">4.286</magK>
+		<metallicity>-0.15</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 200964 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.85</mass>
+			<period>613.8</period>
+			<semimajoraxis>1.601</semimajoraxis>
+			<eccentricity>0.04</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/07/28</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>373.1</temperature>
+		</planet>
+		<planet>
+			<name>HD 200964 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.9</mass>
+			<period>825</period>
+			<semimajoraxis>1.95</semimajoraxis>
+			<eccentricity>0.181</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/07/28</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>337.4</temperature>
+		</planet>
+		<name>HD 200964</name>
+		<temperature>5164.0</temperature>
+	</star>
+</system>

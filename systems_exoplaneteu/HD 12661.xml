@@ -1,0 +1,37 @@
+<system>
+	<name>HD 12661</name>
+	<rightascension>02 04 34</rightascension>
+	<declination>+25 24 51</declination>
+	<distance>37.16</distance>
+	<star>
+		<name>HD 12661</name>
+		<age>7.05</age>
+		<radius>1.12</radius>
+		<mass>1.07</mass>
+		<spectraltype>G6 V</spectraltype>
+		<temperature>5742.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HD 12661 b</name>
+			<semimajoraxis>0.83</semimajoraxis>
+			<periastron errorminus="1.5" errorplus="1.5">296.0</periastron>
+			<eccentricity errorminus="0.008" errorplus="0.008">0.377</eccentricity>
+			<period errorminus="1.2" errorplus="1.2">263.6</period>
+			<mass>2.3</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>14/02/13</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 12661 c</name>
+			<semimajoraxis>2.56</semimajoraxis>
+			<periastron>165.0</periastron>
+			<eccentricity errorminus="0.022" errorplus="0.022">0.031</eccentricity>
+			<period errorminus="14.0" errorplus="14.0">1708.0</period>
+			<mass>1.57</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>14/02/13</lastupdate>
+		</planet>
+	</star>
+</system>

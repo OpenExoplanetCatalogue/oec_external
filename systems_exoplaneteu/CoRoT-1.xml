@@ -1,0 +1,26 @@
+<system>
+	<name>CoRoT-1</name>
+	<rightascension>06 48 19</rightascension>
+	<declination>-03 53 52</declination>
+	<distance>460.0</distance>
+	<star>
+		<name>CoRoT-1</name>
+		<radius>1.11</radius>
+		<mass>0.95</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>6298.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>CoRoT-1 b</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0254</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">85.1</inclination>
+			<period errorminus="6.4e-06" errorplus="6.4e-06">1.5089557</period>
+			<mass errorminus="0.12" errorplus="0.12">1.03</mass>
+			<radius errorminus="0.08" errorplus="0.08">1.49</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+		</planet>
+	</star>
+</system>

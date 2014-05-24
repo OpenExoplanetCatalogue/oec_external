@@ -1,0 +1,26 @@
+<system>
+	<name>70 Vir</name>
+	<rightascension>13 28 26</rightascension>
+	<declination>+13 47 12</declination>
+	<distance>22.0</distance>
+	<star>
+		<name>70 Vir</name>
+		<age>7.09</age>
+		<radius>1.968</radius>
+		<mass>0.92</mass>
+		<spectraltype>G4 V</spectraltype>
+		<temperature>5432.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>70 Vir b</name>
+			<semimajoraxis>0.48</semimajoraxis>
+			<periastron errorminus="2.0" errorplus="2.0">2.1</periastron>
+			<eccentricity>0.43</eccentricity>
+			<period errorminus="0.01" errorplus="0.01">116.67</period>
+			<mass>6.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+		</planet>
+	</star>
+</system>

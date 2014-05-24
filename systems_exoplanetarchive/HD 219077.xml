@@ -1,0 +1,27 @@
+<system>
+	<name>HD 219077</name>
+	<rightascension>23 14 07</rightascension>
+	<declination>-62 42 00</declination>
+	<star>
+		<name>HD 219077</name>
+		<radius errorminus="0.03" errorplus="0.03">1.91</radius>
+		<magV>6.120</magV>
+		<magJ errorminus="0.192" errorplus="0.192">4.640</magJ>
+		<magH errorminus="0.138" errorplus="0.138">4.124</magH>
+		<magK errorminus="8.888" errorplus="8.888">4.287</magK>
+		<mass errorminus="0.02" errorplus="0.02">1.05</mass>
+		<temperature errorminus="18.00" errorplus="18.00">5362.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 219077 b</name>
+			<semimajoraxis errorminus="-0.090000" errorplus="0.090000">6.220000</semimajoraxis>
+			<eccentricity errorminus="-0.003000" errorplus="0.003000">0.770000</eccentricity>
+			<periastron errorminus="-0.4200" errorplus="0.4200">57.6100</periastron>
+			<period errorminus="-119.00000000" errorplus="130.00000000">5501.00000000</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">10.39000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 29</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2010-BLG-477L</name>
+	<rightascension>18 06 07</rightascension>
+	<declination>-31 27 16</declination>
+	<star>
+		<name>MOA 2010-BLG-477L</name>
+		<mass errorminus="0.33" errorplus="0.33">0.67</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5950.00</temperature>
+		<planet>
+			<name>MOA 2010-BLG-477L b</name>
+			<semimajoraxis errorminus="-1.000000" errorplus="3.000000">2.000000</semimajoraxis>
+			<mass errorminus="-0.30000" errorplus="0.80000">1.50000</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>HD 22781</name>
+	<rightascension>03 40 50</rightascension>
+	<declination>+31 49 35</declination>
+	<distance>31.79</distance>
+	<star>
+		<name>HD 22781</name>
+		<age>4.75</age>
+		<mass>0.75</mass>
+		<spectraltype>K0V</spectraltype>
+		<temperature>5027.0</temperature>
+		<metallicity>-0.37</metallicity>
+		<planet>
+			<name>HD 22781 b</name>
+			<semimajoraxis errorminus="0.039" errorplus="0.039">1.167</semimajoraxis>
+			<periastron errorminus="0.56" errorplus="0.56">-44.08</periastron>
+			<eccentricity errorminus="0.0023" errorplus="0.0023">0.8191</eccentricity>
+			<period errorminus="0.14" errorplus="0.14">528.07</period>
+			<mass errorminus="0.97" errorplus="0.97">13.65</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/11/04</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>Kepler-76</name>
+	<rightascension>19 36 46</rightascension>
+	<declination>+39 37 08</declination>
+	<star>
+		<name>Kepler-76</name>
+		<radius>1.12</radius>
+		<mass>1.2</mass>
+		<temperature>6300.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>Kepler-76 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.028</semimajoraxis>
+			<inclination errorminus="0.2" errorplus="0.2">78.0</inclination>
+			<period errorminus="2.7e-07" errorplus="2.7e-07">1.54492875</period>
+			<mass errorminus="0.25" errorplus="0.25">1.96</mass>
+			<radius errorminus="0.08" errorplus="0.08">1.25</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/07/05</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>KIC 5522786</name>
+	<rightascension>19 13 22</rightascension>
+	<declination>+40 43 53</declination>
+	<star>
+		<name>KIC 5522786</name>
+		<radius>1.3</radius>
+		<mass>1.79</mass>
+		<temperature>8719.0</temperature>
+		<metallicity>-0.026</metallicity>
+		<planet>
+			<name>KIC 5522786 b</name>
+			<semimajoraxis errorminus="0.12" errorplus="0.12">1.98</semimajoraxis>
+			<periastron errorminus="78.0" errorplus="20.0">20.0</periastron>
+			<eccentricity errorminus="0.27" errorplus="0.14">0.56</eccentricity>
+			<inclination errorminus="0.14" errorplus="0.04">89.86</inclination>
+			<period errorminus="0.163" errorplus="0.059">757.1639</period>
+			<radius errorminus="0.04" errorplus="0.04">0.11</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

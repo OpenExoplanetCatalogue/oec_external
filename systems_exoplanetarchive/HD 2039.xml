@@ -1,0 +1,23 @@
+<system>
+	<name>HD 2039</name>
+	<rightascension>00 24 20</rightascension>
+	<declination>-56 39 00</declination>
+	<star>
+		<name>HD 2039</name>
+		<magV errorminus="0.015" errorplus="0.015">8.987</magV>
+		<magJ errorminus="0.019" errorplus="0.019">7.912</magJ>
+		<magH errorminus="0.059" errorplus="0.059">7.652</magH>
+		<magK errorminus="0.026" errorplus="0.026">7.549</magK>
+		<planet>
+			<name>HD 2039 b</name>
+			<semimajoraxis errorminus="-0.200000" errorplus="0.200000">2.200000</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.670000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">333.0000</periastron>
+			<period errorminus="-150.00000000" errorplus="150.00000000">1183.00000000</period>
+			<mass errorminus="-1.00000" errorplus="1.00000">4.90000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 01</lastupdate>
+		</planet>
+	</star>
+</system>

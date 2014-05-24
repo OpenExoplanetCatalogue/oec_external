@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-240</name>
+	<rightascension>19 24 38</rightascension>
+	<declination>+40 45 01</declination>
+	<star>
+		<name>Kepler-240</name>
+		<radius errorminus="0.30" errorplus="0.30">0.74</radius>
+		<magJ errorminus="0.025" errorplus="0.025">14.113</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.606</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.464</magK>
+		<temperature errorminus="200.00" errorplus="200.00">4985.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-240 b</name>
+			<semimajoraxis>0.048000</semimajoraxis>
+			<period errorminus="-0.00002600" errorplus="0.00002600">4.14449500</period>
+			<radius errorminus="-0.050" errorplus="0.050">0.122</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003370" errorplus="0.003370">2454968.926580</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-240 c</name>
+			<semimajoraxis>0.074000</semimajoraxis>
+			<period errorminus="-0.00002500" errorplus="0.00002500">7.95352800</period>
+			<radius errorminus="-0.079" errorplus="0.079">0.196</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001840" errorplus="0.001840">2455007.661550</transittime>
+		</planet>
+	</star>
+</system>

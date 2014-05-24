@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-395</name>
+	<rightascension>19 34 03</rightascension>
+	<declination>+45 08 12</declination>
+	<star>
+		<name>Kepler-395</name>
+		<radius errorminus="0.02" errorplus="0.02">0.56</radius>
+		<magJ errorminus="0.022" errorplus="0.022">13.818</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.131</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.948</magK>
+		<mass>0.53</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4262.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-395 b</name>
+			<semimajoraxis>0.061000</semimajoraxis>
+			<period errorminus="-0.00007000" errorplus="0.00007000">7.05434600</period>
+			<radius errorminus="-0.007" errorplus="0.007">0.092</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005660" errorplus="0.005660">2454969.191360</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-395 c</name>
+			<semimajoraxis>0.177000</semimajoraxis>
+			<period errorminus="-0.00054300" errorplus="0.00054300">34.98926200</period>
+			<radius errorminus="-0.008" errorplus="0.008">0.118</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009090" errorplus="0.009090">2454977.222650</transittime>
+		</planet>
+	</star>
+</system>

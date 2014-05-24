@@ -1,0 +1,24 @@
+<system>
+	<name>HD 175541</name>
+	<rightascension>18 55 41</rightascension>
+	<declination>+04 15 55</declination>
+	<star>
+		<name>HD 175541</name>
+		<magV>8.010</magV>
+		<magI>7.088</magI>
+		<magJ errorminus="0.025" errorplus="0.025">6.387</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.952</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.829</magK>
+		<planet>
+			<name>HD 175541 b</name>
+			<semimajoraxis>1.030000</semimajoraxis>
+			<eccentricity errorminus="-0.200000" errorplus="0.200000">0.330000</eccentricity>
+			<periastron errorminus="-30.0000" errorplus="30.0000">183.0000</periastron>
+			<period errorminus="-6.00000000" errorplus="6.00000000">297.30000000</period>
+			<mass>0.61000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,36 @@
+<system>
+	<name>XO-3</name>
+	<rightascension>04 21 53</rightascension>
+	<declination>+57 49 01</declination>
+	<distance>260</distance>
+	<star>
+		<mass>1.213</mass>
+		<radius>1.377</radius>
+		<magV>9.8</magV>
+		<magB errorminus="0.03" errorplus="0.03">10.27</magB>
+		<magJ errorminus="0.029" errorplus="0.029">9.013</magJ>
+		<magH errorminus="0.018" errorplus="0.018">8.845</magH>
+		<magK errorminus="0.019" errorplus="0.019">8.791</magK>
+		<metallicity>-0.177</metallicity>
+		<spectraltype>F5V</spectraltype>
+		<planet>
+			<name>XO-3 b</name>
+			<name>2MASS J04215269+5749018 b</name>
+			<list>Confirmed planets</list>
+			<mass>11.79</mass>
+			<radius>1.217</radius>
+			<period>3.1915239</period>
+			<semimajoraxis>0.0454</semimajoraxis>
+			<eccentricity>0.26</eccentricity>
+			<inclination>84.2</inclination>
+			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2454864.76684</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>12/04/08</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>1554.5</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>XO-3</name>
+		<temperature>6429.0</temperature>
+	</star>
+</system>

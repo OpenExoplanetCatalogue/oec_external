@@ -1,0 +1,26 @@
+<system>
+	<name>HD 5319</name>
+	<rightascension>00 55 01</rightascension>
+	<declination>+00 47 22</declination>
+	<distance>100.0</distance>
+	<star>
+		<name>HD 5319</name>
+		<age>2.4</age>
+		<radius>3.26</radius>
+		<mass>1.56</mass>
+		<spectraltype>G5IV</spectraltype>
+		<temperature>5052.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>HD 5319 b</name>
+			<semimajoraxis>1.75</semimajoraxis>
+			<periastron errorminus="35.0" errorplus="35.0">76.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.12</eccentricity>
+			<period errorminus="17.0" errorplus="17.0">675.0</period>
+			<mass>1.94</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/10/31</lastupdate>
+		</planet>
+	</star>
+</system>

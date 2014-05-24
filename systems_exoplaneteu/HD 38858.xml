@@ -1,0 +1,20 @@
+<system>
+	<name>HD 38858</name>
+	<rightascension>05 48 35</rightascension>
+	<declination>-04 54 19</declination>
+	<distance>15.2</distance>
+	<star>
+		<name>HD 38858</name>
+		<spectraltype>G4V</spectraltype>
+		<planet>
+			<name>HD 38858 b</name>
+			<semimajoraxis errorminus="0.0189" errorplus="0.0189">1.0376</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.27</eccentricity>
+			<period errorminus="4.2857" errorplus="4.2857">407.15</period>
+			<mass errorminus="0.012" errorplus="0.012">0.0961</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

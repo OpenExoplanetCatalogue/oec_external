@@ -1,0 +1,37 @@
+<system>
+	<name>WASP-10</name>
+	<rightascension>23 15 58</rightascension>
+	<declination>+31 27 46</declination>
+	<distance>90</distance>
+	<star>
+		<mass>0.71</mass>
+		<radius>0.783</radius>
+		<magV>12.7</magV>
+		<magB>12.4</magB>
+		<magR>12.03</magR>
+		<magJ errorminus="0.026" errorplus="0.026">10.603</magJ>
+		<magH errorminus="0.029" errorplus="0.029">10.117</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.983</magK>
+		<metallicity>0.03</metallicity>
+		<spectraltype>K5</spectraltype>
+		<planet>
+			<name>WASP-10 b</name>
+			<name>2MASS J23155829+3127462 b</name>
+			<list>Confirmed planets</list>
+			<mass>3.06</mass>
+			<radius>1.08</radius>
+			<period>3.0927616</period>
+			<semimajoraxis>0.0371</semimajoraxis>
+			<eccentricity>0.057</eccentricity>
+			<inclination>86.8</inclination>
+			<transittime errorminus="0.000082" errorplus="0.000082" unit="BJD">2454664.033369</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>08/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>946.8</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>WASP-10</name>
+		<temperature>4675.0</temperature>
+	</star>
+</system>

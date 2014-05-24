@@ -1,0 +1,37 @@
+<system>
+	<name>HD 11506</name>
+	<rightascension>01 52 51</rightascension>
+	<declination>-19 29 35</declination>
+	<distance>53.82</distance>
+	<star>
+		<name>HD 11506</name>
+		<age>5.4</age>
+		<radius>1.38</radius>
+		<mass>1.19</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>6058.0</temperature>
+		<metallicity>0.31</metallicity>
+		<planet>
+			<name>HD 11506 b</name>
+			<semimajoraxis errorminus="0.12" errorplus="0.12">2.43</semimajoraxis>
+			<periastron errorminus="0.7" errorplus="0.7">4.5</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.22</eccentricity>
+			<period errorminus="95.0" errorplus="95.0">1270.0</period>
+			<mass errorminus="0.47" errorplus="0.9">3.44</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>09/02/24</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 11506 c</name>
+			<semimajoraxis errorminus="0.017" errorplus="0.017">0.639</semimajoraxis>
+			<periastron errorminus="1.8" errorplus="1.8">4.1</periastron>
+			<eccentricity errorminus="0.42" errorplus="0.42">0.42</eccentricity>
+			<period errorminus="6.0" errorplus="6.0">170.46</period>
+			<mass errorminus="0.5" errorplus="0.31">0.82</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/02/24</lastupdate>
+		</planet>
+	</star>
+</system>

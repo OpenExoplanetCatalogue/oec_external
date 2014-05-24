@@ -1,0 +1,26 @@
+<system>
+	<name>eps Tau</name>
+	<rightascension>04 28 37</rightascension>
+	<declination>+19 10 50</declination>
+	<distance>45.0</distance>
+	<star>
+		<name>eps Tau</name>
+		<age>0.625</age>
+		<radius>13.7</radius>
+		<mass>2.7</mass>
+		<spectraltype>K0 III</spectraltype>
+		<temperature>4901.0</temperature>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>eps Tau b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.93</semimajoraxis>
+			<periastron errorminus="7.4" errorplus="7.4">94.4</periastron>
+			<eccentricity errorminus="0.023" errorplus="0.023">0.151</eccentricity>
+			<period errorminus="5.3" errorplus="5.3">594.9</period>
+			<mass errorminus="0.2" errorplus="0.2">7.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/02/07</lastupdate>
+		</planet>
+	</star>
+</system>

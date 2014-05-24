@@ -1,0 +1,21 @@
+<system>
+	<name>2M 0122-2439</name>
+	<rightascension>01 22 51</rightascension>
+	<declination>-24 23 09</declination>
+	<distance>36.0</distance>
+	<star>
+		<name>2M 0122-2439</name>
+		<age>0.12</age>
+		<mass>0.4</mass>
+		<spectraltype>M3.5</spectraltype>
+		<planet>
+			<name>2M 0122-2439 b</name>
+			<semimajoraxis errorminus="6.0" errorplus="6.0">52.0</semimajoraxis>
+			<mass errorminus="1.0" errorplus="1.0">13.0</mass>
+			<temperature>1380.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/07/12</lastupdate>
+		</planet>
+	</star>
+</system>

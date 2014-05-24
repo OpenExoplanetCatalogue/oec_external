@@ -1,0 +1,24 @@
+<system>
+	<name>KOI-1781</name>
+	<rightascension>19 10 25</rightascension>
+	<declination>+49 31 24</declination>
+	<star>
+		<name>KOI-1781</name>
+		<radius>0.79</radius>
+		<mass>0.83</mass>
+		<temperature>4974.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>KOI-1781 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.038</semimajoraxis>
+			<periastron errorminus="250.0" errorplus="0.0">0.0</periastron>
+			<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+			<inclination errorminus="1.83" errorplus="1.73">88.27</inclination>
+			<period errorminus="1e-05" errorplus="1e-05">3.00516</period>
+			<radius errorminus="0.02" errorplus="0.02">0.168</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

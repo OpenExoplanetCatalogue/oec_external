@@ -1,0 +1,33 @@
+<system>
+	<name>HD 99706</name>
+	<rightascension>11 28 30</rightascension>
+	<declination>+43 58 00</declination>
+	<distance>129</distance>
+	<star>
+		<mass>1.72</mass>
+		<radius>5.4</radius>
+		<magV>7.81</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.646</magB>
+		<magR>11.7</magR>
+		<magJ errorminus="0.026" errorplus="0.026">5.918</magJ>
+		<magH errorminus="0.027" errorplus="0.027">5.472</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.335</magK>
+		<metallicity>0.14</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 99706 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.4</mass>
+			<period>868</period>
+			<semimajoraxis>2.14</semimajoraxis>
+			<eccentricity>0.365</eccentricity>
+			<description>The star HD 99706 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/07/24</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>342.5</temperature>
+		</planet>
+		<name>HD 99706</name>
+		<temperature>4932.0</temperature>
+	</star>
+</system>

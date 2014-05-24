@@ -1,0 +1,21 @@
+<system>
+	<name>Pr0211</name>
+	<rightascension>08 42 11</rightascension>
+	<declination>+19 16 37</declination>
+	<star>
+		<name>Pr0211</name>
+		<age>0.578</age>
+		<radius>0.868</radius>
+		<mass>0.952</mass>
+		<temperature>5326.0</temperature>
+		<metallicity>0.187</metallicity>
+		<planet>
+			<name>Pr0211 b</name>
+			<period errorminus="0.0012" errorplus="0.0012">2.1451</period>
+			<mass errorminus="0.064" errorplus="0.064">1.844</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+	</star>
+</system>

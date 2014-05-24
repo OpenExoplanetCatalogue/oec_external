@@ -1,0 +1,23 @@
+<system>
+	<name>HIP 75458</name>
+	<rightascension>15 24 56</rightascension>
+	<declination>+58 57 58</declination>
+	<star>
+		<name>HIP 75458</name>
+		<magV>3.290</magV>
+		<magJ errorminus="0.220" errorplus="0.220">1.293</magJ>
+		<magH errorminus="0.146" errorplus="0.146">0.724</magH>
+		<magK errorminus="0.200" errorplus="0.200">0.671</magK>
+		<planet>
+			<name>HIP 75458 b</name>
+			<semimajoraxis errorminus="-0.074000" errorplus="0.074000">1.275000</semimajoraxis>
+			<eccentricity errorminus="-0.003900" errorplus="0.003900">0.712400</eccentricity>
+			<periastron errorminus="-0.8100" errorplus="0.8100">91.5800</periastron>
+			<period errorminus="-0.08900000" errorplus="0.08900000">511.09800000</period>
+			<mass errorminus="-0.72000" errorplus="0.72000">8.82000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

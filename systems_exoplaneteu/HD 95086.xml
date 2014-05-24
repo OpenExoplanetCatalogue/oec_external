@@ -1,0 +1,21 @@
+<system>
+	<name>HD 95086</name>
+	<rightascension>10 57 03</rightascension>
+	<declination>-68 19 58</declination>
+	<distance>90.4</distance>
+	<star>
+		<name>HD 95086</name>
+		<age>0.0135</age>
+		<mass>1.6</mass>
+		<spectraltype>A8III</spectraltype>
+		<planet>
+			<name>HD 95086 b</name>
+			<semimajoraxis>56.0</semimajoraxis>
+			<mass errorminus="0.5" errorplus="0.5">4.5</mass>
+			<temperature>1000.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/09</lastupdate>
+		</planet>
+	</star>
+</system>

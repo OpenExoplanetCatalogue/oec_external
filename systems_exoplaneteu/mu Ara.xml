@@ -1,0 +1,59 @@
+<system>
+	<name>mu Ara</name>
+	<rightascension>17 44 08</rightascension>
+	<declination>-51 09 58</declination>
+	<distance>15.3</distance>
+	<star>
+		<name>mu Ara</name>
+		<age>6.41</age>
+		<radius>1.245</radius>
+		<mass>1.08</mass>
+		<spectraltype>G3 IV-V</spectraltype>
+		<temperature>5700.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>mu Ara b</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.5</semimajoraxis>
+			<periastron errorminus="7.0" errorplus="7.0">22.0</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.128</eccentricity>
+			<period errorminus="0.9" errorplus="0.9">643.25</period>
+			<mass>1.676</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>09/04/02</lastupdate>
+		</planet>
+		<planet>
+			<name>mu Ara c</name>
+			<semimajoraxis>0.09094</semimajoraxis>
+			<periastron errorminus="13.3" errorplus="13.3">212.7</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.172</eccentricity>
+			<period errorminus="0.0015" errorplus="0.0015">9.6386</period>
+			<mass>0.03321</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>09/04/02</lastupdate>
+		</planet>
+		<planet>
+			<name>mu Ara d</name>
+			<semimajoraxis>0.921</semimajoraxis>
+			<periastron errorminus="9.4" errorplus="9.4">189.6</periastron>
+			<eccentricity errorminus="0.0122" errorplus="0.0122">0.0666</eccentricity>
+			<period errorminus="0.83" errorplus="0.83">310.55</period>
+			<mass>0.5219</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>09/04/02</lastupdate>
+		</planet>
+		<planet>
+			<name>mu Ara e</name>
+			<semimajoraxis>5.235</semimajoraxis>
+			<periastron errorminus="43.7" errorplus="43.7">57.6</periastron>
+			<eccentricity errorminus="0.0627" errorplus="0.0627">0.0985</eccentricity>
+			<period errorminus="758.9" errorplus="758.9">4205.8</period>
+			<mass>1.814</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>09/04/02</lastupdate>
+		</planet>
+	</star>
+</system>

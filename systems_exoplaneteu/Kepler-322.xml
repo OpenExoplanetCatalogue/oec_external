@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-322</name>
+	<rightascension>18 45 24</rightascension>
+	<declination>+44 17 43</declination>
+	<star>
+		<name>Kepler-322</name>
+		<radius>0.89</radius>
+		<mass>0.91</mass>
+		<temperature>5388.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-322 b</name>
+			<semimajoraxis>0.027</semimajoraxis>
+			<period errorminus="6e-06" errorplus="6e-06">1.653888</period>
+			<radius errorminus="0.01" errorplus="0.01">0.09</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-322 c</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="9e-06" errorplus="9e-06">4.337234</period>
+			<radius errorminus="0.016" errorplus="0.016">0.149</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

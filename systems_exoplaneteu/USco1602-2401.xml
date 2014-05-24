@@ -1,0 +1,18 @@
+<system>
+	<name>USco1602-2401</name>
+	<rightascension>16 02 51</rightascension>
+	<declination>-24 58 10</declination>
+	<star>
+		<name>USco1602-2401</name>
+		<spectraltype>K4</spectraltype>
+		<temperature>4550.0</temperature>
+		<planet>
+			<name>USco1602-2401 b</name>
+			<semimajoraxis errorminus="140.0" errorplus="140.0">1000.0</semimajoraxis>
+			<mass errorminus="18.0" errorplus="20.0">47.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

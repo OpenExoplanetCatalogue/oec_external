@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE-2009-BLG-151_MOA-2009-232</name>
+	<rightascension>17 54 22</rightascension>
+	<declination>-29 56 39</declination>
+	<distance>390.0</distance>
+	<star>
+		<name>OGLE-2009-BLG-151_MOA-2009-232</name>
+		<mass>0.018</mass>
+		<planet>
+			<name>OGLE-2009-BLG-151 MOA-2009-232 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.31</semimajoraxis>
+			<mass errorminus="0.3" errorplus="0.3">7.5</mass>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/01/22</lastupdate>
+		</planet>
+	</star>
+</system>

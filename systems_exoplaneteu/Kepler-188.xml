@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-188</name>
+	<rightascension>18 45 07</rightascension>
+	<declination>+44 18 56</declination>
+	<star>
+		<name>Kepler-188</name>
+		<radius>1.14</radius>
+		<temperature>6021.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>Kepler-188 b</name>
+			<semimajoraxis>0.032</semimajoraxis>
+			<period errorminus="1e-05" errorplus="1e-05">2.061897</period>
+			<radius errorminus="0.068" errorplus="0.068">0.15</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-188 c</name>
+			<semimajoraxis>0.066</semimajoraxis>
+			<period errorminus="1.5e-05" errorplus="1.5e-05">5.996553</period>
+			<radius errorminus="0.129" errorplus="0.129">0.285</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

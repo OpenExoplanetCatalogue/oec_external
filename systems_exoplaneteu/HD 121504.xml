@@ -1,0 +1,25 @@
+<system>
+	<name>HD 121504</name>
+	<rightascension>13 57 17</rightascension>
+	<declination>-56 57 36</declination>
+	<distance>44.37</distance>
+	<star>
+		<name>HD 121504</name>
+		<age>1.62</age>
+		<mass>1.18</mass>
+		<spectraltype>G2 V</spectraltype>
+		<temperature>6075.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>HD 121504 b</name>
+			<semimajoraxis>0.33</semimajoraxis>
+			<periastron errorminus="12.0" errorplus="12.0">265.0</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.03</eccentricity>
+			<period errorminus="0.03" errorplus="0.03">63.33</period>
+			<mass>1.22</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>09/10/06</lastupdate>
+		</planet>
+	</star>
+</system>

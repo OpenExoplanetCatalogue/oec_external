@@ -1,0 +1,26 @@
+<system>
+	<name>HD 218566</name>
+	<rightascension>23 09 11</rightascension>
+	<declination>-02 44 21</declination>
+	<distance>29.94</distance>
+	<star>
+		<name>HD 218566</name>
+		<age>8.5</age>
+		<radius>0.86</radius>
+		<mass>0.85</mass>
+		<spectraltype>K3V</spectraltype>
+		<temperature>4820.0</temperature>
+		<metallicity>0.38</metallicity>
+		<planet>
+			<name>HD 218566 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.6873</semimajoraxis>
+			<periastron errorminus="24.0" errorplus="24.0">36.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
+			<period errorminus="0.4" errorplus="0.4">225.7</period>
+			<mass errorminus="0.02" errorplus="0.02">0.21</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/11/19</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>HD 148156</name>
+	<rightascension>16 28 17</rightascension>
+	<declination>-46 40 57</declination>
+	<distance>53.05</distance>
+	<star>
+		<name>HD 148156</name>
+		<radius>1.21</radius>
+		<mass>1.22</mass>
+		<spectraltype>F8V</spectraltype>
+		<temperature>6308.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HD 148156 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.45</semimajoraxis>
+			<periastron errorminus="12.0" errorplus="12.0">35.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.52</eccentricity>
+			<period>1010.0</period>
+			<mass errorminus="0.05" errorplus="0.06">0.85</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/09/09</lastupdate>
+		</planet>
+	</star>
+</system>

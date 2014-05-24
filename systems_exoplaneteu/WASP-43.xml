@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-43</name>
+	<rightascension>10 19 38</rightascension>
+	<declination>-09 11 37</declination>
+	<star>
+		<name>WASP-43</name>
+		<age>0.4</age>
+		<radius>0.667</radius>
+		<mass>0.717</mass>
+		<spectraltype>K7V</spectraltype>
+		<temperature>4520.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>WASP-43 b</name>
+			<semimajoraxis errorminus="0.00018" errorplus="0.00018">0.01526</semimajoraxis>
+			<periastron errorminus="34.0" errorplus="34.0">-32.0</periastron>
+			<eccentricity errorminus="0.0025" errorplus="0.0025">0.0035</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">82.33</inclination>
+			<period errorminus="7e-07" errorplus="7e-07">0.81347753</period>
+			<mass errorminus="0.052" errorplus="0.052">2.034</mass>
+			<radius errorminus="0.019" errorplus="0.019">1.036</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/08/24</lastupdate>
+		</planet>
+	</star>
+</system>

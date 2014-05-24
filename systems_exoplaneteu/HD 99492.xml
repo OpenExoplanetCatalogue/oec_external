@@ -1,0 +1,37 @@
+<system>
+	<name>HD 99492</name>
+	<rightascension>11 26 46</rightascension>
+	<declination>+03 00 22</declination>
+	<distance>18.0</distance>
+	<star>
+		<name>HD 99492</name>
+		<age>4.0</age>
+		<radius>0.96</radius>
+		<mass>0.83</mass>
+		<spectraltype>K2V</spectraltype>
+		<temperature>4740.0</temperature>
+		<metallicity>0.36</metallicity>
+		<planet>
+			<name>HD 99492 b</name>
+			<semimajoraxis errorminus="0.0071" errorplus="0.0071">0.1232</semimajoraxis>
+			<periastron errorminus="22.0" errorplus="22.0">219.0</periastron>
+			<eccentricity errorminus="0.092" errorplus="0.092">0.254</eccentricity>
+			<period errorminus="0.0047" errorplus="0.0047">17.0431</period>
+			<mass errorminus="0.013" errorplus="0.013">0.109</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>06/07/15</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 99492 c</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">5.4</semimajoraxis>
+			<periastron errorminus="2.0" errorplus="2.0">38.0</periastron>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.106</eccentricity>
+			<period errorminus="149.0" errorplus="149.0">4970.0</period>
+			<mass errorminus="0.02" errorplus="0.02">0.36</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/11/19</lastupdate>
+		</planet>
+	</star>
+</system>

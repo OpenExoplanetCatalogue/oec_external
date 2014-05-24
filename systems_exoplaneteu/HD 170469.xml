@@ -1,0 +1,26 @@
+<system>
+	<name>HD 170469</name>
+	<rightascension>18 29 11</rightascension>
+	<declination>+11 41 44</declination>
+	<distance>64.97</distance>
+	<star>
+		<name>HD 170469</name>
+		<age>6.7</age>
+		<radius>1.22</radius>
+		<mass>1.14</mass>
+		<spectraltype>G5IV</spectraltype>
+		<temperature>5810.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>HD 170469 b</name>
+			<semimajoraxis>2.24</semimajoraxis>
+			<periastron errorminus="19.0" errorplus="19.0">34.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.11</eccentricity>
+			<period errorminus="18.0" errorplus="18.0">1145.0</period>
+			<mass>0.67</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/10/31</lastupdate>
+		</planet>
+	</star>
+</system>

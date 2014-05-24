@@ -1,0 +1,25 @@
+<system>
+	<name>Gl 179</name>
+	<rightascension>04 52 06</rightascension>
+	<declination>+06 28 36</declination>
+	<distance>12.3</distance>
+	<star>
+		<name>Gl 179</name>
+		<radius>0.38</radius>
+		<mass>0.357</mass>
+		<spectraltype>M3.5</spectraltype>
+		<temperature>3370.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>Gl 179 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.41</semimajoraxis>
+			<periastron errorminus="24.0" errorplus="24.0">153.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.21</eccentricity>
+			<period errorminus="59.0" errorplus="59.0">2288.0</period>
+			<mass errorminus="0.07" errorplus="0.07">0.82</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>13/07/23</lastupdate>
+		</planet>
+	</star>
+</system>

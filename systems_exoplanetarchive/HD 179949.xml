@@ -1,0 +1,24 @@
+<system>
+	<name>HD 179949</name>
+	<rightascension>19 15 33</rightascension>
+	<declination>-24 10 46</declination>
+	<star>
+		<name>HD 179949</name>
+		<magV>6.245</magV>
+		<magI>5.650</magI>
+		<magJ errorminus="0.027" errorplus="0.027">5.296</magJ>
+		<magH errorminus="0.044" errorplus="0.044">5.101</magH>
+		<magK errorminus="0.018" errorplus="0.018">4.936</magK>
+		<planet>
+			<name>HD 179949 b</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.045000</semimajoraxis>
+			<eccentricity errorminus="-0.014000" errorplus="0.014000">0.022000</eccentricity>
+			<periastron errorminus="-34.0000" errorplus="34.0000">183.0000</periastron>
+			<period errorminus="-0.00003000" errorplus="0.00003000">3.09250000</period>
+			<mass errorminus="-0.04000" errorplus="0.04000">0.95000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

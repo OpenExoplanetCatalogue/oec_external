@@ -1,0 +1,57 @@
+<system>
+	<name>Kepler-292</name>
+	<rightascension>19 43 04</rightascension>
+	<declination>+42 25 27</declination>
+	<star>
+		<name>Kepler-292</name>
+		<radius>0.83</radius>
+		<mass>0.88</mass>
+		<temperature>5299.0</temperature>
+		<metallicity>0.077</metallicity>
+		<planet>
+			<name>Kepler-292 b</name>
+			<semimajoraxis>0.035</semimajoraxis>
+			<period errorminus="2e-05" errorplus="2e-05">2.580827</period>
+			<radius errorminus="0.012" errorplus="0.012">0.118</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-292 c</name>
+			<semimajoraxis>0.045</semimajoraxis>
+			<period errorminus="3.3e-05" errorplus="3.3e-05">3.715335</period>
+			<radius errorminus="0.013" errorplus="0.013">0.131</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-292 d</name>
+			<semimajoraxis>0.068</semimajoraxis>
+			<period errorminus="4.3e-05" errorplus="4.3e-05">7.055679</period>
+			<radius errorminus="0.019" errorplus="0.019">0.199</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-292 e</name>
+			<semimajoraxis>0.097</semimajoraxis>
+			<period errorminus="0.000101" errorplus="0.000101">11.97901</period>
+			<radius errorminus="0.031" errorplus="0.031">0.238</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-292 f</name>
+			<semimajoraxis>0.141</semimajoraxis>
+			<period errorminus="0.000184" errorplus="0.000184">20.834237</period>
+			<radius errorminus="0.02" errorplus="0.02">0.21</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

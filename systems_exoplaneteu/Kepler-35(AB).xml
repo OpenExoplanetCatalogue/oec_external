@@ -1,0 +1,26 @@
+<system>
+	<name>Kepler-35(AB)</name>
+	<rightascension>19 37 59</rightascension>
+	<declination>+46 41 24</declination>
+	<distance>1645.0</distance>
+	<star>
+		<name>Kepler-35(AB)</name>
+		<radius>1.0</radius>
+		<mass>1.6971</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5606.0</temperature>
+		<metallicity>-0.34</metallicity>
+		<planet>
+			<name>Kepler-35(AB) b</name>
+			<semimajoraxis errorminus="0.00103" errorplus="0.00103">0.60347</semimajoraxis>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.042</eccentricity>
+			<inclination errorminus="0.09" errorplus="0.09">90.76</inclination>
+			<period errorminus="0.105" errorplus="0.105">131.458</period>
+			<mass errorminus="0.0199792341817953" errorplus="0.0199792341817953">0.126797344492339</mass>
+			<radius errorminus="0.0133821275441655" errorplus="0.0133821275441655">0.727987738402602</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/11/05</lastupdate>
+		</planet>
+	</star>
+</system>

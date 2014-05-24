@@ -1,0 +1,51 @@
+<system>
+	<name>Kepler-85</name>
+	<rightascension>19 23 54</rightascension>
+	<declination>+45 17 25</declination>
+	<star>
+		<name>Kepler-85</name>
+		<radius errorminus="0.13" errorplus="0.13">0.89</radius>
+		<magJ errorminus="0.022" errorplus="0.022">13.552</magJ>
+		<magH errorminus="0.024" errorplus="0.024">13.192</magH>
+		<magK errorminus="0.023" errorplus="0.023">13.083</magK>
+		<mass errorminus="0.40" errorplus="0.40">0.92</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5436.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-85 b</name>
+			<period>8.30600000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.176</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-85 c</name>
+			<period>12.51300000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.194</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-85 d</name>
+			<semimajoraxis>0.130000</semimajoraxis>
+			<period errorminus="-0.00026600" errorplus="0.00026600">17.91323000</period>
+			<radius errorminus="-0.017" errorplus="0.017">0.107</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009500" errorplus="0.009500">2454968.537730</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-85 e</name>
+			<semimajoraxis>0.163000</semimajoraxis>
+			<period errorminus="-0.00071800" errorplus="0.00071800">25.21675100</period>
+			<radius errorminus="-0.018" errorplus="0.018">0.113</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.016950" errorplus="0.016950">2454985.688150</transittime>
+		</planet>
+	</star>
+</system>

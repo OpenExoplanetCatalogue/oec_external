@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-60</name>
+	<rightascension>19 15 51</rightascension>
+	<declination>+42 15 54</declination>
+	<star>
+		<name>Kepler-60</name>
+		<radius>1.5</radius>
+		<mass>1.1</mass>
+		<temperature>5915.0</temperature>
+		<planet>
+			<name>Kepler-60 b</name>
+			<period errorminus="9.3e-05" errorplus="9.3e-05">7.1316185</period>
+			<radius>0.2</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-60 c</name>
+			<period errorminus="0.00011" errorplus="0.00011">8.9193459</period>
+			<radius>0.22</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-60 d</name>
+			<period errorminus="0.0002" errorplus="0.0002">11.9016171</period>
+			<radius>0.23</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+	</star>
+</system>

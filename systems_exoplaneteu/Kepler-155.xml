@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-155</name>
+	<rightascension>19 13 59</rightascension>
+	<declination>+51 04 55</declination>
+	<star>
+		<name>Kepler-155</name>
+		<radius>0.62</radius>
+		<mass>0.58</mass>
+		<temperature>4508.0</temperature>
+		<metallicity>-0.363</metallicity>
+		<planet>
+			<name>Kepler-155 b</name>
+			<semimajoraxis>0.056</semimajoraxis>
+			<period errorminus="8e-06" errorplus="8e-06">5.931194</period>
+			<radius errorminus="0.019" errorplus="0.019">0.186</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-155 c</name>
+			<semimajoraxis>0.242</semimajoraxis>
+			<period errorminus="0.000236" errorplus="0.000236">52.661793</period>
+			<radius errorminus="0.013" errorplus="0.013">0.2</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

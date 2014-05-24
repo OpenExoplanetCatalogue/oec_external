@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-24</name>
+	<rightascension>07 15 18</rightascension>
+	<declination>+14 15 44</declination>
+	<distance>306.0</distance>
+	<star>
+		<name>HAT-P-24</name>
+		<age>2.8</age>
+		<radius>1.317</radius>
+		<mass>1.191</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>6373.0</temperature>
+		<metallicity>-0.16</metallicity>
+		<planet>
+			<name>HAT-P-24 b</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0465</semimajoraxis>
+			<periastron errorminus="36.0" errorplus="36.0">197.0</periastron>
+			<eccentricity errorminus="0.024" errorplus="0.024">0.067</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">88.6</inclination>
+			<period errorminus="7e-06" errorplus="7e-06">3.35524</period>
+			<mass errorminus="0.033" errorplus="0.033">0.685</mass>
+			<radius errorminus="0.067" errorplus="0.067">1.242</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/07/05</lastupdate>
+		</planet>
+	</star>
+</system>

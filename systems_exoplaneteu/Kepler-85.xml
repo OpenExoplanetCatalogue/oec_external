@@ -1,0 +1,49 @@
+<system>
+	<name>Kepler-85</name>
+	<rightascension>19 23 54</rightascension>
+	<declination>+45 17 25</declination>
+	<star>
+		<name>Kepler-85</name>
+		<radius>0.84</radius>
+		<mass>0.95</mass>
+		<temperature>5666.0</temperature>
+		<planet>
+			<name>Kepler-85 b</name>
+			<semimajoraxis>0.07891</semimajoraxis>
+			<period>8.305992</period>
+			<mass>0.0465</mass>
+			<radius>0.178</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/24</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-85 c</name>
+			<semimajoraxis>0.10369</semimajoraxis>
+			<period>12.51217</period>
+			<mass>0.059</mass>
+			<radius>0.197</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/24</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-85 d</name>
+			<semimajoraxis>0.13</semimajoraxis>
+			<period errorminus="0.000266" errorplus="0.000266">17.91323</period>
+			<radius errorminus="0.017" errorplus="0.017">0.107</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-85 e</name>
+			<semimajoraxis>0.163</semimajoraxis>
+			<period errorminus="0.000718" errorplus="0.000718">25.216751</period>
+			<radius errorminus="0.018" errorplus="0.018">0.113</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

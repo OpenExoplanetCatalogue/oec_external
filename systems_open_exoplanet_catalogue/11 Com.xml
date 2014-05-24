@@ -1,0 +1,32 @@
+<system>
+	<name>11 Com</name>
+	<rightascension>12 20 43</rightascension>
+	<declination>+17 47 34</declination>
+	<distance>110.6</distance>
+	<star>
+		<mass>2.7</mass>
+		<radius>19</radius>
+		<magV>4.74</magV>
+		<magB errorminus="0.02" errorplus="0.02">5.74</magB>
+		<magJ errorminus="0.334" errorplus="0.334">2.943</magJ>
+		<magH errorminus="0.268" errorplus="0.268">2.484</magH>
+		<magK errorminus="0.346" errorplus="0.346">2.282</magK>
+		<metallicity>-0.35</metallicity>
+		<spectraltype>G8 III</spectraltype>
+		<planet>
+			<name>11 Com b</name>
+			<list>Confirmed planets</list>
+			<mass>19.4</mass>
+			<period>326.03</period>
+			<semimajoraxis>1.29</semimajoraxis>
+			<eccentricity>0.231</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/12/23</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>799.7</temperature>
+		</planet>
+		<name>11 Com</name>
+		<temperature>4742.0</temperature>
+	</star>
+	<videolink>http://youtu.be/qyJXJJDrEDo</videolink>
+</system>

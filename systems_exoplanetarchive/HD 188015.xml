@@ -1,0 +1,23 @@
+<system>
+	<name>HD 188015</name>
+	<rightascension>19 52 05</rightascension>
+	<declination>+28 06 01</declination>
+	<star>
+		<name>HD 188015</name>
+		<magV errorminus="0.011" errorplus="0.011">8.234</magV>
+		<magJ errorminus="0.035" errorplus="0.035">7.008</magJ>
+		<magH errorminus="0.020" errorplus="0.020">6.716</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.632</magK>
+		<planet>
+			<name>HD 188015 b</name>
+			<semimajoraxis>1.190000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.150000</eccentricity>
+			<periastron errorminus="-35.7000" errorplus="35.7000">293.0000</periastron>
+			<period>456.46000000</period>
+			<mass>1.26000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+	</star>
+</system>

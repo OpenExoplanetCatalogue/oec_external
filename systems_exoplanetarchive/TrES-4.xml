@@ -1,0 +1,28 @@
+<system>
+	<name>TrES-4</name>
+	<rightascension>17 53 13</rightascension>
+	<declination>+37 12 42</declination>
+	<star>
+		<name>TrES-4</name>
+		<radius errorminus="0.10" errorplus="0.10">1.85</radius>
+		<magV errorminus="0.004" errorplus="0.004">11.592</magV>
+		<magI errorminus="0.007" errorplus="0.007">10.991</magI>
+		<magJ errorminus="0.018" errorplus="0.018">10.583</magJ>
+		<magH errorminus="0.015" errorplus="0.015">10.350</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.330</magK>
+		<mass errorminus="0.13" errorplus="0.13">1.40</mass>
+		<temperature errorminus="75.00" errorplus="75.00">6200.00</temperature>
+		<planet>
+			<name>TrES-4 b</name>
+			<semimajoraxis errorminus="-0.000710" errorplus="0.000710">0.050910</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.330" errorplus="0.330">82.860</inclination>
+			<period errorminus="-0.00007500" errorplus="0.00007500">3.55394500</period>
+			<mass errorminus="-0.07300" errorplus="0.07300">0.91900</mass>
+			<radius errorminus="-0.063" errorplus="0.063">1.799</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

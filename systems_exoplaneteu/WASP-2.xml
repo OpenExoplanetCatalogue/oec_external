@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-2</name>
+	<rightascension>20 30 54</rightascension>
+	<declination>+06 25 46</declination>
+	<distance>144.0</distance>
+	<star>
+		<name>WASP-2</name>
+		<radius>0.834</radius>
+		<mass>0.84</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5150.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>WASP-2 b</name>
+			<semimajoraxis errorminus="0.011" errorplus="0.011">0.03138</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.19" errorplus="0.19">84.73</inclination>
+			<period errorminus="4e-07" errorplus="4e-07">2.15222144</period>
+			<mass errorminus="0.045" errorplus="0.045">0.847</mass>
+			<radius errorminus="0.033" errorplus="0.033">1.079</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>13/05/31</lastupdate>
+		</planet>
+	</star>
+</system>

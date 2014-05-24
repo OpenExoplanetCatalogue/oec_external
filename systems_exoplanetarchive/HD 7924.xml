@@ -1,0 +1,23 @@
+<system>
+	<name>HD 7924</name>
+	<rightascension>01 21 59</rightascension>
+	<declination>+76 42 37</declination>
+	<star>
+		<name>HD 7924</name>
+		<magV errorminus="0.010" errorplus="0.010">7.167</magV>
+		<magJ errorminus="0.025" errorplus="0.025">5.618</magJ>
+		<magH errorminus="0.033" errorplus="0.033">5.231</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.159</magK>
+		<planet>
+			<name>HD 7924 b</name>
+			<semimajoraxis>0.057000</semimajoraxis>
+			<eccentricity errorminus="-0.160000" errorplus="0.160000">0.170000</eccentricity>
+			<periastron errorminus="-60.0000" errorplus="60.0000">25.0000</periastron>
+			<period errorminus="-0.00150000" errorplus="0.00150000">5.39780000</period>
+			<mass>0.02900</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

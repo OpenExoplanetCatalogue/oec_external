@@ -1,0 +1,24 @@
+<system>
+	<name>KIC 4862625(AB)</name>
+	<rightascension>19 52 52</rightascension>
+	<declination>+39 57 18</declination>
+	<star>
+		<name>KIC 4862625(AB)</name>
+		<radius>1.7</radius>
+		<mass>1.93</mass>
+		<spectraltype>F+M</spectraltype>
+		<planet>
+			<name>PH1-Kepler-64 b</name>
+			<semimajoraxis errorminus="0.011" errorplus="0.011">0.634</semimajoraxis>
+			<periastron errorminus="6.7" errorplus="5.0">348.0</periastron>
+			<eccentricity errorminus="0.0081" errorplus="0.0081">0.0539</eccentricity>
+			<inclination errorminus="0.07" errorplus="0.07">90.0</inclination>
+			<period errorminus="0.1" errorplus="0.1">138.506</period>
+			<mass errorminus="0.53" errorplus="0.0">0.53</mass>
+			<radius errorminus="0.015" errorplus="0.015">0.553</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,19 @@
+<system>
+	<name>RR Cae</name>
+	<rightascension>04 21 06</rightascension>
+	<declination>-48 20 53</declination>
+	<star>
+		<name>RR Cae</name>
+		<mass>0.622</mass>
+		<spectraltype>DAZ8+dM</spectraltype>
+		<planet>
+			<name>RR Cae b</name>
+			<semimajoraxis errorminus="0.6" errorplus="0.6">5.3</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="37.0" errorplus="37.0">4350.0</period>
+			<mass errorminus="0.4" errorplus="0.4">4.2</mass>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/01/23</lastupdate>
+		</planet>
+	</star>
+</system>

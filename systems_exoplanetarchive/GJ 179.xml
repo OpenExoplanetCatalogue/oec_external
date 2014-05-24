@@ -1,0 +1,28 @@
+<system>
+	<name>GJ 179</name>
+	<rightascension>04 52 06</rightascension>
+	<declination>+06 28 36</declination>
+	<star>
+		<name>GJ 179</name>
+		<radius errorminus="0.02" errorplus="0.02">0.38</radius>
+		<magV errorminus="0.025" errorplus="0.025">12.000</magV>
+		<magI errorminus="0.010" errorplus="0.010">9.320</magI>
+		<magJ errorminus="0.024" errorplus="0.024">7.814</magJ>
+		<magH errorminus="0.045" errorplus="0.045">7.209</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.942</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.36</mass>
+		<temperature errorminus="100.00" errorplus="100.00">3370.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 179 b</name>
+			<semimajoraxis errorminus="-0.040000" errorplus="0.040000">2.410000</semimajoraxis>
+			<eccentricity errorminus="-0.080000" errorplus="0.080000">0.210000</eccentricity>
+			<periastron errorminus="-24.0000" errorplus="24.0000">153.0000</periastron>
+			<period errorminus="-59.00000000" errorplus="59.00000000">2288.00000000</period>
+			<mass errorminus="-0.07000" errorplus="0.07000">0.82000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

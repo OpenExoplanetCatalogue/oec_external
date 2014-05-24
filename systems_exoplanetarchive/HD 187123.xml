@@ -1,0 +1,34 @@
+<system>
+	<name>HD 187123</name>
+	<rightascension>19 46 58</rightascension>
+	<declination>+34 25 10</declination>
+	<star>
+		<name>HD 187123</name>
+		<magV errorminus="0.011" errorplus="0.011">7.832</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.635</magJ>
+		<magH errorminus="0.017" errorplus="0.017">6.395</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.337</magK>
+		<planet>
+			<name>HD 187123 b</name>
+			<semimajoraxis>0.042000</semimajoraxis>
+			<eccentricity errorminus="-0.003000" errorplus="0.003000">0.030000</eccentricity>
+			<periastron>20.0000</periastron>
+			<period>3.09700000</period>
+			<mass>0.52000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 187123 c</name>
+			<semimajoraxis errorminus="-0.530000" errorplus="0.530000">4.890000</semimajoraxis>
+			<eccentricity errorminus="-0.033000" errorplus="0.033000">0.252000</eccentricity>
+			<periastron errorminus="-19.0000" errorplus="19.0000">243.0000</periastron>
+			<period errorminus="-420.00000000" errorplus="420.00000000">3810.00000000</period>
+			<mass errorminus="-0.25000" errorplus="0.25000">1.99000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

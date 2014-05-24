@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-360</name>
+	<rightascension>19 05 08</rightascension>
+	<declination>+44 46 54</declination>
+	<star>
+		<name>Kepler-360</name>
+		<radius>1.06</radius>
+		<mass>0.95</mass>
+		<temperature>6053.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>Kepler-360 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<period errorminus="1.2e-05" errorplus="1.2e-05">3.289672</period>
+			<radius errorminus="0.07" errorplus="0.07">0.147</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-360 c</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<period errorminus="2.9e-05" errorplus="2.9e-05">7.186434</period>
+			<radius errorminus="0.089" errorplus="0.089">0.187</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

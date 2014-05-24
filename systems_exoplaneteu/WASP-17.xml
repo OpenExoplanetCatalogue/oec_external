@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-17</name>
+	<rightascension>15 59 51</rightascension>
+	<declination>-28 56 18</declination>
+	<star>
+		<name>WASP-17</name>
+		<age>3.0</age>
+		<radius>1.38</radius>
+		<mass>1.2</mass>
+		<spectraltype>F4</spectraltype>
+		<temperature>6650.0</temperature>
+		<metallicity>-0.19</metallicity>
+		<planet>
+			<name>WASP-17 b</name>
+			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.0515</semimajoraxis>
+			<periastron errorminus="2.6" errorplus="2.6">-82.6</periastron>
+			<eccentricity errorminus="0.018" errorplus="0.018">0.028</eccentricity>
+			<inclination errorminus="0.56" errorplus="0.56">86.83</inclination>
+			<period errorminus="6.8e-06" errorplus="6.8e-06">3.735438</period>
+			<mass errorminus="0.032" errorplus="0.032">0.486</mass>
+			<radius errorminus="0.081" errorplus="0.081">1.991</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>13/09/18</lastupdate>
+		</planet>
+	</star>
+</system>

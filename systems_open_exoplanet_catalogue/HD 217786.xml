@@ -1,0 +1,32 @@
+<system>
+	<name>HD 217786</name>
+	<rightascension>23 03 08</rightascension>
+	<declination>-00 25 47</declination>
+	<distance>54.8</distance>
+	<star>
+		<mass>1.02</mass>
+		<radius>1.27</radius>
+		<magV>7.8</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.360</magB>
+		<magR>7.60</magR>
+		<magJ errorminus="0.021" errorplus="0.021">6.685</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.416</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.352</magK>
+		<metallicity>-0.135</metallicity>
+		<spectraltype>F8V</spectraltype>
+		<planet>
+			<name>HD 217786 b</name>
+			<list>Confirmed planets</list>
+			<mass>13</mass>
+			<period>1319</period>
+			<semimajoraxis>2.38</semimajoraxis>
+			<eccentricity>0.4</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/20</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>190.2</temperature>
+		</planet>
+		<name>HD 217786</name>
+		<temperature>5966.0</temperature>
+	</star>
+</system>

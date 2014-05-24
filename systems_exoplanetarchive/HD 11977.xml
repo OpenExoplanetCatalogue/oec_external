@@ -1,0 +1,24 @@
+<system>
+	<name>HD 11977</name>
+	<rightascension>01 54 56</rightascension>
+	<declination>-67 38 50</declination>
+	<star>
+		<name>HD 11977</name>
+		<magV>4.690</magV>
+		<magI>3.732</magI>
+		<magJ errorminus="0.272" errorplus="0.272">3.162</magJ>
+		<magH errorminus="0.212" errorplus="0.212">2.695</magH>
+		<magK errorminus="0.240" errorplus="0.240">2.590</magK>
+		<planet>
+			<name>HD 11977 b</name>
+			<semimajoraxis>1.930000</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.400000</eccentricity>
+			<periastron errorminus="-9.5000" errorplus="9.5000">351.5000</periastron>
+			<period errorminus="-8.00000000" errorplus="8.00000000">711.00000000</period>
+			<mass>6.54000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

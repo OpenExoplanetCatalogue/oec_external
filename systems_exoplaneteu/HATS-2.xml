@@ -1,0 +1,27 @@
+<system>
+	<name>HATS-2</name>
+	<rightascension>11 46 57</rightascension>
+	<declination>-22 26 13</declination>
+	<distance>360.0</distance>
+	<star>
+		<name>HATS-2</name>
+		<age>9.7</age>
+		<radius>0.898</radius>
+		<mass>0.882</mass>
+		<spectraltype>K</spectraltype>
+		<temperature>5227.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>HATS-2 b</name>
+			<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.023</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
+			<period errorminus="1e-06" errorplus="1e-06">1.354133</period>
+			<mass errorminus="0.15" errorplus="0.15">1.345</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.168</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/04/29</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 285968</name>
+	<rightascension>04 42 56</rightascension>
+	<declination>+18 57 29</declination>
+	<star>
+		<name>HD 285968</name>
+		<magV errorminus="0.020" errorplus="0.020">9.980</magV>
+		<magI errorminus="0.025" errorplus="0.025">7.720</magI>
+		<magJ errorminus="0.024" errorplus="0.024">6.462</magJ>
+		<magH errorminus="0.033" errorplus="0.033">5.824</magH>
+		<magK errorminus="0.034" errorplus="0.034">5.607</magK>
+		<planet>
+			<name>HD 285968 b</name>
+			<semimajoraxis>0.066000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<period errorminus="-0.00540000" errorplus="0.00540000">8.78360000</period>
+			<mass>0.02650</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

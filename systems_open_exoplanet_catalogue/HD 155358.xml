@@ -1,0 +1,44 @@
+<system>
+	<name>HD 155358</name>
+	<rightascension>17 09 35</rightascension>
+	<declination>+33 21 21</declination>
+	<distance>43</distance>
+	<star>
+		<mass>0.92</mass>
+		<magV>7.27</magV>
+		<magB errorminus="0.01" errorplus="0.01">7.79</magB>
+		<magR>7.0</magR>
+		<magI>6.7</magI>
+		<magJ errorminus="0.024" errorplus="0.024">6.158</magJ>
+		<magH errorminus="0.023" errorplus="0.023">5.886</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.808</magK>
+		<metallicity>-0.51</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 155358 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.85</mass>
+			<period>194.3</period>
+			<semimajoraxis>0.64</semimajoraxis>
+			<eccentricity>0.17</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/02/04</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>377.6</temperature>
+		</planet>
+		<planet>
+			<name>HD 155358 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.82</mass>
+			<period>391.9</period>
+			<semimajoraxis>1.02</semimajoraxis>
+			<eccentricity>0.16</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/02/04</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>299.1</temperature>
+		</planet>
+		<name>HD 155358</name>
+		<temperature>5900.0</temperature>
+	</star>
+</system>

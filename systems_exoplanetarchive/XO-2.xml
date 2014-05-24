@@ -1,0 +1,27 @@
+<system>
+	<name>XO-2</name>
+	<rightascension>07 48 06</rightascension>
+	<declination>+50 13 33</declination>
+	<star>
+		<name>XO-2</name>
+		<radius errorminus="0.02" errorplus="0.02">0.98</radius>
+		<magV errorminus="0.030" errorplus="0.030">11.180</magV>
+		<magI errorminus="0.040" errorplus="0.040">10.320</magI>
+		<magJ errorminus="0.022" errorplus="0.022">9.744</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.340</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.308</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.97</mass>
+		<temperature errorminus="80.00" errorplus="80.00">5340.00</temperature>
+		<planet>
+			<name>XO-2 b</name>
+			<semimajoraxis errorminus="-0.000400" errorplus="0.000400">0.036800</semimajoraxis>
+			<period errorminus="-0.00000160" errorplus="0.00000160">2.61586400</period>
+			<mass errorminus="-0.05400" errorplus="0.05400">0.56500</mass>
+			<radius errorminus="-0.018" errorplus="0.031">0.996</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000120" errorplus="0.000120">2454466.884670</transittime>
+		</planet>
+	</star>
+</system>

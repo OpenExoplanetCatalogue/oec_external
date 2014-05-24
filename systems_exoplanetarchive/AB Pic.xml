@@ -1,0 +1,20 @@
+<system>
+	<name>AB Pic</name>
+	<rightascension>06 19 13</rightascension>
+	<declination>-58 03 16</declination>
+	<star>
+		<name>AB Pic</name>
+		<magV errorminus="0.019" errorplus="0.019">9.128</magV>
+		<magJ errorminus="0.024" errorplus="0.024">7.576</magJ>
+		<magH errorminus="0.021" errorplus="0.021">7.088</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.981</magK>
+		<planet>
+			<name>AB Pic b</name>
+			<semimajoraxis>260.000000</semimajoraxis>
+			<mass errorminus="-0.50000" errorplus="0.50000">13.50000</mass>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 07 01</lastupdate>
+		</planet>
+	</star>
+</system>

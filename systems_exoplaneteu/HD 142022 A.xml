@@ -1,0 +1,27 @@
+<system>
+	<name>HD 142022 A</name>
+	<rightascension>16 10 15</rightascension>
+	<declination>-84 46 07</declination>
+	<distance>35.87</distance>
+	<star>
+		<name>HD 142022 A</name>
+		<age>13.3</age>
+		<radius>0.705</radius>
+		<mass>0.99</mass>
+		<spectraltype>K0 V</spectraltype>
+		<temperature>5382.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 142022 A b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">3.03</semimajoraxis>
+			<periastron errorminus="10.0" errorplus="10.0">170.0</periastron>
+			<eccentricity errorminus="0.18" errorplus="0.18">0.53</eccentricity>
+			<inclination errorminus="6.0" errorplus="6.0">10.0</inclination>
+			<period errorminus="39.0" errorplus="39.0">1928.0</period>
+			<mass errorminus="1.3" errorplus="2.6">5.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>11/01/11</lastupdate>
+		</planet>
+	</star>
+</system>

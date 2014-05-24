@@ -1,0 +1,25 @@
+<system>
+	<name>HIP 91258</name>
+	<rightascension>18 36 53</rightascension>
+	<declination>+61 42 09</declination>
+	<distance>44.9</distance>
+	<star>
+		<name>HIP 91258</name>
+		<age>2.4</age>
+		<mass>0.95</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5519.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>HIP 91258 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.057</semimajoraxis>
+			<periastron errorminus="64.0" errorplus="64.0">276.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.024</eccentricity>
+			<period errorminus="0.0015" errorplus="0.0015">5.0505</period>
+			<mass errorminus="0.038" errorplus="0.038">1.068</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/11/25</lastupdate>
+		</planet>
+	</star>
+</system>

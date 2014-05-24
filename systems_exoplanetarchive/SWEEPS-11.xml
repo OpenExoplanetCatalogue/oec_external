@@ -1,0 +1,20 @@
+<system>
+	<name>SWEEPS-11</name>
+	<rightascension>17 59 02</rightascension>
+	<declination>-29 11 54</declination>
+	<star>
+		<name>SWEEPS-11</name>
+		<radius>1.45</radius>
+		<mass>1.10</mass>
+		<planet>
+			<name>SWEEPS-11 b</name>
+			<semimajoraxis>0.030000</semimajoraxis>
+			<period>1.79600000</period>
+			<mass errorminus="-4.50000" errorplus="5.60000">9.70000</mass>
+			<radius errorminus="-0.210" errorplus="0.210">1.130</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

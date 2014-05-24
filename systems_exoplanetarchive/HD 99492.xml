@@ -1,0 +1,35 @@
+<system>
+	<name>HD 99492</name>
+	<rightascension>11 26 46</rightascension>
+	<declination>+03 00 23</declination>
+	<star>
+		<name>HD 99492</name>
+		<magV>6.140</magV>
+		<magI>5.275</magI>
+		<magJ errorminus="0.018" errorplus="0.018">5.852</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.403</magH>
+		<magK errorminus="0.017" errorplus="0.017">5.256</magK>
+		<planet>
+			<name>HD 99492 b</name>
+			<semimajoraxis errorminus="-0.000020" errorplus="0.000020">0.121860</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.130000</eccentricity>
+			<periastron errorminus="-32.0000" errorplus="32.0000">196.0000</periastron>
+			<period errorminus="-0.00300000" errorplus="0.00300000">17.05400000</period>
+			<mass errorminus="-0.00600" errorplus="0.00600">0.08700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 99492 c</name>
+			<semimajoraxis errorminus="-0.500000" errorplus="0.500000">5.400000</semimajoraxis>
+			<eccentricity errorminus="-0.200000" errorplus="0.200000">0.100000</eccentricity>
+			<periastron errorminus="-64.0000" errorplus="64.0000">38.0000</periastron>
+			<period errorminus="-744.00000000" errorplus="744.00000000">4970.00000000</period>
+			<mass errorminus="-0.06000" errorplus="0.06000">0.36000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

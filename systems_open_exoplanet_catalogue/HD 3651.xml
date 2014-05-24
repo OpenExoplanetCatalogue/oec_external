@@ -1,0 +1,34 @@
+<system>
+	<name>HD 3651</name>
+	<rightascension>00 39 21</rightascension>
+	<declination>+21 15 01</declination>
+	<distance>11</distance>
+	<star>
+		<mass>0.79</mass>
+		<radius>0.947</radius>
+		<magV>5.8</magV>
+		<magB>6.72</magB>
+		<magR>5.3</magR>
+		<magI>4.9</magI>
+		<magJ errorminus="0.206" errorplus="0.206">4.549</magJ>
+		<magH errorminus="0.240" errorplus="0.240">4.064</magH>
+		<magK errorminus="0.036" errorplus="0.036">3.999</magK>
+		<metallicity>0.05</metallicity>
+		<spectraltype>K0 V</spectraltype>
+		<planet>
+			<name>HD 3651 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.2</mass>
+			<period>62.23</period>
+			<semimajoraxis>0.284</semimajoraxis>
+			<eccentricity>0.63</eccentricity>
+			<inclination>83</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/10/19</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+			<temperature>405.0</temperature>
+		</planet>
+		<name>HD 3651</name>
+		<temperature>5173.0</temperature>
+	</star>
+</system>

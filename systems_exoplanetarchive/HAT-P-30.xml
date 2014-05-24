@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-30</name>
+	<rightascension>08 15 48</rightascension>
+	<declination>+05 50 12</declination>
+	<star>
+		<name>HAT-P-30</name>
+		<radius errorminus="0.05" errorplus="0.05">1.22</radius>
+		<magJ errorminus="0.026" errorplus="0.026">9.442</magJ>
+		<magH errorminus="0.028" errorplus="0.028">9.220</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.151</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.24</mass>
+		<temperature errorminus="88.00" errorplus="88.00">6304.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-30 b</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.041900</semimajoraxis>
+			<eccentricity errorminus="-0.024000" errorplus="0.024000">0.035000</eccentricity>
+			<periastron errorminus="-84.0000" errorplus="84.0000">252.0000</periastron>
+			<inclination errorminus="-0.400" errorplus="0.400">83.600</inclination>
+			<period errorminus="-0.00000500" errorplus="0.00000500">2.81059500</period>
+			<mass errorminus="-0.02800" errorplus="0.02800">0.71100</mass>
+			<radius errorminus="-0.065" errorplus="0.065">1.340</radius>
+			<temperature errorminus="-42" errorplus="42">1630</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000370" errorplus="0.000370">2455456.465610</transittime>
+		</planet>
+	</star>
+</system>

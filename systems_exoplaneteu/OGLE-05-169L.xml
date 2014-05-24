@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE-05-169L</name>
+	<rightascension>18 06 05</rightascension>
+	<declination>-30 16 03</declination>
+	<distance>2700.0</distance>
+	<star>
+		<name>OGLE-05-169L</name>
+		<mass>0.49</mass>
+		<planet>
+			<name>OGLE-05-169L b</name>
+			<semimajoraxis>2.8</semimajoraxis>
+			<period>3300.0</period>
+			<mass>0.04</mass>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>06/04/12</lastupdate>
+		</planet>
+	</star>
+</system>

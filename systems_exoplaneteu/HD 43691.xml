@@ -1,0 +1,25 @@
+<system>
+	<name>HD 43691</name>
+	<rightascension>06 19 35</rightascension>
+	<declination>+41 05 32</declination>
+	<distance>93.2</distance>
+	<star>
+		<name>HD 43691</name>
+		<age>2.8</age>
+		<mass>1.38</mass>
+		<spectraltype>G0IV</spectraltype>
+		<temperature>6200.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>HD 43691 b</name>
+			<semimajoraxis>0.24</semimajoraxis>
+			<periastron errorminus="5.0" errorplus="5.0">290.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.14</eccentricity>
+			<period errorminus="0.02" errorplus="0.02">36.96</period>
+			<mass>2.49</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/11/27</lastupdate>
+		</planet>
+	</star>
+</system>

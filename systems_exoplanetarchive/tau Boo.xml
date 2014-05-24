@@ -1,0 +1,23 @@
+<system>
+	<name>tau Boo</name>
+	<rightascension>13 47 16</rightascension>
+	<declination>+17 27 25</declination>
+	<star>
+		<name>tau Boo</name>
+		<magV>4.500</magV>
+		<magJ errorminus="0.284" errorplus="0.284">3.617</magJ>
+		<magH errorminus="0.242" errorplus="0.242">3.546</magH>
+		<magK errorminus="0.348" errorplus="0.348">3.507</magK>
+		<planet>
+			<name>tau Boo b</name>
+			<eccentricity errorminus="-0.015000" errorplus="0.015000">0.023000</eccentricity>
+			<periastron>188.0000</periastron>
+			<inclination errorminus="-1.500" errorplus="1.500">44.500</inclination>
+			<period errorminus="-0.00001900" errorplus="0.00001900">3.31243300</period>
+			<mass errorminus="-0.28000" errorplus="0.28000">5.95000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+		</planet>
+	</star>
+</system>

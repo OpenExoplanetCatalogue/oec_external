@@ -1,0 +1,32 @@
+<system>
+	<name>18 Del</name>
+	<rightascension>20 58 26</rightascension>
+	<declination>+10 50 21</declination>
+	<distance>73.1</distance>
+	<star>
+		<mass>2.3</mass>
+		<radius>8.5</radius>
+		<magV>5.52</magV>
+		<magB>6.440</magB>
+		<magJ errorminus="0.236" errorplus="0.236">4.032</magJ>
+		<magH errorminus="0.186" errorplus="0.186">3.440</magH>
+		<magK errorminus="0.204" errorplus="0.204">3.366</magK>
+		<metallicity>-0.052</metallicity>
+		<spectraltype>G6III</spectraltype>
+		<planet>
+			<name>18 Del b</name>
+			<list>Confirmed planets</list>
+			<mass>10.3</mass>
+			<period>993.3</period>
+			<semimajoraxis>2.6</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<description>18 Delphini is a star in the constellation of Delphinus.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>08/02/20</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>396.8</temperature>
+		</planet>
+		<name>18 Del</name>
+		<temperature>4979.0</temperature>
+	</star>
+</system>

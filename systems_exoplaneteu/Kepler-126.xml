@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-126</name>
+	<rightascension>19 17 23</rightascension>
+	<declination>+44 12 31</declination>
+	<star>
+		<name>Kepler-126</name>
+		<radius>1.36</radius>
+		<temperature>6239.0</temperature>
+		<planet>
+			<name>Kepler-126 b</name>
+			<semimajoraxis>0.099</semimajoraxis>
+			<period errorminus="2.8e-05" errorplus="2.8e-05">10.495711</period>
+			<radius errorminus="0.009" errorplus="0.009">0.136</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-126 c</name>
+			<semimajoraxis>0.162</semimajoraxis>
+			<period errorminus="8.2e-05" errorplus="8.2e-05">21.869741</period>
+			<radius errorminus="0.012" errorplus="0.012">0.141</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-126 d</name>
+			<semimajoraxis>0.448</semimajoraxis>
+			<period errorminus="0.000255" errorplus="0.000255">100.283134</period>
+			<radius errorminus="0.004" errorplus="0.004">0.223</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

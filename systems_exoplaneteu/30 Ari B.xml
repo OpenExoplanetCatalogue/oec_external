@@ -1,0 +1,26 @@
+<system>
+	<name>30 Ari B</name>
+	<rightascension>02 36 58</rightascension>
+	<declination>+24 38 53</declination>
+	<distance>39.4</distance>
+	<star>
+		<name>30 Ari B</name>
+		<age>0.91</age>
+		<radius>1.13</radius>
+		<mass>1.13</mass>
+		<spectraltype>F6V</spectraltype>
+		<temperature>6424.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>30 Ari B b</name>
+			<semimajoraxis errorminus="0.012" errorplus="0.012">0.995</semimajoraxis>
+			<periastron errorminus="18.0" errorplus="18.0">307.0</periastron>
+			<eccentricity errorminus="0.092" errorplus="0.092">0.289</eccentricity>
+			<period errorminus="2.5" errorplus="2.5">335.1</period>
+			<mass errorminus="0.94" errorplus="0.94">9.88</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/11/27</lastupdate>
+		</planet>
+	</star>
+</system>

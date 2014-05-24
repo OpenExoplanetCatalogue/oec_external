@@ -1,0 +1,23 @@
+<system>
+	<name>HD 40979</name>
+	<rightascension>06 04 30</rightascension>
+	<declination>+44 15 38</declination>
+	<star>
+		<name>HD 40979</name>
+		<magV errorminus="0.010" errorplus="0.010">6.735</magV>
+		<magJ errorminus="0.029" errorplus="0.029">5.742</magJ>
+		<magH errorminus="0.027" errorplus="0.027">5.509</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.452</magK>
+		<planet>
+			<name>HD 40979 b</name>
+			<semimajoraxis errorminus="-0.007000" errorplus="0.007000">0.846000</semimajoraxis>
+			<eccentricity errorminus="-0.014000" errorplus="0.014000">0.252000</eccentricity>
+			<periastron errorminus="-4.1000" errorplus="4.1000">323.4000</periastron>
+			<period errorminus="-0.23000000" errorplus="0.23000000">264.15000000</period>
+			<mass errorminus="-0.13000" errorplus="0.13000">4.01000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

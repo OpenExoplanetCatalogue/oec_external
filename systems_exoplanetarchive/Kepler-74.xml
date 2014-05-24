@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-74</name>
+	<rightascension>19 32 22</rightascension>
+	<declination>+41 21 20</declination>
+	<star>
+		<name>Kepler-74</name>
+		<radius errorminus="0.14" errorplus="0.14">1.51</radius>
+		<magJ errorminus="0.024" errorplus="0.024">13.306</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.008</magH>
+		<magK errorminus="0.033" errorplus="0.033">12.958</magK>
+		<mass errorminus="0.14" errorplus="0.14">1.40</mass>
+		<temperature errorminus="110.00" errorplus="110.00">6050.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-74 b</name>
+			<semimajoraxis errorminus="-0.014000" errorplus="0.014000">0.084000</semimajoraxis>
+			<eccentricity errorminus="-0.062000" errorplus="0.062000">0.287000</eccentricity>
+			<periastron errorminus="-21.0000" errorplus="21.0000">64.0000</periastron>
+			<inclination errorminus="-0.960" errorplus="0.960">85.550</inclination>
+			<period errorminus="-0.00000100" errorplus="0.00000100">7.34071800</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">0.68000</mass>
+			<radius errorminus="-0.140" errorplus="0.140">1.320</radius>
+			<temperature errorminus="-120" errorplus="120">1250</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 04 26</lastupdate>
+			<transittime errorminus="-0.000300" errorplus="0.000300">2454967.345300</transittime>
+		</planet>
+	</star>
+</system>

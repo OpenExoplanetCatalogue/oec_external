@@ -1,0 +1,21 @@
+<system>
+	<name>SR 12 AB</name>
+	<rightascension>16 27 20</rightascension>
+	<declination>-24 41 40</declination>
+	<distance>125</distance>
+	<star>
+		<magV>13.28</magV>
+		<spectraltype>K4-M2.5</spectraltype>
+		<planet>
+			<name>SR 12 AB c</name>
+			<list>Confirmed planets</list>
+			<mass>13</mass>
+			<semimajoraxis>1083</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>11/03/08</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+		<name>SR 12 AB</name>
+		<temperature>5150.0</temperature>
+	</star>
+</system>

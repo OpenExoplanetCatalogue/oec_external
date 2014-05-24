@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-307</name>
+	<rightascension>19 51 11</rightascension>
+	<declination>+40 25 04</declination>
+	<star>
+		<name>Kepler-307</name>
+		<radius>1.03</radius>
+		<mass>0.78</mass>
+		<temperature>5445.0</temperature>
+		<metallicity>0.158</metallicity>
+		<planet>
+			<name>Kepler-307 b</name>
+			<period>10.416</period>
+			<mass errorminus="0.021" errorplus="0.002">0.0079</mass>
+			<radius errorminus="0.117" errorplus="0.117">0.286</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/20</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-307 c</name>
+			<period>13.084</period>
+			<mass errorminus="0.01" errorplus="0.001">0.0038</mass>
+			<radius errorminus="0.1" errorplus="0.1">0.25</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/20</lastupdate>
+		</planet>
+	</star>
+</system>

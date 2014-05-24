@@ -1,0 +1,31 @@
+<system>
+	<name>HD 150706</name>
+	<rightascension>16 31 17</rightascension>
+	<declination>+79 47 23</declination>
+	<distance>27.2</distance>
+	<star>
+		<mass>0.94</mass>
+		<radius>0.87</radius>
+		<magV>7.03</magV>
+		<magB>7.597</magB>
+		<magR>7.0</magR>
+		<magJ errorminus="0.03" errorplus="0.03">5.89</magJ>
+		<magH errorminus="0.016" errorplus="0.016">5.639</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.565</magK>
+		<metallicity>-0.13</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 150706 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.71</mass>
+			<period>5894</period>
+			<semimajoraxis>6.7</semimajoraxis>
+			<eccentricity>0.38</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/05/25</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+		<name>HD 150706</name>
+		<temperature>5741.0</temperature>
+	</star>
+</system>

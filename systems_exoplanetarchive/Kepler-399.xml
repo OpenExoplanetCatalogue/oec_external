@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-399</name>
+	<rightascension>19 58 00</rightascension>
+	<declination>+40 40 15</declination>
+	<star>
+		<name>Kepler-399</name>
+		<radius errorminus="0.36" errorplus="0.36">0.68</radius>
+		<magJ errorminus="0.024" errorplus="0.024">13.175</magJ>
+		<magH errorminus="0.027" errorplus="0.027">12.779</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.698</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5502.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-399 b</name>
+			<semimajoraxis>0.103000</semimajoraxis>
+			<period errorminus="-0.00014400" errorplus="0.00014400">14.42528100</period>
+			<radius errorminus="-0.045" errorplus="0.045">0.086</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.006060" errorplus="0.006060">2454969.751980</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-399 c</name>
+			<semimajoraxis>0.155000</semimajoraxis>
+			<period errorminus="-0.00017100" errorplus="0.00017100">26.67569000</period>
+			<radius errorminus="-0.069" errorplus="0.069">0.128</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004300" errorplus="0.004300">2454982.999080</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-399 d</name>
+			<semimajoraxis>0.261000</semimajoraxis>
+			<period errorminus="-0.00036300" errorplus="0.00036300">58.03461600</period>
+			<radius errorminus="-0.090" errorplus="0.090">0.169</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004190" errorplus="0.004190">2454971.733230</transittime>
+		</planet>
+	</star>
+</system>

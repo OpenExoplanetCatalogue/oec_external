@@ -1,0 +1,65 @@
+<system>
+	<name>Kepler-55</name>
+	<rightascension>19 00 40</rightascension>
+	<declination>+44 01 35</declination>
+	<star>
+		<name>Kepler-55</name>
+		<radius errorminus="0.03" errorplus="0.03">0.62</radius>
+		<magJ errorminus="0.031" errorplus="0.031">13.970</magJ>
+		<magH errorminus="0.030" errorplus="0.030">13.359</magH>
+		<magK errorminus="0.049" errorplus="0.049">13.289</magK>
+		<mass>0.62</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4503.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-55 b</name>
+			<period errorminus="-0.00024000" errorplus="0.00024000">27.94814490</period>
+			<mass>1.49000</mass>
+			<radius>0.217</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.003100" errorplus="0.003100">2455011.795980</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-55 c</name>
+			<period errorminus="-0.00053000" errorplus="0.00053000">42.15164180</period>
+			<mass>1.11000</mass>
+			<radius>0.197</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.004500" errorplus="0.004500">2454971.992840</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-55 d</name>
+			<semimajoraxis>0.029000</semimajoraxis>
+			<period errorminus="-0.00000400" errorplus="0.00000400">2.21109900</period>
+			<radius errorminus="-0.008" errorplus="0.008">0.142</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000910" errorplus="0.000910">2455003.149120</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-55 e</name>
+			<semimajoraxis>0.048000</semimajoraxis>
+			<period errorminus="-0.00002100" errorplus="0.00002100">4.61753400</period>
+			<radius errorminus="-0.021" errorplus="0.021">0.138</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002240" errorplus="0.002240">2454968.042540</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-55 f</name>
+			<semimajoraxis>0.081000</semimajoraxis>
+			<period errorminus="-0.00004500" errorplus="0.00004500">10.19854500</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.142</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002650" errorplus="0.002650">2454970.917140</transittime>
+		</planet>
+	</star>
+</system>

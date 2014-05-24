@@ -1,0 +1,51 @@
+<system>
+	<name>Kepler-68</name>
+	<rightascension>19 24 08</rightascension>
+	<declination>+49 02 25</declination>
+	<star>
+		<name>Kepler-68</name>
+		<radius errorminus="0.02" errorplus="0.02">1.24</radius>
+		<magJ errorminus="0.046" errorplus="0.046">8.975</magJ>
+		<magH errorminus="0.029" errorplus="0.029">8.662</magH>
+		<magK errorminus="0.022" errorplus="0.022">8.588</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.08</mass>
+		<temperature errorminus="74.00" errorplus="74.00">5793.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-68 b</name>
+			<semimajoraxis errorminus="-0.000560" errorplus="0.000560">0.061700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.900" errorplus="0.900">87.600</inclination>
+			<period errorminus="-0.00000400" errorplus="0.00000400">5.39876300</period>
+			<mass errorminus="-0.00800" errorplus="0.00700">0.02600</mass>
+			<radius errorminus="-0.008" errorplus="0.005">0.206</radius>
+			<temperature errorminus="-90" errorplus="90">1280</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2014 01 04</lastupdate>
+			<transittime errorminus="-0.000420" errorplus="0.000420">2455006.857290</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-68 c</name>
+			<semimajoraxis errorminus="-0.000820" errorplus="0.000820">0.090590</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.410" errorplus="0.410">86.930</inclination>
+			<period errorminus="-0.00007200" errorplus="0.00007200">9.60508500</period>
+			<mass errorminus="-0.01100" errorplus="0.00800">0.01500</mass>
+			<radius errorminus="-0.004" errorplus="0.003">0.085</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2014 01 04</lastupdate>
+			<transittime errorminus="-0.004100" errorplus="0.004100">2454969.380500</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-68 d</name>
+			<semimajoraxis errorminus="-0.030000" errorplus="0.030000">1.400000</semimajoraxis>
+			<period errorminus="-15.00000000" errorplus="15.00000000">580.00000000</period>
+			<mass errorminus="-0.03500" errorplus="0.03500">0.94700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2014 01 04</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 23127</name>
+	<rightascension>03 39 24</rightascension>
+	<declination>-60 04 40</declination>
+	<star>
+		<name>HD 23127</name>
+		<magV errorminus="0.014" errorplus="0.014">8.550</magV>
+		<magJ errorminus="0.019" errorplus="0.019">7.423</magJ>
+		<magH errorminus="0.020" errorplus="0.020">7.182</magH>
+		<magK errorminus="0.018" errorplus="0.018">7.087</magK>
+		<planet>
+			<name>HD 23127 b</name>
+			<semimajoraxis errorminus="-0.300000" errorplus="0.300000">2.400000</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.440000</eccentricity>
+			<periastron errorminus="-6.0000" errorplus="6.0000">190.0000</periastron>
+			<period errorminus="-9.00000000" errorplus="9.00000000">1214.00000000</period>
+			<mass errorminus="-0.20000" errorplus="0.20000">1.50000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

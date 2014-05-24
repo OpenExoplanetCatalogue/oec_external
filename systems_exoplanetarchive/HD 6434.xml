@@ -1,0 +1,23 @@
+<system>
+	<name>HD 6434</name>
+	<rightascension>01 04 40</rightascension>
+	<declination>-39 29 18</declination>
+	<star>
+		<name>HD 6434</name>
+		<magV errorminus="0.011" errorplus="0.011">7.730</magV>
+		<magJ errorminus="0.020" errorplus="0.020">6.577</magJ>
+		<magH errorminus="0.033" errorplus="0.033">6.272</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.187</magK>
+		<planet>
+			<name>HD 6434 b</name>
+			<semimajoraxis>0.140000</semimajoraxis>
+			<eccentricity errorminus="-0.030000" errorplus="0.030000">0.170000</eccentricity>
+			<periastron errorminus="-11.0000" errorplus="11.0000">156.0000</periastron>
+			<period errorminus="-0.00900000" errorplus="0.00900000">21.99800000</period>
+			<mass>0.39000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

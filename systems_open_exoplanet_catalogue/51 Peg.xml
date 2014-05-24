@@ -1,0 +1,35 @@
+<system>
+	<name>51 Peg</name>
+	<rightascension>22 57 27</rightascension>
+	<declination>+20 46 07</declination>
+	<distance>14.7</distance>
+	<star>
+		<mass>1.11</mass>
+		<radius>1.266</radius>
+		<magV>5.49</magV>
+		<magB>6.16</magB>
+		<magR>5.0</magR>
+		<magI>4.7</magI>
+		<magJ>4.66</magJ>
+		<magH>4.23</magH>
+		<magK errorminus="0.021" errorplus="0.021">3.911</magK>
+		<metallicity>0.2</metallicity>
+		<spectraltype>G2 IV</spectraltype>
+		<planet>
+			<name>51 Peg b</name>
+			<list>Confirmed planets</list>
+			<mass>0.468</mass>
+			<period>4.23077</period>
+			<semimajoraxis>0.052</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>79</inclination>
+			<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/07</lastupdate>
+			<discoveryyear>1995</discoveryyear>
+			<temperature>1260.3</temperature>
+		</planet>
+		<name>51 Peg</name>
+		<temperature>5793.0</temperature>
+	</star>
+</system>

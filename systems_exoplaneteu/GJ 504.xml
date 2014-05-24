@@ -1,0 +1,23 @@
+<system>
+	<name>GJ 504</name>
+	<rightascension>13 16 47</rightascension>
+	<declination>+09 25 27</declination>
+	<distance>17.56</distance>
+	<star>
+		<name>GJ 504</name>
+		<age>0.16</age>
+		<mass>1.22</mass>
+		<spectraltype>GOV</spectraltype>
+		<temperature>6234.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>GJ 504 b</name>
+			<semimajoraxis>43.5</semimajoraxis>
+			<mass errorminus="1.0" errorplus="4.5">4.0</mass>
+			<temperature>600.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

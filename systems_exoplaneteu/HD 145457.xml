@@ -1,0 +1,25 @@
+<system>
+	<name>HD 145457</name>
+	<rightascension>16 10 04</rightascension>
+	<declination>+26 44 34</declination>
+	<distance>126.0</distance>
+	<star>
+		<name>HD 145457</name>
+		<radius>9.9</radius>
+		<mass>1.9</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>4757.0</temperature>
+		<metallicity>-0.14</metallicity>
+		<planet>
+			<name>HD 145457 b</name>
+			<semimajoraxis>0.76</semimajoraxis>
+			<periastron errorminus="26.0" errorplus="26.0">300.0</periastron>
+			<eccentricity errorminus="3.1" errorplus="3.1">0.112</eccentricity>
+			<period errorminus="0.39" errorplus="0.39">176.3</period>
+			<mass>2.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/05/18</lastupdate>
+		</planet>
+	</star>
+</system>

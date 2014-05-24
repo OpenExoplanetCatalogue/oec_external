@@ -1,0 +1,24 @@
+<system>
+	<name>HD 70642</name>
+	<rightascension>08 21 28</rightascension>
+	<declination>-39 42 20</declination>
+	<star>
+		<name>HD 70642</name>
+		<magV>7.180</magV>
+		<magI>6.462</magI>
+		<magJ errorminus="0.020" errorplus="0.020">5.954</magJ>
+		<magH errorminus="0.040" errorplus="0.040">5.674</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.574</magK>
+		<planet>
+			<name>HD 70642 b</name>
+			<semimajoraxis>3.300000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.100000</eccentricity>
+			<periastron errorminus="-75.0000" errorplus="75.0000">277.0000</periastron>
+			<period errorminus="-400.00000000" errorplus="400.00000000">2231.00000000</period>
+			<mass>2.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

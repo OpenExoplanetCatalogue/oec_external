@@ -1,0 +1,27 @@
+<system>
+	<name>HD 66428</name>
+	<rightascension>08 03 28</rightascension>
+	<declination>-01 09 45</declination>
+	<distance>55</distance>
+	<star>
+		<mass>1.14552</mass>
+		<magV>8.25</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.97</magB>
+		<metallicity>0.31</metallicity>
+		<spectraltype>G5</spectraltype>
+		<planet>
+			<name>HD 66428 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.82</mass>
+			<period>1973</period>
+			<semimajoraxis>3.18</semimajoraxis>
+			<eccentricity>0.465</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>06/07/15</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+			<temperature>151.0</temperature>
+		</planet>
+		<name>HD 66428</name>
+		<temperature>5752.0</temperature>
+	</star>
+</system>

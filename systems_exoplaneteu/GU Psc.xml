@@ -1,0 +1,21 @@
+<system>
+	<name>GU Psc</name>
+	<rightascension>01 12 35</rightascension>
+	<declination>+17 03 56</declination>
+	<distance>48.0</distance>
+	<star>
+		<name>GU Psc</name>
+		<age>0.1</age>
+		<mass>0.35</mass>
+		<spectraltype>M3</spectraltype>
+		<planet>
+			<name>GU Psc b</name>
+			<semimajoraxis errorminus="200.0" errorplus="200.0">2000.0</semimajoraxis>
+			<mass errorminus="2.0" errorplus="2.0">11.0</mass>
+			<temperature>1050.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/04/29</lastupdate>
+		</planet>
+	</star>
+</system>

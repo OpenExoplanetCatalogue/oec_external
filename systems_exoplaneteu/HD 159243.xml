@@ -1,0 +1,36 @@
+<system>
+	<name>HD 159243</name>
+	<rightascension>17 33 22</rightascension>
+	<declination>+05 42 03</declination>
+	<distance>69.2</distance>
+	<star>
+		<name>HD 159243</name>
+		<age>1.25</age>
+		<mass>1.125</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>6123.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HD 159243 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.11</semimajoraxis>
+			<periastron errorminus="93.0" errorplus="93.0">223.0</periastron>
+			<eccentricity errorminus="0.018" errorplus="0.018">0.02</eccentricity>
+			<period errorminus="0.004" errorplus="0.004">12.62</period>
+			<mass errorminus="0.05" errorplus="0.05">1.13</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/11/25</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 159243 c</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.8</semimajoraxis>
+			<periastron errorminus="97.0" errorplus="97.0">69.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.075</eccentricity>
+			<period errorminus="4.9" errorplus="4.9">248.4</period>
+			<mass errorminus="0.13" errorplus="0.13">1.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/11/25</lastupdate>
+		</planet>
+	</star>
+</system>

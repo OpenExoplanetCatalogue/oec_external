@@ -1,0 +1,33 @@
+<system>
+	<name>Kepler-145</name>
+	<rightascension>19 25 33</rightascension>
+	<declination>+44 31 45</declination>
+	<star>
+		<name>Kepler-145</name>
+		<radius errorminus="0.05" errorplus="0.05">1.85</radius>
+		<magJ errorminus="0.025" errorplus="0.025">10.913</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.693</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.628</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.32</mass>
+		<temperature>6022.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-145 b</name>
+			<period>22.95100000</period>
+			<mass errorminus="-0.03600" errorplus="0.03600">0.11700</mass>
+			<radius errorminus="-0.007" errorplus="0.007">0.236</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-145 c</name>
+			<period>42.88200000</period>
+			<mass errorminus="-0.05200" errorplus="0.05200">0.25000</mass>
+			<radius errorminus="-0.011" errorplus="0.011">0.385</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+	</star>
+</system>

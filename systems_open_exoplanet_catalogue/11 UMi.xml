@@ -1,0 +1,32 @@
+<system>
+	<name>11 UMi</name>
+	<rightascension>15 17 06</rightascension>
+	<declination>+71 49 26</declination>
+	<distance>119.5</distance>
+	<star>
+		<mass>1.8</mass>
+		<radius>24.08</radius>
+		<magV>5.024</magV>
+		<magB>6.415</magB>
+		<magJ errorminus="0.230" errorplus="0.230">2.876</magJ>
+		<magH errorminus="0.194" errorplus="0.194">2.091</magH>
+		<magK errorminus="0.270" errorplus="0.270">1.939</magK>
+		<metallicity>0.04</metallicity>
+		<spectraltype>K4III</spectraltype>
+		<planet>
+			<name>11 UMi b</name>
+			<list>Confirmed planets</list>
+			<mass>10.5</mass>
+			<period>516.22</period>
+			<semimajoraxis>1.54</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<description>11 Ursae Minoris is a star located in the constellation Ursa Minor and also named Pherkard or Pherkad Minor.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/08/13</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>756.4</temperature>
+		</planet>
+		<name>11 UMi</name>
+		<temperature>4340.0</temperature>
+	</star>
+</system>

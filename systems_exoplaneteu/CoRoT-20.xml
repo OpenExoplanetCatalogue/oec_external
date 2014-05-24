@@ -1,0 +1,28 @@
+<system>
+	<name>CoRoT-20</name>
+	<rightascension>06 30 55</rightascension>
+	<declination>+00 13 37</declination>
+	<distance>1230.0</distance>
+	<star>
+		<name>CoRoT-20</name>
+		<age>0.1</age>
+		<radius>0.92</radius>
+		<mass>1.14</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5880.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>CoRoT-20 b</name>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.0902</semimajoraxis>
+			<periastron errorminus="2.4" errorplus="2.4">56.3</periastron>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.562</eccentricity>
+			<inclination errorminus="0.53" errorplus="0.53">88.21</inclination>
+			<period errorminus="0.0" errorplus="0.0">9.24285</period>
+			<mass errorminus="0.23" errorplus="0.23">4.24</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.84</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+		</planet>
+	</star>
+</system>

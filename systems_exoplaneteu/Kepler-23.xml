@@ -1,0 +1,31 @@
+<system>
+	<name>Kepler-23</name>
+	<rightascension>19 36 52</rightascension>
+	<declination>+49 28 45</declination>
+	<star>
+		<name>Kepler-23</name>
+		<radius>1.52</radius>
+		<mass>1.11</mass>
+		<temperature>5760.0</temperature>
+		<planet>
+			<name>Kepler-23 b</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<period>7.1073</period>
+			<mass errorminus="inf" errorplus="nan">0.8</mass>
+			<radius>0.17</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/01/30</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-23 c</name>
+			<semimajoraxis>0.099</semimajoraxis>
+			<period>10.7421</period>
+			<mass errorminus="inf" errorplus="nan">2.7</mass>
+			<radius>0.29</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/01/30</lastupdate>
+		</planet>
+	</star>
+</system>

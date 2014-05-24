@@ -1,0 +1,28 @@
+<system>
+	<name>Kepler-412</name>
+	<rightascension>19 04 26</rightascension>
+	<declination>+43 40 51</declination>
+	<distance>1056.0</distance>
+	<star>
+		<name>Kepler-412</name>
+		<age>5.1</age>
+		<radius>1.287</radius>
+		<mass>1.167</mass>
+		<spectraltype>G3V</spectraltype>
+		<temperature>5750.0</temperature>
+		<metallicity>0.27</metallicity>
+		<planet>
+			<name>Kepler-412 b</name>
+			<semimajoraxis errorminus="0.00078" errorplus="0.00078">0.02959</semimajoraxis>
+			<periastron errorminus="150.0" errorplus="49.0">125.0</periastron>
+			<eccentricity errorminus="0.0032" errorplus="0.0087">0.0038</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">80.89</inclination>
+			<period errorminus="4.7e-08" errorplus="4.7e-08">1.720861232</period>
+			<mass errorminus="0.085" errorplus="0.085">0.939</mass>
+			<radius errorminus="0.043" errorplus="0.043">1.325</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

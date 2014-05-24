@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-237</name>
+	<rightascension>18 52 53</rightascension>
+	<declination>+40 25 19</declination>
+	<star>
+		<name>Kepler-237</name>
+		<radius>0.72</radius>
+		<mass>0.7</mass>
+		<temperature>4861.0</temperature>
+		<metallicity>-0.077</metallicity>
+		<planet>
+			<name>Kepler-237 b</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<period errorminus="3e-05" errorplus="3e-05">4.715106</period>
+			<radius errorminus="0.067" errorplus="0.067">0.126</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-237 c</name>
+			<semimajoraxis>0.071</semimajoraxis>
+			<period errorminus="3.2e-05" errorplus="3.2e-05">8.103636</period>
+			<radius errorminus="0.098" errorplus="0.098">0.186</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

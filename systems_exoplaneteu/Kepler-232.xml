@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-232</name>
+	<rightascension>19 43 16</rightascension>
+	<declination>+51 07 18</declination>
+	<star>
+		<name>Kepler-232</name>
+		<radius>0.97</radius>
+		<temperature>5847.0</temperature>
+		<metallicity>0.083</metallicity>
+		<planet>
+			<name>Kepler-232 b</name>
+			<semimajoraxis>0.054</semimajoraxis>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">4.431222</period>
+			<radius errorminus="0.131" errorplus="0.131">0.275</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-232 c</name>
+			<semimajoraxis>0.101</semimajoraxis>
+			<period errorminus="4.4e-05" errorplus="4.4e-05">11.379349</period>
+			<radius errorminus="0.166" errorplus="0.166">0.342</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

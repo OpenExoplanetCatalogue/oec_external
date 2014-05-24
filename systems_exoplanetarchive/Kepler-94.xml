@@ -1,0 +1,33 @@
+<system>
+	<name>Kepler-94</name>
+	<rightascension>18 44 47</rightascension>
+	<declination>+47 29 50</declination>
+	<star>
+		<name>Kepler-94</name>
+		<radius errorminus="0.03" errorplus="0.03">0.76</radius>
+		<magJ errorminus="0.025" errorplus="0.025">11.181</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.681</magH>
+		<magK errorminus="0.011" errorplus="0.011">10.594</magK>
+		<mass errorminus="0.06" errorplus="0.06">0.81</mass>
+		<temperature errorminus="98.00" errorplus="98.00">4781.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-94 b</name>
+			<period>2.50806000</period>
+			<mass errorminus="-0.00400" errorplus="0.00400">0.03400</mass>
+			<radius errorminus="-0.013" errorplus="0.013">0.313</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454967.999800</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-94 c</name>
+			<period errorminus="-3.00000000" errorplus="3.00000000">820.30000000</period>
+			<mass errorminus="-0.62900" errorplus="0.62900">9.83600</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+		</planet>
+	</star>
+</system>

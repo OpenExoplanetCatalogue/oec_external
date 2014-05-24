@@ -1,0 +1,25 @@
+<system>
+	<name>HD 106515A</name>
+	<rightascension>12 15 07</rightascension>
+	<declination>-07 44 34</declination>
+	<distance>35.2</distance>
+	<star>
+		<name>HD 106515A</name>
+		<age>6.0</age>
+		<mass>0.91</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5232.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>HD 106515A b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">4.59</semimajoraxis>
+			<periastron errorminus="2.5" errorplus="2.5">123.8</periastron>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.572</eccentricity>
+			<period errorminus="14.2" errorplus="14.2">3630.0</period>
+			<mass errorminus="0.14" errorplus="0.14">9.61</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/11/30</lastupdate>
+		</planet>
+	</star>
+</system>

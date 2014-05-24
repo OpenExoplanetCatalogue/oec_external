@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-163</name>
+	<rightascension>19 40 01</rightascension>
+	<declination>+46 59 14</declination>
+	<star>
+		<name>Kepler-163</name>
+		<radius>0.92</radius>
+		<mass>0.96</mass>
+		<temperature>5776.0</temperature>
+		<metallicity>-0.016</metallicity>
+		<planet>
+			<name>Kepler-163 b</name>
+			<semimajoraxis>0.078</semimajoraxis>
+			<period errorminus="0.000107" errorplus="0.000107">7.810937</period>
+			<radius errorminus="0.039" errorplus="0.039">0.094</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-163 c</name>
+			<semimajoraxis>0.152</semimajoraxis>
+			<period errorminus="8.1e-05" errorplus="8.1e-05">21.347262</period>
+			<radius errorminus="0.084" errorplus="0.084">0.202</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,33 @@
+<system>
+	<name>GJ 682</name>
+	<rightascension>17 37 04</rightascension>
+	<declination>-43 19 09</declination>
+	<star>
+		<name>GJ 682</name>
+		<mass>0.27</mass>
+		<spectraltype>M3.5V</spectraltype>
+		<temperature>3028.0</temperature>
+		<planet>
+			<name>GJ 682 b</name>
+			<semimajoraxis errorminus="0.004" errorplus="0.014">0.08</semimajoraxis>
+			<periastron>1.5</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.19">0.08</eccentricity>
+			<period errorminus="17.438" errorplus="17.54">17.478</period>
+			<mass errorminus="0.00629267218324261" errorplus="0.0254853223421326">0.0138438788031</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 682 c</name>
+			<semimajoraxis errorminus="0.009" errorplus="0.03">0.176</semimajoraxis>
+			<periastron>5.6</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.19">0.1</eccentricity>
+			<period errorminus="56.84" errorplus="57.77">57.32</period>
+			<mass errorminus="0.0128999779756474" errorplus="0.045621873328509">0.0273731239971</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

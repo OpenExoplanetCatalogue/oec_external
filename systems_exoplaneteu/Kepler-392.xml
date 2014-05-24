@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-392</name>
+	<rightascension>19 14 39</rightascension>
+	<declination>+43 22 05</declination>
+	<star>
+		<name>Kepler-392</name>
+		<radius>1.13</radius>
+		<mass>1.13</mass>
+		<temperature>5938.0</temperature>
+		<metallicity>-0.297</metallicity>
+		<planet>
+			<name>Kepler-392 b</name>
+			<semimajoraxis>0.059</semimajoraxis>
+			<period errorminus="5.5e-05" errorplus="5.5e-05">5.341853</period>
+			<radius errorminus="0.019" errorplus="0.019">0.089</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-392 c</name>
+			<semimajoraxis>0.093</semimajoraxis>
+			<period errorminus="8.7e-05" errorplus="8.7e-05">10.423118</period>
+			<radius errorminus="0.021" errorplus="0.021">0.098</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

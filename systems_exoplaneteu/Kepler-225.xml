@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-225</name>
+	<rightascension>19 28 47</rightascension>
+	<declination>+47 27 26</declination>
+	<star>
+		<name>Kepler-225</name>
+		<radius>0.48</radius>
+		<temperature>3682.0</temperature>
+		<metallicity>-0.185</metallicity>
+		<planet>
+			<name>Kepler-225 b</name>
+			<semimajoraxis>0.056</semimajoraxis>
+			<period errorminus="4.1e-05" errorplus="4.1e-05">6.738975</period>
+			<radius errorminus="0.006" errorplus="0.006">0.107</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-225 c</name>
+			<semimajoraxis>0.111</semimajoraxis>
+			<period errorminus="7.6e-05" errorplus="7.6e-05">18.794234</period>
+			<radius errorminus="0.009" errorplus="0.009">0.164</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

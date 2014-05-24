@@ -1,0 +1,25 @@
+<system>
+	<name>HD 107148</name>
+	<rightascension>12 19 13</rightascension>
+	<declination>-03 40 49</declination>
+	<distance>51.3</distance>
+	<star>
+		<name>HD 107148</name>
+		<age>5.6</age>
+		<mass>1.12</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5797.0</temperature>
+		<metallicity>0.314</metallicity>
+		<planet>
+			<name>HD 107148 b</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.016">0.269</semimajoraxis>
+			<periastron>75.0</periastron>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.05</eccentricity>
+			<period errorminus="0.057" errorplus="0.057">48.056</period>
+			<mass errorminus="0.036" errorplus="0.036">0.21</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>14/02/13</lastupdate>
+		</planet>
+	</star>
+</system>

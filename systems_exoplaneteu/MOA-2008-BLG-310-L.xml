@@ -1,0 +1,17 @@
+<system>
+	<name>MOA-2008-BLG-310-L</name>
+	<rightascension>17 54 14</rightascension>
+	<declination>-34 13 19</declination>
+	<distance>6000.0</distance>
+	<star>
+		<name>MOA-2008-BLG-310-L</name>
+		<mass>0.67</mass>
+		<planet>
+			<name>MOA-2008-BLG-310-L b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.25</semimajoraxis>
+			<mass errorminus="0.05" errorplus="0.05">0.23</mass>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/08/10</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,36 @@
+<system>
+	<name>BD-082823</name>
+	<rightascension>10 00 48</rightascension>
+	<declination>-09 28 60</declination>
+	<distance>42.2</distance>
+	<star>
+		<name>BD-082823</name>
+		<age>4.5</age>
+		<mass>0.74</mass>
+		<spectraltype>K3V</spectraltype>
+		<temperature>4746.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>BD-082823 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.056</semimajoraxis>
+			<periastron errorminus="100.0" errorplus="100.0">30.0</periastron>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.15</eccentricity>
+			<period errorminus="0.02" errorplus="0.02">5.6</period>
+			<mass errorminus="0.007" errorplus="0.007">0.045</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/12/15</lastupdate>
+		</planet>
+		<planet>
+			<name>BD-082823 c</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.68</semimajoraxis>
+			<periastron errorminus="21.0" errorplus="21.0">-233.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.19</eccentricity>
+			<period errorminus="1.5" errorplus="1.5">237.6</period>
+			<mass errorminus="0.03" errorplus="0.03">0.33</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/12/16</lastupdate>
+		</planet>
+	</star>
+</system>

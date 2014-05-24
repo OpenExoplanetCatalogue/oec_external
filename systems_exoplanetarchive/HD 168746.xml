@@ -1,0 +1,23 @@
+<system>
+	<name>HD 168746</name>
+	<rightascension>18 21 50</rightascension>
+	<declination>-11 55 22</declination>
+	<star>
+		<name>HD 168746</name>
+		<magV errorminus="0.013" errorplus="0.013">7.946</magV>
+		<magJ errorminus="0.034" errorplus="0.034">6.679</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.329</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.253</magK>
+		<planet>
+			<name>HD 168746 b</name>
+			<semimajoraxis>0.065000</semimajoraxis>
+			<eccentricity errorminus="-0.029000" errorplus="0.029000">0.081000</eccentricity>
+			<periastron errorminus="-20.8800" errorplus="20.8800">16.3000</periastron>
+			<period errorminus="-0.00100000" errorplus="0.00100000">6.40300000</period>
+			<mass>0.23000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+	</star>
+</system>

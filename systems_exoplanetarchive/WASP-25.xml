@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-25</name>
+	<rightascension>13 01 26</rightascension>
+	<declination>-27 31 20</declination>
+	<star>
+		<name>WASP-25</name>
+		<radius errorminus="0.04" errorplus="0.04">0.92</radius>
+		<magJ errorminus="0.027" errorplus="0.027">10.596</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.268</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.174</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5703.00</temperature>
+		<planet>
+			<name>WASP-25 b</name>
+			<semimajoraxis errorminus="-0.000400" errorplus="0.000400">0.047300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="-0.500" errorplus="0.500">88.000</inclination>
+			<period errorminus="-0.00000500" errorplus="0.00000500">3.76482500</period>
+			<mass errorminus="-0.04000" errorplus="0.04000">0.58000</mass>
+			<radius errorminus="-0.050" errorplus="0.060">1.220</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 29</lastupdate>
+			<transittime errorminus="-0.000170" errorplus="0.000170">2455274.996490</transittime>
+		</planet>
+	</star>
+</system>

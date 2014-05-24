@@ -1,0 +1,26 @@
+<system>
+	<name>CoRoT-18</name>
+	<rightascension>06 32 41</rightascension>
+	<declination>+00 01 53</declination>
+	<distance>870.0</distance>
+	<star>
+		<name>CoRoT-18</name>
+		<radius>1.0</radius>
+		<mass>0.95</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5440.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>CoRoT-18 b</name>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0295</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.08</eccentricity>
+			<inclination errorminus="0.9" errorplus="0.9">86.5</inclination>
+			<period errorminus="2.8e-06" errorplus="2.8e-06">1.9000693</period>
+			<mass errorminus="0.38" errorplus="0.38">3.47</mass>
+			<radius errorminus="0.18" errorplus="0.18">1.31</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+		</planet>
+	</star>
+</system>

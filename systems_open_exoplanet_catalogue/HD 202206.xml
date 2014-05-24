@@ -1,0 +1,40 @@
+<system>
+	<name>HD 202206</name>
+	<rightascension>21 14 57</rightascension>
+	<declination>-20 47 21</declination>
+	<distance>46.34</distance>
+	<star>
+		<mass>1.13</mass>
+		<radius>1.02</radius>
+		<magV>8.08</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.79</magB>
+		<metallicity>0.37</metallicity>
+		<spectraltype>G6 V</spectraltype>
+		<planet>
+			<name>HD 202206 b</name>
+			<list>Confirmed planets</list>
+			<mass>17.4</mass>
+			<period>255.87</period>
+			<semimajoraxis>0.83</semimajoraxis>
+			<eccentricity>0.435</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/30</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+			<temperature>277.6</temperature>
+		</planet>
+		<planet>
+			<name>HD 202206 c</name>
+			<list>Confirmed planets</list>
+			<mass>2.44</mass>
+			<period>1383.4</period>
+			<semimajoraxis>2.55</semimajoraxis>
+			<eccentricity>0.267</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/30</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+			<temperature>159.6</temperature>
+		</planet>
+		<name>HD 202206</name>
+		<temperature>5750.0</temperature>
+	</star>
+</system>

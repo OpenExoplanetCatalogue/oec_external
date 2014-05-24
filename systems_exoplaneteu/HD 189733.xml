@@ -1,0 +1,27 @@
+<system>
+	<name>HD 189733</name>
+	<rightascension>20 00 43</rightascension>
+	<declination>+22 42 39</declination>
+	<distance>19.3</distance>
+	<star>
+		<name>HD 189733</name>
+		<age>0.6</age>
+		<radius>0.788</radius>
+		<mass>0.8</mass>
+		<spectraltype>K1-K2</spectraltype>
+		<temperature>4980.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>HD 189733 b</name>
+			<semimajoraxis errorminus="0.00052" errorplus="0.00052">0.03142</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.0041</eccentricity>
+			<inclination errorminus="0.05" errorplus="0.05">85.51</inclination>
+			<period errorminus="7.6e-07" errorplus="7.6e-07">2.21857312</period>
+			<mass errorminus="0.025" errorplus="0.025">1.138</mass>
+			<radius errorminus="0.077" errorplus="0.077">1.138</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>13/08/05</lastupdate>
+		</planet>
+	</star>
+</system>

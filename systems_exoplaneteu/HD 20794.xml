@@ -1,0 +1,45 @@
+<system>
+	<name>HD 20794</name>
+	<rightascension>03 19 56</rightascension>
+	<declination>-43 55 49</declination>
+	<distance>6.06</distance>
+	<star>
+		<name>HD 20794</name>
+		<age>14.0</age>
+		<radius>0.9</radius>
+		<mass>0.85</mass>
+		<spectraltype>G8V</spectraltype>
+		<temperature>5490.0</temperature>
+		<metallicity>-0.38</metallicity>
+		<planet>
+			<name>HD 20794 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.1207</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.008" errorplus="0.008">18.315</period>
+			<mass errorminus="0.00094" errorplus="0.00094">0.0085</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/08/03</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 20794 c</name>
+			<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.2036</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.053" errorplus="0.053">40.114</period>
+			<mass errorminus="0.0013" errorplus="0.0013">0.0076</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/08/03</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 20794 d</name>
+			<semimajoraxis errorminus="0.0059" errorplus="0.0059">0.3499</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period>90.309</period>
+			<mass errorminus="0.0019" errorplus="0.0019">0.015</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/08/03</lastupdate>
+		</planet>
+	</star>
+</system>

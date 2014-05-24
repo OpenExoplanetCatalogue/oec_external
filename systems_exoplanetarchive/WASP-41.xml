@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-41</name>
+	<rightascension>12 42 28</rightascension>
+	<declination>-30 38 24</declination>
+	<star>
+		<name>WASP-41</name>
+		<radius errorminus="0.05" errorplus="0.05">0.90</radius>
+		<magJ errorminus="0.024" errorplus="0.024">10.096</magJ>
+		<magH errorminus="0.024" errorplus="0.024">9.752</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.677</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.93</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5450.00</temperature>
+		<planet>
+			<name>WASP-41 b</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.040200</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.080" errorplus="0.080">87.700</inclination>
+			<period errorminus="-0.00000400" errorplus="0.00000400">3.05240100</period>
+			<mass errorminus="-0.06000" errorplus="0.06000">0.92000</mass>
+			<radius errorminus="-0.060" errorplus="0.060">1.200</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.001000" errorplus="0.001000">2455343.463000</transittime>
+		</planet>
+	</star>
+</system>

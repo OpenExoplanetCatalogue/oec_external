@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-339</name>
+	<rightascension>19 33 24</rightascension>
+	<declination>+48 26 41</declination>
+	<star>
+		<name>Kepler-339</name>
+		<radius errorminus="0.36" errorplus="0.36">0.80</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.280</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.895</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.874</magK>
+		<mass>0.84</mass>
+		<temperature errorminus="200.00" errorplus="200.00">5631.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-339 b</name>
+			<semimajoraxis>0.055000</semimajoraxis>
+			<period errorminus="-0.00001900" errorplus="0.00001900">4.97765600</period>
+			<radius errorminus="-0.059" errorplus="0.059">0.127</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002270" errorplus="0.002270">2454967.671510</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-339 c</name>
+			<semimajoraxis>0.069000</semimajoraxis>
+			<period errorminus="-0.00005300" errorplus="0.00005300">6.98805500</period>
+			<radius errorminus="-0.046" errorplus="0.046">0.103</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004460" errorplus="0.004460">2454965.561100</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-339 d</name>
+			<semimajoraxis>0.091000</semimajoraxis>
+			<period errorminus="-0.00008100" errorplus="0.00008100">10.55834500</period>
+			<radius errorminus="-0.047" errorplus="0.047">0.104</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004500" errorplus="0.004500">2454969.346630</transittime>
+		</planet>
+	</star>
+</system>

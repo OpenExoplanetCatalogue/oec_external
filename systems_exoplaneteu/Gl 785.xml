@@ -1,0 +1,25 @@
+<system>
+	<name>Gl 785</name>
+	<rightascension>20 15 17</rightascension>
+	<declination>-27 58 01</declination>
+	<distance>8.911</distance>
+	<star>
+		<name>Gl 785</name>
+		<radius>0.68</radius>
+		<mass>0.78</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5144.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Gl 785 b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.32</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="20.0">173.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.13</eccentricity>
+			<period errorminus="0.1" errorplus="0.1">74.72</period>
+			<mass errorminus="0.0028" errorplus="0.0028">0.053</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>11/09/03</lastupdate>
+		</planet>
+	</star>
+</system>

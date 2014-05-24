@@ -1,0 +1,26 @@
+<system>
+	<name>HD 139357</name>
+	<rightascension>15 35 16</rightascension>
+	<declination>+53 55 20</declination>
+	<distance>121.4</distance>
+	<star>
+		<name>HD 139357</name>
+		<age>3.07</age>
+		<radius>11.47</radius>
+		<mass>1.35</mass>
+		<spectraltype>K4III</spectraltype>
+		<temperature>4700.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>HD 139357 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">2.36</semimajoraxis>
+			<periastron errorminus="10.6" errorplus="10.6">235.4</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.1</eccentricity>
+			<period errorminus="9.0" errorplus="9.0">1125.7</period>
+			<mass errorminus="2.15" errorplus="2.15">9.76</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/03/23</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 5608</name>
+	<rightascension>00 58 14</rightascension>
+	<declination>+33 57 03</declination>
+	<distance>58.2</distance>
+	<star>
+		<name>HD 5608</name>
+		<radius>5.5</radius>
+		<mass>1.55</mass>
+		<spectraltype>K0IV</spectraltype>
+		<temperature>4854.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>HD 5608 b</name>
+			<semimajoraxis>1.9</semimajoraxis>
+			<period errorminus="7.7" errorplus="7.7">792.6</period>
+			<mass>1.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>CoRoT-19</name>
+	<rightascension>06 28 08</rightascension>
+	<declination>+00 10 14</declination>
+	<distance>800.0</distance>
+	<star>
+		<name>CoRoT-19</name>
+		<age>5.0</age>
+		<radius>1.65</radius>
+		<mass>1.21</mass>
+		<spectraltype>F9V</spectraltype>
+		<temperature>6090.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>CoRoT-19 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0518</semimajoraxis>
+			<periastron errorminus="60.0" errorplus="60.0">86.0</periastron>
+			<eccentricity errorminus="0.045" errorplus="0.045">0.047</eccentricity>
+			<inclination errorminus="0.37" errorplus="0.37">87.61</inclination>
+			<period errorminus="2e-05" errorplus="2e-05">3.89713</period>
+			<mass errorminus="0.06" errorplus="0.06">1.11</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.29</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+		</planet>
+	</star>
+</system>

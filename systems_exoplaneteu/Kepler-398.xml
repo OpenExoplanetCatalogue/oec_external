@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-398</name>
+	<rightascension>19 25 52</rightascension>
+	<declination>+40 20 38</declination>
+	<star>
+		<name>Kepler-398</name>
+		<radius>0.61</radius>
+		<temperature>4493.0</temperature>
+		<metallicity>-0.046</metallicity>
+		<planet>
+			<name>Kepler-398 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">4.081423</period>
+			<radius errorminus="0.009" errorplus="0.009">0.083</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-398 c</name>
+			<semimajoraxis>0.087</semimajoraxis>
+			<period errorminus="4.7e-05" errorplus="4.7e-05">11.419412</period>
+			<radius errorminus="0.01" errorplus="0.01">0.09</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

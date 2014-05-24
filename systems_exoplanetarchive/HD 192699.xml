@@ -1,0 +1,23 @@
+<system>
+	<name>HD 192699</name>
+	<rightascension>20 16 06</rightascension>
+	<declination>+04 34 51</declination>
+	<star>
+		<name>HD 192699</name>
+		<magV errorminus="0.010" errorplus="0.010">6.446</magV>
+		<magJ errorminus="0.262" errorplus="0.262">4.903</magJ>
+		<magH errorminus="0.260" errorplus="0.260">4.360</magH>
+		<magK errorminus="0.026" errorplus="0.026">4.366</magK>
+		<planet>
+			<name>HD 192699 b</name>
+			<semimajoraxis>1.160000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.149000</eccentricity>
+			<periastron errorminus="-30.0000" errorplus="30.0000">54.0000</periastron>
+			<period errorminus="-6.00000000" errorplus="6.00000000">351.50000000</period>
+			<mass>2.50000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 01</lastupdate>
+		</planet>
+	</star>
+</system>

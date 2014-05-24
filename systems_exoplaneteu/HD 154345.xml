@@ -1,0 +1,26 @@
+<system>
+	<name>HD 154345</name>
+	<rightascension>17 02 36</rightascension>
+	<declination>+47 04 55</declination>
+	<distance>18.06</distance>
+	<star>
+		<name>HD 154345</name>
+		<age>4.92</age>
+		<mass>0.88</mass>
+		<spectraltype>G8V</spectraltype>
+		<temperature>5468.0</temperature>
+		<metallicity>-0.105</metallicity>
+		<planet>
+			<name>HD 154345 b</name>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">4.3</semimajoraxis>
+			<periastron errorminus="60.0" errorplus="60.0">-14.0</periastron>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.26</eccentricity>
+			<inclination errorminus="26.0" errorplus="26.0">50.0</inclination>
+			<period errorminus="300.0" errorplus="300.0">3538.0</period>
+			<mass errorminus="0.3" errorplus="0.3">1.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>12/05/25</lastupdate>
+		</planet>
+	</star>
+</system>

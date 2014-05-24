@@ -1,0 +1,24 @@
+<system>
+	<name>OGLE-TR-182</name>
+	<rightascension>11 09 19</rightascension>
+	<declination>-61 54 17</declination>
+	<star>
+		<name>OGLE-TR-182</name>
+		<radius>1.14</radius>
+		<mass>1.14</mass>
+		<temperature>5924.0</temperature>
+		<metallicity>0.37</metallicity>
+		<planet>
+			<name>OGLE-TR-182 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.051</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.3" errorplus="0.3">85.7</inclination>
+			<period errorminus="1e-05" errorplus="1e-05">3.9791</period>
+			<mass errorminus="0.15" errorplus="0.15">1.06</mass>
+			<radius errorminus="0.14" errorplus="0.14">1.47</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>10/06/24</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-252</name>
+	<rightascension>19 42 19</rightascension>
+	<declination>+44 32 45</declination>
+	<star>
+		<name>Kepler-252</name>
+		<radius>0.55</radius>
+		<mass>0.52</mass>
+		<temperature>4208.0</temperature>
+		<metallicity>-0.67</metallicity>
+		<planet>
+			<name>Kepler-252 b</name>
+			<semimajoraxis>0.058</semimajoraxis>
+			<period errorminus="3.1e-05" errorplus="3.1e-05">6.668391</period>
+			<radius errorminus="0.011" errorplus="0.011">0.11</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-252 c</name>
+			<semimajoraxis>0.08</semimajoraxis>
+			<period errorminus="1.5e-05" errorplus="1.5e-05">10.848463</period>
+			<radius errorminus="0.012" errorplus="0.012">0.192</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-196</name>
+	<rightascension>18 59 52</rightascension>
+	<declination>+42 04 45</declination>
+	<star>
+		<name>Kepler-196</name>
+		<radius>0.78</radius>
+		<temperature>5128.0</temperature>
+		<metallicity>0.071</metallicity>
+		<planet>
+			<name>Kepler-196 b</name>
+			<semimajoraxis>0.138</semimajoraxis>
+			<period errorminus="6.6e-05" errorplus="6.6e-05">20.739886</period>
+			<radius errorminus="0.013" errorplus="0.013">0.17</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-196 c</name>
+			<semimajoraxis>0.24</semimajoraxis>
+			<period errorminus="0.000223" errorplus="0.000223">47.427737</period>
+			<radius errorminus="0.015" errorplus="0.015">0.2</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

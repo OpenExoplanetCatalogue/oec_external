@@ -1,0 +1,29 @@
+<system>
+	<name>HD 17156</name>
+	<rightascension>02 49 44</rightascension>
+	<declination>+71 45 12</declination>
+	<star>
+		<name>HD 17156</name>
+		<radius errorminus="0.01" errorplus="0.01">1.50</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.162</magV>
+		<magJ errorminus="0.018" errorplus="0.018">7.080</magJ>
+		<magH errorminus="0.027" errorplus="0.027">6.857</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.763</magK>
+		<mass errorminus="0.02" errorplus="0.02">1.27</mass>
+		<temperature errorminus="75.00" errorplus="75.00">6100.00</temperature>
+		<planet>
+			<name>HD 17156 b</name>
+			<semimajoraxis errorminus="-0.002200" errorplus="0.002200">0.161400</semimajoraxis>
+			<eccentricity errorminus="-0.004400" errorplus="0.004400">0.681900</eccentricity>
+			<periastron errorminus="-0.2300" errorplus="0.2300">121.9000</periastron>
+			<inclination errorminus="-0.110" errorplus="0.110">86.890</inclination>
+			<period errorminus="-0.00045000" errorplus="0.00045000">21.21663000</period>
+			<mass errorminus="-0.03300" errorplus="0.03300">3.19100</mass>
+			<radius errorminus="-0.007" errorplus="0.007">1.087</radius>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 02 04</lastupdate>
+			<transittime errorminus="-0.000073" errorplus="0.000073">2454884.028170</transittime>
+		</planet>
+	</star>
+</system>

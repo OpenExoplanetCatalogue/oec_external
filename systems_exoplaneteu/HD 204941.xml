@@ -1,0 +1,25 @@
+<system>
+	<name>HD 204941</name>
+	<rightascension>21 32 24</rightascension>
+	<declination>-20 02 33</declination>
+	<distance>27.0</distance>
+	<star>
+		<name>HD 204941</name>
+		<age>6.67</age>
+		<radius>0.72</radius>
+		<mass>0.74</mass>
+		<temperature>5056.0</temperature>
+		<metallicity>-0.19</metallicity>
+		<planet>
+			<name>HD 204941 b</name>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">2.56</semimajoraxis>
+			<periastron errorminus="18.0" errorplus="18.0">-132.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.37</eccentricity>
+			<period errorminus="74.0" errorplus="74.0">1733.0</period>
+			<mass errorminus="0.032" errorplus="0.032">0.266</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/08/02</lastupdate>
+		</planet>
+	</star>
+</system>

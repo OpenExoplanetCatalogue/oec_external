@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-194</name>
+	<rightascension>19 27 53</rightascension>
+	<declination>+47 51 51</declination>
+	<star>
+		<name>Kepler-194</name>
+		<radius errorminus="0.54" errorplus="0.54">1.02</radius>
+		<magJ errorminus="0.024" errorplus="0.024">13.780</magJ>
+		<magH errorminus="0.028" errorplus="0.028">13.450</magH>
+		<magK errorminus="0.046" errorplus="0.046">13.512</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6089.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-194 b</name>
+			<semimajoraxis>0.032000</semimajoraxis>
+			<period errorminus="-0.00000800" errorplus="0.00000800">2.09228100</period>
+			<radius errorminus="-0.070" errorplus="0.070">0.135</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002320" errorplus="0.002320">2454966.059640</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-194 c</name>
+			<semimajoraxis>0.131000</semimajoraxis>
+			<period errorminus="-0.00007900" errorplus="0.00007900">17.30803200</period>
+			<radius errorminus="-0.121" errorplus="0.121">0.231</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002530" errorplus="0.002530">2455009.941690</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-194 d</name>
+			<semimajoraxis>0.275000</semimajoraxis>
+			<period errorminus="-0.00048100" errorplus="0.00048100">52.81497300</period>
+			<radius errorminus="-0.112" errorplus="0.112">0.214</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005590" errorplus="0.005590">2454997.903240</transittime>
+		</planet>
+	</star>
+</system>

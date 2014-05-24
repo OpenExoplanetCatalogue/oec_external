@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-325</name>
+	<rightascension>19 19 21</rightascension>
+	<declination>+49 49 32</declination>
+	<star>
+		<name>Kepler-325</name>
+		<radius>1.0</radius>
+		<mass>0.87</mass>
+		<temperature>5752.0</temperature>
+		<metallicity>-0.171</metallicity>
+		<planet>
+			<name>Kepler-325 b</name>
+			<semimajoraxis>0.053</semimajoraxis>
+			<period errorminus="8e-06" errorplus="8e-06">4.544439</period>
+			<radius errorminus="0.128" errorplus="0.128">0.26</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-325 c</name>
+			<semimajoraxis>0.105</semimajoraxis>
+			<period errorminus="6.4e-05" errorplus="6.4e-05">12.762172</period>
+			<radius errorminus="0.112" errorplus="0.112">0.227</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-325 d</name>
+			<semimajoraxis>0.22</semimajoraxis>
+			<period errorminus="0.00022" errorplus="0.00022">38.715185</period>
+			<radius errorminus="0.124" errorplus="0.124">0.249</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

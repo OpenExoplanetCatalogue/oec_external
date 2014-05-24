@@ -1,0 +1,40 @@
+<system>
+	<name>HD 183263</name>
+	<rightascension>19 28 24</rightascension>
+	<declination>+08 21 28</declination>
+	<distance>53</distance>
+	<star>
+		<mass>1.17</mass>
+		<radius>1.21</radius>
+		<magV>7.86</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.51</magB>
+		<metallicity>0.3</metallicity>
+		<spectraltype>G2IV</spectraltype>
+		<planet>
+			<name>HD 183263 b</name>
+			<list>Confirmed planets</list>
+			<mass>3.67</mass>
+			<period>626.5</period>
+			<semimajoraxis>1.51</semimajoraxis>
+			<eccentricity>0.357</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/17</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+			<temperature>230.5</temperature>
+		</planet>
+		<planet>
+			<name>HD 183263 c</name>
+			<list>Confirmed planets</list>
+			<mass>3.82</mass>
+			<period>2950</period>
+			<semimajoraxis>4.25</semimajoraxis>
+			<eccentricity>0.253</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>08/12/10</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>138.0</temperature>
+		</planet>
+		<name>HD 183263</name>
+		<temperature>5888.0</temperature>
+	</star>
+</system>

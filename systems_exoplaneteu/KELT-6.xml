@@ -1,0 +1,24 @@
+<system>
+	<name>KELT-6</name>
+	<rightascension>13 03 56</rightascension>
+	<declination>+30 38 24</declination>
+	<star>
+		<name>KELT-6</name>
+		<radius>1.58</radius>
+		<mass>1.2</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6102.0</temperature>
+		<metallicity>-0.28</metallicity>
+		<planet>
+			<name>KELT-6 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.079</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.12">0.22</eccentricity>
+			<period errorminus="4.6e-05" errorplus="4.6e-05">7.845631</period>
+			<mass errorminus="0.05" errorplus="0.05">0.43</mass>
+			<radius errorminus="0.08" errorplus="0.13">1.19</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

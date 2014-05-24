@@ -1,0 +1,25 @@
+<system>
+	<name>HD 113337</name>
+	<rightascension>13 01 47</rightascension>
+	<declination>+63 36 37</declination>
+	<distance>36.9</distance>
+	<star>
+		<name>HD 113337</name>
+		<age>0.15</age>
+		<radius>1.5</radius>
+		<mass>1.4</mass>
+		<temperature>3818.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>HD 113337 b</name>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">0.92</semimajoraxis>
+			<periastron errorminus="3.7" errorplus="3.7">-140.8</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.46</eccentricity>
+			<period errorminus="1.7" errorplus="3.3">324.0</period>
+			<mass errorminus="0.24" errorplus="0.24">2.83</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/10/11</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>HD 196050</name>
+	<rightascension>20 37 51</rightascension>
+	<declination>-60 21 56</declination>
+	<distance>46.9</distance>
+	<star>
+		<name>HD 196050</name>
+		<age>3.17</age>
+		<radius>1.29</radius>
+		<mass>1.17</mass>
+		<spectraltype>G3 V</spectraltype>
+		<temperature>5874.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>HD 196050 b</name>
+			<semimajoraxis>2.47</semimajoraxis>
+			<periastron>223.0</periastron>
+			<eccentricity>0.21</eccentricity>
+			<period>1316.24</period>
+			<mass>2.83</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/12/22</lastupdate>
+		</planet>
+	</star>
+</system>

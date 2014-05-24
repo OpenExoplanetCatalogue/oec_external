@@ -1,0 +1,73 @@
+<system>
+	<name>Kepler-20</name>
+	<rightascension>19 10 48</rightascension>
+	<declination>+42 20 19</declination>
+	<distance>290.0</distance>
+	<star>
+		<name>Kepler-20</name>
+		<age>8.8</age>
+		<radius>0.944</radius>
+		<mass>0.912</mass>
+		<spectraltype>G8</spectraltype>
+		<temperature>5466.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-20 b</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.04537</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.32</eccentricity>
+			<inclination errorminus="0.31" errorplus="0.31">86.5</inclination>
+			<period>3.6961219</period>
+			<mass errorminus="0.00667023251423717" errorplus="0.00667023251423717">0.0265865399742</mass>
+			<radius errorminus="0.017842836725554" errorplus="0.00981356019905469">0.169506948893</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-20 c</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.093</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.4</eccentricity>
+			<inclination errorminus="0.16" errorplus="0.16">88.39</inclination>
+			<period errorminus="1.3e-05" errorplus="1.3e-05">10.854092</period>
+			<mass errorminus="0.00726803637164522" errorplus="0.00726803637164522">0.0493974766385</mass>
+			<radius errorminus="0.026764255088331" errorplus="0.0169506948892763">0.272995401901</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-20 d</name>
+			<semimajoraxis errorminus="0.0046" errorplus="0.0046">0.3453</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.6</eccentricity>
+			<inclination errorminus="0.0048" errorplus="0.0048">89.57</inclination>
+			<period errorminus="0.00037" errorplus="0.00037">77.61185</period>
+			<mass>0.06</mass>
+			<radius errorminus="0.027" errorplus="0.027">0.25</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/12/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-20 e</name>
+			<semimajoraxis errorminus="0.0067" errorplus="0.0067">0.0507</semimajoraxis>
+			<inclination errorminus="0.34" errorplus="0.34">87.5</inclination>
+			<period errorminus="6.5e-05" errorplus="6.5e-05">6.098493</period>
+			<mass errorminus="inf" errorplus="nan">0.0097</mass>
+			<radius errorminus="0.09" errorplus="0.09">0.078</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>13/08/30</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-20 f</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.11</semimajoraxis>
+			<inclination errorminus="0.17" errorplus="0.17">88.68</inclination>
+			<period errorminus="0.00052" errorplus="0.00052">19.57706</period>
+			<mass>0.045</mass>
+			<radius errorminus="0.01" errorplus="0.01">0.09</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/12/06</lastupdate>
+		</planet>
+	</star>
+</system>

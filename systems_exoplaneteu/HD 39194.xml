@@ -1,0 +1,40 @@
+<system>
+	<name>HD 39194</name>
+	<rightascension>05 44 32</rightascension>
+	<declination>-70 51 23</declination>
+	<distance>25.9</distance>
+	<star>
+		<name>HD 39194</name>
+		<spectraltype>K0V</spectraltype>
+		<planet>
+			<name>HD 39194 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0519</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.2</eccentricity>
+			<period errorminus="0.0008" errorplus="0.0008">5.6363</period>
+			<mass errorminus="0.001" errorplus="0.001">0.0117</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 39194 c</name>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0954</semimajoraxis>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.11</eccentricity>
+			<period errorminus="0.0051" errorplus="0.0051">14.025</period>
+			<mass errorminus="0.00148" errorplus="0.00148">0.0187</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 39194 d</name>
+			<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.172</semimajoraxis>
+			<eccentricity errorminus="0.16" errorplus="0.16">0.2</eccentricity>
+			<period errorminus="0.0353" errorplus="0.0353">33.941</period>
+			<mass errorminus="0.0026" errorplus="0.0026">0.0162</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

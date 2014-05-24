@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-58</name>
+	<rightascension>19 45 26</rightascension>
+	<declination>+39 06 55</declination>
+	<star>
+		<name>Kepler-58</name>
+		<radius errorminus="0.53" errorplus="0.53">1.13</radius>
+		<magJ errorminus="0.023" errorplus="0.023">13.643</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.382</magH>
+		<magK errorminus="0.032" errorplus="0.032">13.283</magK>
+		<mass>0.95</mass>
+		<temperature errorminus="200.00" errorplus="200.00">6099.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-58 b</name>
+			<period errorminus="-0.00015000" errorplus="0.00015000">10.21849540</period>
+			<mass>1.39000</mass>
+			<radius>0.248</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.005600" errorplus="0.005600">2454969.870480</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-58 c</name>
+			<period errorminus="-0.00027000" errorplus="0.00027000">15.57415680</period>
+			<mass>2.19000</mass>
+			<radius>0.255</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.006600" errorplus="0.006600">2454965.432090</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-58 d</name>
+			<semimajoraxis>0.236000</semimajoraxis>
+			<period errorminus="-0.00061200" errorplus="0.00061200">40.10137100</period>
+			<radius errorminus="-0.125" errorplus="0.125">0.262</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009030" errorplus="0.009030">2454965.717990</transittime>
+		</planet>
+	</star>
+</system>

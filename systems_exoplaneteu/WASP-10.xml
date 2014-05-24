@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-10</name>
+	<rightascension>23 15 58</rightascension>
+	<declination>+31 27 46</declination>
+	<distance>90.0</distance>
+	<star>
+		<name>WASP-10</name>
+		<age>0.8</age>
+		<radius>0.783</radius>
+		<mass>0.71</mass>
+		<spectraltype>K5</spectraltype>
+		<temperature>4675.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>WASP-10 b</name>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0371</semimajoraxis>
+			<periastron errorminus="0.166" errorplus="0.166">2.737</periastron>
+			<eccentricity errorminus="0.005" errorplus="0.005">0.057</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">86.8</inclination>
+			<period errorminus="1.82e-05" errorplus="1.82e-05">3.0927616</period>
+			<mass errorminus="0.23" errorplus="0.23">3.16</mass>
+			<radius errorminus="0.02" errorplus="0.02">1.08</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+		</planet>
+	</star>
+</system>

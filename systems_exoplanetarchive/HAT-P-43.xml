@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-43</name>
+	<rightascension>08 35 42</rightascension>
+	<declination>+10 12 24</declination>
+	<star>
+		<name>HAT-P-43</name>
+		<radius errorminus="0.04" errorplus="0.04">1.10</radius>
+		<magJ errorminus="0.017" errorplus="0.017">12.146</magJ>
+		<magH errorminus="0.028" errorplus="0.028">11.809</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.764</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.05</mass>
+		<temperature errorminus="74.00" errorplus="74.00">5645.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-43 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000400">0.044300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.700" errorplus="0.700">88.700</inclination>
+			<period errorminus="-0.00001500" errorplus="0.00001500">3.33268700</period>
+			<mass errorminus="-0.06000" errorplus="0.06000">0.66200</mass>
+			<radius errorminus="-0.033" errorplus="0.062">1.281</radius>
+			<temperature errorminus="-25" errorplus="25">1361</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 15</lastupdate>
+			<transittime errorminus="-0.000320" errorplus="0.000320">2455997.371060</transittime>
+		</planet>
+	</star>
+</system>

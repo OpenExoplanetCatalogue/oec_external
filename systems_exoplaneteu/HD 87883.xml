@@ -1,0 +1,27 @@
+<system>
+	<name>HD 87883</name>
+	<rightascension>10 08 43</rightascension>
+	<declination>+34 14 32</declination>
+	<distance>18.1</distance>
+	<star>
+		<name>HD 87883</name>
+		<age>9.8</age>
+		<radius>0.76</radius>
+		<mass>0.82</mass>
+		<spectraltype>K0V</spectraltype>
+		<temperature>4980.0</temperature>
+		<metallicity>0.093</metallicity>
+		<planet>
+			<name>HD 87883 b</name>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">3.6</semimajoraxis>
+			<periastron errorminus="15.0" errorplus="15.0">191.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.53</eccentricity>
+			<inclination errorminus="3.7" errorplus="3.7">8.5</inclination>
+			<period errorminus="87.0" errorplus="87.0">2754.0</period>
+			<mass errorminus="10.0" errorplus="9.2">12.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>11/01/11</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>HD 73267</name>
+	<rightascension>08 36 18</rightascension>
+	<declination>-34 32 24</declination>
+	<distance>54.91</distance>
+	<star>
+		<name>HD 73267</name>
+		<age>7.4</age>
+		<radius>1.04</radius>
+		<mass>0.89</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5317.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>HD 73267 b</name>
+			<semimajoraxis errorminus="0.025" errorplus="0.025">2.198</semimajoraxis>
+			<periastron errorminus="1.8" errorplus="1.8">229.1</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.256</eccentricity>
+			<period errorminus="7.0" errorplus="7.0">1260.0</period>
+			<mass errorminus="0.07" errorplus="0.07">3.06</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/10/28</lastupdate>
+		</planet>
+	</star>
+</system>

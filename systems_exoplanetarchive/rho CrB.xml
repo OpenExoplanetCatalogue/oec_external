@@ -1,0 +1,23 @@
+<system>
+	<name>rho CrB</name>
+	<rightascension>16 01 03</rightascension>
+	<declination>+33 18 13</declination>
+	<star>
+		<name>rho CrB</name>
+		<magV>5.400</magV>
+		<magJ errorminus="0.240" errorplus="0.240">4.088</magJ>
+		<magH errorminus="0.036" errorplus="0.036">3.989</magH>
+		<magK errorminus="0.036" errorplus="0.036">3.857</magK>
+		<planet>
+			<name>rho CrB b</name>
+			<semimajoraxis>0.220000</semimajoraxis>
+			<eccentricity errorminus="-0.150000" errorplus="0.150000">0.040000</eccentricity>
+			<periastron>311.0000</periastron>
+			<period>39.84500000</period>
+			<mass>1.04000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1997</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+		</planet>
+	</star>
+</system>

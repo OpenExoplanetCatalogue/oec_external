@@ -1,0 +1,26 @@
+<system>
+	<name>HD 178911 B</name>
+	<rightascension>19 09 03</rightascension>
+	<declination>+34 35 59</declination>
+	<distance>46.73</distance>
+	<star>
+		<name>HD 178911 B</name>
+		<age>5.2</age>
+		<radius>1.14</radius>
+		<mass>1.07</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5650.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>HD 178911 B b</name>
+			<semimajoraxis>0.32</semimajoraxis>
+			<periastron errorminus="3.6" errorplus="3.6">169.8</periastron>
+			<eccentricity errorminus="0.0075" errorplus="0.0075">0.1243</eccentricity>
+			<period errorminus="0.018" errorplus="0.018">71.487</period>
+			<mass errorminus="0.059" errorplus="0.059">6.292</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+		</planet>
+	</star>
+</system>

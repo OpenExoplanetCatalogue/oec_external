@@ -1,0 +1,27 @@
+<system>
+	<name>HD 167042</name>
+	<rightascension>18 10 32</rightascension>
+	<declination>+54 17 12</declination>
+	<star>
+		<name>HD 167042</name>
+		<radius errorminus="0.20" errorplus="0.20">4.50</radius>
+		<magV>5.940</magV>
+		<magJ errorminus="0.230" errorplus="0.230">3.933</magJ>
+		<magH errorminus="0.198" errorplus="0.198">3.557</magH>
+		<magK errorminus="0.238" errorplus="0.238">3.550</magK>
+		<mass errorminus="0.20" errorplus="0.20">1.50</mass>
+		<temperature errorminus="12.00" errorplus="12.00">4943.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 167042 b</name>
+			<semimajoraxis errorminus="-0.040000" errorplus="0.030000">1.320000</semimajoraxis>
+			<eccentricity errorminus="-0.065000" errorplus="0.028000">0.089000</eccentricity>
+			<periastron errorminus="-35.8000" errorplus="35.4000">85.7000</periastron>
+			<period errorminus="-3.11000000" errorplus="3.48000000">420.77000000</period>
+			<mass errorminus="-0.12000" errorplus="0.09000">1.70000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

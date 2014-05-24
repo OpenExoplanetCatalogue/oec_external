@@ -1,0 +1,24 @@
+<system>
+	<name>WISE 1217+16A</name>
+	<rightascension>12 17 57</rightascension>
+	<declination>+16 26 40</declination>
+	<distance>10.0</distance>
+	<star>
+		<name>WISE 1217+16A</name>
+		<age>6.0</age>
+		<radius>0.091</radius>
+		<mass>0.03</mass>
+		<spectraltype>T8.5</spectraltype>
+		<temperature>575.0</temperature>
+		<planet>
+			<name>WISE 1217+16A b</name>
+			<semimajoraxis>7.6</semimajoraxis>
+			<mass errorminus="2.0" errorplus="2.0">22.0</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.0</radius>
+			<temperature>450.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/11/16</lastupdate>
+		</planet>
+	</star>
+</system>

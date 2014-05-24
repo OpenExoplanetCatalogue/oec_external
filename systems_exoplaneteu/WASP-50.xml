@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-50</name>
+	<rightascension>02 54 45</rightascension>
+	<declination>-10 06 07</declination>
+	<distance>230.0</distance>
+	<star>
+		<name>WASP-50</name>
+		<age>8.1</age>
+		<radius>0.855</radius>
+		<mass>0.861</mass>
+		<spectraltype>G9</spectraltype>
+		<temperature>5400.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>WASP-50 b</name>
+			<semimajoraxis errorminus="0.00064" errorplus="0.00064">0.02913</semimajoraxis>
+			<periastron errorminus="80.0" errorplus="80.0">44.0</periastron>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.009</eccentricity>
+			<inclination errorminus="0.24" errorplus="0.24">84.74</inclination>
+			<period errorminus="5.1e-06" errorplus="5.1e-06">1.9550959</period>
+			<mass errorminus="0.068" errorplus="0.068">1.437</mass>
+			<radius errorminus="0.026" errorplus="0.026">1.138</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/12/05</lastupdate>
+		</planet>
+	</star>
+</system>

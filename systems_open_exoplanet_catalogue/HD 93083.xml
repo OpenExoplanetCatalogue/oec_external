@@ -1,0 +1,30 @@
+<system>
+	<name>HD 93083</name>
+	<rightascension>10 44 20</rightascension>
+	<declination>-33 34 37</declination>
+	<distance>28.9</distance>
+	<star>
+		<mass>0.7</mass>
+		<magV>8.3</magV>
+		<magB>9.27</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.694</magJ>
+		<magH errorminus="0.03" errorplus="0.03">6.26</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.132</magK>
+		<metallicity>0.15</metallicity>
+		<spectraltype>K3 V</spectraltype>
+		<planet>
+			<name>HD 93083 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.37</mass>
+			<period>143.58</period>
+			<semimajoraxis>0.477</semimajoraxis>
+			<eccentricity>0.14</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/31</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+			<temperature>292.3</temperature>
+		</planet>
+		<name>HD 93083</name>
+		<temperature>4995.0</temperature>
+	</star>
+</system>

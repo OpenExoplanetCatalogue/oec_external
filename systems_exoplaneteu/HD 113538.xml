@@ -1,0 +1,37 @@
+<system>
+	<name>HD 113538</name>
+	<rightascension>13 04 57</rightascension>
+	<declination>-52 33 25</declination>
+	<distance>15.8</distance>
+	<star>
+		<name>HD 113538</name>
+		<age>1.3</age>
+		<radius>0.65</radius>
+		<mass>0.7</mass>
+		<spectraltype>K9V</spectraltype>
+		<temperature>4685.0</temperature>
+		<metallicity>-0.17</metallicity>
+		<planet>
+			<name>HD 113538 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.71</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="20.0">74.0</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.61</eccentricity>
+			<period errorminus="2.3" errorplus="2.3">263.3</period>
+			<mass errorminus="0.08" errorplus="0.08">0.27</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/20</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 113538 c</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.43</semimajoraxis>
+			<periastron errorminus="21.0" errorplus="21.0">-90.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.32</eccentricity>
+			<period errorminus="48.0" errorplus="48.0">1657.0</period>
+			<mass errorminus="0.06" errorplus="0.06">0.71</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/20</lastupdate>
+		</planet>
+	</star>
+</system>

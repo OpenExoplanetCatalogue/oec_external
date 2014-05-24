@@ -1,0 +1,27 @@
+<system>
+	<name>CoRoT-3</name>
+	<rightascension>19 28 13</rightascension>
+	<declination>+00 07 19</declination>
+	<distance>680.0</distance>
+	<star>
+		<name>CoRoT-3</name>
+		<age>2.0</age>
+		<radius>1.56</radius>
+		<mass>1.37</mass>
+		<spectraltype>F3V</spectraltype>
+		<temperature>6740.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>CoRoT-3 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.057</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.8" errorplus="0.8">85.9</inclination>
+			<period errorminus="5e-06" errorplus="5e-06">4.2567994</period>
+			<mass errorminus="1.0" errorplus="1.0">21.77</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.01</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>13/07/08</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-287</name>
+	<rightascension>19 23 43</rightascension>
+	<declination>+48 26 37</declination>
+	<star>
+		<name>Kepler-287</name>
+		<radius>1.03</radius>
+		<temperature>5806.0</temperature>
+		<metallicity>-0.077</metallicity>
+		<planet>
+			<name>Kepler-287 b</name>
+			<semimajoraxis>0.145</semimajoraxis>
+			<period errorminus="8.4e-05" errorplus="8.4e-05">20.342199</period>
+			<radius errorminus="0.095" errorplus="0.095">0.208</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-287 c</name>
+			<semimajoraxis>0.246</semimajoraxis>
+			<period errorminus="0.000247" errorplus="0.000247">44.851896</period>
+			<radius errorminus="0.133" errorplus="0.133">0.291</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

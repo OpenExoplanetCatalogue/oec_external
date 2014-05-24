@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-37</name>
+	<rightascension>18 58 23</rightascension>
+	<declination>+44 31 05</declination>
+	<distance>66.0</distance>
+	<star>
+		<name>Kepler-37</name>
+		<age>6.0</age>
+		<radius>0.77</radius>
+		<mass>0.803</mass>
+		<temperature>5417.0</temperature>
+		<metallicity>-0.32</metallicity>
+		<planet>
+			<name>Kepler-37b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.1003</semimajoraxis>
+			<inclination errorminus="0.53" errorplus="0.3">88.63</inclination>
+			<period errorminus="8.5e-05" errorplus="5.8e-05">13.367308</period>
+			<mass errorminus="0.0116414435389988" errorplus="0.0116414435389988">0.00874681433471</mass>
+			<radius errorminus="0.0017842836725554" errorplus="0.0017842836725554">0.0285485387609</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-37c</name>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0011">0.1368</semimajoraxis>
+			<inclination errorminus="0.33" errorplus="0.19">89.07</inclination>
+			<period errorminus="4.4e-05" errorplus="4.6e-05">21.301886</period>
+			<mass>0.0314633609162131</mass>
+			<radius errorminus="0.0026764255088331" errorplus="0.0026764255088331">0.0669106377208274</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/01/12</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-37d</name>
+			<semimajoraxis errorminus="0.0022" errorplus="0.0016">0.2076</semimajoraxis>
+			<inclination errorminus="0.047" errorplus="0.043">89.335</inclination>
+			<period errorminus="4.3e-05" errorplus="4e-05">39.792187</period>
+			<mass>0.0383853003177799</mass>
+			<radius errorminus="0.00535285101766619" errorplus="0.00535285101766619">0.173075516237874</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/01/12</lastupdate>
+		</planet>
+	</star>
+</system>

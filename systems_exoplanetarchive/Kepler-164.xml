@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-164</name>
+	<rightascension>19 11 07</rightascension>
+	<declination>+47 37 48</declination>
+	<star>
+		<name>Kepler-164</name>
+		<radius errorminus="0.22" errorplus="0.22">1.15</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.254</magJ>
+		<magH errorminus="0.022" errorplus="0.022">13.008</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.935</magK>
+		<mass>1.11</mass>
+		<temperature errorminus="113.00" errorplus="113.00">5888.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-164 b</name>
+			<semimajoraxis>0.058000</semimajoraxis>
+			<period errorminus="-0.00002700" errorplus="0.00002700">5.03503000</period>
+			<radius errorminus="-0.025" errorplus="0.025">0.126</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003380" errorplus="0.003380">2454965.654650</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-164 c</name>
+			<semimajoraxis>0.097000</semimajoraxis>
+			<period errorminus="-0.00002900" errorplus="0.00002900">10.94572300</period>
+			<radius errorminus="-0.046" errorplus="0.046">0.244</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001490" errorplus="0.001490">2455009.720460</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-164 d</name>
+			<semimajoraxis>0.187000</semimajoraxis>
+			<period errorminus="-0.00016200" errorplus="0.00016200">28.98676900</period>
+			<radius errorminus="-0.042" errorplus="0.042">0.219</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003380" errorplus="0.003380">2454967.782680</transittime>
+		</planet>
+	</star>
+</system>

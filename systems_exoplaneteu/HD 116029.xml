@@ -1,0 +1,26 @@
+<system>
+	<name>HD 116029</name>
+	<rightascension>13 20 40</rightascension>
+	<declination>+24 38 55</declination>
+	<distance>123.2</distance>
+	<star>
+		<name>HD 116029</name>
+		<age>2.7</age>
+		<radius>4.6</radius>
+		<mass>1.58</mass>
+		<spectraltype>K1III</spectraltype>
+		<temperature>4951.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 116029 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.73</semimajoraxis>
+			<periastron errorminus="100.0" errorplus="100.0">360.0</periastron>
+			<eccentricity errorminus="inf" errorplus="nan">0.21</eccentricity>
+			<period errorminus="8.3" errorplus="8.3">670.2</period>
+			<mass errorminus="0.2" errorplus="0.2">2.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+		</planet>
+	</star>
+</system>

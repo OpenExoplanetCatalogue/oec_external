@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-42</name>
+	<rightascension>12 51 56</rightascension>
+	<declination>-42 04 25</declination>
+	<star>
+		<name>WASP-42</name>
+		<radius errorminus="0.04" errorplus="0.04">0.86</radius>
+		<magJ errorminus="0.025" errorplus="0.025">10.542</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.103</magH>
+		<magK errorminus="0.022" errorplus="0.022">10.033</magK>
+		<mass errorminus="0.09" errorplus="0.09">0.88</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5200.00</temperature>
+		<planet>
+			<name>WASP-42 b</name>
+			<semimajoraxis errorminus="-0.001700" errorplus="0.001700">0.054800</semimajoraxis>
+			<eccentricity errorminus="-0.013000" errorplus="0.013000">0.060000</eccentricity>
+			<periastron errorminus="-26.0000" errorplus="26.0000">167.0000</periastron>
+			<inclination errorminus="-0.230" errorplus="0.270">88.250</inclination>
+			<period errorminus="-0.00000730" errorplus="0.00000730">4.98168720</period>
+			<mass errorminus="-0.03500" errorplus="0.03500">0.50000</mass>
+			<radius errorminus="-0.057" errorplus="0.057">1.080</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000230" errorplus="0.000230">2455650.567200</transittime>
+		</planet>
+	</star>
+</system>

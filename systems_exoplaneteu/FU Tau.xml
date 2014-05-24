@@ -1,0 +1,21 @@
+<system>
+	<name>FU Tau</name>
+	<rightascension>04 23 35</rightascension>
+	<declination>+25 03 03</declination>
+	<distance>140.0</distance>
+	<star>
+		<name>FU Tau</name>
+		<age>0.001</age>
+		<mass>0.05</mass>
+		<spectraltype>M7.25</spectraltype>
+		<temperature>2838.0</temperature>
+		<planet>
+			<name>FU Tau b</name>
+			<semimajoraxis>800.0</semimajoraxis>
+			<mass>15.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>11/09/19</lastupdate>
+		</planet>
+	</star>
+</system>

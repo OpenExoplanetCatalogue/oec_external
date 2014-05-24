@@ -1,0 +1,28 @@
+<system>
+	<name>CoRoT-2</name>
+	<rightascension>19 27 07</rightascension>
+	<declination>+01 23 01</declination>
+	<star>
+		<name>CoRoT-2</name>
+		<radius errorminus="0.03" errorplus="0.03">0.91</radius>
+		<magJ errorminus="0.028" errorplus="0.028">10.783</magJ>
+		<magH errorminus="0.037" errorplus="0.037">10.438</magH>
+		<magK errorminus="0.031" errorplus="0.031">10.310</magK>
+		<mass errorminus="0.08" errorplus="0.08">0.96</mass>
+		<temperature errorminus="120.00" errorplus="120.00">5625.00</temperature>
+		<planet>
+			<name>CoRoT-2 b</name>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.000760">0.027980</semimajoraxis>
+			<eccentricity errorminus="-0.007600" errorplus="0.007700">0.014300</eccentricity>
+			<periastron errorminus="-5.0000" errorplus="17.0000">102.0000</periastron>
+			<inclination errorminus="-0.160" errorplus="0.180">88.080</inclination>
+			<period errorminus="-0.00000100" errorplus="0.00000100">1.74299350</period>
+			<mass errorminus="-0.22000" errorplus="0.22000">3.47000</mass>
+			<radius errorminus="-0.044" errorplus="0.042">1.466</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+			<transittime errorminus="-0.000210" errorplus="0.000200">2454237.535560</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>gamma Cephei</name>
+	<rightascension>23 39 20</rightascension>
+	<declination>+77 37 56</declination>
+	<distance>13.79</distance>
+	<star>
+		<name>gamma Cephei</name>
+		<age>6.6</age>
+		<radius>4.9</radius>
+		<mass>1.4</mass>
+		<spectraltype>K1III-IV</spectraltype>
+		<temperature>4800.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>gamma Cephei b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.05</semimajoraxis>
+			<periastron errorminus="34.6" errorplus="34.6">94.6</periastron>
+			<eccentricity errorminus="0.034" errorplus="0.034">0.049</eccentricity>
+			<inclination errorminus="1.9" errorplus="1.9">5.7</inclination>
+			<period errorminus="1.5" errorplus="1.5">903.3</period>
+			<mass errorminus="0.06" errorplus="0.06">1.85</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>12/12/11</lastupdate>
+		</planet>
+	</star>
+</system>

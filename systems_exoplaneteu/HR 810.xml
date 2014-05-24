@@ -1,0 +1,26 @@
+<system>
+	<name>HR 810</name>
+	<rightascension>02 42 31</rightascension>
+	<declination>-50 11 48</declination>
+	<distance>17.17</distance>
+	<star>
+		<name>HR 810</name>
+		<age>3.6</age>
+		<radius>1.85</radius>
+		<mass>1.11</mass>
+		<spectraltype>G0V pecul.</spectraltype>
+		<temperature>5997.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HR 810 b</name>
+			<semimajoraxis errorminus="0.104" errorplus="0.104">0.925</semimajoraxis>
+			<periastron errorminus="11.0" errorplus="11.0">83.0</periastron>
+			<eccentricity errorminus="0.069" errorplus="0.069">0.161</eccentricity>
+			<period errorminus="2.1" errorplus="2.1">320.1</period>
+			<mass errorminus="0.18" errorplus="0.18">2.26</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+		</planet>
+	</star>
+</system>

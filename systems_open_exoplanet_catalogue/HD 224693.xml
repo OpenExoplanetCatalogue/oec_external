@@ -1,0 +1,31 @@
+<system>
+	<name>HD 224693</name>
+	<rightascension>23 59 54</rightascension>
+	<declination>-22 25 41</declination>
+	<distance>94</distance>
+	<star>
+		<mass>1.33</mass>
+		<radius>1.7</radius>
+		<magV>8.23</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.87</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.136</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.882</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.808</magK>
+		<metallicity>0.343</metallicity>
+		<spectraltype>G2IV</spectraltype>
+		<planet>
+			<name>HD 224693 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.71</mass>
+			<period>26.73</period>
+			<semimajoraxis>0.233</semimajoraxis>
+			<eccentricity>0.05</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>06/04/18</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+			<temperature>718.9</temperature>
+		</planet>
+		<name>HD 224693</name>
+		<temperature>6037.0</temperature>
+	</star>
+</system>

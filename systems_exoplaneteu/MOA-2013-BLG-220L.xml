@@ -1,0 +1,18 @@
+<system>
+	<name>MOA-2013-BLG-220L</name>
+	<rightascension>18 03 57</rightascension>
+	<declination>-28 32 41</declination>
+	<distance>2000.0</distance>
+	<star>
+		<name>MOA-2013-BLG-220L</name>
+		<mass>0.05</mass>
+		<spectraltype>Brown Dwarf</spectraltype>
+		<planet>
+			<name>MOA-2013-BLG-220L b</name>
+			<semimajoraxis>0.7</semimajoraxis>
+			<mass>0.188780165497278</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/11</lastupdate>
+		</planet>
+	</star>
+</system>

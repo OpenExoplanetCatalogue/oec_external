@@ -1,0 +1,86 @@
+<system>
+	<name>Kepler-11</name>
+	<rightascension>19 48 28</rightascension>
+	<declination>+41 54 33</declination>
+	<star>
+		<name>Kepler-11</name>
+		<age>8.0</age>
+		<radius>1.1</radius>
+		<mass>0.95</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5680.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-11 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.091</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="6.0" errorplus="1.0">88.5</inclination>
+			<period errorminus="0.00016" errorplus="0.00016">10.30375</period>
+			<mass errorminus="0.00314633609162131" errorplus="0.00440487052826983">0.00597803857408</mass>
+			<radius errorminus="0.00446070918138849" errorplus="0.0026764255088331">0.16058553053</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-11 c</name>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.106</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.6" errorplus="0.1">89.0</inclination>
+			<period errorminus="8e-05" errorplus="8e-05">13.02502</period>
+			<mass errorminus="0.00503413774659409" errorplus="0.00912437466570179">0.0091243746657</mass>
+			<radius errorminus="0.00535285101766619" errorplus="0.00535285101766619">0.256044707012</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-11 d</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.159</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.6">89.3</inclination>
+			<period errorminus="0.00021" errorplus="0.00021">22.68719</period>
+			<mass errorminus="0.00471950413743196" errorplus="0.00251706887329705">0.0229682534688</mass>
+			<radius errorminus="0.00624499285394389" errorplus="0.00624499285394389">0.278348252919</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-11 e</name>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.194</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">88.8</inclination>
+			<period errorminus="0.00028" errorplus="0.00028">31.9959</period>
+			<mass errorminus="0.007866" errorplus="0.005978">0.02643</mass>
+			<radius errorminus="0.0385" errorplus="0.0385">0.4043</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-11 f</name>
+			<semimajoraxis errorminus="0.009" errorplus="0.009">0.25</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.3">89.4</inclination>
+			<period errorminus="0.00074" errorplus="0.00074">46.68876</period>
+			<mass errorminus="0.00283170248245918" errorplus="0.00251706887329705">0.00629267218324</mass>
+			<radius errorminus="0.00624499285394389" errorplus="0.00356856734511079">0.222143317233</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-11 g</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.016">0.462</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">89.8</inclination>
+			<period errorminus="0.00112" errorplus="0.00112">118.37774</period>
+			<mass errorminus="0.0" errorplus="0.95">0.95</mass>
+			<radius errorminus="0.0313" errorplus="0.0313">0.3274</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

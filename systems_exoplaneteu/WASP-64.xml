@@ -1,0 +1,17 @@
+<system>
+	<name>WASP-64</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<star>
+		<name>WASP-64</name>
+		<planet>
+			<name>WASP-64 b</name>
+			<period>1.6</period>
+			<mass>1.2</mass>
+			<radius>0.7</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

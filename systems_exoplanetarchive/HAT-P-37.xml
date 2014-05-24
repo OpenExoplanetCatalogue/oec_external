@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-37</name>
+	<rightascension>18 57 11</rightascension>
+	<declination>+51 16 09</declination>
+	<star>
+		<name>HAT-P-37</name>
+		<radius errorminus="0.06" errorplus="0.06">0.88</radius>
+		<magJ errorminus="0.027" errorplus="0.027">12.092</magJ>
+		<magH errorminus="0.032" errorplus="0.032">11.714</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.667</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.93</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5500.00</temperature>
+		<planet>
+			<name>HAT-P-37 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.037900</semimajoraxis>
+			<eccentricity errorminus="-0.038000" errorplus="0.038000">0.058000</eccentricity>
+			<periastron errorminus="-84.0000" errorplus="84.0000">164.0000</periastron>
+			<inclination errorminus="-0.500" errorplus="0.400">86.900</inclination>
+			<period errorminus="-0.00000700" errorplus="0.00000700">2.79743600</period>
+			<mass errorminus="-0.10300" errorplus="0.10300">1.16900</mass>
+			<radius errorminus="-0.077" errorplus="0.077">1.178</radius>
+			<temperature errorminus="-47" errorplus="47">1271</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000290" errorplus="0.000290">2455642.143180</transittime>
+		</planet>
+	</star>
+</system>

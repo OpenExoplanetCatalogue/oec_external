@@ -1,0 +1,35 @@
+<system>
+	<name>HAT-P-16</name>
+	<rightascension>00 38 18</rightascension>
+	<declination>+42 27 47</declination>
+	<distance>235</distance>
+	<star>
+		<mass>1.218</mass>
+		<radius>1.237</radius>
+		<magV errorminus="0.06" errorplus="0.06">10.91</magV>
+		<magB errorminus="0.06" errorplus="0.06">11.38</magB>
+		<magJ errorminus="0.022" errorplus="0.022">9.850</magJ>
+		<magH errorminus="0.022" errorplus="0.022">9.623</magH>
+		<magK errorminus="0.020" errorplus="0.020">9.553</magK>
+		<metallicity>0.17</metallicity>
+		<spectraltype>F8</spectraltype>
+		<planet>
+			<name>HAT-P-16 b</name>
+			<list>Confirmed planets</list>
+			<mass>4.193</mass>
+			<radius>1.289</radius>
+			<period>2.77596</period>
+			<semimajoraxis>0.0413</semimajoraxis>
+			<eccentricity>0.036</eccentricity>
+			<inclination>86.6</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>11/05/20</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>1485.9</temperature>
+			<transittime errorminus="0.00031" errorplus="0.00031" unit="BJD">2455027.59293</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-16</name>
+		<temperature>6158.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-388</name>
+	<rightascension>18 59 19</rightascension>
+	<declination>+44 36 31</declination>
+	<star>
+		<name>Kepler-388</name>
+		<radius>0.59</radius>
+		<mass>0.59</mass>
+		<temperature>4498.0</temperature>
+		<metallicity>-0.329</metallicity>
+		<planet>
+			<name>Kepler-388 b</name>
+			<semimajoraxis>0.036</semimajoraxis>
+			<period errorminus="1.8e-05" errorplus="1.8e-05">3.173315</period>
+			<radius errorminus="0.009" errorplus="0.009">0.072</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-388 c</name>
+			<semimajoraxis>0.093</semimajoraxis>
+			<period errorminus="0.000185" errorplus="0.000185">13.297004</period>
+			<radius errorminus="0.01" errorplus="0.01">0.077</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

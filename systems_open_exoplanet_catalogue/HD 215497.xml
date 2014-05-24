@@ -1,0 +1,42 @@
+<system>
+	<name>HD 215497</name>
+	<rightascension>22 46 37</rightascension>
+	<declination>-56 35 58</declination>
+	<distance>44</distance>
+	<star>
+		<mass>0.87</mass>
+		<magV>8.97</magV>
+		<magB errorminus="0.03" errorplus="0.03">9.92</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.339</magJ>
+		<magH errorminus="0.053" errorplus="0.053">6.917</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.784</magK>
+		<metallicity>0.23</metallicity>
+		<spectraltype>K3V</spectraltype>
+		<planet>
+			<name>HD 215497 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.02</mass>
+			<period>3.93404</period>
+			<semimajoraxis>0.047</semimajoraxis>
+			<eccentricity>0.16</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/06</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>984.3</temperature>
+		</planet>
+		<planet>
+			<name>HD 215497 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.33</mass>
+			<period>567.94</period>
+			<semimajoraxis>1.282</semimajoraxis>
+			<eccentricity>0.49</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/06</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>185.8</temperature>
+		</planet>
+		<name>HD 215497</name>
+		<temperature>5113.0</temperature>
+	</star>
+</system>

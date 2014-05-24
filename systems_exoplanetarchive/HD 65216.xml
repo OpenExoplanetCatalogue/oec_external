@@ -1,0 +1,37 @@
+<system>
+	<name>HD 65216</name>
+	<rightascension>07 53 41</rightascension>
+	<declination>-63 38 50</declination>
+	<star>
+		<name>HD 65216</name>
+		<magV errorminus="0.011" errorplus="0.011">7.964</magV>
+		<magJ errorminus="0.024" errorplus="0.024">6.763</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.420</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.329</magK>
+		<mass>0.92</mass>
+		<temperature>5666.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 65216 b</name>
+			<semimajoraxis errorminus="-0.030000" errorplus="0.030000">1.300000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.000000</eccentricity>
+			<periastron errorminus="-41.0000" errorplus="41.0000">0.0000</periastron>
+			<period errorminus="-2.10000000" errorplus="2.10000000">572.40000000</period>
+			<mass errorminus="-0.04000" errorplus="0.04000">1.26000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 65216 c</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.540000</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.020000</eccentricity>
+			<periastron errorminus="-54.0000" errorplus="54.0000">0.0000</periastron>
+			<period errorminus="-0.60000000" errorplus="0.60000000">152.60000000</period>
+			<mass errorminus="-0.03000" errorplus="0.03000">0.17000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

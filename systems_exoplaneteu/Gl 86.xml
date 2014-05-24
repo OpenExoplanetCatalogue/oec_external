@@ -1,0 +1,26 @@
+<system>
+	<name>Gl 86</name>
+	<rightascension>02 10 26</rightascension>
+	<declination>-50 10 35</declination>
+	<distance>10.9</distance>
+	<star>
+		<name>Gl 86</name>
+		<age>2.03</age>
+		<radius>0.855</radius>
+		<mass>0.8</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5350.0</temperature>
+		<metallicity>-0.24</metallicity>
+		<planet>
+			<name>Gl 86 b</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<periastron>266.0</periastron>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.046</eccentricity>
+			<period errorminus="0.04" errorplus="0.04">15.766</period>
+			<mass>4.01</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>12/11/21</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,60 @@
+<system>
+	<name>GJ 581</name>
+	<rightascension>15 19 27</rightascension>
+	<declination>-07 43 20</declination>
+	<star>
+		<name>GJ 581</name>
+		<radius>0.29</radius>
+		<magV errorminus="0.011" errorplus="0.011">10.560</magV>
+		<magI errorminus="0.008" errorplus="0.008">8.030</magI>
+		<magJ errorminus="0.025" errorplus="0.025">6.706</magJ>
+		<magH errorminus="0.033" errorplus="0.033">6.095</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.837</magK>
+		<mass errorminus="0.02" errorplus="0.02">0.31</mass>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 581 b</name>
+			<semimajoraxis>0.040000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<period errorminus="-0.00019000" errorplus="0.00019000">5.36874000</period>
+			<mass>0.04900</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 581 c</name>
+			<semimajoraxis>0.070000</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.170000</eccentricity>
+			<periastron errorminus="-25.0000" errorplus="25.0000">-110.0000</periastron>
+			<period errorminus="-0.00470000" errorplus="0.00470000">12.92920000</period>
+			<mass>0.01700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 581 d</name>
+			<semimajoraxis>0.220000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.380000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">-33.0000</periastron>
+			<period errorminus="-0.14000000" errorplus="0.14000000">66.80000000</period>
+			<mass>0.02200</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 581 e</name>
+			<semimajoraxis>0.030000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<period errorminus="-0.00045000" errorplus="0.00045000">3.14942000</period>
+			<mass>0.00600</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

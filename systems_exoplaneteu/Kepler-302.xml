@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-302</name>
+	<rightascension>19 37 16</rightascension>
+	<declination>+43 37 46</declination>
+	<star>
+		<name>Kepler-302</name>
+		<radius>1.22</radius>
+		<temperature>5740.0</temperature>
+		<metallicity>-0.238</metallicity>
+		<planet>
+			<name>Kepler-302 b</name>
+			<semimajoraxis>0.193</semimajoraxis>
+			<period errorminus="0.000203" errorplus="0.000203">30.184104</period>
+			<radius errorminus="0.076" errorplus="0.076">0.362</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-302 c</name>
+			<semimajoraxis>0.503</semimajoraxis>
+			<period errorminus="0.000427" errorplus="0.000427">127.282184</period>
+			<radius errorminus="0.227" errorplus="0.227">1.111</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

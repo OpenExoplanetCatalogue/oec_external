@@ -1,0 +1,20 @@
+<system>
+	<name>HD 150433</name>
+	<rightascension>16 41 08</rightascension>
+	<declination>-02 08 34</declination>
+	<distance>29.6</distance>
+	<star>
+		<name>HD 150433</name>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 150433 b</name>
+			<semimajoraxis errorminus="0.0452" errorplus="0.0452">1.9303</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="27.234" errorplus="27.234">1096.2</period>
+			<mass errorminus="0.0197" errorplus="0.0197">0.168</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

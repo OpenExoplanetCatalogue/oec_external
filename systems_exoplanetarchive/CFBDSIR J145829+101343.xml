@@ -1,0 +1,20 @@
+<system>
+	<name>CFBDSIR J145829+101343</name>
+	<rightascension>14 58 29</rightascension>
+	<declination>+10 13 43</declination>
+	<star>
+		<name>CFBDSIR J145829+101343</name>
+		<mass errorminus="0.01" errorplus="0.01">0.02</mass>
+		<temperature errorminus="24.50" errorplus="24.50">580.50</temperature>
+		<planet>
+			<name>CFBDSIR J145829+101343 b</name>
+			<semimajoraxis errorminus="-0.300000" errorplus="0.300000">2.600000</semimajoraxis>
+			<period errorminus="-2737.50000000" errorplus="2737.50000000">10037.50000000</period>
+			<mass errorminus="-4.50000" errorplus="4.50000">10.50000</mass>
+			<temperature errorminus="-40" errorplus="40">370</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 08 06</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>WTS-1</name>
+	<rightascension>19 35 58</rightascension>
+	<declination>+36 17 25</declination>
+	<distance>3200.0</distance>
+	<star>
+		<name>WTS-1</name>
+		<age>2.5</age>
+		<radius>1.15</radius>
+		<mass>1.2</mass>
+		<temperature>6250.0</temperature>
+		<metallicity>-0.25</metallicity>
+		<planet>
+			<name>WTS-1 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.047</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.0">0.1</eccentricity>
+			<inclination errorminus="1.0" errorplus="0.7">85.5</inclination>
+			<period errorminus="1.4e-05" errorplus="1.4e-05">3.352059</period>
+			<mass errorminus="0.35" errorplus="0.35">4.01</mass>
+			<radius errorminus="0.18" errorplus="0.16">1.49</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

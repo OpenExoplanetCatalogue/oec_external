@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-71</name>
+	<rightascension>01 57 03</rightascension>
+	<declination>+00 45 32</declination>
+	<star>
+		<name>WASP-71</name>
+		<radius errorminus="0.17" errorplus="0.17">2.26</radius>
+		<magJ errorminus="0.018" errorplus="0.018">9.636</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.416</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.320</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.56</mass>
+		<temperature errorminus="98.00" errorplus="98.00">6059.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-71 b</name>
+			<semimajoraxis errorminus="-0.000690" errorplus="0.000690">0.046190</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-2.200" errorplus="2.200">84.900</inclination>
+			<period errorminus="-0.00000680" errorplus="0.00000680">2.90367470</period>
+			<mass errorminus="-0.08000" errorplus="0.08000">2.24200</mass>
+			<radius errorminus="-0.130" errorplus="0.130">1.460</radius>
+			<temperature errorminus="-73" errorplus="73">2049</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 03 18</lastupdate>
+			<transittime errorminus="-0.000700" errorplus="0.000700">2455738.849740</transittime>
+		</planet>
+	</star>
+</system>

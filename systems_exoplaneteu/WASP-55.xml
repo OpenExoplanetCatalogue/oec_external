@@ -1,0 +1,25 @@
+<system>
+	<name>WASP-55</name>
+	<rightascension>13 35 02</rightascension>
+	<declination>-17 29 47</declination>
+	<distance>330.0</distance>
+	<star>
+		<name>WASP-55</name>
+		<radius>1.06</radius>
+		<mass>1.01</mass>
+		<temperature>5900.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>WASP-55 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0533</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.6" errorplus="0.6">89.2</inclination>
+			<period errorminus="4e-06" errorplus="4e-06">4.465633</period>
+			<mass errorminus="0.04" errorplus="0.04">0.57</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.3</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/04/24</lastupdate>
+		</planet>
+	</star>
+</system>

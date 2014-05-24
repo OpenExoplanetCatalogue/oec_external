@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-318</name>
+	<rightascension>19 53 56</rightascension>
+	<declination>+46 47 37</declination>
+	<star>
+		<name>Kepler-318</name>
+		<radius errorminus="0.21" errorplus="0.21">1.19</radius>
+		<magJ errorminus="0.020" errorplus="0.020">12.148</magJ>
+		<magH errorminus="0.018" errorplus="0.018">11.832</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.766</magK>
+		<mass>1.05</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5746.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-318 b</name>
+			<semimajoraxis>0.056000</semimajoraxis>
+			<period errorminus="-0.00000300" errorplus="0.00000300">4.66271500</period>
+			<radius errorminus="-0.074" errorplus="0.074">0.420</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000340" errorplus="0.000340">2454967.081790</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-318 c</name>
+			<semimajoraxis>0.105000</semimajoraxis>
+			<period errorminus="-0.00002000" errorplus="0.00002000">11.81500700</period>
+			<radius errorminus="-0.058" errorplus="0.058">0.328</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000910" errorplus="0.000910">2454966.089650</transittime>
+		</planet>
+	</star>
+</system>

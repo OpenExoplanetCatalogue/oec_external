@@ -1,0 +1,26 @@
+<system>
+	<name>CoRoT-4</name>
+	<rightascension>06 48 47</rightascension>
+	<declination>+00 19 38</declination>
+	<star>
+		<name>CoRoT-4</name>
+		<age>1.0</age>
+		<radius>1.15</radius>
+		<mass>1.1</mass>
+		<spectraltype>F8V</spectraltype>
+		<temperature>6190.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>CoRoT-4 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.09</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.0">0.0</eccentricity>
+			<inclination errorminus="0.085" errorplus="0.085">90.0</inclination>
+			<period errorminus="0.00037" errorplus="0.00037">9.20205</period>
+			<mass errorminus="0.08" errorplus="0.08">0.72</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.19</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>13/06/05</lastupdate>
+		</planet>
+	</star>
+</system>

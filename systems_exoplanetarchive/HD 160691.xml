@@ -1,0 +1,57 @@
+<system>
+	<name>HD 160691</name>
+	<rightascension>17 44 09</rightascension>
+	<declination>-51 50 03</declination>
+	<star>
+		<name>HD 160691</name>
+		<magV>5.150</magV>
+		<magI>4.400</magI>
+		<magJ errorminus="0.284" errorplus="0.284">4.158</magJ>
+		<magH errorminus="0.206" errorplus="0.206">3.724</magH>
+		<magK errorminus="0.246" errorplus="0.246">3.683</magK>
+		<planet>
+			<name>HD 160691 b</name>
+			<semimajoraxis>1.497000</semimajoraxis>
+			<eccentricity errorminus="-0.017000" errorplus="0.017000">0.128000</eccentricity>
+			<periastron errorminus="-7.0000" errorplus="7.0000">22.0000</periastron>
+			<period errorminus="-0.90000000" errorplus="0.90000000">643.25000000</period>
+			<mass>1.67600</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 160691 c</name>
+			<semimajoraxis>5.235000</semimajoraxis>
+			<eccentricity errorminus="-0.062700" errorplus="0.062700">0.098500</eccentricity>
+			<periastron errorminus="-43.7000" errorplus="43.7000">57.6000</periastron>
+			<period errorminus="-758.90000000" errorplus="758.90000000">4205.80000000</period>
+			<mass>1.81400</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 160691 d</name>
+			<semimajoraxis>0.090940</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.172000</eccentricity>
+			<periastron errorminus="-13.3000" errorplus="13.3000">212.7000</periastron>
+			<period errorminus="-0.00150000" errorplus="0.00150000">9.63860000</period>
+			<mass>0.03321</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 160691 e</name>
+			<semimajoraxis>0.921000</semimajoraxis>
+			<eccentricity errorminus="-0.012200" errorplus="0.012200">0.066600</eccentricity>
+			<periastron errorminus="-9.4000" errorplus="9.4000">189.6000</periastron>
+			<period errorminus="-0.83000000" errorplus="0.83000000">310.55000000</period>
+			<mass>0.52190</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

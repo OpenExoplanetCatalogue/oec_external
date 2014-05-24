@@ -1,0 +1,20 @@
+<system>
+	<name>HD 45184</name>
+	<rightascension>06 24 44</rightascension>
+	<declination>-28 13 12</declination>
+	<distance>21.9</distance>
+	<star>
+		<name>HD 45184</name>
+		<spectraltype>G1.5V</spectraltype>
+		<planet>
+			<name>HD 45184 b</name>
+			<semimajoraxis>0.0638</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
+			<period>5.8872</period>
+			<mass>0.04</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

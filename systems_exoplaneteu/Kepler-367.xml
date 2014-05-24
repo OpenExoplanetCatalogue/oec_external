@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-367</name>
+	<rightascension>19 49 10</rightascension>
+	<declination>+49 58 54</declination>
+	<star>
+		<name>Kepler-367</name>
+		<radius>0.69</radius>
+		<mass>0.75</mass>
+		<temperature>4710.0</temperature>
+		<metallicity>0.247</metallicity>
+		<planet>
+			<name>Kepler-367 b</name>
+			<semimajoraxis>0.201</semimajoraxis>
+			<period errorminus="0.000279" errorplus="0.000279">37.815724</period>
+			<radius errorminus="0.014" errorplus="0.014">0.116</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-367 c</name>
+			<semimajoraxis>0.253</semimajoraxis>
+			<period errorminus="0.000382" errorplus="0.000382">53.578637</period>
+			<radius errorminus="0.014" errorplus="0.014">0.107</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

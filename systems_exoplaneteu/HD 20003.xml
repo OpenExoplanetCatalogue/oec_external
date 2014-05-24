@@ -1,0 +1,30 @@
+<system>
+	<name>HD 20003</name>
+	<rightascension>03 07 38</rightascension>
+	<declination>-72 40 41</declination>
+	<distance>43.8</distance>
+	<star>
+		<name>HD 20003</name>
+		<spectraltype>G8V</spectraltype>
+		<planet>
+			<name>HD 20003 b</name>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0974</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.4</eccentricity>
+			<period errorminus="0.0028" errorplus="0.0028">11.849</period>
+			<mass errorminus="0.0031" errorplus="0.0031">0.0378</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 20003 c</name>
+			<semimajoraxis errorminus="0.0032" errorplus="0.0032">0.1961</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.16</eccentricity>
+			<period errorminus="0.0654" errorplus="0.0654">33.823</period>
+			<mass errorminus="0.004" errorplus="0.004">0.0422</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

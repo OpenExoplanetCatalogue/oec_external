@@ -1,0 +1,26 @@
+<system>
+	<name>16 Cyg B</name>
+	<rightascension>19 41 51</rightascension>
+	<declination>+50 31 03</declination>
+	<distance>21.41</distance>
+	<star>
+		<name>16 Cyg B</name>
+		<age>8.0</age>
+		<radius>0.98</radius>
+		<mass>1.01</mass>
+		<spectraltype>G2.5 V</spectraltype>
+		<temperature>5766.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>16 Cyg B b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.68</semimajoraxis>
+			<periastron errorminus="2.1" errorplus="2.1">83.4</periastron>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.689</eccentricity>
+			<period errorminus="0.6" errorplus="0.6">799.5</period>
+			<mass errorminus="0.07" errorplus="0.07">1.68</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>12/12/18</lastupdate>
+		</planet>
+	</star>
+</system>

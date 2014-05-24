@@ -1,0 +1,38 @@
+<system>
+	<name>HD 92788</name>
+	<rightascension>10 42 48</rightascension>
+	<declination>-02 48 59</declination>
+	<distance>32.82</distance>
+	<star>
+		<name>HD 92788</name>
+		<age>3.78</age>
+		<radius>0.99</radius>
+		<mass>1.13</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5559.0</temperature>
+		<metallicity>0.32</metallicity>
+		<planet>
+			<name>HD 92788 b</name>
+			<semimajoraxis>0.97</semimajoraxis>
+			<periastron errorminus="2.8" errorplus="2.8">276.4</periastron>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.334</eccentricity>
+			<inclination errorminus="8.0" errorplus="8.0">8.0</inclination>
+			<period errorminus="0.26" errorplus="0.26">325.81</period>
+			<mass>3.86</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>13/07/04</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 92788 c</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.6</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="20.0">0.0</periastron>
+			<eccentricity errorminus="0.21" errorplus="0.21">0.04</eccentricity>
+			<period errorminus="3.0" errorplus="3.0">162.0</period>
+			<mass errorminus="0.3" errorplus="0.3">0.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/07/04</lastupdate>
+		</planet>
+	</star>
+</system>

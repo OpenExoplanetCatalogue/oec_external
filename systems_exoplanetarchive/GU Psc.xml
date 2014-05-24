@@ -1,0 +1,24 @@
+<system>
+	<name>GU Psc</name>
+	<rightascension>01 12 35</rightascension>
+	<declination>+17 03 56</declination>
+	<star>
+		<name>GU Psc</name>
+		<magV>13.550</magV>
+		<magJ errorminus="0.019" errorplus="0.019">10.211</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.598</magH>
+		<magK errorminus="0.013" errorplus="0.013">9.345</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.33</mass>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GU Psc b</name>
+			<semimajoraxis errorminus="-200.000000" errorplus="200.000000">2000.000000</semimajoraxis>
+			<mass errorminus="-1.70000" errorplus="1.70000">11.30000</mass>
+			<radius errorminus="-0.115" errorplus="0.115">1.265</radius>
+			<temperature errorminus="-50" errorplus="50">1050</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 14</lastupdate>
+		</planet>
+	</star>
+</system>

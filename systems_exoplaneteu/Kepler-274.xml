@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-274</name>
+	<rightascension>19 31 41</rightascension>
+	<declination>+38 28 38</declination>
+	<star>
+		<name>Kepler-274</name>
+		<radius>1.01</radius>
+		<temperature>6023.0</temperature>
+		<metallicity>-0.188</metallicity>
+		<planet>
+			<name>Kepler-274 b</name>
+			<semimajoraxis>0.101</semimajoraxis>
+			<period errorminus="0.000134" errorplus="0.000134">11.634788</period>
+			<radius errorminus="0.075" errorplus="0.075">0.137</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-274 c</name>
+			<semimajoraxis>0.204</semimajoraxis>
+			<period errorminus="0.000894" errorplus="0.000894">33.197861</period>
+			<radius errorminus="0.089" errorplus="0.089">0.164</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

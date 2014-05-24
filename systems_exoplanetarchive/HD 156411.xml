@@ -1,0 +1,20 @@
+<system>
+	<name>HD 156411</name>
+	<rightascension>17 19 51</rightascension>
+	<declination>-48 32 58</declination>
+	<star>
+		<name>HD 156411</name>
+		<magV errorminus="0.010" errorplus="0.010">6.673</magV>
+		<magJ errorminus="0.018" errorplus="0.018">5.563</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.241</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.170</magK>
+		<planet>
+			<name>HD 156411 b</name>
+			<period>842.00000000</period>
+			<mass>0.75000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

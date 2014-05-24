@@ -1,0 +1,18 @@
+<system>
+	<name>MOA-2010-BLG-477L</name>
+	<rightascension>18 06 07</rightascension>
+	<declination>-31 32 44</declination>
+	<distance>2300.0</distance>
+	<star>
+		<name>MOA-2010-BLG-477L</name>
+		<mass>0.67</mass>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>MOA-2010-BLG-477L b</name>
+			<semimajoraxis errorminus="1.0" errorplus="1.0">2.0</semimajoraxis>
+			<mass errorminus="0.3" errorplus="0.8">1.5</mass>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+		</planet>
+	</star>
+</system>

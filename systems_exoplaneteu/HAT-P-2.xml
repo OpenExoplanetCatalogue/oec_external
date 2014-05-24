@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-2</name>
+	<rightascension>16 20 36</rightascension>
+	<declination>+41 02 53</declination>
+	<distance>118.0</distance>
+	<star>
+		<name>HAT-P-2</name>
+		<age>2.7</age>
+		<radius>1.64</radius>
+		<mass>1.36</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>6290.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>HAT-P-2 b</name>
+			<semimajoraxis errorminus="0.00081" errorplus="0.00081">0.0674</semimajoraxis>
+			<periastron errorminus="0.95" errorplus="0.95">185.22</periastron>
+			<eccentricity errorminus="0.0033" errorplus="0.0033">0.5171</eccentricity>
+			<inclination errorminus="0.93" errorplus="0.93">90.0</inclination>
+			<period errorminus="6.1e-06" errorplus="6.1e-06">5.6334729</period>
+			<mass errorminus="0.26" errorplus="0.26">8.74</mass>
+			<radius errorminus="0.053" errorplus="0.053">0.951</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>12/09/20</lastupdate>
+		</planet>
+	</star>
+</system>

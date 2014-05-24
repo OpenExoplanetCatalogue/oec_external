@@ -1,0 +1,25 @@
+<system>
+	<name>7 CMa</name>
+	<rightascension>06 36 41</rightascension>
+	<declination>-19 44 39</declination>
+	<distance>19.75</distance>
+	<star>
+		<name>7 CMa</name>
+		<radius>2.3</radius>
+		<mass>1.52</mass>
+		<spectraltype>K1 III</spectraltype>
+		<temperature>4792.0</temperature>
+		<metallicity>0.21</metallicity>
+		<planet>
+			<name>7 CMa b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.9</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">44.9</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.14</eccentricity>
+			<period errorminus="17.0" errorplus="17.0">763.0</period>
+			<mass errorminus="0.6" errorplus="0.6">2.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/11/07</lastupdate>
+		</planet>
+	</star>
+</system>

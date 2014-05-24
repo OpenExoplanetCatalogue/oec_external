@@ -1,0 +1,31 @@
+<system>
+	<name>HD 192699</name>
+	<rightascension>20 16 06</rightascension>
+	<declination>+04 34 51</declination>
+	<distance>67</distance>
+	<star>
+		<mass>1.68</mass>
+		<radius>4.25</radius>
+		<magV>6.44</magV>
+		<magB>7.290</magB>
+		<magJ errorminus="0.262" errorplus="0.262">4.903</magJ>
+		<magH errorminus="0.260" errorplus="0.260">4.360</magH>
+		<magK errorminus="0.026" errorplus="0.026">4.366</magK>
+		<metallicity>-0.15</metallicity>
+		<spectraltype>G8IV</spectraltype>
+		<planet>
+			<name>HD 192699 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.5</mass>
+			<period>351.5</period>
+			<semimajoraxis>1.16</semimajoraxis>
+			<eccentricity>0.149</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>07/04/20</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>439.9</temperature>
+		</planet>
+		<name>HD 192699</name>
+		<temperature>5220.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-327</name>
+	<rightascension>19 30 34</rightascension>
+	<declination>+44 05 16</declination>
+	<star>
+		<name>Kepler-327</name>
+		<radius>0.49</radius>
+		<mass>0.55</mass>
+		<temperature>3799.0</temperature>
+		<metallicity>-0.042</metallicity>
+		<planet>
+			<name>Kepler-327 b</name>
+			<semimajoraxis>0.029</semimajoraxis>
+			<period errorminus="6e-06" errorplus="6e-06">2.549575</period>
+			<radius errorminus="0.004" errorplus="0.004">0.099</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-327 c</name>
+			<semimajoraxis>0.047</semimajoraxis>
+			<period errorminus="1.9e-05" errorplus="1.9e-05">5.212333</period>
+			<radius errorminus="0.004" errorplus="0.004">0.092</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-327 d</name>
+			<semimajoraxis>0.09</semimajoraxis>
+			<period errorminus="3.1e-05" errorplus="3.1e-05">13.969457</period>
+			<radius errorminus="0.009" errorplus="0.009">0.154</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

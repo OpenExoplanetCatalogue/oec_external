@@ -1,0 +1,25 @@
+<system>
+	<name>GJ 3634</name>
+	<rightascension>10 58 35</rightascension>
+	<declination>-31 08 38</declination>
+	<star>
+		<name>GJ 3634</name>
+		<radius errorminus="0.03" errorplus="0.03">0.43</radius>
+		<magJ errorminus="0.023" errorplus="0.023">8.361</magJ>
+		<magH errorminus="0.049" errorplus="0.049">7.762</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.470</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.45</mass>
+		<planet>
+			<name>GJ 3634 b</name>
+			<semimajoraxis errorminus="-0.001100" errorplus="0.001000">0.028700</semimajoraxis>
+			<eccentricity errorminus="-0.057000" errorplus="0.094000">0.080000</eccentricity>
+			<periastron errorminus="-130.0000" errorplus="52.0000">84.0000</periastron>
+			<inclination errorminus="-24.000" errorplus="18.000">59.000</inclination>
+			<period errorminus="-0.00066000" errorplus="0.00066000">2.64561000</period>
+			<mass errorminus="-1.50000" errorplus="4.00000">8.40000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

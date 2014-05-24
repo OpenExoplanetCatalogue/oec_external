@@ -1,0 +1,24 @@
+<system>
+	<name>WASP-60</name>
+	<rightascension>23 46 40</rightascension>
+	<declination>+31 09 21</declination>
+	<distance>400.0</distance>
+	<star>
+		<name>WASP-60</name>
+		<age>3.6</age>
+		<radius>1.14</radius>
+		<mass>1.078</mass>
+		<spectraltype>G1V</spectraltype>
+		<temperature>5900.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>WASP-60 b</name>
+			<period>4.3</period>
+			<mass>0.5</mass>
+			<radius>0.9</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

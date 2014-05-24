@@ -1,0 +1,59 @@
+<system>
+	<name>Gl 581</name>
+	<rightascension>15 19 26</rightascension>
+	<declination>-07 16 40</declination>
+	<distance>6.21</distance>
+	<star>
+		<name>Gl 581</name>
+		<age>8.0</age>
+		<radius>0.3</radius>
+		<mass>0.31</mass>
+		<spectraltype>M2.5V</spectraltype>
+		<temperature>3498.0</temperature>
+		<metallicity>-0.135</metallicity>
+		<planet>
+			<name>Gl 581 b</name>
+			<semimajoraxis>0.041</semimajoraxis>
+			<periastron errorminus="26.0" errorplus="26.0">251.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.031</eccentricity>
+			<period errorminus="9e-05" errorplus="9e-05">5.36865</period>
+			<mass>0.05</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>14/04/18</lastupdate>
+		</planet>
+		<planet>
+			<name>Gl 581 c</name>
+			<semimajoraxis>0.073</semimajoraxis>
+			<periastron errorminus="44.0" errorplus="44.0">235.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.07</eccentricity>
+			<period errorminus="0.0022" errorplus="0.0022">12.9182</period>
+			<mass>0.017</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/04/18</lastupdate>
+		</planet>
+		<planet>
+			<name>Gl 581 d</name>
+			<semimajoraxis>0.22</semimajoraxis>
+			<periastron errorminus="23.0" errorplus="23.0">2.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.205</eccentricity>
+			<period errorminus="0.08" errorplus="0.08">66.64</period>
+			<mass>0.019</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/04/18</lastupdate>
+		</planet>
+		<planet>
+			<name>Gl 581 e</name>
+			<semimajoraxis>0.028</semimajoraxis>
+			<periastron errorminus="17.0" errorplus="17.0">236.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.32</eccentricity>
+			<period errorminus="0.00017" errorplus="0.00017">3.14945</period>
+			<mass>0.0061</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>14/04/18</lastupdate>
+		</planet>
+	</star>
+</system>

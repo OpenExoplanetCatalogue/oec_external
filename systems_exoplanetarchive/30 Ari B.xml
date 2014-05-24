@@ -1,0 +1,27 @@
+<system>
+	<name>30 Ari B</name>
+	<rightascension>02 36 58</rightascension>
+	<declination>+24 38 53</declination>
+	<star>
+		<name>30 Ari B</name>
+		<radius errorminus="0.03" errorplus="0.03">1.13</radius>
+		<magV errorminus="0.011" errorplus="0.011">6.962</magV>
+		<magJ errorminus="0.020" errorplus="0.020">6.080</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.908</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.822</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.16</mass>
+		<temperature errorminus="60.00" errorplus="60.00">6300.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>30 Ari B b</name>
+			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.995000</semimajoraxis>
+			<eccentricity errorminus="-0.092000" errorplus="0.092000">0.289000</eccentricity>
+			<periastron errorminus="-18.0000" errorplus="18.0000">307.0000</periastron>
+			<period errorminus="-2.50000000" errorplus="2.50000000">335.10000000</period>
+			<mass errorminus="-0.94000" errorplus="0.94000">9.88000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 05 30</lastupdate>
+		</planet>
+	</star>
+</system>

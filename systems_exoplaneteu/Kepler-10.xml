@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-10</name>
+	<rightascension>19 02 43</rightascension>
+	<declination>+50 14 29</declination>
+	<distance>173.0</distance>
+	<star>
+		<name>Kepler-10</name>
+		<age>11.9</age>
+		<radius>1.056</radius>
+		<mass>0.895</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5627.0</temperature>
+		<metallicity>-0.15</metallicity>
+		<planet>
+			<name>Kepler-10 b</name>
+			<semimajoraxis errorminus="0.00014" errorplus="0.00014">0.01687</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.18" errorplus="0.18">84.15</inclination>
+			<period errorminus="3e-06" errorplus="3e-06">0.8374912</period>
+			<mass errorminus="0.00396438347544285" errorplus="0.00396438347544285">0.014473146021458</mass>
+			<radius errorminus="0.0017842836725554" errorplus="0.0017842836725554">0.130252708096544</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>13/11/26</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-10 c</name>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.2413</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.06" errorplus="0.06">89.64</inclination>
+			<period errorminus="0.00012" errorplus="0.00012">45.29427</period>
+			<mass errorminus="inf" errorplus="nan">0.063</mass>
+			<radius errorminus="0.0026764255088331" errorplus="0.0026764255088331">0.206976906016426</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>13/11/26</lastupdate>
+		</planet>
+	</star>
+</system>

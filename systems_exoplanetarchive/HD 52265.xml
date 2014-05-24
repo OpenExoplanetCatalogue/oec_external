@@ -1,0 +1,23 @@
+<system>
+	<name>HD 52265</name>
+	<rightascension>07 00 18</rightascension>
+	<declination>-05 22 02</declination>
+	<star>
+		<name>HD 52265</name>
+		<magV>6.300</magV>
+		<magJ errorminus="8.888" errorplus="8.888">5.242</magJ>
+		<magH errorminus="0.034" errorplus="0.034">5.033</magH>
+		<magK errorminus="0.017" errorplus="0.017">4.953</magK>
+		<planet>
+			<name>HD 52265 b</name>
+			<semimajoraxis errorminus="-0.008000" errorplus="0.008000">0.490000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.290000</eccentricity>
+			<periastron>236.0000</periastron>
+			<period errorminus="-0.10000000" errorplus="0.10000000">118.96000000</period>
+			<mass errorminus="-0.06000" errorplus="0.06000">1.13000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

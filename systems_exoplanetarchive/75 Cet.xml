@@ -1,0 +1,27 @@
+<system>
+	<name>75 Cet</name>
+	<rightascension>02 32 09</rightascension>
+	<declination>-01 02 06</declination>
+	<star>
+		<name>75 Cet</name>
+		<radius errorminus="1.00" errorplus="1.00">10.50</radius>
+		<magV>5.350</magV>
+		<magJ errorminus="0.262" errorplus="0.262">3.931</magJ>
+		<magH errorminus="0.214" errorplus="0.214">3.318</magH>
+		<magK errorminus="0.272" errorplus="0.272">3.207</magK>
+		<mass errorminus="0.02" errorplus="0.02">2.49</mass>
+		<temperature errorminus="18.00" errorplus="18.00">4846.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>75 Cet b</name>
+			<semimajoraxis>2.100000</semimajoraxis>
+			<eccentricity errorminus="-0.048000" errorplus="0.048000">0.117000</eccentricity>
+			<periastron errorminus="-28.0000" errorplus="28.0000">165.0000</periastron>
+			<period errorminus="-3.60000000" errorplus="3.60000000">691.90000000</period>
+			<mass>3.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

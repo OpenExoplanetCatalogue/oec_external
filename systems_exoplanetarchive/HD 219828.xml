@@ -1,0 +1,22 @@
+<system>
+	<name>HD 219828</name>
+	<rightascension>23 18 47</rightascension>
+	<declination>+18 38 45</declination>
+	<star>
+		<name>HD 219828</name>
+		<magV errorminus="0.015" errorplus="0.015">8.008</magV>
+		<magJ errorminus="0.021" errorplus="0.021">6.871</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.614</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.530</magK>
+		<planet>
+			<name>HD 219828 b</name>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<period errorminus="-0.00130000" errorplus="0.00130000">3.83350000</period>
+			<mass>0.06000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

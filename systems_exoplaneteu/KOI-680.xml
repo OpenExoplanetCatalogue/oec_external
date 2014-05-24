@@ -1,0 +1,21 @@
+<system>
+	<name>KOI-680</name>
+	<rightascension>19 29 09</rightascension>
+	<declination>+43 11 50</declination>
+	<star>
+		<name>KOI-680</name>
+		<radius>1.16</radius>
+		<temperature>6060.0</temperature>
+		<metallicity>-0.46</metallicity>
+		<planet>
+			<name>KOI-680 b</name>
+			<semimajoraxis>0.08</semimajoraxis>
+			<period>8.6</period>
+			<mass>0.62</mass>
+			<radius>0.65</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/06/05</lastupdate>
+		</planet>
+	</star>
+</system>

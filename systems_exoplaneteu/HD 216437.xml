@@ -1,0 +1,26 @@
+<system>
+	<name>HD 216437</name>
+	<rightascension>22 54 39</rightascension>
+	<declination>-70 55 35</declination>
+	<distance>26.5</distance>
+	<star>
+		<name>HD 216437</name>
+		<age>12.96</age>
+		<radius>1.1</radius>
+		<mass>1.06</mass>
+		<spectraltype>G4 IV-V</spectraltype>
+		<temperature>5636.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HD 216437 b</name>
+			<semimajoraxis>2.32</semimajoraxis>
+			<periastron errorminus="22.0" errorplus="22.0">63.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.29</eccentricity>
+			<period errorminus="35.0" errorplus="35.0">1256.0</period>
+			<mass>1.82</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/12/30</lastupdate>
+		</planet>
+	</star>
+</system>

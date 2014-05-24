@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-310</name>
+	<rightascension>19 15 21</rightascension>
+	<declination>+46 59 12</declination>
+	<star>
+		<name>Kepler-310</name>
+		<radius>0.88</radius>
+		<mass>0.85</mass>
+		<temperature>5797.0</temperature>
+		<metallicity>-0.299</metallicity>
+		<planet>
+			<name>Kepler-310 b</name>
+			<semimajoraxis>0.111</semimajoraxis>
+			<period errorminus="0.000108" errorplus="0.000108">13.930698</period>
+			<radius errorminus="0.05" errorplus="0.05">0.106</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-310 c</name>
+			<semimajoraxis>0.281</semimajoraxis>
+			<period errorminus="0.000207" errorplus="0.000207">56.47542</period>
+			<radius errorminus="0.141" errorplus="0.141">0.302</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-310 d</name>
+			<semimajoraxis>0.392</semimajoraxis>
+			<period errorminus="0.000785" errorplus="0.000785">92.876125</period>
+			<radius errorminus="0.103" errorplus="0.103">0.22</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

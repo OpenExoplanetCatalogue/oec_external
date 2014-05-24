@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-50</name>
+	<rightascension>19 12 24</rightascension>
+	<declination>+50 02 01</declination>
+	<star>
+		<name>Kepler-50</name>
+		<radius>1.88</radius>
+		<mass>1.23</mass>
+		<temperature>6058.0</temperature>
+		<planet>
+			<name>Kepler-50 b</name>
+			<period errorminus="5.2e-05" errorplus="5.2e-05">7.8125124</period>
+			<mass errorminus="0.0" errorplus="0.024">0.024</mass>
+			<radius>0.2</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-50 c</name>
+			<period errorminus="5.6e-05" errorplus="5.6e-05">9.3761368</period>
+			<mass errorminus="0.0" errorplus="0.022">0.022</mass>
+			<radius>0.25</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+	</star>
+</system>

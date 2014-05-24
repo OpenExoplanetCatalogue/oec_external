@@ -1,0 +1,30 @@
+<system>
+	<name>HD 215456</name>
+	<rightascension>22 46 08</rightascension>
+	<declination>-48 01 56</declination>
+	<distance>38.0</distance>
+	<star>
+		<name>HD 215456</name>
+		<spectraltype>G0.5V</spectraltype>
+		<planet>
+			<name>HD 215456 b</name>
+			<semimajoraxis>0.652</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
+			<period>191.99</period>
+			<mass>0.101</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 215456 c</name>
+			<semimajoraxis>3.394</semimajoraxis>
+			<eccentricity>0.19</eccentricity>
+			<period>2277.0</period>
+			<mass>0.246</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

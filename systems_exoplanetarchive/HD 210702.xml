@@ -1,0 +1,26 @@
+<system>
+	<name>HD 210702</name>
+	<rightascension>22 11 51</rightascension>
+	<declination>+16 02 26</declination>
+	<star>
+		<name>HD 210702</name>
+		<radius errorminus="0.40" errorplus="0.40">5.10</radius>
+		<magV>5.950</magV>
+		<magJ errorminus="0.320" errorplus="0.320">4.508</magJ>
+		<magH errorminus="0.226" errorplus="0.226">3.995</magH>
+		<magK errorminus="0.294" errorplus="0.294">3.984</magK>
+		<mass errorminus="0.18" errorplus="0.18">1.68</mass>
+		<temperature errorminus="25.00" errorplus="25.00">4967.00</temperature>
+		<planet>
+			<name>HD 210702 b</name>
+			<semimajoraxis>1.200000</semimajoraxis>
+			<eccentricity errorminus="-0.052000" errorplus="0.052000">0.094000</eccentricity>
+			<periastron errorminus="-47.0000" errorplus="47.0000">126.0000</periastron>
+			<period errorminus="-1.10000000" errorplus="1.10000000">354.80000000</period>
+			<mass>1.90000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

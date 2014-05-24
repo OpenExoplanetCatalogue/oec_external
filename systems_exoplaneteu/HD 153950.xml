@@ -1,0 +1,26 @@
+<system>
+	<name>HD 153950</name>
+	<rightascension>17 04 31</rightascension>
+	<declination>-43 41 25</declination>
+	<distance>49.6</distance>
+	<star>
+		<name>HD 153950</name>
+		<age>4.3</age>
+		<radius>1.34</radius>
+		<mass>1.12</mass>
+		<spectraltype>F8V</spectraltype>
+		<temperature>6076.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>HD 153950 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">1.28</semimajoraxis>
+			<periastron errorminus="2.4" errorplus="2.4">308.2</periastron>
+			<eccentricity errorminus="0.021" errorplus="0.021">0.34</eccentricity>
+			<period errorminus="3.6" errorplus="3.6">499.4</period>
+			<mass errorminus="0.05" errorplus="0.05">2.73</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/10/28</lastupdate>
+		</planet>
+	</star>
+</system>

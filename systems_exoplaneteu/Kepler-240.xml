@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-240</name>
+	<rightascension>19 24 38</rightascension>
+	<declination>+40 45 01</declination>
+	<star>
+		<name>Kepler-240</name>
+		<radius>0.74</radius>
+		<temperature>4985.0</temperature>
+		<metallicity>0.089</metallicity>
+		<planet>
+			<name>Kepler-240 b</name>
+			<semimajoraxis>0.048</semimajoraxis>
+			<period errorminus="2.6e-05" errorplus="2.6e-05">4.144495</period>
+			<radius errorminus="0.05" errorplus="0.05">0.122</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-240 c</name>
+			<semimajoraxis>0.074</semimajoraxis>
+			<period errorminus="2.5e-05" errorplus="2.5e-05">7.953528</period>
+			<radius errorminus="0.079" errorplus="0.079">0.196</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

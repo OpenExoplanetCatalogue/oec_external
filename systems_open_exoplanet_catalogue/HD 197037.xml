@@ -1,0 +1,33 @@
+<system>
+	<name>HD 197037</name>
+	<rightascension>20 39 33</rightascension>
+	<declination>+42 14 55</declination>
+	<distance>33</distance>
+	<star>
+		<mass>1.11</mass>
+		<magV>6.81</magV>
+		<magB errorminus="0.01" errorplus="0.01">7.31</magB>
+		<magR>6.61</magR>
+		<magI>6.3</magI>
+		<magJ errorminus="0.024" errorplus="0.024">5.772</magJ>
+		<magH errorminus="0.024" errorplus="0.024">5.568</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.488</magK>
+		<metallicity>-0.2</metallicity>
+		<spectraltype>F7V</spectraltype>
+		<planet>
+			<name>HD 197037 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.79</mass>
+			<period>1035.7</period>
+			<semimajoraxis>2.07</semimajoraxis>
+			<eccentricity>0.22</eccentricity>
+			<description>This planet was found by looking at 113 radial velocity data points which have been obtained over the last 10 years with a 2.7m telescope.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/02/04</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<temperature>200.0</temperature>
+		</planet>
+		<name>HD 197037</name>
+		<temperature>6150.0</temperature>
+	</star>
+</system>

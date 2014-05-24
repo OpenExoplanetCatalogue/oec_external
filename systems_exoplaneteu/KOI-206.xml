@@ -1,0 +1,21 @@
+<system>
+	<name>KOI-206</name>
+	<rightascension>19 50 22</rightascension>
+	<declination>+40 58 38</declination>
+	<star>
+		<name>KOI-206</name>
+		<radius>1.16</radius>
+		<temperature>5771.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>KOI-206 b</name>
+			<semimajoraxis>0.059</semimajoraxis>
+			<period>5.33</period>
+			<mass>2.9</mass>
+			<radius>0.7</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/06/05</lastupdate>
+		</planet>
+	</star>
+</system>

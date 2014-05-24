@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-211</name>
+	<rightascension>19 01 45</rightascension>
+	<declination>+43 10 07</declination>
+	<star>
+		<name>Kepler-211</name>
+		<radius>0.82</radius>
+		<mass>0.97</mass>
+		<temperature>5123.0</temperature>
+		<metallicity>0.106</metallicity>
+		<planet>
+			<name>Kepler-211 b</name>
+			<semimajoraxis>0.048</semimajoraxis>
+			<period errorminus="1e-05" errorplus="1e-05">4.138575</period>
+			<radius errorminus="0.008" errorplus="0.008">0.112</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-211 c</name>
+			<semimajoraxis>0.062</semimajoraxis>
+			<period errorminus="1.6e-05" errorplus="1.6e-05">6.04045</period>
+			<radius errorminus="0.008" errorplus="0.008">0.115</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

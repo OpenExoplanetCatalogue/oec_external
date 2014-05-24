@@ -1,0 +1,55 @@
+<system>
+	<name>61 Vir</name>
+	<rightascension>13 18 24</rightascension>
+	<declination>-18 18 40</declination>
+	<distance>8.52</distance>
+	<star>
+		<mass>0.95</mass>
+		<radius>0.94</radius>
+		<magV>4.74</magV>
+		<magB errorminus="0.007" errorplus="0.007">5.440</magB>
+		<magJ errorminus="0.200" errorplus="0.200">3.334</magJ>
+		<magH errorminus="0.176" errorplus="0.176">2.974</magH>
+		<magK errorminus="0.236" errorplus="0.236">2.956</magK>
+		<metallicity>-0.01</metallicity>
+		<spectraltype>G5V</spectraltype>
+		<planet>
+			<name>61 Vir b</name>
+			<list>Confirmed planets</list>
+			<mass>0.016</mass>
+			<period>4.215</period>
+			<semimajoraxis>0.050201</semimajoraxis>
+			<eccentricity>0.12</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/12/15</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>1054.4</temperature>
+		</planet>
+		<planet>
+			<name>61 Vir c</name>
+			<list>Confirmed planets</list>
+			<mass>0.0573</mass>
+			<period>38.021</period>
+			<semimajoraxis>0.2175</semimajoraxis>
+			<eccentricity>0.14</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/12/15</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>506.4</temperature>
+		</planet>
+		<planet>
+			<name>61 Vir d</name>
+			<list>Confirmed planets</list>
+			<mass>0.072</mass>
+			<period>123.01</period>
+			<semimajoraxis>0.476</semimajoraxis>
+			<eccentricity>0.35</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/12/15</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>340.0</temperature>
+		</planet>
+		<name>61 Vir</name>
+		<temperature>5531.0</temperature>
+	</star>
+</system>

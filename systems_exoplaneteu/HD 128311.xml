@@ -1,0 +1,38 @@
+<system>
+	<name>HD 128311</name>
+	<rightascension>14 35 60</rightascension>
+	<declination>+09 44 47</declination>
+	<distance>16.6</distance>
+	<star>
+		<name>HD 128311</name>
+		<age>0.39</age>
+		<radius>0.73</radius>
+		<mass>0.84</mass>
+		<spectraltype>K0V</spectraltype>
+		<temperature>4965.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>HD 128311 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.099</semimajoraxis>
+			<periastron errorminus="36.0" errorplus="36.0">110.9</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.25</eccentricity>
+			<period errorminus="6.8" errorplus="6.8">448.6</period>
+			<mass errorminus="0.022" errorplus="0.022">2.18</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>11/01/04</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 128311 c</name>
+			<semimajoraxis errorminus="0.13" errorplus="0.13">1.76</semimajoraxis>
+			<periastron errorminus="150.0" errorplus="150.0">195.5</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.17</eccentricity>
+			<inclination errorminus="10.0" errorplus="10.0">50.0</inclination>
+			<period>919.0</period>
+			<mass errorminus="0.3" errorplus="0.3">3.21</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>11/05/11</lastupdate>
+		</planet>
+	</star>
+</system>

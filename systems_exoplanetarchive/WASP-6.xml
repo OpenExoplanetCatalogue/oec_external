@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-6</name>
+	<rightascension>23 12 38</rightascension>
+	<declination>-22 40 26</declination>
+	<star>
+		<name>WASP-6</name>
+		<radius errorminus="0.04" errorplus="0.04">0.87</radius>
+		<magJ errorminus="0.026" errorplus="0.026">10.769</magJ>
+		<magH errorminus="0.025" errorplus="0.025">10.445</magH>
+		<magK errorminus="0.025" errorplus="0.025">10.325</magK>
+		<mass errorminus="0.08" errorplus="0.08">0.88</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5450.00</temperature>
+		<planet>
+			<name>WASP-6 b</name>
+			<semimajoraxis errorminus="-0.001300" errorplus="0.000800">0.042100</semimajoraxis>
+			<eccentricity errorminus="-0.015000" errorplus="0.018000">0.054000</eccentricity>
+			<periastron errorminus="-0.2300" errorplus="0.1200">1.7000</periastron>
+			<inclination errorminus="-0.470" errorplus="0.650">88.470</inclination>
+			<period errorminus="-0.00000350" errorplus="0.00000220">3.36100600</period>
+			<mass errorminus="-0.03800" errorplus="0.01900">0.50300</mass>
+			<radius errorminus="-0.052" errorplus="0.051">1.224</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000100" errorplus="0.000150">2454596.432670</transittime>
+		</planet>
+	</star>
+</system>

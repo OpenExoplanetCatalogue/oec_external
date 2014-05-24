@@ -1,0 +1,23 @@
+<system>
+	<name>HD 179079</name>
+	<rightascension>19 11 10</rightascension>
+	<declination>-02 38 18</declination>
+	<star>
+		<name>HD 179079</name>
+		<magV errorminus="0.012" errorplus="0.012">7.959</magV>
+		<magJ errorminus="0.021" errorplus="0.021">6.734</magJ>
+		<magH errorminus="0.031" errorplus="0.031">6.402</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.311</magK>
+		<planet>
+			<name>HD 179079 b</name>
+			<semimajoraxis>0.110000</semimajoraxis>
+			<eccentricity errorminus="-0.087000" errorplus="0.087000">0.115000</eccentricity>
+			<periastron errorminus="-62.0000" errorplus="62.0000">357.0000</periastron>
+			<period errorminus="-0.01100000" errorplus="0.01100000">14.47600000</period>
+			<mass>0.08000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

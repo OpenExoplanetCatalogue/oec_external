@@ -1,0 +1,23 @@
+<system>
+	<name>HD 41004 A</name>
+	<rightascension>05 59 50</rightascension>
+	<declination>-48 14 23</declination>
+	<star>
+		<name>HD 41004 A</name>
+		<magV errorminus="0.013" errorplus="0.013">8.621</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.004</magJ>
+		<magH errorminus="0.031" errorplus="0.031">6.549</magH>
+		<magK errorminus="0.036" errorplus="0.036">6.428</magK>
+		<planet>
+			<name>HD 41004 A b</name>
+			<semimajoraxis>1.640000</semimajoraxis>
+			<eccentricity errorminus="-0.170000" errorplus="0.170000">0.390000</eccentricity>
+			<periastron errorminus="-31.0000" errorplus="31.0000">97.0000</periastron>
+			<period errorminus="-38.00000000" errorplus="38.00000000">963.00000000</period>
+			<mass errorminus="-0.74000" errorplus="0.74000">2.54000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

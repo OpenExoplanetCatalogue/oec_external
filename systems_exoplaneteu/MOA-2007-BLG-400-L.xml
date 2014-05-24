@@ -1,0 +1,17 @@
+<system>
+	<name>MOA-2007-BLG-400-L</name>
+	<rightascension>18 09 42</rightascension>
+	<declination>-29 46 33</declination>
+	<distance>6000.0</distance>
+	<star>
+		<name>MOA-2007-BLG-400-L</name>
+		<mass>0.35</mass>
+		<planet>
+			<name>MOA-2007-BLG-400-L b</name>
+			<semimajoraxis errorminus="0.25" errorplus="0.25">0.85</semimajoraxis>
+			<mass errorminus="0.4" errorplus="0.4">0.9</mass>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+		</planet>
+	</star>
+</system>

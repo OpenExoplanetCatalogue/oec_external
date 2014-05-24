@@ -1,0 +1,63 @@
+<system>
+	<name>Gliese 876</name>
+	<rightascension>22 53 13</rightascension>
+	<declination>-14 44 47</declination>
+	<distance>4.7</distance>
+	<star>
+		<name>Gliese 876</name>
+		<age>2.5</age>
+		<radius>0.36</radius>
+		<mass>0.334</mass>
+		<spectraltype>M4 V</spectraltype>
+		<temperature>3350.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Gliese 876 b</name>
+			<semimajoraxis errorminus="2e-05" errorplus="2e-05">0.208317</semimajoraxis>
+			<periastron errorminus="1.1" errorplus="1.1">116.7</periastron>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.0</eccentricity>
+			<inclination errorminus="6.0" errorplus="6.0">84.0</inclination>
+			<period errorminus="3.81" errorplus="3.81">61.03</period>
+			<mass errorminus="0.003" errorplus="0.003">1.927</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>14/04/01</lastupdate>
+		</planet>
+		<planet>
+			<name>Gliese 876 c</name>
+			<semimajoraxis errorminus="2.4e-05" errorplus="2.4e-05">0.12959</semimajoraxis>
+			<periastron errorminus="5.0" errorplus="5.0">225.2</periastron>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.002</eccentricity>
+			<inclination errorminus="2.06" errorplus="2.06">48.07</inclination>
+			<period errorminus="0.19" errorplus="0.19">30.23</period>
+			<mass errorminus="0.002" errorplus="0.002">0.637</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>14/04/01</lastupdate>
+		</planet>
+		<planet>
+			<name>Gliese 876 d</name>
+			<semimajoraxis errorminus="1.5e-07" errorplus="1.5e-07">0.02080665</semimajoraxis>
+			<periastron errorminus="23.0" errorplus="23.0">157.4</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.081</eccentricity>
+			<inclination>50.0</inclination>
+			<period errorminus="0.01" errorplus="0.01">1.94</period>
+			<mass errorminus="0.001" errorplus="0.001">0.017</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>14/04/01</lastupdate>
+		</planet>
+		<planet>
+			<name>Gliese 876 e</name>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.3343</semimajoraxis>
+			<periastron errorminus="15.8" errorplus="15.8">360.0</periastron>
+			<eccentricity errorminus="0.048" errorplus="0.048">0.073</eccentricity>
+			<inclination>59.5</inclination>
+			<period errorminus="90.04" errorplus="90.04">124.69</period>
+			<mass errorminus="0.001" errorplus="0.001">0.039</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/04/01</lastupdate>
+		</planet>
+	</star>
+</system>

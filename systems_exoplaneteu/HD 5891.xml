@@ -1,0 +1,26 @@
+<system>
+	<name>HD 5891</name>
+	<rightascension>01 00 33</rightascension>
+	<declination>+20 17 33</declination>
+	<distance>251.0</distance>
+	<star>
+		<name>HD 5891</name>
+		<age>1.5</age>
+		<radius>8.7</radius>
+		<mass>1.91</mass>
+		<spectraltype>G5D</spectraltype>
+		<temperature>4907.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>HD 5891 b</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.76</semimajoraxis>
+			<periastron errorminus="30.0" errorplus="30.0">360.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.066</eccentricity>
+			<period errorminus="0.31" errorplus="0.31">177.11</period>
+			<mass errorminus="0.4" errorplus="0.4">7.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,20 @@
+<system>
+	<name>HD 44219</name>
+	<rightascension>06 20 14</rightascension>
+	<declination>-10 43 30</declination>
+	<star>
+		<name>HD 44219</name>
+		<magV errorminus="0.010" errorplus="0.010">7.698</magV>
+		<magJ errorminus="0.029" errorplus="0.029">6.509</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.215</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.115</magK>
+		<planet>
+			<name>HD 44219 b</name>
+			<period>472.00000000</period>
+			<mass>0.58000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>HD 108147</name>
+	<rightascension>12 25 46</rightascension>
+	<declination>-64 58 41</declination>
+	<distance>38.57</distance>
+	<star>
+		<name>HD 108147</name>
+		<age>1.98</age>
+		<radius>1.22</radius>
+		<mass>1.19</mass>
+		<spectraltype>F8/G0 V</spectraltype>
+		<temperature>6067.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 108147 b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">0.102</semimajoraxis>
+			<periastron errorminus="24.0" errorplus="24.0">308.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.53</eccentricity>
+			<period errorminus="0.0045" errorplus="0.0045">10.8985</period>
+			<mass errorminus="0.04" errorplus="0.04">0.261</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>09/10/06</lastupdate>
+		</planet>
+	</star>
+</system>

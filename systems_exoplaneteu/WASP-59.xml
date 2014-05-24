@@ -1,0 +1,24 @@
+<system>
+	<name>WASP-59</name>
+	<rightascension>23 18 30</rightascension>
+	<declination>+24 53 21</declination>
+	<distance>125.0</distance>
+	<star>
+		<name>WASP-59</name>
+		<age>0.5</age>
+		<radius>0.613</radius>
+		<mass>0.719</mass>
+		<spectraltype>K5V</spectraltype>
+		<temperature>4650.0</temperature>
+		<metallicity>-0.15</metallicity>
+		<planet>
+			<name>WASP-59 b</name>
+			<period>7.9</period>
+			<mass>0.7</mass>
+			<radius>0.9</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

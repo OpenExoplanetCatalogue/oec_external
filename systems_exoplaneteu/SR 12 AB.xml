@@ -1,0 +1,19 @@
+<system>
+	<name>SR 12 AB</name>
+	<rightascension>16 27 20</rightascension>
+	<declination>-24 18 20</declination>
+	<distance>125.0</distance>
+	<star>
+		<name>SR 12 AB</name>
+		<age>0.001</age>
+		<spectraltype>K4-M2.5</spectraltype>
+		<planet>
+			<name>SR 12 AB c</name>
+			<semimajoraxis errorminus="217.0" errorplus="217.0">1083.0</semimajoraxis>
+			<mass errorminus="7.0" errorplus="7.0">13.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/03/08</lastupdate>
+		</planet>
+	</star>
+</system>

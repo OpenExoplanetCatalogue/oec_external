@@ -1,0 +1,26 @@
+<system>
+	<name>HD 219828</name>
+	<rightascension>23 18 47</rightascension>
+	<declination>+18 38 45</declination>
+	<distance>81.1</distance>
+	<star>
+		<name>HD 219828</name>
+		<age>5.8</age>
+		<radius>1.7</radius>
+		<mass>1.24</mass>
+		<spectraltype>G0IV</spectraltype>
+		<temperature>5891.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 219828 b</name>
+			<semimajoraxis>0.052</semimajoraxis>
+			<periastron>0.0</periastron>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.0013" errorplus="0.0013">3.8335</period>
+			<mass>0.066</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>12/11/21</lastupdate>
+		</planet>
+	</star>
+</system>

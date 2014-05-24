@@ -1,0 +1,23 @@
+<system>
+	<name>HD 99109</name>
+	<rightascension>11 24 17</rightascension>
+	<declination>-01 31 45</declination>
+	<star>
+		<name>HD 99109</name>
+		<magV errorminus="0.027" errorplus="0.027">9.061</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.626</magJ>
+		<magH errorminus="0.040" errorplus="0.040">7.259</magH>
+		<magK errorminus="0.024" errorplus="0.024">7.162</magK>
+		<planet>
+			<name>HD 99109 b</name>
+			<semimajoraxis errorminus="-0.065000" errorplus="0.065000">1.105000</semimajoraxis>
+			<eccentricity errorminus="-0.160000" errorplus="0.160000">0.090000</eccentricity>
+			<periastron>256.0000</periastron>
+			<period errorminus="-5.60000000" errorplus="5.60000000">439.30000000</period>
+			<mass errorminus="-0.07000" errorplus="0.07000">0.50200</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

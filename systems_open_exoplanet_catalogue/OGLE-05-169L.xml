@@ -1,0 +1,22 @@
+<system>
+	<name>OGLE-05-169L</name>
+	<rightascension>18 06 05</rightascension>
+	<declination>-30 43 57</declination>
+	<distance>2700</distance>
+	<star>
+		<mass>0.49</mass>
+		<planet>
+			<name>OGLE-05-169L b</name>
+			<name>OGLE 2005-BLG-169L b</name>
+			<list>Confirmed planets</list>
+			<mass>0.04</mass>
+			<period>3300</period>
+			<semimajoraxis>2.8</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>06/04/12</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+		<name>OGLE-05-169L</name>
+		<temperature>5700.0</temperature>
+	</star>
+</system>

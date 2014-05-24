@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-56</name>
+	<rightascension>19 35 02</rightascension>
+	<declination>+41 52 19</declination>
+	<star>
+		<name>Kepler-56</name>
+		<radius errorminus="0.15" errorplus="0.15">4.23</radius>
+		<magJ errorminus="0.020" errorplus="0.020">10.813</magJ>
+		<magH errorminus="0.020" errorplus="0.020">10.330</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.227</magK>
+		<mass errorminus="0.13" errorplus="0.13">1.32</mass>
+		<temperature errorminus="97.00" errorplus="97.00">4840.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-56 b</name>
+			<semimajoraxis errorminus="-0.003700" errorplus="0.003700">0.102800</semimajoraxis>
+			<period errorminus="-0.00100000" errorplus="0.00110000">10.50160000</period>
+			<mass errorminus="-0.01100" errorplus="0.01200">0.07000</mass>
+			<radius errorminus="-0.025" errorplus="0.026">0.581</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.005700" errorplus="0.005600">2454978.255600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-56 c</name>
+			<semimajoraxis errorminus="-0.005900" errorplus="0.005900">0.165200</semimajoraxis>
+			<period errorminus="-0.00062000" errorplus="0.00059000">21.40239000</period>
+			<mass errorminus="-0.06000" errorplus="0.06600">0.57000</mass>
+			<radius errorminus="-0.041" errorplus="0.041">0.874</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.005500" errorplus="0.005700">2454978.656000</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 173416</name>
+	<rightascension>18 43 36</rightascension>
+	<declination>+36 33 24</declination>
+	<star>
+		<name>HD 173416</name>
+		<magV errorminus="0.010" errorplus="0.010">6.037</magV>
+		<magJ errorminus="0.264" errorplus="0.264">4.580</magJ>
+		<magH errorminus="0.232" errorplus="0.232">3.929</magH>
+		<magK errorminus="0.354" errorplus="0.354">3.814</magK>
+		<planet>
+			<name>HD 173416 b</name>
+			<semimajoraxis errorminus="-0.060000" errorplus="0.060000">1.160000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.210000</eccentricity>
+			<periastron errorminus="-11.0000" errorplus="11.0000">254.0000</periastron>
+			<period errorminus="-2.20000000" errorplus="2.20000000">323.60000000</period>
+			<mass errorminus="-0.30000" errorplus="0.30000">2.70000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

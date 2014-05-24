@@ -1,0 +1,26 @@
+<system>
+	<name>CoRoT-6</name>
+	<rightascension>18 44 17</rightascension>
+	<declination>+06 39 48</declination>
+	<star>
+		<name>CoRoT-6</name>
+		<radius errorminus="0.03" errorplus="0.03">1.02</radius>
+		<mass errorminus="0.05" errorplus="0.05">1.05</mass>
+		<temperature errorminus="70.00" errorplus="70.00">6090.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>CoRoT-6 b</name>
+			<semimajoraxis errorminus="-0.001500" errorplus="0.001500">0.085500</semimajoraxis>
+			<eccentricity>0.100000</eccentricity>
+			<inclination errorminus="-0.300" errorplus="0.300">89.070</inclination>
+			<period errorminus="-0.00000400" errorplus="0.00000400">8.88659300</period>
+			<mass errorminus="-0.34000" errorplus="0.34000">2.96000</mass>
+			<radius errorminus="-0.035" errorplus="0.035">1.166</radius>
+			<temperature errorminus="-19" errorplus="19">1017</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+			<transittime errorminus="-0.000200" errorplus="0.000200">2454595.614400</transittime>
+		</planet>
+	</star>
+</system>

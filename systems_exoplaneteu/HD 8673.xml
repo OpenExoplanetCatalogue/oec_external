@@ -1,0 +1,26 @@
+<system>
+	<name>HD 8673</name>
+	<rightascension>01 26 08</rightascension>
+	<declination>+34 34 46</declination>
+	<distance>38.25</distance>
+	<star>
+		<name>HD 8673</name>
+		<age>1.95</age>
+		<radius>1.54</radius>
+		<mass>1.312</mass>
+		<spectraltype>F7 V</spectraltype>
+		<temperature>6413.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>HD 8673 b</name>
+			<semimajoraxis errorminus="0.15" errorplus="0.15">3.02</semimajoraxis>
+			<periastron errorminus="3.5" errorplus="3.5">323.4</periastron>
+			<eccentricity errorminus="0.016" errorplus="0.016">0.723</eccentricity>
+			<period errorminus="17.0" errorplus="17.0">1634.0</period>
+			<mass errorminus="1.6" errorplus="1.6">14.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/06/24</lastupdate>
+		</planet>
+	</star>
+</system>

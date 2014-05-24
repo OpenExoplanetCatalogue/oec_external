@@ -1,0 +1,21 @@
+<system>
+	<name>Kepler-105</name>
+	<rightascension>19 11 33</rightascension>
+	<declination>+46 16 34</declination>
+	<star>
+		<name>Kepler-105</name>
+		<radius>1.16</radius>
+		<mass>1.28</mass>
+		<temperature>5873.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>Kepler-105 c</name>
+			<semimajoraxis>0.072</semimajoraxis>
+			<period errorminus="1.7e-05" errorplus="1.7e-05">7.125939</period>
+			<radius errorminus="0.03" errorplus="0.03">0.144</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

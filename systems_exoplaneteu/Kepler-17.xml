@@ -1,0 +1,27 @@
+<system>
+	<name>Kepler-17</name>
+	<rightascension>19 53 35</rightascension>
+	<declination>+47 48 54</declination>
+	<distance>800.0</distance>
+	<star>
+		<name>Kepler-17</name>
+		<age>1.78</age>
+		<radius>1.05</radius>
+		<mass>1.16</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5781.0</temperature>
+		<metallicity>0.26</metallicity>
+		<planet>
+			<name>Kepler-17 b</name>
+			<semimajoraxis errorminus="0.00037" errorplus="0.00037">0.02591</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.011</eccentricity>
+			<inclination errorminus="0.15" errorplus="0.15">87.2</inclination>
+			<period errorminus="2e-07" errorplus="2e-07">1.4857108</period>
+			<mass errorminus="0.014" errorplus="0.014">2.45</mass>
+			<radius errorminus="0.018" errorplus="0.018">1.312</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>13/10/19</lastupdate>
+		</planet>
+	</star>
+</system>

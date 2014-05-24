@@ -1,0 +1,62 @@
+<system>
+	<name>ups And</name>
+	<rightascension>01 36 48</rightascension>
+	<declination>+41 24 38</declination>
+	<distance>13.47</distance>
+	<star>
+		<name>ups And</name>
+		<age>3.8</age>
+		<radius>1.631</radius>
+		<mass>1.27</mass>
+		<spectraltype>F8 V</spectraltype>
+		<temperature>6212.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>ups And b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
+			<periastron>51.0</periastron>
+			<eccentricity errorminus="0.016" errorplus="0.016">0.013</eccentricity>
+			<inclination errorminus="nan" errorplus="inf">30.0</inclination>
+			<period errorminus="4.7e-05" errorplus="4.7e-05">4.617136</period>
+			<mass errorminus="0.09" errorplus="0.09">0.62</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>12/08/21</lastupdate>
+		</planet>
+		<planet>
+			<name>ups And c</name>
+			<semimajoraxis>0.861</semimajoraxis>
+			<periastron errorminus="4.9" errorplus="4.9">250.8</periastron>
+			<eccentricity>0.24</eccentricity>
+			<inclination errorminus="1.0" errorplus="1.0">8.0</inclination>
+			<period errorminus="0.2" errorplus="0.2">237.7</period>
+			<mass errorminus="0.26" errorplus="0.26">1.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>12/08/21</lastupdate>
+		</planet>
+		<planet>
+			<name>ups And d</name>
+			<semimajoraxis>2.55</semimajoraxis>
+			<periastron>240.8</periastron>
+			<eccentricity>0.274</eccentricity>
+			<inclination errorminus="1.0" errorplus="1.0">24.0</inclination>
+			<period>1302.61</period>
+			<mass>10.19</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>11/05/11</lastupdate>
+		</planet>
+		<planet>
+			<name>ups And e</name>
+			<semimajoraxis errorminus="0.00067" errorplus="0.00067">5.2456</semimajoraxis>
+			<periastron errorminus="2.3" errorplus="2.3">367.3</periastron>
+			<eccentricity errorminus="0.00044" errorplus="0.00044">0.00536</eccentricity>
+			<period errorminus="0.74" errorplus="0.74">3848.86</period>
+			<mass errorminus="0.028" errorplus="0.028">1.059</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/02</lastupdate>
+		</planet>
+	</star>
+</system>

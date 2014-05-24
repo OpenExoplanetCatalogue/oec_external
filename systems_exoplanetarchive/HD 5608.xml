@@ -1,0 +1,26 @@
+<system>
+	<name>HD 5608</name>
+	<rightascension>00 58 14</rightascension>
+	<declination>+33 57 03</declination>
+	<star>
+		<name>HD 5608</name>
+		<radius errorminus="0.40" errorplus="0.40">5.50</radius>
+		<magV errorminus="0.010" errorplus="0.010">5.980</magV>
+		<magJ errorminus="0.256" errorplus="0.256">4.478</magJ>
+		<magH errorminus="0.244" errorplus="0.244">3.880</magH>
+		<magK errorminus="0.372" errorplus="0.372">3.826</magK>
+		<mass errorminus="0.23" errorplus="0.23">1.55</mass>
+		<temperature errorminus="25.00" errorplus="25.00">4854.00</temperature>
+		<planet>
+			<name>HD 5608 b</name>
+			<semimajoraxis>1.900000</semimajoraxis>
+			<eccentricity errorminus="-0.061000" errorplus="0.061000">0.190000</eccentricity>
+			<periastron errorminus="-22.0000" errorplus="22.0000">269.0000</periastron>
+			<period errorminus="-7.70000000" errorplus="7.70000000">792.60000000</period>
+			<mass>1.40000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 02 22</lastupdate>
+		</planet>
+	</star>
+</system>

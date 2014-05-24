@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-387</name>
+	<rightascension>19 11 12</rightascension>
+	<declination>+45 39 24</declination>
+	<star>
+		<name>Kepler-387</name>
+		<radius>1.05</radius>
+		<mass>1.03</mass>
+		<temperature>5774.0</temperature>
+		<metallicity>-0.233</metallicity>
+		<planet>
+			<name>Kepler-387 b</name>
+			<semimajoraxis>0.068</semimajoraxis>
+			<period errorminus="9.4e-05" errorplus="9.4e-05">6.791636</period>
+			<radius errorminus="0.021" errorplus="0.021">0.092</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-387 c</name>
+			<semimajoraxis>0.098</semimajoraxis>
+			<period errorminus="0.000329" errorplus="0.000329">11.837549</period>
+			<radius errorminus="0.02" errorplus="0.02">0.079</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

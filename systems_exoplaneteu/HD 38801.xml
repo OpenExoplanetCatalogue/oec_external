@@ -1,0 +1,25 @@
+<system>
+	<name>HD 38801</name>
+	<rightascension>05 47 59</rightascension>
+	<declination>-08 40 20</declination>
+	<distance>99.4</distance>
+	<star>
+		<name>HD 38801</name>
+		<age>4.67</age>
+		<radius>2.53</radius>
+		<mass>1.36</mass>
+		<spectraltype>K0IV</spectraltype>
+		<temperature>5222.0</temperature>
+		<metallicity>0.26</metallicity>
+		<planet>
+			<name>HD 38801 b</name>
+			<semimajoraxis errorminus="0.037" errorplus="0.037">1.7</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="2.7" errorplus="2.7">696.3</period>
+			<mass errorminus="0.5" errorplus="0.5">10.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/15</lastupdate>
+		</planet>
+	</star>
+</system>

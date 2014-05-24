@@ -1,0 +1,40 @@
+<system>
+	<name>HD 31527</name>
+	<rightascension>04 55 38</rightascension>
+	<declination>-23 45 29</declination>
+	<distance>38.6</distance>
+	<star>
+		<name>HD 31527</name>
+		<spectraltype>G0V</spectraltype>
+		<planet>
+			<name>HD 31527 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.1253</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.13</eccentricity>
+			<period errorminus="0.0074" errorplus="0.0074">16.546</period>
+			<mass errorminus="0.0025" errorplus="0.0025">0.0363</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 31527 c</name>
+			<semimajoraxis errorminus="0.0044" errorplus="0.0044">0.2665</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.11</eccentricity>
+			<period errorminus="0.0848" errorplus="0.0848">51.284</period>
+			<mass errorminus="0.00345" errorplus="0.00345">0.0498</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 31527 d</name>
+			<semimajoraxis errorminus="0.0203" errorplus="0.0203">0.8181</semimajoraxis>
+			<eccentricity errorminus="0.25" errorplus="0.25">0.38</eccentricity>
+			<period errorminus="7.8133" errorplus="7.8133">274.49</period>
+			<mass errorminus="0.0257" errorplus="0.0257">0.0519</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

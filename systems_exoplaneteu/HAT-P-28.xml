@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-28</name>
+	<rightascension>00 51 60</rightascension>
+	<declination>+34 43 42</declination>
+	<distance>395.0</distance>
+	<star>
+		<name>HAT-P-28</name>
+		<age>6.1</age>
+		<radius>1.103</radius>
+		<mass>1.025</mass>
+		<spectraltype>G3</spectraltype>
+		<temperature>5680.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>HAT-P-28 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0434</semimajoraxis>
+			<periastron errorminus="90.0" errorplus="90.0">233.0</periastron>
+			<eccentricity errorminus="0.033" errorplus="0.033">0.051</eccentricity>
+			<inclination errorminus="0.9" errorplus="0.9">88.0</inclination>
+			<period errorminus="7e-06" errorplus="7e-06">3.257215</period>
+			<mass errorminus="0.037" errorplus="0.037">0.626</mass>
+			<radius errorminus="0.082" errorplus="0.082">1.212</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/03/09</lastupdate>
+		</planet>
+	</star>
+</system>

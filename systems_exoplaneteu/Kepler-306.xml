@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-306</name>
+	<rightascension>19 14 09</rightascension>
+	<declination>+40 36 58</declination>
+	<star>
+		<name>Kepler-306</name>
+		<radius>0.72</radius>
+		<mass>0.82</mass>
+		<temperature>4954.0</temperature>
+		<metallicity>0.155</metallicity>
+		<planet>
+			<name>Kepler-306 b</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<period errorminus="2.5e-05" errorplus="2.5e-05">4.646186</period>
+			<radius errorminus="0.009" errorplus="0.009">0.136</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-306 c</name>
+			<semimajoraxis>0.067</semimajoraxis>
+			<period errorminus="3.2e-05" errorplus="3.2e-05">7.240193</period>
+			<radius errorminus="0.017" errorplus="0.017">0.21</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-306 d</name>
+			<semimajoraxis>0.12</semimajoraxis>
+			<period errorminus="0.000137" errorplus="0.000137">17.326644</period>
+			<radius errorminus="0.021" errorplus="0.021">0.22</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-306 e</name>
+			<semimajoraxis>0.227</semimajoraxis>
+			<period errorminus="0.000439" errorplus="0.000439">44.840975</period>
+			<radius errorminus="0.013" errorplus="0.013">0.203</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

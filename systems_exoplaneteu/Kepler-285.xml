@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-285</name>
+	<rightascension>19 25 34</rightascension>
+	<declination>+48 03 56</declination>
+	<star>
+		<name>Kepler-285</name>
+		<radius>0.81</radius>
+		<mass>0.85</mass>
+		<temperature>5411.0</temperature>
+		<metallicity>-0.063</metallicity>
+		<planet>
+			<name>Kepler-285 b</name>
+			<semimajoraxis>0.036</semimajoraxis>
+			<period errorminus="1.2e-05" errorplus="1.2e-05">2.633867</period>
+			<radius errorminus="0.052" errorplus="0.052">0.12</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-285 c</name>
+			<semimajoraxis>0.064</semimajoraxis>
+			<period errorminus="5.9e-05" errorplus="5.9e-05">6.186676</period>
+			<radius errorminus="0.044" errorplus="0.044">0.1</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

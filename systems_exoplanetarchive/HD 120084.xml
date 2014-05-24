@@ -1,0 +1,27 @@
+<system>
+	<name>HD 120084</name>
+	<rightascension>13 42 39</rightascension>
+	<declination>+78 03 52</declination>
+	<star>
+		<name>HD 120084</name>
+		<radius errorminus="0.65" errorplus="0.65">9.12</radius>
+		<magV errorminus="0.009" errorplus="0.009">5.899</magV>
+		<magJ errorminus="0.282" errorplus="0.282">4.091</magJ>
+		<magH errorminus="0.206" errorplus="0.206">3.599</magH>
+		<magK errorminus="0.236" errorplus="0.236">3.572</magK>
+		<mass errorminus="0.06" errorplus="0.06">2.39</mass>
+		<temperature errorminus="22.00" errorplus="22.00">4892.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 120084 b</name>
+			<semimajoraxis>4.300000</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.140000">0.660000</eccentricity>
+			<periastron errorminus="-9.0000" errorplus="12.0000">117.0000</periastron>
+			<period errorminus="-35.00000000" errorplus="24.00000000">2082.00000000</period>
+			<mass>4.50000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 04 26</lastupdate>
+		</planet>
+	</star>
+</system>

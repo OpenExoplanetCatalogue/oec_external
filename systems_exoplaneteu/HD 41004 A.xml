@@ -1,0 +1,25 @@
+<system>
+	<name>HD 41004 A</name>
+	<rightascension>05 59 49</rightascension>
+	<declination>-48 45 38</declination>
+	<distance>42.5</distance>
+	<star>
+		<name>HD 41004 A</name>
+		<age>1.64</age>
+		<mass>0.7</mass>
+		<spectraltype>K1 V</spectraltype>
+		<temperature>5035.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>HD 41004 A b</name>
+			<semimajoraxis>1.64</semimajoraxis>
+			<periastron errorminus="31.0" errorplus="31.0">97.0</periastron>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.39</eccentricity>
+			<period errorminus="38.0" errorplus="38.0">963.0</period>
+			<mass errorminus="0.74" errorplus="0.74">2.54</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>12/11/21</lastupdate>
+		</planet>
+	</star>
+</system>

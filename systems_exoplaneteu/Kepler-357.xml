@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-357</name>
+	<rightascension>19 24 58</rightascension>
+	<declination>+44 00 31</declination>
+	<star>
+		<name>Kepler-357</name>
+		<radius>0.83</radius>
+		<mass>0.78</mass>
+		<temperature>5036.0</temperature>
+		<metallicity>0.051</metallicity>
+		<planet>
+			<name>Kepler-357 b</name>
+			<semimajoraxis>0.063</semimajoraxis>
+			<period errorminus="3.4e-05" errorplus="3.4e-05">6.475434</period>
+			<radius errorminus="0.096" errorplus="0.096">0.164</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-357 c</name>
+			<semimajoraxis>0.12</semimajoraxis>
+			<period errorminus="8.1e-05" errorplus="8.1e-05">16.85837</period>
+			<radius errorminus="0.14" errorplus="0.14">0.238</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-357 d</name>
+			<semimajoraxis>0.246</semimajoraxis>
+			<period errorminus="0.00046" errorplus="0.00046">49.499875</period>
+			<radius errorminus="0.182" errorplus="0.182">0.306</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>CoRoT-11</name>
+	<rightascension>18 42 45</rightascension>
+	<declination>+05 56 16</declination>
+	<distance>560.0</distance>
+	<star>
+		<name>CoRoT-11</name>
+		<age>2.0</age>
+		<radius>1.37</radius>
+		<mass>1.27</mass>
+		<spectraltype>F6V</spectraltype>
+		<temperature>6440.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>CoRoT-11 b</name>
+			<semimajoraxis errorminus="0.00036" errorplus="0.00036">0.04351</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.17" errorplus="0.17">81.41</inclination>
+			<period errorminus="2.1e-05" errorplus="2.1e-05">2.994325</period>
+			<mass errorminus="0.27" errorplus="0.27">2.33</mass>
+			<radius errorminus="0.033" errorplus="0.033">1.43</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+		</planet>
+	</star>
+</system>

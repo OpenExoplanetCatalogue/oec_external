@@ -1,0 +1,23 @@
+<system>
+	<name>Pr0211</name>
+	<rightascension>08 42 11</rightascension>
+	<declination>+19 16 37</declination>
+	<star>
+		<name>Pr0211</name>
+		<radius errorminus="0.08" errorplus="0.08">0.87</radius>
+		<magJ errorminus="0.022" errorplus="0.022">10.660</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.242</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.173</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.95</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5326.00</temperature>
+		<planet>
+			<name>Pr0211 b</name>
+			<eccentricity>0.000000</eccentricity>
+			<period errorminus="-0.00120000" errorplus="0.00120000">2.14510000</period>
+			<mass errorminus="-0.06400" errorplus="0.06400">1.84400</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

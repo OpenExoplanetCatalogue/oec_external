@@ -1,0 +1,17 @@
+<system>
+	<name>WASP-69</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<star>
+		<name>WASP-69</name>
+		<planet>
+			<name>WASP-69 b</name>
+			<period>3.9</period>
+			<mass>0.3</mass>
+			<radius>1.0</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,38 @@
+<system>
+	<name>HD 154857</name>
+	<rightascension>17 11 16</rightascension>
+	<declination>-56 40 51</declination>
+	<star>
+		<name>HD 154857</name>
+		<radius errorminus="0.06" errorplus="0.06">1.76</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.238</magV>
+		<magJ errorminus="0.018" errorplus="0.018">5.938</magJ>
+		<magH errorminus="0.038" errorplus="0.038">5.588</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.509</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.72</mass>
+		<temperature>5605.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 154857 c</name>
+			<semimajoraxis errorminus="-0.090000" errorplus="0.090000">5.360000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.060000</eccentricity>
+			<periastron errorminus="-37.0000" errorplus="37.0000">352.0000</periastron>
+			<period errorminus="-105.00000000" errorplus="105.00000000">3452.00000000</period>
+			<mass errorminus="-0.16000" errorplus="0.16000">2.58000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 27</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 154857 b</name>
+			<semimajoraxis errorminus="-0.008000" errorplus="0.008000">1.291000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.460000</eccentricity>
+			<periastron errorminus="-4.0000" errorplus="4.0000">57.0000</periastron>
+			<period errorminus="-0.50000000" errorplus="0.50000000">408.60000000</period>
+			<mass errorminus="-0.05000" errorplus="0.05000">2.24000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2014 01 27</lastupdate>
+		</planet>
+	</star>
+</system>

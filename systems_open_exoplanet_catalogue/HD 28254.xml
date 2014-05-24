@@ -1,0 +1,32 @@
+<system>
+	<name>HD 28254</name>
+	<rightascension>04 24 51</rightascension>
+	<declination>-50 37 20</declination>
+	<distance>56.2</distance>
+	<star>
+		<mass>1.06</mass>
+		<radius>1.48</radius>
+		<magV>7.71</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.44</magB>
+		<magR>7.7</magR>
+		<magJ errorminus="0.026" errorplus="0.026">6.395</magJ>
+		<magH errorminus="0.03" errorplus="0.03">6.13</magH>
+		<magK errorminus="0.029" errorplus="0.029">6.006</magK>
+		<metallicity>0.36</metallicity>
+		<spectraltype>G1IV/V</spectraltype>
+		<planet>
+			<name>HD 28254 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.16</mass>
+			<period>1116</period>
+			<semimajoraxis>2.15</semimajoraxis>
+			<eccentricity>0.81</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/09/08</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>196.8</temperature>
+		</planet>
+		<name>HD 28254</name>
+		<temperature>5664.0</temperature>
+	</star>
+</system>

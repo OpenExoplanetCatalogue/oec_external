@@ -1,0 +1,28 @@
+<system>
+	<name>HD 185269</name>
+	<rightascension>19 37 12</rightascension>
+	<declination>+28 30 00</declination>
+	<distance>47</distance>
+	<star>
+		<mass>1.28</mass>
+		<radius>1.88</radius>
+		<magV>6.67</magV>
+		<magB>7.238</magB>
+		<metallicity>0.11</metallicity>
+		<spectraltype>G0IV</spectraltype>
+		<planet>
+			<name>HD 185269 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.94</mass>
+			<period>6.838</period>
+			<semimajoraxis>0.077</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>06/08/16</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+			<temperature>1295.4</temperature>
+		</planet>
+		<name>HD 185269</name>
+		<temperature>5980.0</temperature>
+	</star>
+</system>

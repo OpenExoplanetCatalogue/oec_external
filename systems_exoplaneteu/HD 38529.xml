@@ -1,0 +1,39 @@
+<system>
+	<name>HD 38529</name>
+	<rightascension>05 46 34</rightascension>
+	<declination>+01 10 05</declination>
+	<distance>39.28</distance>
+	<star>
+		<name>HD 38529</name>
+		<age>3.28</age>
+		<radius>2.44</radius>
+		<mass>1.48</mass>
+		<spectraltype>G4 IV</spectraltype>
+		<temperature>5697.0</temperature>
+		<metallicity>0.27</metallicity>
+		<planet>
+			<name>HD 38529 b</name>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.131</semimajoraxis>
+			<periastron errorminus="1.7" errorplus="1.7">95.9</periastron>
+			<eccentricity errorminus="0.007" errorplus="0.007">0.248</eccentricity>
+			<inclination errorminus="14.0" errorplus="14.0">57.0</inclination>
+			<period errorminus="0.0002" errorplus="0.0002">14.3104</period>
+			<mass>0.78</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>11/05/11</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 38529 c</name>
+			<semimajoraxis errorminus="0.042" errorplus="0.042">3.695</semimajoraxis>
+			<periastron errorminus="0.7" errorplus="0.7">22.52</periastron>
+			<eccentricity errorminus="0.003" errorplus="0.003">0.36</eccentricity>
+			<inclination errorminus="4.0" errorplus="4.0">48.3</inclination>
+			<period errorminus="0.4" errorplus="0.4">2134.76</period>
+			<mass errorminus="1.2" errorplus="1.5">17.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/03/02</lastupdate>
+		</planet>
+	</star>
+</system>

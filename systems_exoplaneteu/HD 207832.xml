@@ -1,0 +1,33 @@
+<system>
+	<name>HD 207832</name>
+	<rightascension>21 52 36</rightascension>
+	<declination>-26 58 24</declination>
+	<distance>54.4</distance>
+	<star>
+		<name>HD 207832</name>
+		<age>4.5</age>
+		<radius>0.901</radius>
+		<mass>0.94</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5710.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>HD 207832 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.57</semimajoraxis>
+			<period errorminus="0.97" errorplus="0.78">161.97</period>
+			<mass errorminus="0.06" errorplus="0.03">0.56</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/08</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 207832 c</name>
+			<semimajoraxis errorminus="0.045" errorplus="0.087">2.112</semimajoraxis>
+			<period errorminus="71.0" errorplus="37.0">1155.7</period>
+			<mass errorminus="0.18" errorplus="0.06">0.73</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

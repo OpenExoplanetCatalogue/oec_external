@@ -1,0 +1,26 @@
+<system>
+	<name>CoRoT-25</name>
+	<rightascension>18 42 31</rightascension>
+	<declination>+06 30 50</declination>
+	<distance>1000.0</distance>
+	<star>
+		<name>CoRoT-25</name>
+		<age>5.2</age>
+		<radius>1.19</radius>
+		<mass>1.09</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>6040.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>CoRoT-25 b</name>
+			<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.0578</semimajoraxis>
+			<inclination errorminus="0.8" errorplus="0.3">84.5</inclination>
+			<period errorminus="6e-05" errorplus="6e-05">4.86069</period>
+			<mass errorminus="0.04" errorplus="0.04">0.27</mass>
+			<radius errorminus="0.1" errorplus="0.3">1.08</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

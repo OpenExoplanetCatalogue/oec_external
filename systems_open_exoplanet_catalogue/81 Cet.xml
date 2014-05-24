@@ -1,0 +1,32 @@
+<system>
+	<name>81 Cet</name>
+	<rightascension>02 37 42</rightascension>
+	<declination>-03 23 46</declination>
+	<distance>97.2</distance>
+	<star>
+		<mass>2.4</mass>
+		<radius>11</radius>
+		<magV>5.65</magV>
+		<magB>6.667</magB>
+		<magJ errorminus="0.266" errorplus="0.266">3.940</magJ>
+		<magH errorminus="0.234" errorplus="0.234">3.386</magH>
+		<magK errorminus="0.258" errorplus="0.258">3.266</magK>
+		<metallicity>-0.06</metallicity>
+		<spectraltype>G5III</spectraltype>
+		<planet>
+			<name>81 Cet b</name>
+			<list>Confirmed planets</list>
+			<mass>5.3</mass>
+			<period>952.7</period>
+			<semimajoraxis>2.5</semimajoraxis>
+			<eccentricity>0.206</eccentricity>
+			<description>The star 81 Ceti is a G-type giant in the constellation of Cetus.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>08/07/03</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>565.2</temperature>
+		</planet>
+		<name>81 Cet</name>
+		<temperature>4790.0</temperature>
+	</star>
+</system>

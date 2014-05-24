@@ -1,0 +1,42 @@
+<system>
+	<name>HD 47186</name>
+	<rightascension>06 36 09</rightascension>
+	<declination>-27 37 20</declination>
+	<distance>37.84</distance>
+	<star>
+		<mass>0.99</mass>
+		<magV>7.8</magV>
+		<magB errorminus="0.01" errorplus="0.01">8.36</magB>
+		<magJ errorminus="0.023" errorplus="0.023">6.416</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.100</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.005</magK>
+		<metallicity>0.23</metallicity>
+		<spectraltype>G5V</spectraltype>
+		<planet>
+			<name>HD 47186 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.07167</mass>
+			<period>4.0845</period>
+			<semimajoraxis>0.05</semimajoraxis>
+			<eccentricity>0.038</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/01/13</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>1123.6</temperature>
+		</planet>
+		<planet>
+			<name>HD 47186 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.35061</mass>
+			<period>1353.6</period>
+			<semimajoraxis>2.395</semimajoraxis>
+			<eccentricity>0.249</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/01/13</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>161.7</temperature>
+		</planet>
+		<name>HD 47186</name>
+		<temperature>5675.0</temperature>
+	</star>
+</system>

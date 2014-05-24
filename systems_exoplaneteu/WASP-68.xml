@@ -1,0 +1,17 @@
+<system>
+	<name>WASP-68</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<star>
+		<name>WASP-68</name>
+		<planet>
+			<name>WASP-68 b</name>
+			<period>5.1</period>
+			<mass>0.8</mass>
+			<radius>0.9</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

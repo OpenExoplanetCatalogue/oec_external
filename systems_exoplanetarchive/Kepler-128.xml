@@ -1,0 +1,33 @@
+<system>
+	<name>Kepler-128</name>
+	<rightascension>18 49 58</rightascension>
+	<declination>+43 58 49</declination>
+	<star>
+		<name>Kepler-128</name>
+		<radius errorminus="0.04" errorplus="0.04">1.66</radius>
+		<magJ errorminus="0.021" errorplus="0.021">10.373</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.094</magH>
+		<magK errorminus="0.011" errorplus="0.011">10.109</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.18</mass>
+		<temperature>6090.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-128 b</name>
+			<period>15.09000000</period>
+			<mass errorminus="-0.01900" errorplus="0.01900">0.09700</mass>
+			<radius errorminus="-0.003" errorplus="0.003">0.101</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-128 c</name>
+			<period>22.80400000</period>
+			<mass errorminus="-0.01000" errorplus="0.01000">0.10500</mass>
+			<radius errorminus="-0.003" errorplus="0.003">0.101</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+	</star>
+</system>

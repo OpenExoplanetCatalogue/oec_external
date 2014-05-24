@@ -1,0 +1,29 @@
+<system>
+	<name>PH2</name>
+	<rightascension>19 19 03</rightascension>
+	<declination>+51 57 45</declination>
+	<star>
+		<name>PH2</name>
+		<radius errorminus="0.05" errorplus="0.05">1.00</radius>
+		<magJ errorminus="0.022" errorplus="0.022">11.501</magJ>
+		<magH errorminus="0.030" errorplus="0.030">11.182</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.116</magK>
+		<mass errorminus="0.02" errorplus="0.02">0.94</mass>
+		<temperature errorminus="42.00" errorplus="42.00">5629.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>PH2 b</name>
+			<semimajoraxis errorminus="-0.009000" errorplus="0.009000">0.828000</semimajoraxis>
+			<eccentricity errorminus="-0.290000" errorplus="0.080000">0.410000</eccentricity>
+			<periastron errorminus="-3.4400" errorplus="53.8600">3.4400</periastron>
+			<inclination errorminus="-0.020" errorplus="0.030">89.830</inclination>
+			<period errorminus="-0.00100000" errorplus="0.00100000">282.52550000</period>
+			<radius errorminus="-0.050" errorplus="0.050">0.903</radius>
+			<temperature errorminus="-7" errorplus="7">281</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+			<transittime>2455195.570900</transittime>
+		</planet>
+	</star>
+</system>

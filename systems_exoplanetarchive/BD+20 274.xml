@@ -1,0 +1,26 @@
+<system>
+	<name>BD+20 274</name>
+	<rightascension>01 43 41</rightascension>
+	<declination>+21 00 19</declination>
+	<star>
+		<name>BD+20 274</name>
+		<radius errorminus="0.90" errorplus="0.90">17.30</radius>
+		<magJ errorminus="0.019" errorplus="0.019">7.003</magJ>
+		<magH errorminus="0.020" errorplus="0.020">6.337</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.169</magK>
+		<mass errorminus="0.20" errorplus="0.20">0.80</mass>
+		<temperature errorminus="10.00" errorplus="10.00">4296.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>BD+20 274 b</name>
+			<semimajoraxis>1.300000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.210000</eccentricity>
+			<periastron errorminus="-38.1000" errorplus="38.1000">108.5000</periastron>
+			<period errorminus="-5.40000000" errorplus="5.40000000">578.20000000</period>
+			<mass>4.20000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,31 @@
+<system>
+	<name>HD 145377</name>
+	<rightascension>16 11 36</rightascension>
+	<declination>-27 04 41</declination>
+	<distance>57.7</distance>
+	<star>
+		<mass>1.12</mass>
+		<radius>1.14</radius>
+		<magV>8.12</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.73</magB>
+		<magJ errorminus="0.018" errorplus="0.018">7.014</magJ>
+		<magH errorminus="0.040" errorplus="0.040">6.797</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.706</magK>
+		<metallicity>0.12</metallicity>
+		<spectraltype>G3V</spectraltype>
+		<planet>
+			<name>HD 145377 b</name>
+			<list>Confirmed planets</list>
+			<mass>5.76</mass>
+			<period>103.95</period>
+			<semimajoraxis>0.45</semimajoraxis>
+			<eccentricity>0.307</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>08/10/28</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>421.8</temperature>
+		</planet>
+		<name>HD 145377</name>
+		<temperature>6046.0</temperature>
+	</star>
+</system>

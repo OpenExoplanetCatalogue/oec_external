@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-103</name>
+	<rightascension>16 37 16</rightascension>
+	<declination>+07 11 00</declination>
+	<star>
+		<name>WASP-103</name>
+		<radius errorminus="0.05" errorplus="0.05">1.44</radius>
+		<magJ errorminus="0.023" errorplus="0.023">11.100</magJ>
+		<magH errorminus="0.030" errorplus="0.030">10.857</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.767</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.22</mass>
+		<temperature errorminus="160.00" errorplus="160.00">6110.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-103 b</name>
+			<semimajoraxis errorminus="-0.000210" errorplus="0.000210">0.019850</semimajoraxis>
+			<inclination errorminus="-2.700" errorplus="2.700">86.300</inclination>
+			<period errorminus="-0.00001900" errorplus="0.00001900">0.92554200</period>
+			<mass errorminus="-0.08800" errorplus="0.08800">1.49000</mass>
+			<radius errorminus="-0.047" errorplus="0.073">1.528</radius>
+			<temperature errorminus="-70" errorplus="75">2508</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 14</lastupdate>
+			<transittime errorminus="-0.000750" errorplus="0.000750">2456459.599570</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>BD-13 2130</name>
+	<rightascension>07 37 09</rightascension>
+	<declination>-13 54 24</declination>
+	<star>
+		<name>BD-13 2130</name>
+		<magV errorminus="0.018" errorplus="0.018">9.767</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.940</magJ>
+		<magH errorminus="0.051" errorplus="0.051">7.371</magH>
+		<magK errorminus="0.022" errorplus="0.022">7.151</magK>
+		<planet>
+			<name>BD-13 2130 b</name>
+			<semimajoraxis>2.100000</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.210000</eccentricity>
+			<periastron errorminus="-10.0000" errorplus="10.0000">18.0000</periastron>
+			<period errorminus="-5.30000000" errorplus="5.30000000">714.30000000</period>
+			<mass>10.60000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

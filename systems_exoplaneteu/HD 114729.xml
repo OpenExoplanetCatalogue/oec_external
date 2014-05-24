@@ -1,0 +1,26 @@
+<system>
+	<name>HD 114729</name>
+	<rightascension>13 12 44</rightascension>
+	<declination>-31 07 36</declination>
+	<distance>35.0</distance>
+	<star>
+		<name>HD 114729</name>
+		<age>4.58</age>
+		<radius>1.46</radius>
+		<mass>0.93</mass>
+		<spectraltype>G3 V</spectraltype>
+		<temperature>5662.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>HD 114729 b</name>
+			<semimajoraxis>2.08</semimajoraxis>
+			<periastron errorminus="30.0" errorplus="30.0">73.0</periastron>
+			<eccentricity errorminus="0.18" errorplus="0.18">0.32</eccentricity>
+			<period errorminus="9.0" errorplus="9.0">1135.0</period>
+			<mass>0.84</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+		</planet>
+	</star>
+</system>

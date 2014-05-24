@@ -1,0 +1,35 @@
+<system>
+	<name>HD 219415</name>
+	<rightascension>01 43 40</rightascension>
+	<declination>+21 00 19</declination>
+	<star>
+		<mass>1.0</mass>
+		<radius>2.9</radius>
+		<magV>8.94</magV>
+		<magB errorminus="0.03" errorplus="0.03">9.90</magB>
+		<magJ errorminus="0.018" errorplus="0.018">7.023</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.532</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.421</magK>
+		<metallicity>-0.46</metallicity>
+		<spectraltype>K0 III</spectraltype>
+		<planet>
+			<name>HD 219415 b</name>
+			<name>GSC 4006-62 b</name>
+			<name>SAO 35261 b</name>
+			<name>2MASS J23145382+5643491 b</name>
+			<name>TYC 4006-629-1 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.0</mass>
+			<period>2093.3</period>
+			<semimajoraxis>3.2</semimajoraxis>
+			<eccentricity>0.40</eccentricity>
+			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The planet is in a nearly 6 year orbit.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/09/13</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<temperature>202.3</temperature>
+		</planet>
+		<name>HD 219415</name>
+		<temperature>4820.0</temperature>
+	</star>
+</system>

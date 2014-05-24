@@ -1,0 +1,18 @@
+<system>
+	<name>PSR B1620-26</name>
+	<rightascension>16 23 38</rightascension>
+	<declination>-26 28 07</declination>
+	<distance>3800.0</distance>
+	<star>
+		<name>PSR B1620-26</name>
+		<mass>1.35</mass>
+		<planet>
+			<name>PSR B1620-26 b</name>
+			<semimajoraxis errorminus="0.0" errorplus="0.0">23.0</semimajoraxis>
+			<period errorminus="0.0" errorplus="0.0">36525.0</period>
+			<mass errorminus="1.0" errorplus="1.0">2.5</mass>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>13/07/11</lastupdate>
+		</planet>
+	</star>
+</system>

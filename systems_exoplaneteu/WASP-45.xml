@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-45</name>
+	<rightascension>00 20 57</rightascension>
+	<declination>-35 00 06</declination>
+	<star>
+		<name>WASP-45</name>
+		<age>1.4</age>
+		<radius>0.945</radius>
+		<mass>0.909</mass>
+		<spectraltype>K2V</spectraltype>
+		<temperature>5140.0</temperature>
+		<metallicity>0.36</metallicity>
+		<planet>
+			<name>WASP-45 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.04054</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.79" errorplus="0.79">84.47</inclination>
+			<period errorminus="3.5e-06" errorplus="3.5e-06">3.1260876</period>
+			<mass errorminus="0.053" errorplus="0.053">1.007</mass>
+			<radius errorminus="0.14" errorplus="0.14">1.16</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/05/17</lastupdate>
+		</planet>
+	</star>
+</system>

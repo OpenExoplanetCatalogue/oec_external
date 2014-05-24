@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-88</name>
+	<rightascension>20 38 03</rightascension>
+	<declination>-48 27 43</declination>
+	<star>
+		<name>WASP-88</name>
+		<radius errorminus="0.12" errorplus="0.12">2.08</radius>
+		<magJ errorminus="0.018" errorplus="0.018">10.568</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.386</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.322</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.45</mass>
+		<temperature errorminus="130.00" errorplus="130.00">6431.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-88 b</name>
+			<semimajoraxis errorminus="-0.000620" errorplus="0.000650">0.064310</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.500" errorplus="1.400">88.000</inclination>
+			<period errorminus="-0.00001900" errorplus="0.00001900">4.95400000</period>
+			<mass errorminus="-0.08000" errorplus="0.08000">0.56000</mass>
+			<radius errorminus="-0.070" errorplus="0.130">1.700</radius>
+			<temperature errorminus="-45" errorplus="54">1772</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 04 09</lastupdate>
+			<transittime errorminus="-0.000860" errorplus="0.000850">2456474.731540</transittime>
+		</planet>
+	</star>
+</system>

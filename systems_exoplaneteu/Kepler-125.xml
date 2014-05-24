@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-125</name>
+	<rightascension>19 53 02</rightascension>
+	<declination>+47 36 18</declination>
+	<star>
+		<name>Kepler-125</name>
+		<radius>0.51</radius>
+		<mass>0.55</mass>
+		<temperature>3810.0</temperature>
+		<metallicity>0.126</metallicity>
+		<planet>
+			<name>Kepler-125 b</name>
+			<semimajoraxis>0.041</semimajoraxis>
+			<period errorminus="3e-06" errorplus="3e-06">4.164389</period>
+			<radius errorminus="0.009" errorplus="0.009">0.211</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-125 c</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="4.7e-05" errorplus="4.7e-05">5.774464</period>
+			<radius errorminus="0.004" errorplus="0.004">0.066</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

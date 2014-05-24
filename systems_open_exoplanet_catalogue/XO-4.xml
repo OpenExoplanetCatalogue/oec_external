@@ -1,0 +1,37 @@
+<system>
+	<name>XO-4</name>
+	<rightascension>07 21 33</rightascension>
+	<declination>+58 16 05</declination>
+	<distance>293</distance>
+	<star>
+		<mass>1.32</mass>
+		<radius>1.55</radius>
+		<magV>10.7</magV>
+		<magB errorminus="0.05" errorplus="0.05">11.15</magB>
+		<magJ errorminus="0.021" errorplus="0.021">9.667</magJ>
+		<magH errorminus="0.022" errorplus="0.022">9.476</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.406</magK>
+		<metallicity>-0.04</metallicity>
+		<spectraltype>F5V</spectraltype>
+		<planet>
+			<name>XO-4 b</name>
+			<name>2MASS J07213317+5816051 b</name>
+			<name>TYC 3793-1994-1 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.72</mass>
+			<radius>1.34</radius>
+			<period>4.1250823</period>
+			<semimajoraxis>0.0555</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>88.7</inclination>
+			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454485.9330</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>11/11/28</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>1328.2</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>XO-4</name>
+		<temperature>5700.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-35</name>
+	<rightascension>08 13 00</rightascension>
+	<declination>+04 47 13</declination>
+	<star>
+		<name>HAT-P-35</name>
+		<radius errorminus="0.08" errorplus="0.08">1.44</radius>
+		<magJ errorminus="0.024" errorplus="0.024">11.358</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.072</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.030</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.24</mass>
+		<temperature errorminus="88.00" errorplus="88.00">6096.00</temperature>
+		<planet>
+			<name>HAT-P-35 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.049800</semimajoraxis>
+			<eccentricity errorminus="-0.018000" errorplus="0.018000">0.025000</eccentricity>
+			<periastron errorminus="-93.0000" errorplus="93.0000">248.0000</periastron>
+			<inclination errorminus="-1.000" errorplus="1.000">87.300</inclination>
+			<period errorminus="-0.00002100" errorplus="0.00002100">3.64670600</period>
+			<mass errorminus="-0.03300" errorplus="0.03300">1.05400</mass>
+			<radius errorminus="-0.098" errorplus="0.098">1.332</radius>
+			<temperature errorminus="-45" errorplus="45">1581</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000500" errorplus="0.000500">2455578.660810</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 101930</name>
+	<rightascension>11 43 30</rightascension>
+	<declination>-58 00 25</declination>
+	<star>
+		<name>HD 101930</name>
+		<magV errorminus="0.012" errorplus="0.012">8.216</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.645</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.259</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.147</magK>
+		<planet>
+			<name>HD 101930 b</name>
+			<semimajoraxis>0.302000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.110000</eccentricity>
+			<periastron errorminus="-11.0000" errorplus="11.0000">251.0000</periastron>
+			<period errorminus="-0.18000000" errorplus="0.18000000">70.46000000</period>
+			<mass>0.30000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+		</planet>
+	</star>
+</system>

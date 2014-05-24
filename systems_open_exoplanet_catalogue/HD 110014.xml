@@ -1,0 +1,28 @@
+<system>
+	<name>HD 110014</name>
+	<rightascension>12 39 14</rightascension>
+	<declination>-07 59 44</declination>
+	<distance>90</distance>
+	<star>
+		<mass>2.17</mass>
+		<radius>20.9</radius>
+		<magV>4.66</magV>
+		<magB>5.904</magB>
+		<metallicity>0.19</metallicity>
+		<spectraltype>K2III</spectraltype>
+		<planet>
+			<name>HD 110014 b</name>
+			<list>Confirmed planets</list>
+			<mass>11.09</mass>
+			<period>835.477</period>
+			<semimajoraxis>2.14</semimajoraxis>
+			<eccentricity>0.462</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/07/31</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>603.9</temperature>
+		</planet>
+		<name>HD 110014</name>
+		<temperature>4445.0</temperature>
+	</star>
+</system>

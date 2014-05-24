@@ -1,0 +1,28 @@
+<system>
+	<name>Kepler-15</name>
+	<rightascension>19 44 48</rightascension>
+	<declination>+49 08 25</declination>
+	<star>
+		<name>Kepler-15</name>
+		<radius errorminus="0.06" errorplus="0.06">0.99</radius>
+		<magJ errorminus="0.027" errorplus="0.027">12.578</magJ>
+		<magH errorminus="0.031" errorplus="0.031">12.282</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.216</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.02</mass>
+		<temperature errorminus="122.00" errorplus="122.00">5515.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-15 b</name>
+			<semimajoraxis errorminus="-0.000930" errorplus="0.000860">0.057140</semimajoraxis>
+			<eccentricity>0.060000</eccentricity>
+			<inclination errorminus="-0.200" errorplus="0.180">87.440</inclination>
+			<period errorminus="-0.00000130" errorplus="0.00000130">4.94278200</period>
+			<mass errorminus="-0.09000" errorplus="0.08000">0.66000</mass>
+			<radius errorminus="-0.070" errorplus="0.060">0.960</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 11 27</lastupdate>
+			<transittime errorminus="-0.000096" errorplus="0.000084">2454969.328651</transittime>
+		</planet>
+	</star>
+</system>

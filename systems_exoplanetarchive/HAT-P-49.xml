@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-49</name>
+	<rightascension>20 21 46</rightascension>
+	<declination>+26 41 34</declination>
+	<star>
+		<name>HAT-P-49</name>
+		<radius errorminus="0.14" errorplus="0.14">1.83</radius>
+		<magJ errorminus="0.016" errorplus="0.016">9.550</magJ>
+		<magH errorminus="0.019" errorplus="0.019">9.399</magH>
+		<magK errorminus="0.014" errorplus="0.014">9.346</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.54</mass>
+		<temperature errorminus="52.00" errorplus="52.00">6820.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-49 b</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.043800</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="-1.700" errorplus="1.700">86.200</inclination>
+			<period errorminus="-0.00000600" errorplus="0.00000600">2.69154800</period>
+			<mass errorminus="-0.20500" errorplus="0.20500">1.73000</mass>
+			<radius errorminus="-0.077" errorplus="0.128">1.413</radius>
+			<temperature errorminus="-42" errorplus="69">2131</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 03</lastupdate>
+			<transittime errorminus="-0.000630" errorplus="0.000630">2456399.624060</transittime>
+		</planet>
+	</star>
+</system>

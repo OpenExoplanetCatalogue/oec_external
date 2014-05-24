@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-33</name>
+	<rightascension>02 26 51</rightascension>
+	<declination>+37 33 02</declination>
+	<star>
+		<name>WASP-33</name>
+		<radius errorminus="0.03" errorplus="0.03">1.44</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.142</magV>
+		<magJ errorminus="0.021" errorplus="0.021">7.581</magJ>
+		<magH errorminus="0.024" errorplus="0.024">7.516</magH>
+		<magK errorminus="0.024" errorplus="0.024">7.468</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.50</mass>
+		<temperature errorminus="100.00" errorplus="100.00">7430.00</temperature>
+		<planet>
+			<name>WASP-33 b</name>
+			<semimajoraxis errorminus="-0.000170" errorplus="0.000170">0.025550</semimajoraxis>
+			<inclination errorminus="-1.810" errorplus="1.810">87.670</inclination>
+			<period errorminus="-0.00000120" errorplus="0.00000120">1.21986690</period>
+			<mass>4.10000</mass>
+			<radius errorminus="-0.045" errorplus="0.045">1.497</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 29</lastupdate>
+			<transittime errorminus="-0.000260" errorplus="0.000260">2454163.223730</transittime>
+		</planet>
+	</star>
+</system>

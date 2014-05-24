@@ -1,0 +1,20 @@
+<system>
+	<name>HD 154088</name>
+	<rightascension>17 04 28</rightascension>
+	<declination>-28 25 02</declination>
+	<distance>17.8</distance>
+	<star>
+		<name>HD 154088</name>
+		<spectraltype>K0IV</spectraltype>
+		<planet>
+			<name>HD 154088 b</name>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.1316</semimajoraxis>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.38</eccentricity>
+			<period errorminus="0.0205" errorplus="0.0205">18.596</period>
+			<mass errorminus="0.0081" errorplus="0.0081">0.0193</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+		</planet>
+	</star>
+</system>

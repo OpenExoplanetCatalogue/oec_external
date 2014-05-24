@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-27</name>
+	<rightascension>19 28 57</rightascension>
+	<declination>+41 05 09</declination>
+	<star>
+		<name>Kepler-27</name>
+		<radius errorminus="0.15" errorplus="0.15">0.59</radius>
+		<magJ errorminus="0.036" errorplus="0.036">14.484</magJ>
+		<magH errorminus="0.033" errorplus="0.033">14.026</magH>
+		<magK errorminus="0.065" errorplus="0.065">14.118</magK>
+		<mass errorminus="0.16" errorplus="0.16">0.65</mass>
+		<temperature errorminus="60.00" errorplus="60.00">5400.00</temperature>
+		<metallicity>[M/H]</metallicity>
+		<planet>
+			<name>Kepler-27 b</name>
+			<semimajoraxis>0.118000</semimajoraxis>
+			<period>15.33480000</period>
+			<mass>9.11000</mass>
+			<radius>0.357</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 03</lastupdate>
+			<transittime>2454991.672600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-27 c</name>
+			<semimajoraxis>0.191000</semimajoraxis>
+			<period>31.33090000</period>
+			<mass>13.80000</mass>
+			<radius>0.437</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 03</lastupdate>
+			<transittime>2454986.427400</transittime>
+		</planet>
+	</star>
+</system>

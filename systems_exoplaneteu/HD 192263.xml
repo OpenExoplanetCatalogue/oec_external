@@ -1,0 +1,26 @@
+<system>
+	<name>HD 192263</name>
+	<rightascension>20 14 00</rightascension>
+	<declination>+00 52 01</declination>
+	<distance>19.9</distance>
+	<star>
+		<name>HD 192263</name>
+		<age>0.57</age>
+		<radius>0.75</radius>
+		<mass>0.81</mass>
+		<spectraltype>K2 V</spectraltype>
+		<temperature>4965.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>HD 192263 b</name>
+			<semimajoraxis errorminus="0.00095" errorplus="0.00095">0.15312</semimajoraxis>
+			<periastron errorminus="90.0" errorplus="90.0">184.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.008</eccentricity>
+			<period errorminus="0.0022" errorplus="0.0022">24.3587</period>
+			<mass errorminus="0.015" errorplus="0.015">0.733</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>12/06/12</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>HD 132406</name>
+	<rightascension>14 56 55</rightascension>
+	<declination>+53 22 56</declination>
+	<distance>71.0</distance>
+	<star>
+		<name>HD 132406</name>
+		<age>6.4</age>
+		<mass>1.09</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>5885.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 132406 b</name>
+			<semimajoraxis>1.98</semimajoraxis>
+			<periastron errorminus="19.0" errorplus="19.0">214.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.34</eccentricity>
+			<period errorminus="39.0" errorplus="39.0">974.0</period>
+			<mass>5.61</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/10/31</lastupdate>
+		</planet>
+	</star>
+</system>

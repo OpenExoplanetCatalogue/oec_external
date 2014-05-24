@@ -1,0 +1,30 @@
+<system>
+	<name>HD 164604</name>
+	<rightascension>18 03 07</rightascension>
+	<declination>-28 33 38</declination>
+	<distance>38</distance>
+	<star>
+		<mass>0.8</mass>
+		<magV>9.7</magV>
+		<magB errorminus="0.07" errorplus="0.07">10.88</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.784</magJ>
+		<magH errorminus="0.038" errorplus="0.038">7.306</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.169</magK>
+		<metallicity>-0.18</metallicity>
+		<spectraltype>K2V</spectraltype>
+		<planet>
+			<name>HD 164604 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.7</mass>
+			<period>606.4</period>
+			<semimajoraxis>1.13</semimajoraxis>
+			<eccentricity>0.24</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/01/26</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>157.4</temperature>
+		</planet>
+		<name>HD 164604</name>
+		<temperature>5150.0</temperature>
+	</star>
+</system>

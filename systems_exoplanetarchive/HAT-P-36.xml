@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-36</name>
+	<rightascension>12 33 04</rightascension>
+	<declination>+44 54 55</declination>
+	<star>
+		<name>HAT-P-36</name>
+		<radius errorminus="0.06" errorplus="0.06">1.10</radius>
+		<magJ errorminus="0.027" errorplus="0.027">11.046</magJ>
+		<magH errorminus="0.029" errorplus="0.029">10.723</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.603</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.02</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5560.00</temperature>
+		<planet>
+			<name>HAT-P-36 b</name>
+			<semimajoraxis errorminus="-0.000400" errorplus="0.000400">0.023800</semimajoraxis>
+			<eccentricity errorminus="-0.032000" errorplus="0.032000">0.063000</eccentricity>
+			<periastron errorminus="-63.0000" errorplus="63.0000">95.0000</periastron>
+			<inclination errorminus="-1.300" errorplus="1.300">86.000</inclination>
+			<period errorminus="-0.00000300" errorplus="0.00000300">1.32734700</period>
+			<mass errorminus="-0.09900" errorplus="0.09900">1.83200</mass>
+			<radius errorminus="-0.071" errorplus="0.071">1.264</radius>
+			<temperature errorminus="-55" errorplus="55">1823</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000200" errorplus="0.000200">2455565.181440</transittime>
+		</planet>
+	</star>
+</system>

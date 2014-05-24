@@ -1,0 +1,22 @@
+<system>
+	<name>BD+20 274</name>
+	<rightascension>01 43 41</rightascension>
+	<declination>+21 00 18</declination>
+	<star>
+		<name>BD+20 274</name>
+		<radius>17.3</radius>
+		<mass>0.8</mass>
+		<spectraltype>K5</spectraltype>
+		<temperature>4296.0</temperature>
+		<metallicity>-0.46</metallicity>
+		<planet>
+			<name>BD+20 274 c</name>
+			<semimajoraxis>1.3</semimajoraxis>
+			<period errorminus="3.4" errorplus="3.4">578.2</period>
+			<mass>4.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+		</planet>
+	</star>
+</system>

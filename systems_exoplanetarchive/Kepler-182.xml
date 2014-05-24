@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-182</name>
+	<rightascension>19 19 19</rightascension>
+	<declination>+50 35 11</declination>
+	<star>
+		<name>Kepler-182</name>
+		<radius errorminus="0.51" errorplus="0.51">1.15</radius>
+		<magJ errorminus="0.026" errorplus="0.026">13.836</magJ>
+		<magH errorminus="0.041" errorplus="0.041">13.571</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.518</magK>
+		<mass>1.14</mass>
+		<temperature errorminus="200.00" errorplus="200.00">6250.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-182 b</name>
+			<semimajoraxis>0.096000</semimajoraxis>
+			<period errorminus="-0.00006200" errorplus="0.00006200">9.82579200</period>
+			<radius errorminus="-0.105" errorplus="0.105">0.230</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003800" errorplus="0.003800">2454964.424140</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-182 c</name>
+			<semimajoraxis>0.157000</semimajoraxis>
+			<period errorminus="-0.00009700" errorplus="0.00009700">20.68434200</period>
+			<radius errorminus="-0.136" errorplus="0.136">0.306</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002320" errorplus="0.002320">2455003.188190</transittime>
+		</planet>
+	</star>
+</system>

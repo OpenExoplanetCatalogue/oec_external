@@ -1,0 +1,23 @@
+<system>
+	<name>HD 89307</name>
+	<rightascension>10 18 21</rightascension>
+	<declination>+12 37 16</declination>
+	<star>
+		<name>HD 89307</name>
+		<magV errorminus="0.011" errorplus="0.011">7.009</magV>
+		<magJ errorminus="0.021" errorplus="0.021">5.891</magJ>
+		<magH errorminus="0.021" errorplus="0.021">5.645</magH>
+		<magK errorminus="0.026" errorplus="0.026">5.564</magK>
+		<planet>
+			<name>HD 89307 b</name>
+			<semimajoraxis errorminus="-0.070000" errorplus="0.070000">3.270000</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.241000</eccentricity>
+			<periastron errorminus="-52.0000" errorplus="52.0000">36.0000</periastron>
+			<period errorminus="-63.00000000" errorplus="63.00000000">2157.00000000</period>
+			<mass errorminus="-0.13000" errorplus="0.13000">1.78000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

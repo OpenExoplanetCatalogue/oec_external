@@ -1,0 +1,20 @@
+<system>
+	<name>FU Tau</name>
+	<rightascension>04 23 36</rightascension>
+	<declination>+25 02 60</declination>
+	<star>
+		<name>FU Tau</name>
+		<magJ errorminus="0.115" errorplus="0.115">15.037</magJ>
+		<magH errorminus="0.083" errorplus="0.083">13.913</magH>
+		<magK errorminus="0.098" errorplus="0.098">13.329</magK>
+		<planet>
+			<name>FU Tau b</name>
+			<semimajoraxis>800.000000</semimajoraxis>
+			<mass>15.71100</mass>
+			<temperature>2375</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

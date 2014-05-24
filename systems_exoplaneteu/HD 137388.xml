@@ -1,0 +1,26 @@
+<system>
+	<name>HD 137388</name>
+	<rightascension>15 35 40</rightascension>
+	<declination>-80 47 43</declination>
+	<distance>38.0</distance>
+	<star>
+		<name>HD 137388</name>
+		<age>6.45</age>
+		<radius>0.82</radius>
+		<mass>0.86</mass>
+		<spectraltype>K0/K1V</spectraltype>
+		<temperature>5240.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 137388 b</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.89</semimajoraxis>
+			<periastron errorminus="35.0" errorplus="35.0">86.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.36</eccentricity>
+			<period errorminus="4.0" errorplus="4.0">330.0</period>
+			<mass errorminus="0.029" errorplus="0.029">0.223</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/08/02</lastupdate>
+		</planet>
+	</star>
+</system>

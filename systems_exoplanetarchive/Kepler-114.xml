@@ -1,0 +1,43 @@
+<system>
+	<name>Kepler-114</name>
+	<rightascension>19 36 29</rightascension>
+	<declination>+48 20 58</declination>
+	<star>
+		<name>Kepler-114</name>
+		<radius errorminus="0.04" errorplus="0.04">0.67</radius>
+		<magJ errorminus="0.029" errorplus="0.029">12.035</magJ>
+		<magH errorminus="0.025" errorplus="0.025">11.469</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.366</magK>
+		<mass errorminus="0.06" errorplus="0.06">0.56</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4605.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-114 b</name>
+			<semimajoraxis>0.053000</semimajoraxis>
+			<period errorminus="-0.00001200" errorplus="0.00001200">5.18854900</period>
+			<radius errorminus="-0.012" errorplus="0.012">0.112</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001400" errorplus="0.001400">2454978.363200</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-114 c</name>
+			<period>8.04100000</period>
+			<mass errorminus="-0.00200" errorplus="0.00200">0.00900</mass>
+			<radius errorminus="-0.016" errorplus="0.016">0.143</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-114 d</name>
+			<period>11.77600000</period>
+			<mass errorminus="-0.00500" errorplus="0.00500">0.01200</mass>
+			<radius errorminus="-0.025" errorplus="0.025">0.226</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+	</star>
+</system>

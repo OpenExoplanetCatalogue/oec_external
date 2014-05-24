@@ -1,0 +1,27 @@
+<system>
+	<name>HD 97658</name>
+	<rightascension>11 14 33</rightascension>
+	<declination>+25 42 37</declination>
+	<distance>21.1</distance>
+	<star>
+		<name>HD 97658</name>
+		<radius>0.73</radius>
+		<mass>0.85</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5170.0</temperature>
+		<metallicity>-0.23</metallicity>
+		<planet>
+			<name>HD 97658 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0796</semimajoraxis>
+			<periastron errorminus="66.0" errorplus="66.0">-9.0</periastron>
+			<eccentricity errorminus="0.044" errorplus="0.059">0.063</eccentricity>
+			<inclination errorminus="0.37" errorplus="0.43">89.45</inclination>
+			<period errorminus="0.0016" errorplus="0.0016">9.4909</period>
+			<mass errorminus="0.00229682534688355" errorplus="0.00229682534688355">0.0247302016801</mass>
+			<radius errorminus="0.0160585530529986" errorplus="0.0160585530529986">0.208761189689</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

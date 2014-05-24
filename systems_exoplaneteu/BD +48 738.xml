@@ -1,0 +1,24 @@
+<system>
+	<name>BD +48 738</name>
+	<rightascension>02 42 50</rightascension>
+	<declination>+49 35 13</declination>
+	<star>
+		<name>BD +48 738</name>
+		<radius>11.0</radius>
+		<mass>0.74</mass>
+		<spectraltype>K0III</spectraltype>
+		<temperature>4414.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>BD +48 738 b</name>
+			<semimajoraxis>1.0</semimajoraxis>
+			<periastron errorminus="31.1" errorplus="31.1">358.9</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.2</eccentricity>
+			<period errorminus="5.5" errorplus="5.5">392.6</period>
+			<mass>0.91</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/03/19</lastupdate>
+		</planet>
+	</star>
+</system>

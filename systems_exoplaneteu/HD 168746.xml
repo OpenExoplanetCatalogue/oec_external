@@ -1,0 +1,26 @@
+<system>
+	<name>HD 168746</name>
+	<rightascension>18 21 49</rightascension>
+	<declination>-11 04 39</declination>
+	<distance>43.12</distance>
+	<star>
+		<name>HD 168746</name>
+		<age>3.75</age>
+		<radius>1.12</radius>
+		<mass>0.88</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5610.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>HD 168746 b</name>
+			<semimajoraxis>0.065</semimajoraxis>
+			<periastron errorminus="20.88" errorplus="20.88">16.3</periastron>
+			<eccentricity errorminus="0.029" errorplus="0.029">0.081</eccentricity>
+			<period errorminus="0.001" errorplus="0.001">6.403</period>
+			<mass>0.23</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+		</planet>
+	</star>
+</system>

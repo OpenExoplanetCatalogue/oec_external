@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-107</name>
+	<rightascension>19 48 07</rightascension>
+	<declination>+48 12 31</declination>
+	<star>
+		<name>Kepler-107</name>
+		<radius>1.41</radius>
+		<temperature>5851.0</temperature>
+		<metallicity>-0.092</metallicity>
+		<planet>
+			<name>Kepler-107 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">3.179997</period>
+			<radius errorminus="0.005" errorplus="0.005">0.139</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-107 c</name>
+			<semimajoraxis>0.059</semimajoraxis>
+			<period errorminus="1.6e-05" errorplus="1.6e-05">4.901425</period>
+			<radius errorminus="0.016" errorplus="0.016">0.161</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-107 d</name>
+			<semimajoraxis>0.082</semimajoraxis>
+			<period errorminus="0.000104" errorplus="0.000104">7.958203</period>
+			<radius errorminus="0.005" errorplus="0.005">0.095</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-107 e</name>
+			<semimajoraxis>0.123</semimajoraxis>
+			<period errorminus="3.4e-05" errorplus="3.4e-05">14.749049</period>
+			<radius errorminus="0.022" errorplus="0.022">0.308</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

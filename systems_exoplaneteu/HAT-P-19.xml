@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-19</name>
+	<rightascension>00 38 04</rightascension>
+	<declination>+34 42 42</declination>
+	<distance>215.0</distance>
+	<star>
+		<name>HAT-P-19</name>
+		<age>8.8</age>
+		<radius>0.82</radius>
+		<mass>0.842</mass>
+		<spectraltype>K</spectraltype>
+		<temperature>4990.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>HAT-P-19 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0466</semimajoraxis>
+			<periastron errorminus="77.0" errorplus="77.0">256.0</periastron>
+			<eccentricity errorminus="0.042" errorplus="0.042">0.067</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.4">88.2</inclination>
+			<period errorminus="6e-06" errorplus="6e-06">4.008778</period>
+			<mass errorminus="0.018" errorplus="0.018">0.292</mass>
+			<radius errorminus="0.072" errorplus="0.072">1.132</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/07/29</lastupdate>
+		</planet>
+	</star>
+</system>

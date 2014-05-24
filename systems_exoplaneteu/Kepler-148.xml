@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-148</name>
+	<rightascension>19 19 09</rightascension>
+	<declination>+46 51 32</declination>
+	<star>
+		<name>Kepler-148</name>
+		<radius>0.85</radius>
+		<temperature>5272.0</temperature>
+		<metallicity>0.143</metallicity>
+		<planet>
+			<name>Kepler-148 b</name>
+			<semimajoraxis>0.028</semimajoraxis>
+			<period errorminus="4e-06" errorplus="4e-06">1.729366</period>
+			<radius errorminus="0.078" errorplus="0.078">0.161</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-148 c</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<period errorminus="4e-06" errorplus="4e-06">4.180043</period>
+			<radius errorminus="0.157" errorplus="0.157">0.321</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

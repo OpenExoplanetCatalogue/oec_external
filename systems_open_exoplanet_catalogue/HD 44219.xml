@@ -1,0 +1,31 @@
+<system>
+	<name>HD 44219</name>
+	<rightascension>06 20 14</rightascension>
+	<declination>-10 43 30</declination>
+	<distance>50.43</distance>
+	<star>
+		<mass>1</mass>
+		<radius>1.32</radius>
+		<magV>7.69</magV>
+		<magB errorminus="0.01" errorplus="0.01">8.36</magB>
+		<magJ errorminus="0.029" errorplus="0.029">6.509</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.215</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.115</magK>
+		<metallicity>0.03</metallicity>
+		<spectraltype>G2V</spectraltype>
+		<planet>
+			<name>HD 44219 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.58</mass>
+			<period>472.3</period>
+			<semimajoraxis>1.19</semimajoraxis>
+			<eccentricity>0.61</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/09/08</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>260.2</temperature>
+		</planet>
+		<name>HD 44219</name>
+		<temperature>5752.0</temperature>
+	</star>
+</system>

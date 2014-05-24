@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-319</name>
+	<rightascension>19 15 15</rightascension>
+	<declination>+39 46 14</declination>
+	<star>
+		<name>Kepler-319</name>
+		<radius>0.9</radius>
+		<mass>1.29</mass>
+		<temperature>5526.0</temperature>
+		<metallicity>0.487</metallicity>
+		<planet>
+			<name>Kepler-319 b</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="9e-06" errorplus="9e-06">4.362705</period>
+			<radius errorminus="0.021" errorplus="0.021">0.145</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-319 c</name>
+			<semimajoraxis>0.069</semimajoraxis>
+			<period errorminus="7e-06" errorplus="7e-06">6.941357</period>
+			<radius errorminus="0.033" errorplus="0.033">0.235</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-319 d</name>
+			<semimajoraxis>0.191</semimajoraxis>
+			<period errorminus="0.000105" errorplus="0.000105">31.781925</period>
+			<radius errorminus="0.031" errorplus="0.031">0.204</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

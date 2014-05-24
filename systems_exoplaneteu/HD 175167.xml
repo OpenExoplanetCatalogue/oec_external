@@ -1,0 +1,23 @@
+<system>
+	<name>HD 175167</name>
+	<rightascension>19 00 01</rightascension>
+	<declination>-69 03 21</declination>
+	<distance>67.02</distance>
+	<star>
+		<name>HD 175167</name>
+		<mass>1.102</mass>
+		<spectraltype>G5 IV/V</spectraltype>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 175167 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.4</semimajoraxis>
+			<periastron errorminus="9.0" errorplus="9.0">342.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.54</eccentricity>
+			<period errorminus="22.0" errorplus="22.0">1290.0</period>
+			<mass errorminus="3.5" errorplus="3.5">7.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/01/26</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,17 @@
+<system>
+	<name>WASP-70</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<star>
+		<name>WASP-70</name>
+		<planet>
+			<name>WASP-70 b</name>
+			<period>3.7</period>
+			<mass>0.6</mass>
+			<radius>0.8</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

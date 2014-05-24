@@ -1,0 +1,26 @@
+<system>
+	<name>HD 73256</name>
+	<rightascension>08 36 23</rightascension>
+	<declination>-30 57 45</declination>
+	<distance>36.5</distance>
+	<star>
+		<name>HD 73256</name>
+		<age>0.83</age>
+		<radius>0.89</radius>
+		<mass>1.05</mass>
+		<spectraltype>G8/K0</spectraltype>
+		<temperature>5570.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HD 73256 b</name>
+			<semimajoraxis>0.037</semimajoraxis>
+			<periastron errorminus="45.8" errorplus="45.8">337.3</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.029</eccentricity>
+			<period errorminus="0.00016" errorplus="0.00016">2.54858</period>
+			<mass errorminus="0.49" errorplus="0.49">1.87</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>10/12/23</lastupdate>
+		</planet>
+	</star>
+</system>

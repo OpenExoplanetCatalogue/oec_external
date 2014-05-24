@@ -1,0 +1,38 @@
+<system>
+	<name>HAT-P-21</name>
+	<rightascension>11 25 06</rightascension>
+	<declination>+41 01 41</declination>
+	<distance>254</distance>
+	<star>
+		<mass>0.947</mass>
+		<radius>1.105</radius>
+		<magV errorminus="0.11" errorplus="0.11">11.46</magV>
+		<magB errorminus="0.26" errorplus="0.26">12.56</magB>
+		<magR errorminus="0.04" errorplus="0.04">11.71</magR>
+		<magJ errorminus="0.022" errorplus="0.022">10.503</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.154</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.111</magK>
+		<metallicity>0.01</metallicity>
+		<spectraltype>G3</spectraltype>
+		<planet>
+			<name>HAT-P-21 b</name>
+			<name>TYC 3013-01229-1 b</name>
+			<name>2MASS J11250598+4101406 b</name>
+			<list>Confirmed planets</list>
+			<mass>4.063</mass>
+			<radius>1.024</radius>
+			<period>4.124461</period>
+			<semimajoraxis>0.0494</semimajoraxis>
+			<eccentricity>0.228</eccentricity>
+			<inclination>87.2</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>1161.5</temperature>
+			<transittime errorminus="0.00069" errorplus="0.00069" unit="BJD">2454996.41312</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-21</name>
+		<temperature>5588.0</temperature>
+	</star>
+</system>

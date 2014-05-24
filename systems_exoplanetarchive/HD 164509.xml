@@ -1,0 +1,22 @@
+<system>
+	<name>HD 164509</name>
+	<rightascension>18 01 31</rightascension>
+	<declination>+00 06 16</declination>
+	<star>
+		<name>HD 164509</name>
+		<magV errorminus="0.014" errorplus="0.014">8.103</magV>
+		<magJ errorminus="0.030" errorplus="0.030">6.938</magJ>
+		<magH errorminus="0.061" errorplus="0.061">6.665</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.586</magK>
+		<planet>
+			<name>HD 164509 b</name>
+			<semimajoraxis>0.875000</semimajoraxis>
+			<eccentricity>0.260000</eccentricity>
+			<period>282.40000000</period>
+			<mass>0.48000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

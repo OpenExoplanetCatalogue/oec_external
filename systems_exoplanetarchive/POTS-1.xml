@@ -1,0 +1,27 @@
+<system>
+	<name>POTS-1</name>
+	<rightascension>13 34 26</rightascension>
+	<declination>-66 34 52</declination>
+	<star>
+		<name>POTS-1</name>
+		<radius errorminus="0.02" errorplus="0.02">0.59</radius>
+		<magJ errorminus="0.061" errorplus="0.061">15.171</magJ>
+		<magH errorminus="0.041" errorplus="0.041">14.375</magH>
+		<magK errorminus="0.077" errorplus="0.077">14.244</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.69</mass>
+		<temperature errorminus="200.00" errorplus="200.00">4400.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>POTS-1 b</name>
+			<semimajoraxis errorminus="-0.000900" errorplus="0.000900">0.037340</semimajoraxis>
+			<inclination errorminus="-0.340" errorplus="0.470">88.060</inclination>
+			<period errorminus="-0.00000157" errorplus="0.00000157">3.16062960</period>
+			<mass errorminus="-0.77000" errorplus="0.77000">2.31000</mass>
+			<radius errorminus="-0.047" errorplus="0.036">0.941</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 09 03</lastupdate>
+			<transittime errorminus="-0.000440" errorplus="0.000440">2454231.654880</transittime>
+		</planet>
+	</star>
+</system>

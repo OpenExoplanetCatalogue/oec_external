@@ -1,0 +1,26 @@
+<system>
+	<name>mu Leo</name>
+	<rightascension>09 52 46</rightascension>
+	<declination>+26 00 25</declination>
+	<distance>38.05</distance>
+	<star>
+		<name>mu Leo</name>
+		<age>3.35</age>
+		<radius>11.4</radius>
+		<mass>1.5</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>4538.2</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>mu Leo b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.1</semimajoraxis>
+			<periastron errorminus="16.0" errorplus="16.0">227.1</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.09</eccentricity>
+			<period errorminus="1.2" errorplus="1.2">357.8</period>
+			<mass errorminus="0.4" errorplus="0.4">2.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/12</lastupdate>
+		</planet>
+	</star>
+</system>

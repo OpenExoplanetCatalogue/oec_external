@@ -1,0 +1,31 @@
+<system>
+	<name>HR 228</name>
+	<rightascension>00 49 14</rightascension>
+	<declination>-24 51 48</declination>
+	<star>
+		<name>HR 228</name>
+		<mass>1.7</mass>
+		<spectraltype>K0III</spectraltype>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>HR 228 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.19</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.13</eccentricity>
+			<period errorminus="1.4" errorplus="1.4">360.2</period>
+			<mass errorminus="0.34" errorplus="0.34">2.37</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/07/22</lastupdate>
+		</planet>
+		<planet>
+			<name>HR 228 c</name>
+			<semimajoraxis errorminus="0.23" errorplus="0.23">4.6</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.23</eccentricity>
+			<period errorminus="81.0" errorplus="81.0">2732.0</period>
+			<mass errorminus="0.38" errorplus="0.38">2.37</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/07/22</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>alf Ari</name>
+	<rightascension>02 07 10</rightascension>
+	<declination>+23 27 44</declination>
+	<distance>20.2</distance>
+	<star>
+		<name>alf Ari</name>
+		<radius>13.9</radius>
+		<mass>1.5</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>4553.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>alf Ari b</name>
+			<semimajoraxis>1.2</semimajoraxis>
+			<periastron errorminus="6.84" errorplus="6.84">89.16</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.25</eccentricity>
+			<period errorminus="0.3" errorplus="0.3">380.8</period>
+			<mass errorminus="0.2" errorplus="0.2">1.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/04/19</lastupdate>
+		</planet>
+	</star>
+</system>

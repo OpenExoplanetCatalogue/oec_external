@@ -1,0 +1,33 @@
+<system>
+	<name>OGLE-TR-113</name>
+	<rightascension>10 52 24</rightascension>
+	<declination>-61 26 48</declination>
+	<distance>1500</distance>
+	<star>
+		<magV>16.08</magV>
+		<magI>14.42</magI>
+		<magK errorminus="0.1" errorplus="0.1">13.0</magK>
+		<mass>0.78</mass>
+		<radius>0.765</radius>
+		<metallicity>0.14</metallicity>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>OGLE-TR-113 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.24</mass>
+			<radius>1.11</radius>
+			<period>1.4324772</period>
+			<semimajoraxis>0.0229</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.4</inclination>
+			<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2453464.61740</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>10/06/24</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+			<temperature>1211.0</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>OGLE-TR-113</name>
+		<temperature>4752.0</temperature>
+	</star>
+</system>

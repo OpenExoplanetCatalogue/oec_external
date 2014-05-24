@@ -1,0 +1,18 @@
+<system>
+	<name>V0391 Peg</name>
+	<rightascension>22 04 12</rightascension>
+	<declination>+26 25 08</declination>
+	<star>
+		<name>V0391 Peg</name>
+		<planet>
+			<name>V0391 Peg b</name>
+			<semimajoraxis errorminus="-0.100000" errorplus="0.100000">1.700000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<period errorminus="-44.00000000" errorplus="44.00000000">1170.00000000</period>
+			<mass errorminus="-0.70000" errorplus="0.70000">3.20000</mass>
+			<discoverymethod>Pulsation Timing Variations</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 09 24</lastupdate>
+		</planet>
+	</star>
+</system>

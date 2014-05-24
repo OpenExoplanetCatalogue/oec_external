@@ -1,0 +1,61 @@
+<system>
+	<name>Kepler-84</name>
+	<rightascension>19 53 00</rightascension>
+	<declination>+40 29 46</declination>
+	<star>
+		<name>Kepler-84</name>
+		<radius errorminus="0.22" errorplus="0.22">1.17</radius>
+		<magJ errorminus="0.021" errorplus="0.021">13.583</magJ>
+		<magH errorminus="0.024" errorplus="0.024">13.234</magH>
+		<magK errorminus="0.026" errorplus="0.026">13.193</magK>
+		<mass errorminus="0.42" errorplus="0.42">1.00</mass>
+		<temperature errorminus="143.00" errorplus="143.00">6031.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-84 b</name>
+			<period>8.72600000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.199</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-84 c</name>
+			<period>12.88300000</period>
+			<radius errorminus="-0.010" errorplus="0.010">0.211</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-84 d</name>
+			<semimajoraxis>0.052000</semimajoraxis>
+			<period errorminus="-0.00004200" errorplus="0.00004200">4.22453700</period>
+			<radius errorminus="-0.024" errorplus="0.024">0.123</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005940" errorplus="0.005940">2454968.433270</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-84 e</name>
+			<semimajoraxis>0.181000</semimajoraxis>
+			<period errorminus="-0.00022400" errorplus="0.00022400">27.43438900</period>
+			<radius errorminus="-0.044" errorplus="0.044">0.232</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004080" errorplus="0.004080">2454978.125400</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-84 f</name>
+			<semimajoraxis>0.250000</semimajoraxis>
+			<period errorminus="-0.00081200" errorplus="0.00081200">44.55216900</period>
+			<radius errorminus="-0.038" errorplus="0.038">0.196</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.011860" errorplus="0.011860">2454993.290970</transittime>
+		</planet>
+	</star>
+</system>

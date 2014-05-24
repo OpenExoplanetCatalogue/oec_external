@@ -1,0 +1,20 @@
+<system>
+	<name>HD 43197</name>
+	<rightascension>06 13 36</rightascension>
+	<declination>-29 53 50</declination>
+	<star>
+		<name>HD 43197</name>
+		<magV errorminus="0.016" errorplus="0.016">8.953</magV>
+		<magJ errorminus="0.024" errorplus="0.024">7.658</magJ>
+		<magH errorminus="0.038" errorplus="0.038">7.328</magH>
+		<magK errorminus="0.026" errorplus="0.026">7.203</magK>
+		<planet>
+			<name>HD 43197 b</name>
+			<period>327.80000000</period>
+			<mass>0.60000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>HD 2039</name>
+	<rightascension>00 24 20</rightascension>
+	<declination>-56 21 00</declination>
+	<distance>89.8</distance>
+	<star>
+		<name>HD 2039</name>
+		<age>5.28</age>
+		<radius>1.21</radius>
+		<mass>0.98</mass>
+		<spectraltype>G2/G3 IV-V</spectraltype>
+		<temperature>5947.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>HD 2039 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">2.2</semimajoraxis>
+			<periastron errorminus="15.0" errorplus="15.0">333.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.67</eccentricity>
+			<period errorminus="150.0" errorplus="150.0">1183.0</period>
+			<mass errorminus="1.0" errorplus="1.0">4.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>09/10/07</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>GJ 649</name>
+	<rightascension>16 58 09</rightascension>
+	<declination>+25 44 39</declination>
+	<star>
+		<name>GJ 649</name>
+		<magV errorminus="0.020" errorplus="0.020">9.690</magV>
+		<magI errorminus="0.025" errorplus="0.025">7.630</magI>
+		<magJ errorminus="0.021" errorplus="0.021">6.448</magJ>
+		<magH errorminus="0.020" errorplus="0.020">5.865</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.624</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.54</mass>
+		<temperature errorminus="60.00" errorplus="60.00">3700.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 649 b</name>
+			<semimajoraxis errorminus="-0.035000" errorplus="0.035000">1.135000</semimajoraxis>
+			<eccentricity errorminus="-0.080000" errorplus="0.080000">0.300000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">352.0000</periastron>
+			<period errorminus="-4.20000000" errorplus="4.20000000">598.30000000</period>
+			<mass errorminus="-0.03200" errorplus="0.03200">0.32800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

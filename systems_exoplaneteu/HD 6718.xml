@@ -1,0 +1,25 @@
+<system>
+	<name>HD 6718</name>
+	<rightascension>01 07 49</rightascension>
+	<declination>-08 45 59</declination>
+	<distance>55.9</distance>
+	<star>
+		<name>HD 6718</name>
+		<radius>1.02</radius>
+		<mass>0.96</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5745.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>HD 6718 b</name>
+			<semimajoraxis errorminus="0.15" errorplus="0.15">3.56</semimajoraxis>
+			<periastron errorminus="35.0" errorplus="35.0">286.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.1</eccentricity>
+			<period errorminus="176.0" errorplus="176.0">2496.0</period>
+			<mass errorminus="0.1" errorplus="0.11">1.56</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/09/08</lastupdate>
+		</planet>
+	</star>
+</system>

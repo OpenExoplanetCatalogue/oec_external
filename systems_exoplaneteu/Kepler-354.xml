@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-354</name>
+	<rightascension>19 03 00</rightascension>
+	<declination>+41 20 08</declination>
+	<star>
+		<name>Kepler-354</name>
+		<radius>0.67</radius>
+		<mass>0.65</mass>
+		<temperature>4648.0</temperature>
+		<metallicity>-0.036</metallicity>
+		<planet>
+			<name>Kepler-354 b</name>
+			<semimajoraxis>0.054</semimajoraxis>
+			<period errorminus="2.4e-05" errorplus="2.4e-05">5.47666</period>
+			<radius errorminus="0.052" errorplus="0.052">0.164</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-354 c</name>
+			<semimajoraxis>0.115</semimajoraxis>
+			<period errorminus="0.000228" errorplus="0.000228">16.934402</period>
+			<radius errorminus="0.037" errorplus="0.037">0.117</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-354 d</name>
+			<semimajoraxis>0.146</semimajoraxis>
+			<period errorminus="0.000403" errorplus="0.000403">24.209842</period>
+			<radius errorminus="0.036" errorplus="0.036">0.111</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

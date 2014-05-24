@@ -1,0 +1,24 @@
+<system>
+	<name>Fomalhaut</name>
+	<rightascension>22 57 39</rightascension>
+	<declination>-29 22 40</declination>
+	<distance>7.704</distance>
+	<star>
+		<name>Fomalhaut</name>
+		<age>0.44</age>
+		<radius>1.842</radius>
+		<mass>1.92</mass>
+		<spectraltype>A3 V</spectraltype>
+		<temperature>8590.0</temperature>
+		<planet>
+			<name>Fomalhaut b</name>
+			<semimajoraxis>115.0</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.0">0.11</eccentricity>
+			<period>320000.0</period>
+			<mass errorminus="3.0" errorplus="0.0">3.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+		</planet>
+	</star>
+</system>

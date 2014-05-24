@@ -1,0 +1,23 @@
+<system>
+	<name>HD 92788</name>
+	<rightascension>10 42 49</rightascension>
+	<declination>-02 11 02</declination>
+	<star>
+		<name>HD 92788</name>
+		<magV errorminus="0.011" errorplus="0.011">7.300</magV>
+		<magJ errorminus="0.041" errorplus="0.041">6.131</magJ>
+		<magH errorminus="0.036" errorplus="0.036">5.798</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.721</magK>
+		<planet>
+			<name>HD 92788 b</name>
+			<semimajoraxis>0.970000</semimajoraxis>
+			<eccentricity errorminus="-0.011000" errorplus="0.011000">0.334000</eccentricity>
+			<periastron errorminus="-2.8000" errorplus="2.8000">276.4000</periastron>
+			<period errorminus="-0.26000000" errorplus="0.26000000">325.81000000</period>
+			<mass>3.86000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

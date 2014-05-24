@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-7</name>
+	<rightascension>20 44 10</rightascension>
+	<declination>-39 13 31</declination>
+	<star>
+		<name>WASP-7</name>
+		<radius errorminus="0.09" errorplus="0.09">1.43</radius>
+		<magJ errorminus="0.027" errorplus="0.027">8.648</magJ>
+		<magH errorminus="0.042" errorplus="0.042">8.414</magH>
+		<magK errorminus="0.023" errorplus="0.023">8.396</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.28</mass>
+		<temperature errorminus="100.00" errorplus="100.00">6400.00</temperature>
+		<planet>
+			<name>WASP-7 b</name>
+			<semimajoraxis errorminus="-0.003300" errorplus="0.001400">0.061800</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.900" errorplus="0.400">89.600</inclination>
+			<period errorminus="-0.00004300" errorplus="0.00005500">4.95465800</period>
+			<mass errorminus="-0.13000" errorplus="0.13000">0.96000</mass>
+			<radius errorminus="-0.093" errorplus="0.093">1.330</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.001200" errorplus="0.000900">2453985.014900</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 39091</name>
+	<rightascension>05 37 10</rightascension>
+	<declination>-80 28 09</declination>
+	<star>
+		<name>HD 39091</name>
+		<magV>5.650</magV>
+		<magJ errorminus="0.272" errorplus="0.272">4.869</magJ>
+		<magH errorminus="0.226" errorplus="0.226">4.424</magH>
+		<magK errorminus="0.027" errorplus="0.027">4.241</magK>
+		<planet>
+			<name>HD 39091 b</name>
+			<semimajoraxis>3.290000</semimajoraxis>
+			<eccentricity>0.620000</eccentricity>
+			<periastron>331.0000</periastron>
+			<period>2063.81800000</period>
+			<mass>10.35000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

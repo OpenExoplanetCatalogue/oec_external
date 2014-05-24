@@ -1,0 +1,21 @@
+<system>
+	<name>HD 166724</name>
+	<rightascension>18 14 00</rightascension>
+	<declination>-42 25 29</declination>
+	<distance>42.3</distance>
+	<star>
+		<name>HD 166724</name>
+		<spectraltype>K0IV</spectraltype>
+		<planet>
+			<name>HD 166724 b</name>
+			<semimajoraxis errorminus="0.43" errorplus="0.43">5.42</semimajoraxis>
+			<periastron errorminus="3.6" errorplus="3.6">202.3</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.734</eccentricity>
+			<period>8100.0</period>
+			<mass errorminus="0.11" errorplus="0.11">3.53</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/11/30</lastupdate>
+		</planet>
+	</star>
+</system>

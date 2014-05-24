@@ -1,0 +1,24 @@
+<system>
+	<name>WASP-23</name>
+	<rightascension>06 44 31</rightascension>
+	<declination>-42 14 17</declination>
+	<star>
+		<name>WASP-23</name>
+		<radius>0.765</radius>
+		<mass>0.78</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5150.0</temperature>
+		<planet>
+			<name>WASP-23 b</name>
+			<semimajoraxis errorminus="0.0024" errorplus="0.0016">0.0376</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.062</eccentricity>
+			<inclination errorminus="0.45" errorplus="0.79">88.39</inclination>
+			<period errorminus="1.3e-06" errorplus="1.1e-06">2.9444256</period>
+			<mass errorminus="0.099" errorplus="0.088">0.884</mass>
+			<radius errorminus="0.056" errorplus="0.047">0.962</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+		</planet>
+	</star>
+</system>

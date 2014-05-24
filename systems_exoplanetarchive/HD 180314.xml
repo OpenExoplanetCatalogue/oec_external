@@ -1,0 +1,23 @@
+<system>
+	<name>HD 180314</name>
+	<rightascension>19 14 50</rightascension>
+	<declination>+31 51 37</declination>
+	<star>
+		<name>HD 180314</name>
+		<magV errorminus="0.010" errorplus="0.010">6.608</magV>
+		<magJ errorminus="0.037" errorplus="0.037">4.892</magJ>
+		<magH errorminus="0.021" errorplus="0.021">4.489</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.312</magK>
+		<planet>
+			<name>HD 180314 b</name>
+			<semimajoraxis>1.400000</semimajoraxis>
+			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.257000</eccentricity>
+			<periastron errorminus="-2.3000" errorplus="2.3000">303.1000</periastron>
+			<period errorminus="-0.62000000" errorplus="0.62000000">396.03000000</period>
+			<mass>22.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

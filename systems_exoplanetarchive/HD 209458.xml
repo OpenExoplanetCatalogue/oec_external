@@ -1,0 +1,28 @@
+<system>
+	<name>HD 209458</name>
+	<rightascension>22 03 11</rightascension>
+	<declination>+18 53 04</declination>
+	<star>
+		<name>HD 209458</name>
+		<radius errorminus="0.01" errorplus="0.01">1.16</radius>
+		<magV errorminus="0.012" errorplus="0.012">7.632</magV>
+		<magJ errorminus="0.020" errorplus="0.020">6.591</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.366</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.308</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.15</mass>
+		<temperature errorminus="50.00" errorplus="50.00">6065.00</temperature>
+		<planet>
+			<name>HD 209458 b</name>
+			<semimajoraxis errorminus="-0.000550" errorplus="0.000550">0.047470</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.046" errorplus="0.046">86.590</inclination>
+			<period errorminus="-0.00000038" errorplus="0.00000038">3.52474859</period>
+			<mass errorminus="-0.01700" errorplus="0.01700">0.71400</mass>
+			<radius errorminus="-0.017" errorplus="0.017">1.380</radius>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 02 04</lastupdate>
+			<transittime errorminus="-0.000100" errorplus="0.000100">2451659.936750</transittime>
+		</planet>
+	</star>
+</system>

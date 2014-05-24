@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE235-MOA53</name>
+	<rightascension>18 05 16</rightascension>
+	<declination>-28 06 18</declination>
+	<distance>5200.0</distance>
+	<star>
+		<name>OGLE235-MOA53</name>
+		<mass>0.63</mass>
+		<planet>
+			<name>OGLE235-MOA53 b</name>
+			<semimajoraxis errorminus="1.6" errorplus="1.6">5.1</semimajoraxis>
+			<mass errorminus="0.8" errorplus="0.8">2.6</mass>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>06/06/10</lastupdate>
+		</planet>
+	</star>
+</system>

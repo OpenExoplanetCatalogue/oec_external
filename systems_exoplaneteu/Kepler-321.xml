@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-321</name>
+	<rightascension>19 37 49</rightascension>
+	<declination>+44 08 45</declination>
+	<star>
+		<name>Kepler-321</name>
+		<radius>1.19</radius>
+		<mass>1.01</mass>
+		<temperature>5740.0</temperature>
+		<planet>
+			<name>Kepler-321 b</name>
+			<semimajoraxis>0.057</semimajoraxis>
+			<period errorminus="1e-05" errorplus="1e-05">4.915379</period>
+			<radius errorminus="0.03" errorplus="0.03">0.158</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-321 c</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="2.4e-05" errorplus="2.4e-05">13.093921</period>
+			<radius errorminus="0.04" errorplus="0.04">0.207</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

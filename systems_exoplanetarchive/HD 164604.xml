@@ -1,0 +1,23 @@
+<system>
+	<name>HD 164604</name>
+	<rightascension>18 03 07</rightascension>
+	<declination>-28 33 38</declination>
+	<star>
+		<name>HD 164604</name>
+		<magV errorminus="0.041" errorplus="0.041">9.827</magV>
+		<magJ errorminus="0.024" errorplus="0.024">7.784</magJ>
+		<magH errorminus="0.038" errorplus="0.038">7.306</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.169</magK>
+		<planet>
+			<name>HD 164604 b</name>
+			<semimajoraxis errorminus="-0.050000" errorplus="0.050000">1.300000</semimajoraxis>
+			<eccentricity errorminus="-0.140000" errorplus="0.140000">0.240000</eccentricity>
+			<periastron errorminus="-23.0000" errorplus="23.0000">51.0000</periastron>
+			<period errorminus="-9.00000000" errorplus="9.00000000">606.40000000</period>
+			<mass errorminus="-1.30000" errorplus="1.30000">2.70000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

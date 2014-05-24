@@ -1,0 +1,27 @@
+<system>
+	<name>HD 212301</name>
+	<rightascension>22 27 30</rightascension>
+	<declination>-77 43 04</declination>
+	<distance>52.7</distance>
+	<star>
+		<mass>1.05</mass>
+		<magV>7.77</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.31</magB>
+		<metallicity>0.18</metallicity>
+		<spectraltype>F8 V</spectraltype>
+		<planet>
+			<name>HD 212301 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.45</mass>
+			<period>2.245715</period>
+			<semimajoraxis>0.036</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/23</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+			<temperature>1541.3</temperature>
+		</planet>
+		<name>HD 212301</name>
+		<temperature>5998.0</temperature>
+	</star>
+</system>

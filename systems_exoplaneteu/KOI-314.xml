@@ -1,0 +1,34 @@
+<system>
+	<name>KOI-314</name>
+	<rightascension>19 21 32</rightascension>
+	<declination>+43 17 35</declination>
+	<star>
+		<name>KOI-314</name>
+		<radius>0.54</radius>
+		<mass>0.57</mass>
+		<spectraltype>M1V</spectraltype>
+		<temperature>3871.0</temperature>
+		<planet>
+			<name>Kepler-138 b</name>
+			<periastron errorminus="28.0" errorplus="47.0">72.0</periastron>
+			<eccentricity errorminus="0.025" errorplus="0.049">0.05</eccentricity>
+			<period errorminus="0.00014" errorplus="0.00019">13.78164</period>
+			<mass errorminus="0.00396438347544285" errorplus="0.00475096749834817">0.0120504672309</mass>
+			<radius errorminus="0.013381916" errorplus="0.014274044">0.143634835641</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-138 c</name>
+			<periastron errorminus="120.0" errorplus="130.0">170.0</periastron>
+			<eccentricity errorminus="0.016" errorplus="0.03">0.024</eccentricity>
+			<period errorminus="0.00071" errorplus="0.00071">23.008933</period>
+			<mass errorminus="0.00106975427115124" errorplus="0.00132146115848095">0.00317779945254</mass>
+			<radius errorminus="0.013381916" errorplus="0.014274044">0.143634835641</radius>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+		</planet>
+	</star>
+</system>

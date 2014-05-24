@@ -1,0 +1,23 @@
+<system>
+	<name>KIC 10255705</name>
+	<rightascension>18 51 25</rightascension>
+	<declination>+47 22 39</declination>
+	<star>
+		<name>KIC 10255705</name>
+		<radius>2.12</radius>
+		<mass>1.1</mass>
+		<temperature>5030.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>KIC 10255705 b</name>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">1.6</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.17" errorplus="0.17">89.75</inclination>
+			<period errorminus="0.0157" errorplus="0.0039">707.3793</period>
+			<radius errorminus="0.23" errorplus="0.23">0.65</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/10/25</lastupdate>
+		</planet>
+	</star>
+</system>

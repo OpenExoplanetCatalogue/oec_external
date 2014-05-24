@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-276</name>
+	<rightascension>19 34 16</rightascension>
+	<declination>+39 02 11</declination>
+	<star>
+		<name>Kepler-276</name>
+		<radius>0.95</radius>
+		<mass>0.96</mass>
+		<temperature>5812.0</temperature>
+		<metallicity>0.012</metallicity>
+		<planet>
+			<name>Kepler-276 b</name>
+			<semimajoraxis>0.119</semimajoraxis>
+			<period errorminus="0.000111" errorplus="0.000111">14.12841</period>
+			<radius errorminus="0.12" errorplus="0.12">0.256</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-276 c</name>
+			<period>31.884</period>
+			<mass errorminus="0.067" errorplus="0.0299">0.045</mass>
+			<radius errorminus="0.0143" errorplus="0.0143">0.259</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/30</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-276 d</name>
+			<period>48.648</period>
+			<mass errorminus="0.0673" errorplus="0.0283">0.044</mass>
+			<radius errorminus="0.0134" errorplus="0.0134">0.25</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/30</lastupdate>
+		</planet>
+	</star>
+</system>

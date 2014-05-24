@@ -1,0 +1,25 @@
+<system>
+	<name>HD 120084</name>
+	<rightascension>13 42 52</rightascension>
+	<declination>+78 03 42</declination>
+	<distance>97.7</distance>
+	<star>
+		<name>HD 120084</name>
+		<radius>9.12</radius>
+		<mass>2.39</mass>
+		<spectraltype>G7 III</spectraltype>
+		<temperature>4892.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>HD 120084 b</name>
+			<semimajoraxis>4.3</semimajoraxis>
+			<periastron errorminus="12.0" errorplus="9.0">117.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.14">0.66</eccentricity>
+			<period errorminus="24.0" errorplus="35.0">2082.0</period>
+			<mass>4.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

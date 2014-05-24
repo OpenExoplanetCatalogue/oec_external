@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-99</name>
+	<rightascension>02 39 35</rightascension>
+	<declination>-50 59 31</declination>
+	<star>
+		<name>WASP-99</name>
+		<age>1.4</age>
+		<radius>1.76</radius>
+		<mass>1.48</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>6180.0</temperature>
+		<metallicity>0.21</metallicity>
+		<planet>
+			<name>WASP-99 b</name>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0717</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.1" errorplus="1.1">88.8</inclination>
+			<period errorminus="4e-05" errorplus="4e-05">5.75251</period>
+			<mass errorminus="0.13" errorplus="0.13">2.78</mass>
+			<radius errorminus="0.05" errorplus="0.08">1.1</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

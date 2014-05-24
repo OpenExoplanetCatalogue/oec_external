@@ -1,0 +1,27 @@
+<system>
+	<name>HD 130322</name>
+	<rightascension>14 47 33</rightascension>
+	<declination>+00 16 53</declination>
+	<distance>30.0</distance>
+	<star>
+		<name>HD 130322</name>
+		<age>0.35</age>
+		<radius>0.83</radius>
+		<mass>0.79</mass>
+		<spectraltype>K0 V</spectraltype>
+		<temperature>5330.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>HD 130322 b</name>
+			<semimajoraxis>0.088</semimajoraxis>
+			<periastron errorminus="23.14" errorplus="23.14">203.63</periastron>
+			<eccentricity errorminus="0.018" errorplus="0.018">0.044</eccentricity>
+			<inclination errorminus="42.0" errorplus="42.0">76.0</inclination>
+			<period errorminus="0.07" errorplus="0.07">10.72</period>
+			<mass>1.02</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>10/12/08</lastupdate>
+		</planet>
+	</star>
+</system>

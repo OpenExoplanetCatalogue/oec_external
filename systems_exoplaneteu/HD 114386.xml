@@ -1,0 +1,35 @@
+<system>
+	<name>HD 114386</name>
+	<rightascension>13 10 39</rightascension>
+	<declination>-35 56 43</declination>
+	<distance>28.0</distance>
+	<star>
+		<name>HD 114386</name>
+		<age>2.19</age>
+		<radius>0.76</radius>
+		<mass>0.75</mass>
+		<spectraltype>K3 V</spectraltype>
+		<temperature>4819.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>HD 114386 b</name>
+			<semimajoraxis>1.02</semimajoraxis>
+			<periastron errorminus="14.0" errorplus="14.0">273.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.23</eccentricity>
+			<period errorminus="15.6" errorplus="15.6">937.0</period>
+			<mass>1.24</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>12/07/24</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 114386 c</name>
+			<eccentricity>0.06</eccentricity>
+			<period>1046.0</period>
+			<mass>1.19</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/13</lastupdate>
+		</planet>
+	</star>
+</system>

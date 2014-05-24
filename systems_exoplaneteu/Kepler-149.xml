@@ -1,0 +1,38 @@
+<system>
+	<name>Kepler-149</name>
+	<rightascension>19 03 25</rightascension>
+	<declination>+38 23 03</declination>
+	<star>
+		<name>Kepler-149</name>
+		<radius>0.95</radius>
+		<temperature>5381.0</temperature>
+		<metallicity>0.147</metallicity>
+		<planet>
+			<name>Kepler-149 b</name>
+			<semimajoraxis>0.184</semimajoraxis>
+			<period errorminus="4.1e-05" errorplus="4.1e-05">29.198943</period>
+			<radius errorminus="0.054" errorplus="0.054">0.376</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-149 c</name>
+			<semimajoraxis>0.281</semimajoraxis>
+			<period errorminus="0.001946" errorplus="0.001946">55.328328</period>
+			<radius errorminus="0.021" errorplus="0.021">0.144</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-149 d</name>
+			<semimajoraxis>0.571</semimajoraxis>
+			<period errorminus="0.001096" errorplus="0.001096">160.018032</period>
+			<radius errorminus="0.061" errorplus="0.061">0.353</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

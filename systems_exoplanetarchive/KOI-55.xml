@@ -1,0 +1,37 @@
+<system>
+	<name>KOI-55</name>
+	<rightascension>19 45 25</rightascension>
+	<declination>+41 05 34</declination>
+	<star>
+		<name>KOI-55</name>
+		<radius errorminus="0.01" errorplus="0.01">0.20</radius>
+		<magJ errorminus="0.045" errorplus="0.045">15.356</magJ>
+		<magH errorminus="0.135" errorplus="0.135">15.593</magH>
+		<magK>15.495</magK>
+		<mass errorminus="0.00" errorplus="0.00">0.50</mass>
+		<temperature errorminus="270.00" errorplus="270.00">27730.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>KOI-55 b</name>
+			<semimajoraxis>0.006000</semimajoraxis>
+			<inclination>65.000</inclination>
+			<period errorminus="-0.00000400" errorplus="0.00000400">0.24010400</period>
+			<mass>0.00140</mass>
+			<radius>0.068</radius>
+			<discoverymethod>Orbital Brightness Modulation</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 10 22</lastupdate>
+		</planet>
+		<planet>
+			<name>KOI-55 c</name>
+			<semimajoraxis>0.007600</semimajoraxis>
+			<inclination>65.000</inclination>
+			<period errorminus="-0.00001300" errorplus="0.00001300">0.34288700</period>
+			<mass>0.00210</mass>
+			<radius>0.077</radius>
+			<discoverymethod>Orbital Brightness Modulation</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 10 22</lastupdate>
+		</planet>
+	</star>
+</system>

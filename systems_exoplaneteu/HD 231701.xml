@@ -1,0 +1,26 @@
+<system>
+	<name>HD 231701</name>
+	<rightascension>19 32 04</rightascension>
+	<declination>+16 28 27</declination>
+	<distance>108.4</distance>
+	<star>
+		<name>HD 231701</name>
+		<age>4.9</age>
+		<radius>1.35</radius>
+		<mass>1.14</mass>
+		<spectraltype>F8V</spectraltype>
+		<temperature>6208.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>HD 231701 b</name>
+			<semimajoraxis>0.53</semimajoraxis>
+			<periastron errorminus="24.0" errorplus="24.0">46.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.1</eccentricity>
+			<period errorminus="2.8" errorplus="2.8">141.6</period>
+			<mass>1.08</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>09/10/06</lastupdate>
+		</planet>
+	</star>
+</system>

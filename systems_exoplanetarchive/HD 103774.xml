@@ -1,0 +1,26 @@
+<system>
+	<name>HD 103774</name>
+	<rightascension>11 56 56</rightascension>
+	<declination>-12 06 29</declination>
+	<star>
+		<name>HD 103774</name>
+		<magV errorminus="0.011" errorplus="0.011">7.121</magV>
+		<magJ errorminus="0.018" errorplus="0.018">6.269</magJ>
+		<magH errorminus="0.049" errorplus="0.049">6.112</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.000</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.33</mass>
+		<temperature errorminus="77.00" errorplus="77.00">6489.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 103774 b</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.070000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.090000</eccentricity>
+			<periastron errorminus="-64.0000" errorplus="64.0000">-42.0000</periastron>
+			<period errorminus="-0.00050000" errorplus="0.00050000">5.88810000</period>
+			<mass errorminus="-0.02200" errorplus="0.02200">0.36700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+	</star>
+</system>

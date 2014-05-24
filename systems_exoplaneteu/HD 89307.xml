@@ -1,0 +1,26 @@
+<system>
+	<name>HD 89307</name>
+	<rightascension>10 18 21</rightascension>
+	<declination>+12 37 15</declination>
+	<distance>30.9</distance>
+	<star>
+		<name>HD 89307</name>
+		<age>6.76</age>
+		<radius>1.05</radius>
+		<mass>1.028</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>5950.0</temperature>
+		<metallicity>-0.14</metallicity>
+		<planet>
+			<name>HD 89307 b</name>
+			<semimajoraxis errorminus="0.17" errorplus="0.17">3.34</semimajoraxis>
+			<periastron errorminus="33.0" errorplus="33.0">14.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.25</eccentricity>
+			<period errorminus="61.0" errorplus="61.0">2199.0</period>
+			<mass errorminus="0.4" errorplus="0.4">2.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>12/05/25</lastupdate>
+		</planet>
+	</star>
+</system>

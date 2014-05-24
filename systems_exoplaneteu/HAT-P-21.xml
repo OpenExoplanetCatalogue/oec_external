@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-21</name>
+	<rightascension>11 25 06</rightascension>
+	<declination>+41 01 41</declination>
+	<distance>254.0</distance>
+	<star>
+		<name>HAT-P-21</name>
+		<age>10.2</age>
+		<radius>1.105</radius>
+		<mass>0.947</mass>
+		<spectraltype>G3</spectraltype>
+		<temperature>5588.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>HAT-P-21 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0494</semimajoraxis>
+			<periastron errorminus="3.0" errorplus="3.0">300.0</periastron>
+			<eccentricity errorminus="0.016" errorplus="0.016">0.228</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
+			<period errorminus="7e-06" errorplus="7e-06">4.124461</period>
+			<mass errorminus="0.161" errorplus="0.161">4.063</mass>
+			<radius errorminus="1.024" errorplus="1.024">1.024</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/11</lastupdate>
+		</planet>
+	</star>
+</system>

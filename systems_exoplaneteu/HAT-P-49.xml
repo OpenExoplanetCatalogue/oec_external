@@ -1,0 +1,27 @@
+<system>
+	<name>HAT-P-49</name>
+	<rightascension>20 21 46</rightascension>
+	<declination>+26 41 34</declination>
+	<distance>322.0</distance>
+	<star>
+		<name>HAT-P-49</name>
+		<age>1.5</age>
+		<radius>1.833</radius>
+		<mass>1.543</mass>
+		<spectraltype>A5</spectraltype>
+		<temperature>6820.0</temperature>
+		<metallicity>0.074</metallicity>
+		<planet>
+			<name>HAT-P-49 b</name>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0438</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.7" errorplus="1.7">86.2</inclination>
+			<period errorminus="6e-06" errorplus="6e-06">2.691548</period>
+			<mass errorminus="0.205" errorplus="0.205">1.73</mass>
+			<radius errorminus="0.077" errorplus="0.128">1.413</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

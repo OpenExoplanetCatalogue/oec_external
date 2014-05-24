@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-353</name>
+	<rightascension>19 47 26</rightascension>
+	<declination>+41 45 29</declination>
+	<star>
+		<name>Kepler-353</name>
+		<radius>0.5</radius>
+		<mass>0.54</mass>
+		<temperature>3903.0</temperature>
+		<metallicity>-0.194</metallicity>
+		<planet>
+			<name>Kepler-353 b</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="5.5e-05" errorplus="5.5e-05">5.795278</period>
+			<radius errorminus="0.005" errorplus="0.005">0.079</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-353 c</name>
+			<semimajoraxis>0.065</semimajoraxis>
+			<period errorminus="3.9e-05" errorplus="3.9e-05">8.410894</period>
+			<radius errorminus="0.006" errorplus="0.006">0.123</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

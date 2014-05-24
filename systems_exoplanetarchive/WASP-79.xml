@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-79</name>
+	<rightascension>04 25 29</rightascension>
+	<declination>-30 36 02</declination>
+	<star>
+		<name>WASP-79</name>
+		<radius errorminus="0.31" errorplus="0.31">1.53</radius>
+		<magJ errorminus="0.021" errorplus="0.021">9.299</magJ>
+		<magH errorminus="0.023" errorplus="0.023">9.123</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.056</magK>
+		<mass errorminus="0.12" errorplus="0.12">1.38</mass>
+		<temperature errorminus="100.00" errorplus="100.00">6600.00</temperature>
+		<planet>
+			<name>WASP-79 b</name>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.000800">0.053500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.500" errorplus="0.500">83.300</inclination>
+			<period errorminus="-0.00000850" errorplus="0.00000850">3.66238660</period>
+			<mass errorminus="-0.08000" errorplus="0.08000">0.90000</mass>
+			<radius errorminus="-0.140" errorplus="0.140">2.090</radius>
+			<temperature errorminus="-50" errorplus="50">1900</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.001500" errorplus="0.001500">2455545.235300</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-21</name>
+	<rightascension>23 09 58</rightascension>
+	<declination>+18 23 46</declination>
+	<distance>230.0</distance>
+	<star>
+		<name>WASP-21</name>
+		<radius>1.06</radius>
+		<mass>1.01</mass>
+		<spectraltype>G3V</spectraltype>
+		<temperature>5800.0</temperature>
+		<metallicity>-0.4</metallicity>
+		<planet>
+			<name>WASP-21 b</name>
+			<semimajoraxis errorminus="0.00044" errorplus="0.00044">0.052</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.29" errorplus="0.29">87.29</inclination>
+			<period errorminus="3.1e-06" errorplus="3.1e-06">4.322506</period>
+			<mass errorminus="0.01" errorplus="0.01">0.3</mass>
+			<radius errorminus="0.032" errorplus="0.032">1.21</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>13/07/22</lastupdate>
+		</planet>
+	</star>
+</system>

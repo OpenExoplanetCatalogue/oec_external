@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-326</name>
+	<rightascension>19 37 18</rightascension>
+	<declination>+46 00 08</declination>
+	<star>
+		<name>Kepler-326</name>
+		<radius>0.8</radius>
+		<mass>0.98</mass>
+		<temperature>5105.0</temperature>
+		<metallicity>0.133</metallicity>
+		<planet>
+			<name>Kepler-326 b</name>
+			<semimajoraxis>0.032</semimajoraxis>
+			<period errorminus="4e-06" errorplus="4e-06">2.248329</period>
+			<radius errorminus="0.014" errorplus="0.014">0.136</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-326 c</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="1e-05" errorplus="1e-05">4.580358</period>
+			<radius errorminus="0.009" errorplus="0.009">0.125</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-326 d</name>
+			<semimajoraxis>0.066</semimajoraxis>
+			<period errorminus="2.3e-05" errorplus="2.3e-05">6.766888</period>
+			<radius errorminus="0.008" errorplus="0.008">0.108</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

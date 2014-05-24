@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-297</name>
+	<rightascension>18 52 50</rightascension>
+	<declination>+48 46 40</declination>
+	<star>
+		<name>Kepler-297</name>
+		<radius errorminus="0.17" errorplus="0.17">0.92</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.122</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.785</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.780</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5619.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-297 b</name>
+			<semimajoraxis>0.217000</semimajoraxis>
+			<period errorminus="-0.00015300" errorplus="0.00015300">38.87182600</period>
+			<radius errorminus="-0.046" errorplus="0.046">0.256</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002090" errorplus="0.002090">2455004.287130</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-297 c</name>
+			<semimajoraxis>0.336000</semimajoraxis>
+			<period errorminus="-0.00012000" errorplus="0.00012000">74.92013700</period>
+			<radius errorminus="-0.105" errorplus="0.105">0.583</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000980" errorplus="0.000980">2454958.037700</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,32 @@
+<system>
+	<name>HD 8673</name>
+	<rightascension>01 26 08</rightascension>
+	<declination>+34 34 46</declination>
+	<distance>38.25</distance>
+	<star>
+		<mass>1.312</mass>
+		<radius>1.54</radius>
+		<magV>7.57</magV>
+		<magB>6.78</magB>
+		<magR>6.1</magR>
+		<magI>5.8</magI>
+		<magJ>5.44</magJ>
+		<magH>5.22</magH>
+		<magK>5.17</magK>
+		<spectraltype>F7 V</spectraltype>
+		<planet>
+			<name>HD 8673 b</name>
+			<list>Confirmed planets</list>
+			<mass>14.2</mass>
+			<period>1634</period>
+			<semimajoraxis>3.02</semimajoraxis>
+			<eccentricity>0.723</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/06/24</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>194.3</temperature>
+		</planet>
+		<name>HD 8673</name>
+		<temperature>6413.0</temperature>
+	</star>
+</system>

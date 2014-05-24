@@ -1,0 +1,42 @@
+<system>
+	<name>HAT-P-2</name>
+	<rightascension>16 20 36</rightascension>
+	<declination>+41 02 53</declination>
+	<distance>118</distance>
+	<star>
+		<mass>1.36</mass>
+		<radius>1.64</radius>
+		<magV errorminus="0.01" errorplus="0.01">8.69</magV>
+		<magB errorminus="0.02" errorplus="0.02">9.15</magB>
+		<magJ errorminus="0.027" errorplus="0.027">7.796</magJ>
+		<magH errorminus="0.038" errorplus="0.038">7.652</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.603</magK>
+		<metallicity>0.14</metallicity>
+		<spectraltype>F8</spectraltype>
+		<planet>
+			<name>HAT-P-2 b</name>
+			<name>HIP 80076 b</name>
+			<name>TYC 3065-01195-1 b</name>
+			<name>HD 147506 b</name>
+			<name>BD+41 2693 b</name>
+			<name>SAO 46035 b</name>
+			<name>2MASS J16203635+4102531 b</name>
+			<list>Confirmed planets</list>
+			<mass>8.74</mass>
+			<radius>0.951</radius>
+			<period>5.6334729</period>
+			<semimajoraxis>0.0674</semimajoraxis>
+			<eccentricity>0.5171</eccentricity>
+			<inclination>90</inclination>
+			<description>The star HAT-P-2 is located in the constellation Hercules and is between 2 and 3 billion years old.</description>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>1343.6</temperature>
+			<transittime errorminus="0.0030" errorplus="0.0053" unit="BJD">2454213.4801</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-2</name>
+		<temperature>6290.0</temperature>
+	</star>
+</system>

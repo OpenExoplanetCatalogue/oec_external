@@ -1,0 +1,24 @@
+<system>
+	<name>HR 810</name>
+	<rightascension>02 42 33</rightascension>
+	<declination>-50 48 01</declination>
+	<star>
+		<name>HR 810</name>
+		<magV>5.410</magV>
+		<magI>4.780</magI>
+		<magJ errorminus="0.262" errorplus="0.262">4.750</magJ>
+		<magH errorminus="0.214" errorplus="0.214">4.323</magH>
+		<magK errorminus="0.036" errorplus="0.036">4.138</magK>
+		<planet>
+			<name>HR 810 b</name>
+			<semimajoraxis errorminus="-0.104000" errorplus="0.104000">0.910000</semimajoraxis>
+			<eccentricity errorminus="-0.070000" errorplus="0.070000">0.240000</eccentricity>
+			<periastron>343.0000</periastron>
+			<period errorminus="-2.10000000" errorplus="2.10000000">311.28800000</period>
+			<mass errorminus="-0.18000" errorplus="0.18000">1.94000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>OGLE-TR-132</name>
+	<rightascension>10 50 35</rightascension>
+	<declination>-61 57 26</declination>
+	<star>
+		<name>OGLE-TR-132</name>
+		<radius errorminus="0.17" errorplus="0.17">1.32</radius>
+		<magV>15.720</magV>
+		<mass errorminus="0.07" errorplus="0.07">1.30</mass>
+		<temperature errorminus="75.00" errorplus="75.00">6210.00</temperature>
+		<planet>
+			<name>OGLE-TR-132 b</name>
+			<semimajoraxis errorminus="-0.000530" errorplus="0.000570">0.030350</semimajoraxis>
+			<inclination errorminus="-1.300" errorplus="2.900">83.400</inclination>
+			<period>1.68986800</period>
+			<mass errorminus="-0.13000" errorplus="0.14000">1.18000</mass>
+			<radius errorminus="-0.110" errorplus="0.150">1.200</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000090" errorplus="0.000090">2453142.588840</transittime>
+		</planet>
+	</star>
+</system>

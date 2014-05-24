@@ -1,0 +1,25 @@
+<system>
+	<name>sig Per</name>
+	<rightascension>03 30 35</rightascension>
+	<declination>+47 59 43</declination>
+	<distance>108.3</distance>
+	<star>
+		<name>sig Per</name>
+		<radius>28.0</radius>
+		<mass>2.25</mass>
+		<spectraltype>K3III</spectraltype>
+		<temperature>4367.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>sig Per b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.8</semimajoraxis>
+			<periastron errorminus="14.2" errorplus="14.2">83.5</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
+			<period errorminus="2.4" errorplus="2.4">579.8</period>
+			<mass errorminus="1.0" errorplus="1.0">6.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/12</lastupdate>
+		</planet>
+	</star>
+</system>

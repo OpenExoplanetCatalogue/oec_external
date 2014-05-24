@@ -1,0 +1,55 @@
+<system>
+	<name>Kepler-251</name>
+	<rightascension>19 46 16</rightascension>
+	<declination>+44 06 21</declination>
+	<star>
+		<name>Kepler-251</name>
+		<radius errorminus="0.15" errorplus="0.15">0.89</radius>
+		<magJ errorminus="0.031" errorplus="0.031">13.960</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.596</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.632</magK>
+		<mass>0.91</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5526.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-251 b</name>
+			<semimajoraxis>0.053000</semimajoraxis>
+			<period errorminus="-0.00003700" errorplus="0.00003700">4.79093600</period>
+			<radius errorminus="-0.021" errorplus="0.021">0.119</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004580" errorplus="0.004580">2454969.311480</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-251 c</name>
+			<semimajoraxis>0.122000</semimajoraxis>
+			<period errorminus="-0.00005400" errorplus="0.00005400">16.51404300</period>
+			<radius errorminus="-0.044" errorplus="0.044">0.247</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001810" errorplus="0.001810">2455009.116320</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-251 d</name>
+			<semimajoraxis>0.182000</semimajoraxis>
+			<period errorminus="-0.00016100" errorplus="0.00016100">30.13300100</period>
+			<radius errorminus="-0.044" errorplus="0.044">0.247</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003010" errorplus="0.003010">2455023.383220</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-251 e</name>
+			<semimajoraxis>0.404000</semimajoraxis>
+			<period errorminus="-0.00107400" errorplus="0.00107400">99.64016100</period>
+			<radius errorminus="-0.044" errorplus="0.044">0.247</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005190" errorplus="0.005190">2455031.693120</transittime>
+		</planet>
+	</star>
+</system>

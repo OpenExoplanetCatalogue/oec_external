@@ -1,0 +1,26 @@
+<system>
+	<name>alf Ari</name>
+	<rightascension>02 07 10</rightascension>
+	<declination>+23 27 45</declination>
+	<star>
+		<name>alf Ari</name>
+		<radius errorminus="0.30" errorplus="0.30">13.90</radius>
+		<magV>2.000</magV>
+		<magJ errorminus="0.218" errorplus="0.218">-0.196</magJ>
+		<magH errorminus="0.156" errorplus="0.156">-0.749</magH>
+		<magK errorminus="0.176" errorplus="0.176">-0.783</magK>
+		<mass errorminus="0.20" errorplus="0.20">1.50</mass>
+		<temperature errorminus="15.00" errorplus="15.00">4553.00</temperature>
+		<planet>
+			<name>alf Ari b</name>
+			<semimajoraxis>1.200000</semimajoraxis>
+			<eccentricity errorminus="-0.030000" errorplus="0.030000">0.250000</eccentricity>
+			<periastron errorminus="-6.8400" errorplus="6.8400">89.1600</periastron>
+			<period errorminus="-0.30000000" errorplus="0.30000000">380.80000000</period>
+			<mass errorminus="-0.20000" errorplus="0.20000">1.80000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+		</planet>
+	</star>
+</system>

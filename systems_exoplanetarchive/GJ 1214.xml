@@ -1,0 +1,29 @@
+<system>
+	<name>GJ 1214</name>
+	<rightascension>17 15 19</rightascension>
+	<declination>+04 57 50</declination>
+	<star>
+		<name>GJ 1214</name>
+		<radius errorminus="0.01" errorplus="0.01">0.18</radius>
+		<magV errorminus="0.020" errorplus="0.020">14.680</magV>
+		<magI errorminus="0.025" errorplus="0.025">11.560</magI>
+		<magJ errorminus="0.024" errorplus="0.024">9.750</magJ>
+		<magH errorminus="0.024" errorplus="0.024">9.094</magH>
+		<magK errorminus="0.020" errorplus="0.020">8.782</magK>
+		<mass errorminus="0.01" errorplus="0.01">0.16</mass>
+		<temperature errorminus="23.00" errorplus="23.00">3170.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 1214 b</name>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.500" errorplus="0.000">90.000</inclination>
+			<period errorminus="-0.00000024" errorplus="0.00000024">1.58040482</period>
+			<mass errorminus="-0.00300" errorplus="0.00300">0.02000</mass>
+			<radius errorminus="-0.007" errorplus="0.007">0.203</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+			<transittime errorminus="-0.000045" errorplus="0.000045">2454980.748796</transittime>
+		</planet>
+	</star>
+</system>

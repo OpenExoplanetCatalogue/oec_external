@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-32</name>
+	<rightascension>00 15 51</rightascension>
+	<declination>+01 12 02</declination>
+	<star>
+		<name>WASP-32</name>
+		<radius>1.11</radius>
+		<mass>1.1</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>6100.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>WASP-32 b</name>
+			<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.0394</semimajoraxis>
+			<periastron errorminus="30.0" errorplus="30.0">160.0</periastron>
+			<eccentricity errorminus="0.0065" errorplus="0.0065">0.018</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">85.3</inclination>
+			<period errorminus="8e-05" errorplus="8e-05">2.71865</period>
+			<mass errorminus="0.07" errorplus="0.07">3.6</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.18</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/10/11</lastupdate>
+		</planet>
+	</star>
+</system>

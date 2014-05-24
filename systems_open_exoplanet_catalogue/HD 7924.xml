@@ -1,0 +1,32 @@
+<system>
+	<name>HD 7924</name>
+	<rightascension>01 21 59</rightascension>
+	<declination>+76 42 37</declination>
+	<distance>16.8</distance>
+	<star>
+		<mass>0.832</mass>
+		<radius>0.78</radius>
+		<magV>7.185</magV>
+		<magB>8.005</magB>
+		<magJ errorminus="0.026" errorplus="0.026">5.618</magJ>
+		<magH errorminus="0.033" errorplus="0.033">5.231</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.159</magK>
+		<metallicity>-0.15</metallicity>
+		<spectraltype>K0V</spectraltype>
+		<planet>
+			<name>HD 7924 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.029</mass>
+			<period>5.3978</period>
+			<semimajoraxis>0.057</semimajoraxis>
+			<eccentricity>0.17</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/01/29</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>842.9</temperature>
+		</planet>
+		<name>HD 7924</name>
+		<temperature>5177.0</temperature>
+	</star>
+	<videolink>http://youtu.be/Zp5gMMGCMhg</videolink>
+</system>

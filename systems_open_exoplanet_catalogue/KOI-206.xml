@@ -1,0 +1,33 @@
+<system>
+	<name>KOI-206</name>
+	<rightascension>19 50 22</rightascension>
+	<declination>+40 58 38</declination>
+	<star>
+		<radius>1.16</radius>
+		<magV errorminus="0.34" errorplus="0.34">14.35</magV>
+		<magB errorminus="0.37" errorplus="0.37">15.08</magB>
+		<magR errorminus="0.12" errorplus="0.12">14.81</magR>
+		<magI errorminus="0.46" errorplus="0.46">14.10</magI>
+		<magJ errorminus="0.020" errorplus="0.020">13.201</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.948</magH>
+		<magK errorminus="0.026" errorplus="0.026">12.826</magK>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>KOI-206 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.9</mass>
+			<radius>0.7</radius>
+			<period>5.33</period>
+			<semimajoraxis>0.059</semimajoraxis>
+			<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2454964.98094</transittime>
+			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>12/06/05</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<temperature>1128.3</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>KOI-206</name>
+		<temperature>5771.0</temperature>
+	</star>
+</system>

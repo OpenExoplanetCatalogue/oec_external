@@ -1,0 +1,30 @@
+<system>
+	<name>HD 103197</name>
+	<rightascension>11 52 53</rightascension>
+	<declination>-50 17 34</declination>
+	<distance>49.3</distance>
+	<star>
+		<mass>0.9</mass>
+		<magV>9.41</magV>
+		<magB errorminus="0.03" errorplus="0.03">10.31</magB>
+		<magJ errorminus="0.023" errorplus="0.023">7.916</magJ>
+		<magH errorminus="0.051" errorplus="0.051">7.600</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.426</magK>
+		<metallicity>0.21</metallicity>
+		<spectraltype>K1V</spectraltype>
+		<planet>
+			<name>HD 103197 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.098</mass>
+			<period>47.84</period>
+			<semimajoraxis>0.249</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/10/06</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>409.7</temperature>
+		</planet>
+		<name>HD 103197</name>
+		<temperature>5303.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 164604</name>
+	<rightascension>18 03 07</rightascension>
+	<declination>-28 26 22</declination>
+	<distance>38.0</distance>
+	<star>
+		<name>HD 164604</name>
+		<mass>0.8</mass>
+		<spectraltype>K2V</spectraltype>
+		<metallicity>-0.18</metallicity>
+		<planet>
+			<name>HD 164604 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.13</semimajoraxis>
+			<periastron errorminus="23.0" errorplus="23.0">51.0</periastron>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.24</eccentricity>
+			<period errorminus="9.0" errorplus="9.0">606.4</period>
+			<mass errorminus="1.3" errorplus="1.3">2.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/01/26</lastupdate>
+		</planet>
+	</star>
+</system>

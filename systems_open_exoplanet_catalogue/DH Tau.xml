@@ -1,0 +1,31 @@
+<system>
+	<name>DH Tau</name>
+	<rightascension>04 29 42</rightascension>
+	<declination>+26 32 58</declination>
+	<distance>140.01</distance>
+	<star>
+		<mass>0.4</mass>
+		<magV>13.71</magV>
+		<magB>15.23</magB>
+		<magR>13.01</magR>
+		<magJ errorminus="0.021" errorplus="0.021">9.767</magJ>
+		<magH errorminus="0.026" errorplus="0.026">8.824</magH>
+		<magK errorminus="0.026" errorplus="0.026">8.178</magK>
+		<spectraltype>M0.5V</spectraltype>
+		<planet>
+			<name>DH Tau b</name>
+			<name>DH Tauri b</name>
+			<list>Confirmed planets</list>
+			<mass>37.5</mass>
+			<semimajoraxis>330</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>11/03/08</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+			<image>DH Tau</image>
+			<imagedescription>This image shows the companion to the star DH Tauri on the lower left. The star itself has been masked to enhance the contrast. Credit: Subaru Telescope, National Astronomical Observatory of Japan.</imagedescription>
+		</planet>
+		<name>DH Tau</name>
+		<temperature>3840.0</temperature>
+	</star>
+	<videolink>http://youtu.be/VcvmxphhDQI</videolink>
+</system>

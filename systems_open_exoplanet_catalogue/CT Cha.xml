@@ -1,0 +1,30 @@
+<system>
+	<name>CT Cha</name>
+	<rightascension>11 04 09</rightascension>
+	<declination>-76 27 19</declination>
+	<distance>165</distance>
+	<star>
+		<magV>12.36</magV>
+		<magB>13.44</magB>
+		<magR>11.600</magR>
+		<magJ errorminus="0.024" errorplus="0.024">9.715</magJ>
+		<magH errorminus="0.047" errorplus="0.047">8.944</magH>
+		<magK errorminus="0.021" errorplus="0.021">8.661</magK>
+		<spectraltype>K7</spectraltype>
+		<planet>
+			<name>CT Cha b</name>
+			<list>Confirmed planets</list>
+			<mass>17</mass>
+			<radius>2.2</radius>
+			<semimajoraxis>440</semimajoraxis>
+			<description>CT Chamaeleontis is a pre-main sequence T Tauri star. The companion might be a brown dwarf due to its large mass.</description>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>08/09/24</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<image>CT Cha</image>
+			<imagedescription>This image shows the young star CT Cha and a companion (on the right). Due to its large mass it is currently unclear if the companion is a planet or brown dwarf. Credit: Tobias Schmidt (AIU Jena).</imagedescription>
+		</planet>
+		<name>CT Cha</name>
+		<temperature>5150.0</temperature>
+	</star>
+</system>

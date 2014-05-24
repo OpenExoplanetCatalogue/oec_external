@@ -1,0 +1,23 @@
+<system>
+	<name>HD 178911 B</name>
+	<rightascension>19 09 03</rightascension>
+	<declination>+34 35 60</declination>
+	<star>
+		<name>HD 178911 B</name>
+		<magV errorminus="0.012" errorplus="0.012">7.792</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.749</magJ>
+		<magH errorminus="0.020" errorplus="0.020">6.458</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.375</magK>
+		<planet>
+			<name>HD 178911 B b</name>
+			<semimajoraxis errorminus="-0.006000" errorplus="0.006000">0.339000</semimajoraxis>
+			<eccentricity errorminus="-0.003000" errorplus="0.003000">0.114000</eccentricity>
+			<periastron errorminus="-1.6000" errorplus="1.6000">168.2000</periastron>
+			<period errorminus="-0.00200000" errorplus="0.00200000">71.48400000</period>
+			<mass errorminus="-0.28000" errorplus="0.28000">7.03000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

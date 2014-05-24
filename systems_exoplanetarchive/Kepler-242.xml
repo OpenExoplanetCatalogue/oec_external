@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-242</name>
+	<rightascension>19 06 16</rightascension>
+	<declination>+41 48 30</declination>
+	<star>
+		<name>Kepler-242</name>
+		<radius errorminus="0.52" errorplus="0.52">0.85</radius>
+		<magJ errorminus="0.024" errorplus="0.024">13.821</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.316</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.238</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5020.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-242 b</name>
+			<semimajoraxis>0.075000</semimajoraxis>
+			<period errorminus="-0.00002000" errorplus="0.00002000">8.20395000</period>
+			<radius errorminus="-0.143" errorplus="0.143">0.233</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001390" errorplus="0.001390">2455002.691170</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-242 c</name>
+			<semimajoraxis>0.109000</semimajoraxis>
+			<period errorminus="-0.00008300" errorplus="0.00008300">14.49648100</period>
+			<radius errorminus="-0.110" errorplus="0.110">0.178</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003460" errorplus="0.003460">2454976.413480</transittime>
+		</planet>
+	</star>
+</system>

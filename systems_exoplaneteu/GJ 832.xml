@@ -1,0 +1,22 @@
+<system>
+	<name>GJ 832</name>
+	<rightascension>21 33 34</rightascension>
+	<declination>-49 59 28</declination>
+	<distance>4.94</distance>
+	<star>
+		<name>GJ 832</name>
+		<mass>0.45</mass>
+		<metallicity>-0.31</metallicity>
+		<planet>
+			<name>GJ 832 b</name>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">3.4</semimajoraxis>
+			<periastron errorminus="38.0" errorplus="38.0">304.0</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.12</eccentricity>
+			<period errorminus="131.0" errorplus="131.0">3416.0</period>
+			<mass errorminus="0.06" errorplus="0.06">0.64</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>10/11/13</lastupdate>
+		</planet>
+	</star>
+</system>

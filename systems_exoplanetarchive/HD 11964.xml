@@ -1,0 +1,34 @@
+<system>
+	<name>HD 11964</name>
+	<rightascension>01 57 10</rightascension>
+	<declination>-10 14 33</declination>
+	<star>
+		<name>HD 11964</name>
+		<magV>6.410</magV>
+		<magI>5.555</magI>
+		<magJ errorminus="0.025" errorplus="0.025">5.023</magJ>
+		<magH errorminus="0.021" errorplus="0.021">4.637</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.491</magK>
+		<planet>
+			<name>HD 11964 b</name>
+			<semimajoraxis errorminus="-0.190000" errorplus="0.190000">3.160000</semimajoraxis>
+			<eccentricity errorminus="-0.047000" errorplus="0.047000">0.041000</eccentricity>
+			<period errorminus="-26.00000000" errorplus="26.00000000">1945.00000000</period>
+			<mass errorminus="-0.05600" errorplus="0.05600">0.62200</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 11964 c</name>
+			<semimajoraxis errorminus="-0.013000" errorplus="0.013000">0.229000</semimajoraxis>
+			<eccentricity errorminus="-0.170000" errorplus="0.170000">0.300000</eccentricity>
+			<periastron>102.0000</periastron>
+			<period errorminus="-0.04100000" errorplus="0.04100000">37.91000000</period>
+			<mass errorminus="-0.00970" errorplus="0.00970">0.07880</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

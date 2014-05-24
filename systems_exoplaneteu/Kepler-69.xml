@@ -1,0 +1,33 @@
+<system>
+	<name>Kepler-69</name>
+	<rightascension>19 33 03</rightascension>
+	<declination>+44 52 08</declination>
+	<star>
+		<name>Kepler-69</name>
+		<radius>0.93</radius>
+		<mass>0.81</mass>
+		<spectraltype>G4V</spectraltype>
+		<temperature>5638.0</temperature>
+		<metallicity>-0.29</metallicity>
+		<planet>
+			<name>Kepler-69 b</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.023">0.094</semimajoraxis>
+			<inclination errorminus="0.26" errorplus="0.45">89.62</inclination>
+			<period errorminus="3.6e-05" errorplus="3.6e-05">13.722341</period>
+			<radius errorminus="0.026" errorplus="0.039">0.199</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-69 c</name>
+			<semimajoraxis errorminus="0.11" errorplus="0.15">0.64</semimajoraxis>
+			<inclination errorminus="0.03" errorplus="0.08">89.85</inclination>
+			<period errorminus="0.0059" errorplus="0.0064">242.4613</period>
+			<radius errorminus="0.021" errorplus="0.03">0.153</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+		</planet>
+	</star>
+</system>

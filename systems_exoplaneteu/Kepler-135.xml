@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-135</name>
+	<rightascension>19 21 59</rightascension>
+	<declination>+38 47 44</declination>
+	<star>
+		<name>Kepler-135</name>
+		<radius>1.27</radius>
+		<temperature>6090.0</temperature>
+		<metallicity>0.045</metallicity>
+		<planet>
+			<name>Kepler-135 b</name>
+			<semimajoraxis>0.067</semimajoraxis>
+			<period errorminus="1.6e-05" errorplus="1.6e-05">6.00253</period>
+			<radius errorminus="0.031" errorplus="0.031">0.161</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-135 c</name>
+			<semimajoraxis>0.103</semimajoraxis>
+			<period errorminus="0.000145" errorplus="0.000145">11.448708</period>
+			<radius errorminus="0.021" errorplus="0.021">0.103</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

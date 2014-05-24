@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-291</name>
+	<rightascension>19 11 40</rightascension>
+	<declination>+42 26 14</declination>
+	<star>
+		<name>Kepler-291</name>
+		<radius>1.02</radius>
+		<mass>1.03</mass>
+		<temperature>6002.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-291 b</name>
+			<semimajoraxis>0.047</semimajoraxis>
+			<period errorminus="1.6e-05" errorplus="1.6e-05">3.546511</period>
+			<radius errorminus="0.084" errorplus="0.084">0.193</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-291 c</name>
+			<semimajoraxis>0.065</semimajoraxis>
+			<period errorminus="5.5e-05" errorplus="5.5e-05">5.700786</period>
+			<radius errorminus="0.073" errorplus="0.073">0.168</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 189733</name>
+	<rightascension>20 00 44</rightascension>
+	<declination>+22 42 39</declination>
+	<star>
+		<name>HD 189733</name>
+		<radius errorminus="0.03" errorplus="0.03">0.75</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.676</magV>
+		<magJ errorminus="0.032" errorplus="0.032">6.073</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.587</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.541</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.84</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5040.00</temperature>
+		<planet>
+			<name>HD 189733 b</name>
+			<semimajoraxis errorminus="-0.000520" errorplus="0.000520">0.031420</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.250" errorplus="0.250">85.780</inclination>
+			<period errorminus="-0.00000080" errorplus="0.00000080">2.21857578</period>
+			<mass errorminus="-0.03900" errorplus="0.03900">1.15000</mass>
+			<radius errorminus="-0.038" errorplus="0.038">1.151</radius>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 04</lastupdate>
+			<transittime errorminus="-0.000015" errorplus="0.000015">2454279.436714</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 126614</name>
+	<rightascension>14 26 48</rightascension>
+	<declination>-05 10 40</declination>
+	<star>
+		<name>HD 126614</name>
+		<magV errorminus="0.019" errorplus="0.019">8.788</magV>
+		<magJ errorminus="0.021" errorplus="0.021">7.470</magJ>
+		<magH errorminus="0.042" errorplus="0.042">7.160</magH>
+		<magK errorminus="0.036" errorplus="0.036">7.060</magK>
+		<planet>
+			<name>HD 126614 b</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">2.350000</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.410000</eccentricity>
+			<periastron errorminus="-19.0000" errorplus="19.0000">243.0000</periastron>
+			<period errorminus="-17.00000000" errorplus="17.00000000">1244.00000000</period>
+			<mass errorminus="-0.04000" errorplus="0.04000">0.38000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>
