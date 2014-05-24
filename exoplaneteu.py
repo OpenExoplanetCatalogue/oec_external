@@ -23,13 +23,13 @@ def parse():
     reader = csv.reader(f)
     for line in reader:
         p = dict(zip(header, line))
-        outputfilename = "systems_exoplaneteu/"+p["star_name"]+".xml"
+        outputfilename = "systems_exoplaneteu/"+p["star_name"].strip()+".xml"
         if os.path.exists(outputfilename):
             system = ET.parse(outputfilename).getroot()
             star = system.find(".//star")
         else:
             system = ET.Element("system")
-            ET.SubElement(system, "name").text = p["star_name"]
+            ET.SubElement(system, "name").text = p["star_name"].strip()
           
             # convert the right ascension to hh mm ss
             tempra = ""
@@ -54,7 +54,7 @@ def parse():
 
             ET.SubElement(system, "distance").text = p["star_distance"]
             star = ET.SubElement(system, "star")
-            ET.SubElement(star, "name").text = p["star_name"]
+            ET.SubElement(star, "name").text = p["star_name"].strip()
             ET.SubElement(star, "age").text = p["star_age"]
             ET.SubElement(star, "radius").text = p["star_radius"]
             ET.SubElement(star, "mass").text = p["star_mass"]
@@ -63,7 +63,7 @@ def parse():
             ET.SubElement(star, "metallicity").text = p["star_metallicity"]
 
         planet = ET.SubElement(star, "planet")
-        ET.SubElement(planet, "name").text = p["name"]
+        ET.SubElement(planet, "name").text = p["name"].strip()
         ET.SubElement(planet, "semimajoraxis", errorminus=p["semi_major_axis_error_min"], errorplus=p["semi_major_axis_error_max"]).text = p["semi_major_axis"]
         ET.SubElement(planet, "periastron", errorminus=p['omega_error_min'], errorplus=p['omega_error_max']).text = p["omega"]
         ET.SubElement(planet, "eccentricity", errorminus=p['eccentricity_error_min'], errorplus=p['eccentricity_error_max']).text = p["eccentricity"]
