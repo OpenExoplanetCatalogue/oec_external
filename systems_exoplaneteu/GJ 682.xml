@@ -10,24 +10,24 @@
 		<planet>
 			<name>GJ 682 b</name>
 			<semimajoraxis errorminus="0.004" errorplus="0.014">0.08</semimajoraxis>
-			<periastron>1.5</periastron>
+			<periastron>85.94</periastron>
 			<eccentricity errorminus="0.08" errorplus="0.19">0.08</eccentricity>
-			<period errorminus="17.438" errorplus="17.54">17.478</period>
-			<mass errorminus="0.00629267218324261" errorplus="0.0254853223421326">0.0138438788031</mass>
+			<period errorminus="0.04" errorplus="0.062">17.478</period>
+			<mass errorminus="0.0075489989" errorplus="0.01163804">0.0138438788031</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 682 c</name>
 			<semimajoraxis errorminus="0.009" errorplus="0.03">0.176</semimajoraxis>
-			<periastron>5.6</periastron>
+			<periastron>320.85</periastron>
 			<eccentricity errorminus="0.1" errorplus="0.19">0.1</eccentricity>
-			<period errorminus="56.84" errorplus="57.77">57.32</period>
-			<mass errorminus="0.0128999779756474" errorplus="0.045621873328509">0.0273731239971</mass>
+			<period errorminus="0.48" errorplus="0.45">57.32</period>
+			<mass errorminus="0.014468914" errorplus="0.018243414">0.027365121</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

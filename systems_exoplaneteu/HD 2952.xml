@@ -13,12 +13,13 @@
 		<planet>
 			<name>HD 2952 b</name>
 			<semimajoraxis>1.2</semimajoraxis>
-			<periastron errorminus="56.0" errorplus="48.0">64.0</periastron>
+			<periastron errorminus="48.0" errorplus="56.0">64.0</periastron>
 			<eccentricity errorminus="0.085" errorplus="0.099">0.129</eccentricity>
+			<period errorminus="1.9" errorplus="1.7">311.6</period>
 			<mass>1.6</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

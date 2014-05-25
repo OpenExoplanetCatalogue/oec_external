@@ -13,13 +13,13 @@
 		<planet>
 			<name>ome Ser b</name>
 			<semimajoraxis>1.1</semimajoraxis>
-			<periastron errorminus="34.0" errorplus="52.0">132.0</periastron>
+			<periastron errorminus="52.0" errorplus="34.0">132.0</periastron>
 			<eccentricity errorminus="0.069" errorplus="0.079">0.106</eccentricity>
-			<period errorminus="0.52" errorplus="0.52">277.02</period>
+			<period errorminus="0.51" errorplus="0.52">277.02</period>
 			<mass>1.7</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -12,14 +12,14 @@
 		<metallicity>0.21</metallicity>
 		<planet>
 			<name>HAT-P-41 b</name>
-			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0424</semimajoraxis>
-			<inclination errorminus="0.9" errorplus="0.9">87.9</inclination>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0426</semimajoraxis>
+			<inclination errorminus="1.0" errorplus="1.0">87.7</inclination>
 			<period errorminus="4e-06" errorplus="4e-06">2.694047</period>
-			<mass errorminus="0.094" errorplus="0.094">0.812</mass>
-			<radius errorminus="0.185" errorplus="0.136">1.529</radius>
+			<mass errorminus="0.102" errorplus="0.102">0.8</mass>
+			<radius errorminus="0.051" errorplus="0.076">1.685</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/01/17</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

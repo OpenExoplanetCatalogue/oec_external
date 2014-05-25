@@ -12,69 +12,69 @@
 		<metallicity>-0.55</metallicity>
 		<planet>
 			<name>GJ 667C b</name>
-			<semimajoraxis>0.0504</semimajoraxis>
-			<periastron errorminus="33.0" errorplus="33.0">-4.0</periastron>
-			<eccentricity errorminus="0.05" errorplus="0.05">0.09</eccentricity>
-			<period errorminus="0.001" errorplus="0.001">7.199</period>
-			<mass>0.01718</mass>
+			<semimajoraxis errorminus="0.0053" errorplus="0.0044">0.0505</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">5.7</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.1">0.13</eccentricity>
+			<period errorminus="0.0017" errorplus="0.0017">7.2004</period>
+			<mass errorminus="0.0041" errorplus="0.0044">0.0176</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>12/12/18</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 667C c</name>
-			<semimajoraxis>0.1251</semimajoraxis>
-			<periastron errorminus="20.0" errorplus="20.0">166.0</periastron>
-			<eccentricity errorminus="0.1" errorplus="0.1">0.34</eccentricity>
-			<period errorminus="0.03" errorplus="0.03">28.13</period>
-			<mass>0.0134</mass>
+			<semimajoraxis errorminus="0.013" errorplus="0.012">0.125</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">292.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.15">0.02</eccentricity>
+			<period errorminus="0.03" errorplus="0.03">28.14</period>
+			<mass errorminus="0.065" errorplus="0.053">0.0119</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>13/09/14</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 667C d</name>
-			<semimajoraxis>0.3035</semimajoraxis>
-			<periastron errorminus="8.0" errorplus="8.0">7.0</periastron>
-			<eccentricity errorminus="0.06" errorplus="0.06">0.68</eccentricity>
-			<period errorminus="0.1" errorplus="0.1">106.4</period>
-			<mass>0.0218</mass>
+			<semimajoraxis errorminus="0.03" errorplus="0.024">0.276</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">40.11</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.2">0.03</eccentricity>
+			<period errorminus="0.89" errorplus="0.81">91.61</period>
+			<mass errorminus="0.00535" errorplus="0.00566">0.01604</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/06/25</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 667C e</name>
 			<semimajoraxis errorminus="0.02" errorplus="0.02">0.213</semimajoraxis>
-			<periastron errorminus="360.0" errorplus="360.0">29.0</periastron>
-			<eccentricity errorminus="0.02" errorplus="0.22">0.02</eccentricity>
-			<period errorminus="0.55" errorplus="0.75">62.24</period>
-			<mass errorminus="0.005" errorplus="0.0044">0.0085</mass>
+			<periastron errorminus="360.0" errorplus="360.0">28.65</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.004">0.02</eccentricity>
+			<period errorminus="0.55" errorplus="0.55">62.24</period>
+			<mass errorminus="0.0044" errorplus="0.005">0.0085</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 667C f</name>
 			<semimajoraxis errorminus="0.017" errorplus="0.014">0.156</semimajoraxis>
 			<periastron errorminus="360.0" errorplus="360.0">103.0</periastron>
 			<eccentricity errorminus="0.03" errorplus="0.16">0.03</eccentricity>
-			<period errorminus="0.2" errorplus="0.2">39.026</period>
-			<mass errorminus="0.0044" errorplus="0.0038">0.0085</mass>
+			<period errorminus="0.211" errorplus="0.194">39.026</period>
+			<mass errorminus="0.0038" errorplus="0.0044">0.0085</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 667C g</name>
-			<semimajoraxis errorminus="0.05" errorplus="0.05">0.549</semimajoraxis>
-			<periastron errorminus="360.0" errorplus="360.0">52.0</periastron>
+			<semimajoraxis errorminus="0.058" errorplus="0.052">0.549</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">51.56</periastron>
 			<eccentricity errorminus="0.08" errorplus="0.41">0.08</eccentricity>
-			<period errorminus="14.0" errorplus="18.0">256.2</period>
-			<mass errorminus="0.008" errorplus="0.0072">0.0145</mass>
+			<period errorminus="7.9" errorplus="13.8">256.2</period>
+			<mass errorminus="0.0072" errorplus="0.0082">0.0145</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -16,12 +16,12 @@
 			<periastron errorminus="1.8" errorplus="1.8">274.3</periastron>
 			<eccentricity errorminus="0.0045" errorplus="0.0045">0.245</eccentricity>
 			<inclination errorminus="2.7" errorplus="2.7">87.1</inclination>
-			<period errorminus="9.2e-05" errorplus="9.2e-05">5.005425</period>
-			<mass errorminus="0.077" errorplus="0.106">2.171</mass>
-			<radius errorminus="0.32" errorplus="0.32">1.07</radius>
+			<period errorminus="9.2e-05" errorplus="9.1e-05">5.005425</period>
+			<mass errorminus="0.077" errorplus="0.105">2.171</mass>
+			<radius errorminus="0.16" errorplus="0.24">1.07</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>11/06/08</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

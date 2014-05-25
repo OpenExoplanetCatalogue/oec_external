@@ -13,13 +13,13 @@
 		<planet>
 			<name>HD 120084 b</name>
 			<semimajoraxis>4.3</semimajoraxis>
-			<periastron errorminus="12.0" errorplus="9.0">117.0</periastron>
+			<periastron errorminus="9.0" errorplus="12.0">117.0</periastron>
 			<eccentricity errorminus="0.1" errorplus="0.14">0.66</eccentricity>
-			<period errorminus="24.0" errorplus="35.0">2082.0</period>
+			<period errorminus="35.0" errorplus="24.0">2082.0</period>
 			<mass>4.5</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -10,13 +10,13 @@
 		<planet>
 			<name>GJ 160.2 b</name>
 			<semimajoraxis errorminus="0.007" errorplus="0.004">0.053</semimajoraxis>
-			<periastron>6.2</periastron>
+			<periastron>355.23</periastron>
 			<eccentricity errorminus="0.06" errorplus="0.2">0.06</eccentricity>
-			<period errorminus="5.2289" errorplus="5.2381">5.2354</period>
+			<period errorminus="0.0065" errorplus="0.0027">5.2354</period>
 			<mass errorminus="0.018557955" errorplus="0.022646996">0.0320926281345</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/05/22</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

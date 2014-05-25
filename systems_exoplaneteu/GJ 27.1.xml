@@ -10,13 +10,13 @@
 		<planet>
 			<name>GJ 27.1 b</name>
 			<semimajoraxis errorminus="0.013" errorplus="0.009">0.101</semimajoraxis>
-			<periastron>2.7</periastron>
+			<periastron>154.69</periastron>
 			<eccentricity errorminus="0.08" errorplus="0.16">0.08</eccentricity>
-			<period errorminus="15.793" errorplus="15.842">15.819</period>
+			<period errorminus="0.026" errorplus="0.049">15.819</period>
 			<mass errorminus="0.020759747" errorplus="0.012896206">0.0409023691911</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/05/22</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>

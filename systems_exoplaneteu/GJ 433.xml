@@ -11,14 +11,14 @@
 		<metallicity>-0.22</metallicity>
 		<planet>
 			<name>GJ 433 b</name>
-			<semimajoraxis>0.058</semimajoraxis>
-			<periastron errorminus="54.0" errorplus="54.0">-156.0</periastron>
-			<eccentricity errorminus="0.08" errorplus="0.08">0.08</eccentricity>
-			<period errorminus="0.0008" errorplus="0.0008">7.3709</period>
-			<mass>0.0182</mass>
+			<semimajoraxis errorminus="0.008" errorplus="0.004">0.06</semimajoraxis>
+			<periastron>309.39</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.16">0.05</eccentricity>
+			<period errorminus="0.0036" errorplus="0.0034">7.3697</period>
+			<mass errorminus="0.00597" errorplus="0.00629">0.01667</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>14/03/05</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 433 c</name>
@@ -29,7 +29,7 @@
 			<mass>0.14</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/03/05</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 	</star>
 </system>
