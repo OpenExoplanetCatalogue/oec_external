@@ -16,11 +16,11 @@
 			<eccentricity errorminus="0.12" errorplus="0.12">0.123</eccentricity>
 			<inclination errorminus="0.8" errorplus="2.3">85.5</inclination>
 			<period errorminus="4.8e-05" errorplus="4.8e-05">4.463129</period>
-			<mass errorminus="0.082" errorplus="0.052">0.493</mass>
+			<mass errorminus="0.052" errorplus="0.082">0.493</mass>
 			<radius errorminus="0.133" errorplus="0.271">1.284</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/25</lastupdate>
 		</planet>
 		<planet>
 			<name>HAT-P-46 c</name>
