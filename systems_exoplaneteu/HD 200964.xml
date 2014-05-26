@@ -14,24 +14,24 @@
 		<planet>
 			<name>HD 200964 b</name>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">1.601</semimajoraxis>
-			<periastron errorminus="111.9" errorplus="111.9">288.0</periastron>
-			<eccentricity errorminus="0.02" errorplus="0.02">0.04</eccentricity>
-			<period errorminus="1.4" errorplus="1.4">613.8</period>
-			<mass errorminus="-0.08" errorplus="0.14">1.85</mass>
+			<periastron errorminus="111.9" errorplus="47.0">288.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.04">0.04</eccentricity>
+			<period errorminus="1.4" errorplus="1.3">613.8</period>
+			<mass errorminus="0.08" errorplus="0.14">1.85</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>10/07/28</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 200964 c</name>
-			<semimajoraxis errorminus="0.005" errorplus="0.005">1.95</semimajoraxis>
-			<periastron errorminus="57.1" errorplus="57.1">182.6</periastron>
-			<eccentricity errorminus="0.017" errorplus="0.017">0.181</eccentricity>
-			<period errorminus="3.1" errorplus="3.1">825.0</period>
-			<mass errorminus="0.06" errorplus="0.12">0.9</mass>
+			<semimajoraxis errorminus="0.005" errorplus="0.008">1.95</semimajoraxis>
+			<periastron errorminus="57.1" errorplus="67.7">182.6</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.024">0.181</eccentricity>
+			<period errorminus="3.1" errorplus="5.1">825.0</period>
+			<mass errorminus="0.063" errorplus="0.123">0.895</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>10/07/28</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 		</planet>
 	</star>
 </system>

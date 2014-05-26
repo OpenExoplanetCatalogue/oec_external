@@ -25,15 +25,15 @@
 		</planet>
 		<planet>
 			<name>HD 38529 c</name>
-			<semimajoraxis errorminus="0.042" errorplus="0.042">3.695</semimajoraxis>
+			<semimajoraxis errorminus="0.043" errorplus="0.043">3.695</semimajoraxis>
 			<periastron errorminus="0.7" errorplus="0.7">22.52</periastron>
 			<eccentricity errorminus="0.003" errorplus="0.003">0.36</eccentricity>
 			<inclination errorminus="4.0" errorplus="4.0">48.3</inclination>
 			<period errorminus="0.4" errorplus="0.4">2134.76</period>
-			<mass errorminus="1.2" errorplus="1.5">17.7</mass>
+			<mass errorminus="1.4" errorplus="1.7">17.7</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
-			<lastupdate>10/03/02</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 		</planet>
 	</star>
 </system>

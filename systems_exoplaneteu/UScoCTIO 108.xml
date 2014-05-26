@@ -12,10 +12,10 @@
 		<planet>
 			<name>UScoCTIO 108 b</name>
 			<semimajoraxis>670.0</semimajoraxis>
-			<mass errorminus="2.0" errorplus="3.0">16.0</mass>
+			<mass errorminus="8.0" errorplus="2.0">14.0</mass>
 			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
-			<lastupdate>11/12/14</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 		</planet>
 	</star>
 </system>

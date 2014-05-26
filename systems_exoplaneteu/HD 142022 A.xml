@@ -14,14 +14,14 @@
 		<planet>
 			<name>HD 142022 A b</name>
 			<semimajoraxis errorminus="0.005" errorplus="0.005">3.03</semimajoraxis>
-			<periastron errorminus="10.0" errorplus="10.0">170.0</periastron>
-			<eccentricity errorminus="0.18" errorplus="0.18">0.53</eccentricity>
+			<periastron errorminus="10.0" errorplus="8.0">170.0</periastron>
+			<eccentricity errorminus="0.18" errorplus="0.23">0.53</eccentricity>
 			<inclination errorminus="6.0" errorplus="6.0">10.0</inclination>
-			<period errorminus="39.0" errorplus="39.0">1928.0</period>
-			<mass errorminus="1.3" errorplus="2.6">5.1</mass>
+			<period errorminus="39.0" errorplus="53.0">1928.0</period>
+			<mass errorminus="1.5" errorplus="2.6">5.1</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2005</discoveryyear>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 		</planet>
 	</star>
 </system>
