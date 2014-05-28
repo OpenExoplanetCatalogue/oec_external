@@ -33,21 +33,21 @@
 			<name>Kepler-89 d</name>
 			<semimajoraxis>0.165</semimajoraxis>
 			<period errorminus="1.1e-05" errorplus="1.1e-05">22.3430004</period>
-			<mass errorminus="0.022" errorplus="0.022">0.164</mass>
+			<mass errorminus="0.022" errorplus="0.021">0.164</mass>
 			<radius errorminus="0.095" errorplus="0.095">1.0</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/11/05</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-89 e</name>
 			<semimajoraxis>0.298</semimajoraxis>
 			<period errorminus="0.00012" errorplus="0.00012">54.319931</period>
-			<mass errorminus="0.008" errorplus="0.008">0.041</mass>
+			<mass errorminus="0.007" errorplus="0.008">0.041</mass>
 			<radius errorminus="0.05" errorplus="0.05">0.55</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/11/05</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -10,20 +10,20 @@
 		<planet>
 			<name>Kepler-58 b</name>
 			<period errorminus="0.00015" errorplus="0.00015">10.2184954</period>
-			<mass errorminus="0.025" errorplus="0.086">0.086</mass>
+			<mass errorminus="1.39" errorplus="0.0">1.39</mass>
 			<radius>0.25</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/01/17</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-58 c</name>
 			<period errorminus="0.0027" errorplus="0.0027">15.5741568</period>
-			<mass errorminus="0.04" errorplus="0.13">0.13</mass>
+			<mass errorminus="2.19" errorplus="0.0">2.19</mass>
 			<radius>0.26</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/01/17</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-58 d</name>

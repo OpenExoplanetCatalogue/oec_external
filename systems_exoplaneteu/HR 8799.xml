@@ -17,10 +17,10 @@
 			<inclination>28.0</inclination>
 			<period>164250.0</period>
 			<mass errorminus="2.0" errorplus="4.0">7.0</mass>
-			<radius errorminus="0.1" errorplus="0.1">1.1</radius>
+			<radius errorminus="0.1" errorplus="0.1">1.2</radius>
 			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
-			<lastupdate>13/08/30</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 		<planet>
 			<name>HR 8799 c</name>

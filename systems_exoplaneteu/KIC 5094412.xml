@@ -5,18 +5,19 @@
 	<star>
 		<name>KIC 5094412</name>
 		<radius>0.8</radius>
+		<mass>0.82</mass>
 		<temperature>5313.0</temperature>
 		<metallicity>-0.327</metallicity>
 		<planet>
 			<name>KIC 5094412 b</name>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.78</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.21" errorplus="0.73">89.74</inclination>
+			<inclination errorminus="0.73" errorplus="0.21">89.74</inclination>
 			<period errorminus="0.0319" errorplus="0.0258">276.88</period>
 			<radius errorminus="0.37" errorplus="0.37">0.51</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/10/25</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 	</star>
 </system>

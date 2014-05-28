@@ -18,10 +18,10 @@
 			<eccentricity errorminus="0.12" errorplus="0.12">0.53</eccentricity>
 			<inclination errorminus="3.7" errorplus="3.7">8.5</inclination>
 			<period errorminus="87.0" errorplus="87.0">2754.0</period>
-			<mass errorminus="10.0" errorplus="9.2">12.1</mass>
+			<mass errorminus="10.0" errorplus="9.3">12.1</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 	</star>
 </system>

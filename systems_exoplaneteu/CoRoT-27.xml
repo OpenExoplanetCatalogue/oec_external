@@ -14,13 +14,13 @@
 			<name>CoRoT-27 b</name>
 			<semimajoraxis errorminus="0.0066" errorplus="0.0066">0.0476</semimajoraxis>
 			<eccentricity errorminus="0.065" errorplus="0.0">0.065</eccentricity>
-			<inclination errorminus="1.2" errorplus="0.87">86.7</inclination>
+			<inclination errorminus="0.87" errorplus="1.2">86.7</inclination>
 			<period errorminus="6e-05" errorplus="6e-05">3.57532</period>
 			<mass errorminus="0.55" errorplus="0.55">10.39</mass>
 			<radius errorminus="0.044" errorplus="0.044">1.007</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/27</lastupdate>
 		</planet>
 	</star>
 </system>
