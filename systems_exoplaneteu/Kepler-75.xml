@@ -16,13 +16,13 @@
 			<semimajoraxis errorminus="0.05" errorplus="0.05">0.08</semimajoraxis>
 			<periastron errorminus="1.4" errorplus="1.4">63.6</periastron>
 			<eccentricity errorminus="0.01" errorplus="0.01">0.569</eccentricity>
-			<inclination errorminus="0.6" errorplus="1.0">89.1</inclination>
+			<inclination errorminus="1.0" errorplus="0.6">89.1</inclination>
 			<period errorminus="2e-06" errorplus="2e-06">8.884924</period>
 			<mass errorminus="0.5" errorplus="0.5">9.9</mass>
 			<radius errorminus="0.06" errorplus="0.06">1.03</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/09/24</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

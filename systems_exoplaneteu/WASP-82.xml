@@ -8,19 +8,19 @@
 		<radius>2.18</radius>
 		<mass>1.63</mass>
 		<spectraltype>F5</spectraltype>
-		<temperature>6490.0</temperature>
+		<temperature>6500.0</temperature>
 		<metallicity>0.12</metallicity>
 		<planet>
 			<name>WASP-82 b</name>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0447</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="1.4" errorplus="1.9">87.9</inclination>
+			<inclination errorminus="1.9" errorplus="1.4">87.9</inclination>
 			<period errorminus="3e-06" errorplus="3e-06">2.705782</period>
 			<mass errorminus="0.04" errorplus="0.04">1.24</mass>
-			<radius errorminus="0.07" errorplus="0.07">1.67</radius>
+			<radius errorminus="0.05" errorplus="0.07">1.67</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/10/22</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

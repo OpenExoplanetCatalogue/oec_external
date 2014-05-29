@@ -14,15 +14,15 @@
 		<planet>
 			<name>Kepler-39 b</name>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.155</semimajoraxis>
-			<periastron errorminus="5.9" errorplus="6.8">98.9</periastron>
-			<eccentricity errorminus="0.023" errorplus="0.023">0.121</eccentricity>
-			<inclination errorminus="0.59" errorplus="0.4">88.83</inclination>
-			<period errorminus="1.8e-05" errorplus="1.8e-05">21.087174</period>
-			<mass errorminus="0.9" errorplus="0.9">18.0</mass>
-			<radius errorminus="0.12" errorplus="0.12">1.22</radius>
+			<periastron errorminus="6.8" errorplus="5.9">98.9</periastron>
+			<eccentricity errorminus="0.023" errorplus="0.022">0.121</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.59">88.83</inclination>
+			<period errorminus="0.0002" errorplus="0.0002">21.0874</period>
+			<mass errorminus="0.91" errorplus="0.93">18.0</mass>
+			<radius errorminus="0.1" errorplus="0.12">1.22</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>13/09/24</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

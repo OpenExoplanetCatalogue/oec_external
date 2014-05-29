@@ -14,13 +14,13 @@
 			<name>WASP-95 b</name>
 			<semimajoraxis errorminus="0.00083" errorplus="0.00083">0.03416</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="1.2" errorplus="2.1">88.4</inclination>
+			<inclination errorminus="2.1" errorplus="1.2">88.4</inclination>
 			<period errorminus="1.4e-06" errorplus="1.4e-06">2.184673</period>
 			<mass errorminus="0.04" errorplus="0.1">1.13</mass>
 			<radius errorminus="0.06" errorplus="0.06">1.21</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/22</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

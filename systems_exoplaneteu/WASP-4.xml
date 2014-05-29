@@ -12,15 +12,15 @@
 		<metallicity>-0.03</metallicity>
 		<planet>
 			<name>WASP-4 b</name>
-			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0235</semimajoraxis>
+			<semimajoraxis errorminus="0.00033" errorplus="0.00033">0.02312</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.26" errorplus="0.39">88.52</inclination>
-			<period errorminus="1.6e-07" errorplus="1.6e-07">1.33823204</period>
+			<inclination errorminus="0.43" errorplus="0.61">88.8</inclination>
+			<period errorminus="2.5e-07" errorplus="2.5e-07">1.33823187</period>
 			<mass errorminus="0.062" errorplus="0.059">1.237</mass>
-			<radius errorminus="0.033" errorplus="0.033">1.357</radius>
+			<radius errorminus="0.022" errorplus="0.022">1.395</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
-			<lastupdate>14/05/26</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

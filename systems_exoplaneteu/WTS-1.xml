@@ -14,13 +14,13 @@
 			<name>WTS-1 b</name>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.047</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.0">0.1</eccentricity>
-			<inclination errorminus="1.0" errorplus="0.7">85.5</inclination>
+			<inclination errorminus="0.7" errorplus="1.0">85.5</inclination>
 			<period errorminus="1.4e-05" errorplus="1.4e-05">3.352059</period>
 			<mass errorminus="0.35" errorplus="0.35">4.01</mass>
 			<radius errorminus="0.18" errorplus="0.16">1.49</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

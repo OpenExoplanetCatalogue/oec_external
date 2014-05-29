@@ -13,15 +13,15 @@
 		<planet>
 			<name>Kepler-91 b</name>
 			<semimajoraxis errorminus="0.007" errorplus="0.002">0.072</semimajoraxis>
-			<periastron errorminus="21.0" errorplus="74.0">316.8</periastron>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="1.0" errorplus="1.6">68.5</inclination>
+			<periastron errorminus="74.0" errorplus="21.0">316.8</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.013">0.066</eccentricity>
+			<inclination errorminus="1.6" errorplus="1.0">68.5</inclination>
 			<period errorminus="8.2e-05" errorplus="8.2e-05">6.24658</period>
 			<mass errorminus="0.33" errorplus="0.17">0.88</mass>
 			<radius errorminus="0.054" errorplus="0.011">1.384</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/22</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>

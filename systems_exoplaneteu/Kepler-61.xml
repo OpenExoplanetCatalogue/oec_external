@@ -6,7 +6,7 @@
 		<name>Kepler-61</name>
 		<age>1.0</age>
 		<radius>0.62</radius>
-		<mass>0.635</mass>
+		<mass>0.62</mass>
 		<spectraltype>K7V</spectraltype>
 		<temperature>4017.0</temperature>
 		<metallicity>0.03</metallicity>
@@ -19,7 +19,7 @@
 			<radius errorminus="0.0116" errorplus="0.0116">0.192</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/05/22</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 		</planet>
 	</star>
 </system>
