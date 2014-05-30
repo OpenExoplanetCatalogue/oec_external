@@ -56,23 +56,23 @@
 			<lastupdate>2012 11 12</lastupdate>
 		</planet>
 		<planet>
-			<name>HD 40307 g</name>
-			<semimajoraxis errorminus="-0.033000" errorplus="0.034000">0.600000</semimajoraxis>
-			<eccentricity errorminus="-0.290000" errorplus="0.310000">0.290000</eccentricity>
-			<periastron>91.7000</periastron>
-			<period errorminus="-9.00000000" errorplus="5.70000000">197.80000000</period>
-			<mass errorminus="-0.00820" errorplus="0.00820">0.02230</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2012 11 12</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 40307 f</name>
 			<semimajoraxis errorminus="-0.014000" errorplus="0.011000">0.247000</semimajoraxis>
 			<eccentricity errorminus="-0.020000" errorplus="0.200000">0.020000</eccentricity>
 			<periastron>355.2000</periastron>
 			<period errorminus="-0.46000000" errorplus="0.50000000">51.76000000</period>
 			<mass errorminus="-0.00500" errorplus="0.00470">0.01640</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 40307 g</name>
+			<semimajoraxis errorminus="-0.033000" errorplus="0.034000">0.600000</semimajoraxis>
+			<eccentricity errorminus="-0.290000" errorplus="0.310000">0.290000</eccentricity>
+			<periastron>91.7000</periastron>
+			<period errorminus="-9.00000000" errorplus="5.70000000">197.80000000</period>
+			<mass errorminus="-0.00820" errorplus="0.00820">0.02230</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>2012 11 12</lastupdate>

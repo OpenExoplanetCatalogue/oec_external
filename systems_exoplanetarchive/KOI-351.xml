@@ -12,6 +12,28 @@
 		<temperature errorminus="260.00" errorplus="260.00">6080.00</temperature>
 		<metallicity>[M/H]</metallicity>
 		<planet>
+			<name>KOI-351 b</name>
+			<semimajoraxis errorminus="-0.016000" errorplus="0.016000">0.074000</semimajoraxis>
+			<inclination errorminus="-1.500" errorplus="1.500">89.400</inclination>
+			<period errorminus="-0.00001900" errorplus="0.00001900">7.00815100</period>
+			<radius errorminus="-0.015" errorplus="0.015">0.117</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.001700" errorplus="0.001700">2454970.690600</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 c</name>
+			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.089000</semimajoraxis>
+			<inclination errorminus="-0.740" errorplus="0.740">89.680</inclination>
+			<period errorminus="-0.00002700" errorplus="0.00002700">8.71937500</period>
+			<radius errorminus="-0.012" errorplus="0.012">0.106</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.002300" errorplus="0.002300">2454972.568700</transittime>
+		</planet>
+		<planet>
 			<name>KOI-351 d</name>
 			<semimajoraxis errorminus="-0.050000" errorplus="0.050000">0.320000</semimajoraxis>
 			<inclination errorminus="-0.290" errorplus="0.290">89.710</inclination>
@@ -65,28 +87,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 10 30</lastupdate>
 			<transittime errorminus="-0.000820" errorplus="0.000820">2454973.496310</transittime>
-		</planet>
-		<planet>
-			<name>KOI-351 b</name>
-			<semimajoraxis errorminus="-0.016000" errorplus="0.016000">0.074000</semimajoraxis>
-			<inclination errorminus="-1.500" errorplus="1.500">89.400</inclination>
-			<period errorminus="-0.00001900" errorplus="0.00001900">7.00815100</period>
-			<radius errorminus="-0.015" errorplus="0.015">0.117</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<lastupdate>2013 10 30</lastupdate>
-			<transittime errorminus="-0.001700" errorplus="0.001700">2454970.690600</transittime>
-		</planet>
-		<planet>
-			<name>KOI-351 c</name>
-			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.089000</semimajoraxis>
-			<inclination errorminus="-0.740" errorplus="0.740">89.680</inclination>
-			<period errorminus="-0.00002700" errorplus="0.00002700">8.71937500</period>
-			<radius errorminus="-0.012" errorplus="0.012">0.106</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<lastupdate>2013 10 30</lastupdate>
-			<transittime errorminus="-0.002300" errorplus="0.002300">2454972.568700</transittime>
 		</planet>
 	</star>
 </system>

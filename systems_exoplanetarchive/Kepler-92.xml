@@ -11,19 +11,19 @@
 		<mass errorminus="0.08" errorplus="0.08">1.21</mass>
 		<temperature>5883.00</temperature>
 		<planet>
-			<name>Kepler-92 b</name>
-			<period>13.74900000</period>
-			<mass errorminus="-0.04400" errorplus="0.04400">0.20200</mass>
-			<radius errorminus="-0.009" errorplus="0.009">0.313</radius>
+			<name>Kepler-92 c</name>
+			<period>26.72300000</period>
+			<mass errorminus="-0.00600" errorplus="0.00600">0.01900</mass>
+			<radius errorminus="-0.007" errorplus="0.007">0.232</radius>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 12 16</lastupdate>
 		</planet>
 		<planet>
-			<name>Kepler-92 c</name>
-			<period>26.72300000</period>
-			<mass errorminus="-0.00600" errorplus="0.00600">0.01900</mass>
-			<radius errorminus="-0.007" errorplus="0.007">0.232</radius>
+			<name>Kepler-92 b</name>
+			<period>13.74900000</period>
+			<mass errorminus="-0.04400" errorplus="0.04400">0.20200</mass>
+			<radius errorminus="-0.009" errorplus="0.009">0.313</radius>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 12 16</lastupdate>

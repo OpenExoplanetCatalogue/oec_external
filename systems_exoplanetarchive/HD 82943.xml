@@ -9,18 +9,6 @@
 		<magH errorminus="0.033" errorplus="0.033">5.245</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.105</magK>
 		<planet>
-			<name>HD 82943 b</name>
-			<semimajoraxis errorminus="-0.000620" errorplus="0.000620">1.183060</semimajoraxis>
-			<eccentricity errorminus="-0.036000" errorplus="0.036000">0.162000</eccentricity>
-			<periastron errorminus="-3.4000" errorplus="3.4000">300.9000</periastron>
-			<inclination>90.000</inclination>
-			<period errorminus="-0.35000000" errorplus="0.35000000">441.47000000</period>
-			<mass errorminus="-0.02800" errorplus="0.02800">1.68100</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2003</discoveryyear>
-			<lastupdate>2013 04 05</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 82943 c</name>
 			<semimajoraxis errorminus="-0.000120" errorplus="0.000120">0.743450</semimajoraxis>
 			<eccentricity errorminus="-0.009700" errorplus="0.009700">0.366300</eccentricity>
@@ -28,6 +16,18 @@
 			<inclination>90.000</inclination>
 			<period errorminus="-0.05100000" errorplus="0.05100000">220.07800000</period>
 			<mass errorminus="-0.04700" errorplus="0.04700">1.95900</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 82943 b</name>
+			<semimajoraxis errorminus="-0.000620" errorplus="0.000620">1.183060</semimajoraxis>
+			<eccentricity errorminus="-0.036000" errorplus="0.036000">0.162000</eccentricity>
+			<periastron errorminus="-3.4000" errorplus="3.4000">300.9000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.35000000" errorplus="0.35000000">441.47000000</period>
+			<mass errorminus="-0.02800" errorplus="0.02800">1.68100</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2003</discoveryyear>
 			<lastupdate>2013 04 05</lastupdate>

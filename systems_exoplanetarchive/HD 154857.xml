@@ -13,17 +13,6 @@
 		<temperature>5605.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>HD 154857 c</name>
-			<semimajoraxis errorminus="-0.090000" errorplus="0.090000">5.360000</semimajoraxis>
-			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.060000</eccentricity>
-			<periastron errorminus="-37.0000" errorplus="37.0000">352.0000</periastron>
-			<period errorminus="-105.00000000" errorplus="105.00000000">3452.00000000</period>
-			<mass errorminus="-0.16000" errorplus="0.16000">2.58000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 01 27</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 154857 b</name>
 			<semimajoraxis errorminus="-0.008000" errorplus="0.008000">1.291000</semimajoraxis>
 			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.460000</eccentricity>
@@ -32,6 +21,17 @@
 			<mass errorminus="-0.05000" errorplus="0.05000">2.24000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2014 01 27</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 154857 c</name>
+			<semimajoraxis errorminus="-0.090000" errorplus="0.090000">5.360000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.060000</eccentricity>
+			<periastron errorminus="-37.0000" errorplus="37.0000">352.0000</periastron>
+			<period errorminus="-105.00000000" errorplus="105.00000000">3452.00000000</period>
+			<mass errorminus="-0.16000" errorplus="0.16000">2.58000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 01 27</lastupdate>
 		</planet>
 	</star>

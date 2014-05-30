@@ -29,14 +29,6 @@
 			<lastupdate>2013 04 08</lastupdate>
 		</planet>
 		<planet>
-			<name>HR 8799 e</name>
-			<semimajoraxis errorminus="-0.500000" errorplus="0.500000">14.500000</semimajoraxis>
-			<period>18000.00000000</period>
-			<discoverymethod>Imaging</discoverymethod>
-			<discoveryyear>2010</discoveryyear>
-			<lastupdate>2013 04 08</lastupdate>
-		</planet>
-		<planet>
 			<name>HR 8799 d</name>
 			<semimajoraxis>24.000000</semimajoraxis>
 			<period>37000.00000000</period>
@@ -44,6 +36,14 @@
 			<radius errorminus="0.000" errorplus="0.100">1.200</radius>
 			<discoverymethod>Imaging</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HR 8799 e</name>
+			<semimajoraxis errorminus="-0.500000" errorplus="0.500000">14.500000</semimajoraxis>
+			<period>18000.00000000</period>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
 			<lastupdate>2013 04 08</lastupdate>
 		</planet>
 	</star>

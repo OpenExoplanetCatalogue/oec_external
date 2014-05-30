@@ -12,16 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">3591.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-369 b</name>
-			<semimajoraxis>0.030000</semimajoraxis>
-			<period errorminus="-0.00000900" errorplus="0.00000900">2.73275600</period>
-			<radius errorminus="-0.005" errorplus="0.005">0.101</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001510" errorplus="0.001510">2455187.095550</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-369 c</name>
 			<semimajoraxis>0.094000</semimajoraxis>
 			<period errorminus="-0.00008300" errorplus="0.00008300">14.87157200</period>
@@ -30,6 +20,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.003670" errorplus="0.003670">2454970.691140</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-369 b</name>
+			<semimajoraxis>0.030000</semimajoraxis>
+			<period errorminus="-0.00000900" errorplus="0.00000900">2.73275600</period>
+			<radius errorminus="-0.005" errorplus="0.005">0.101</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001510" errorplus="0.001510">2455187.095550</transittime>
 		</planet>
 	</star>
 </system>

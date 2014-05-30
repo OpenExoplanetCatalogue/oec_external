@@ -25,23 +25,23 @@
 			<lastupdate>2013 02 25</lastupdate>
 		</planet>
 		<planet>
-			<name>61 Vir d</name>
-			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.476000</semimajoraxis>
-			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.350000</eccentricity>
-			<periastron errorminus="-20.0000" errorplus="20.0000">314.0000</periastron>
-			<period errorminus="-0.55000000" errorplus="0.55000000">123.01000000</period>
-			<mass errorminus="-0.00800" errorplus="0.00800">0.07200</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2009</discoveryyear>
-			<lastupdate>2013 02 25</lastupdate>
-		</planet>
-		<planet>
 			<name>61 Vir c</name>
 			<semimajoraxis errorminus="-0.000100" errorplus="0.000100">0.217500</semimajoraxis>
 			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.140000</eccentricity>
 			<periastron errorminus="-38.0000" errorplus="38.0000">341.0000</periastron>
 			<period errorminus="-0.03400000" errorplus="0.03400000">38.02100000</period>
 			<mass errorminus="-0.00300" errorplus="0.00300">0.05700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>61 Vir d</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.476000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.350000</eccentricity>
+			<periastron errorminus="-20.0000" errorplus="20.0000">314.0000</periastron>
+			<period errorminus="-0.55000000" errorplus="0.55000000">123.01000000</period>
+			<mass errorminus="-0.00800" errorplus="0.00800">0.07200</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>

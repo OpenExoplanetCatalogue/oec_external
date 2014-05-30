@@ -9,23 +9,23 @@
 		<magH errorminus="0.024" errorplus="0.024">6.893</magH>
 		<magK errorminus="0.022" errorplus="0.022">6.851</magK>
 		<planet>
-			<name>HD 9446 c</name>
-			<semimajoraxis errorminus="-0.022000" errorplus="0.022000">0.654000</semimajoraxis>
-			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.060000</eccentricity>
-			<periastron errorminus="-130.0000" errorplus="130.0000">-260.0000</periastron>
-			<period errorminus="-0.90000000" errorplus="0.90000000">192.90000000</period>
-			<mass errorminus="-0.17000" errorplus="0.17000">1.82000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2009</discoveryyear>
-			<lastupdate>2013 04 08</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 9446 b</name>
 			<semimajoraxis errorminus="-0.006000" errorplus="0.006000">0.189000</semimajoraxis>
 			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.200000</eccentricity>
 			<periastron errorminus="-30.0000" errorplus="30.0000">-145.0000</periastron>
 			<period errorminus="-0.02700000" errorplus="0.02700000">30.05200000</period>
 			<mass errorminus="-0.06000" errorplus="0.06000">0.70000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 9446 c</name>
+			<semimajoraxis errorminus="-0.022000" errorplus="0.022000">0.654000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.060000</eccentricity>
+			<periastron errorminus="-130.0000" errorplus="130.0000">-260.0000</periastron>
+			<period errorminus="-0.90000000" errorplus="0.90000000">192.90000000</period>
+			<mass errorminus="-0.17000" errorplus="0.17000">1.82000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 04 08</lastupdate>

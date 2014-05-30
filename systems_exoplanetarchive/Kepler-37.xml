@@ -44,5 +44,12 @@
 			<lastupdate>2014 01 04</lastupdate>
 			<transittime errorminus="-0.000490" errorplus="0.000430">2455008.249790</transittime>
 		</planet>
+		<planet>
+			<name>Kepler-37 e</name>
+			<period>51.19600000</period>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 28</lastupdate>
+		</planet>
 	</star>
 </system>

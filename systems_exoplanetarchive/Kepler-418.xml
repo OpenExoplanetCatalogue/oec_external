@@ -1,0 +1,28 @@
+<system>
+	<name>Kepler-418</name>
+	<rightascension>19 37 44</rightascension>
+	<declination>+38 21 20</declination>
+	<star>
+		<name>Kepler-418</name>
+		<radius errorminus="0.14" errorplus="0.14">1.09</radius>
+		<magJ errorminus="0.024" errorplus="0.024">13.493</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.243</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.103</magK>
+		<mass errorminus="0.08" errorplus="0.08">0.98</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5820.00</temperature>
+		<metallicity>[M/H]</metallicity>
+		<planet>
+			<name>Kepler-418 b</name>
+			<eccentricity errorminus="-0.110000" errorplus="0.110000">0.200000</eccentricity>
+			<periastron errorminus="-0.4100" errorplus="0.4100">4.3500</periastron>
+			<inclination errorminus="-0.041" errorplus="0.041">89.952</inclination>
+			<period errorminus="-0.00007000" errorplus="0.00007000">86.67856000</period>
+			<mass>1.10000</mass>
+			<radius errorminus="-0.160" errorplus="0.160">1.200</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 28</lastupdate>
+			<transittime errorminus="-0.000660" errorplus="0.000660">2455008.597500</transittime>
+		</planet>
+	</star>
+</system>

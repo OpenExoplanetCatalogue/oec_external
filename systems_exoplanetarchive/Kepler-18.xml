@@ -12,18 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5345.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-18 b</name>
-			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.044700</semimajoraxis>
-			<eccentricity>0.000000</eccentricity>
-			<period errorminus="-0.00002800" errorplus="0.00002800">3.50472500</period>
-			<mass errorminus="-0.01100" errorplus="0.01100">0.02200</mass>
-			<radius errorminus="-0.009" errorplus="0.009">0.178</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2011</discoveryyear>
-			<lastupdate>2012 11 06</lastupdate>
-			<transittime errorminus="-0.002100" errorplus="0.002100">2454966.506800</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-18 c</name>
 			<semimajoraxis errorminus="-0.001100" errorplus="0.001100">0.075200</semimajoraxis>
 			<eccentricity>0.000000</eccentricity>
@@ -48,6 +36,18 @@
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>2012 11 06</lastupdate>
 			<transittime errorminus="-0.001300" errorplus="0.001300">2455169.177600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-18 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.044700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<period errorminus="-0.00002800" errorplus="0.00002800">3.50472500</period>
+			<mass errorminus="-0.01100" errorplus="0.01100">0.02200</mass>
+			<radius errorminus="-0.009" errorplus="0.009">0.178</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 11 06</lastupdate>
+			<transittime errorminus="-0.002100" errorplus="0.002100">2454966.506800</transittime>
 		</planet>
 	</star>
 </system>

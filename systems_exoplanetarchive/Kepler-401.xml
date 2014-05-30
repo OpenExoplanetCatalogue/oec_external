@@ -11,16 +11,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">6117.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-401 c</name>
-			<semimajoraxis>0.269000</semimajoraxis>
-			<period errorminus="-0.00069500" errorplus="0.00069500">47.31821800</period>
-			<radius errorminus="-0.036" errorplus="0.036">0.192</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.008970" errorplus="0.008970">2455003.060410</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-401 b</name>
 			<semimajoraxis>0.122000</semimajoraxis>
 			<period errorminus="-0.00021100" errorplus="0.00021100">14.38303500</period>
@@ -29,6 +19,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.010060" errorplus="0.010060">2454973.559680</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-401 c</name>
+			<semimajoraxis>0.269000</semimajoraxis>
+			<period errorminus="-0.00069500" errorplus="0.00069500">47.31821800</period>
+			<radius errorminus="-0.036" errorplus="0.036">0.192</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.008970" errorplus="0.008970">2455003.060410</transittime>
 		</planet>
 	</star>
 </system>

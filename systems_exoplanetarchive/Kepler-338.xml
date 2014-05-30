@@ -41,5 +41,14 @@
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.004800" errorplus="0.004800">2454976.541980</transittime>
 		</planet>
+		<planet>
+			<name>Kepler-338 e</name>
+			<period>9.34100000</period>
+			<mass errorminus="-0.02000" errorplus="0.02300">0.02700</mass>
+			<radius errorminus="-0.006" errorplus="0.006">0.139</radius>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 28</lastupdate>
+		</planet>
 	</star>
 </system>

@@ -11,6 +11,26 @@
 		<temperature errorminus="100.00" errorplus="100.00">4249.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-296 b</name>
+			<semimajoraxis>0.039000</semimajoraxis>
+			<period errorminus="-0.00004000" errorplus="0.00004000">3.62145700</period>
+			<radius errorminus="-0.006" errorplus="0.006">0.084</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005060" errorplus="0.005060">2454967.753600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-296 c</name>
+			<semimajoraxis>0.054000</semimajoraxis>
+			<period errorminus="-0.00001500" errorplus="0.00001500">5.84164800</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.192</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001410" errorplus="0.001410">2454968.921270</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-296 d</name>
 			<semimajoraxis>0.122000</semimajoraxis>
 			<period errorminus="-0.00009700" errorplus="0.00009700">19.85024200</period>
@@ -39,26 +59,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.010430" errorplus="0.010430">2454995.611610</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-296 b</name>
-			<semimajoraxis>0.039000</semimajoraxis>
-			<period errorminus="-0.00004000" errorplus="0.00004000">3.62145700</period>
-			<radius errorminus="-0.006" errorplus="0.006">0.084</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.005060" errorplus="0.005060">2454967.753600</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-296 c</name>
-			<semimajoraxis>0.054000</semimajoraxis>
-			<period errorminus="-0.00001500" errorplus="0.00001500">5.84164800</period>
-			<radius errorminus="-0.009" errorplus="0.009">0.192</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001410" errorplus="0.001410">2454968.921270</transittime>
 		</planet>
 	</star>
 </system>

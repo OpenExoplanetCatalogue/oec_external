@@ -12,16 +12,6 @@
 		<temperature errorminus="125.00" errorplus="125.00">6108.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-364 c</name>
-			<semimajoraxis>0.312000</semimajoraxis>
-			<period errorminus="-0.00087900" errorplus="0.00087900">59.98062700</period>
-			<radius errorminus="-0.037" errorplus="0.037">0.192</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.006970" errorplus="0.006970">2455009.150250</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-364 b</name>
 			<semimajoraxis>0.178000</semimajoraxis>
 			<period errorminus="-0.00054800" errorplus="0.00054800">25.74571800</period>
@@ -30,6 +20,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.013210" errorplus="0.013210">2454968.950580</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-364 c</name>
+			<semimajoraxis>0.312000</semimajoraxis>
+			<period errorminus="-0.00087900" errorplus="0.00087900">59.98062700</period>
+			<radius errorminus="-0.037" errorplus="0.037">0.192</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.006970" errorplus="0.006970">2455009.150250</transittime>
 		</planet>
 	</star>
 </system>

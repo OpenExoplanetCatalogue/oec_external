@@ -12,17 +12,6 @@
 		<temperature errorminus="90.00" errorplus="90.00">5653.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>HAT-P-13 c</name>
-			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">1.258000</semimajoraxis>
-			<eccentricity errorminus="-0.002100" errorplus="0.002100">0.655100</eccentricity>
-			<periastron errorminus="-0.2200" errorplus="0.2200">175.4000</periastron>
-			<period errorminus="-0.11000000" errorplus="0.11000000">445.82000000</period>
-			<mass errorminus="-0.48000" errorplus="0.46000">14.61000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2009</discoveryyear>
-			<lastupdate>2013 02 26</lastupdate>
-		</planet>
-		<planet>
 			<name>HAT-P-13 b</name>
 			<semimajoraxis errorminus="-0.001200" errorplus="0.000600">0.042700</semimajoraxis>
 			<eccentricity errorminus="-0.009000" errorplus="0.009000">0.021000</eccentricity>
@@ -36,6 +25,17 @@
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 02 26</lastupdate>
 			<transittime errorminus="-0.000380" errorplus="0.000380">2454779.929790</transittime>
+		</planet>
+		<planet>
+			<name>HAT-P-13 c</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">1.258000</semimajoraxis>
+			<eccentricity errorminus="-0.002100" errorplus="0.002100">0.655100</eccentricity>
+			<periastron errorminus="-0.2200" errorplus="0.2200">175.4000</periastron>
+			<period errorminus="-0.11000000" errorplus="0.11000000">445.82000000</period>
+			<mass errorminus="-0.48000" errorplus="0.46000">14.61000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 26</lastupdate>
 		</planet>
 	</star>
 </system>
