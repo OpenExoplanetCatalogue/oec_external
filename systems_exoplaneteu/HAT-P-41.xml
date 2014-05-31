@@ -2,12 +2,12 @@
 	<name>HAT-P-41</name>
 	<rightascension>19 49 17</rightascension>
 	<declination>+04 40 21</declination>
-	<distance>311.0</distance>
+	<distance>344.0</distance>
 	<star>
 		<name>HAT-P-41</name>
-		<age>1.5</age>
-		<radius>1.525</radius>
-		<mass>1.405</mass>
+		<age>2.2</age>
+		<radius>1.683</radius>
+		<mass>1.418</mass>
 		<temperature>6390.0</temperature>
 		<metallicity>0.21</metallicity>
 		<planet>

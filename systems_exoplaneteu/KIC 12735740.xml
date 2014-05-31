@@ -7,7 +7,7 @@
 		<radius>1.0</radius>
 		<mass>0.94</mass>
 		<temperature>5629.0</temperature>
-		<metallicity>-0.079</metallicity>
+		<metallicity>-0.078</metallicity>
 		<planet>
 			<name>Kepler-86 b</name>
 			<semimajoraxis errorminus="0.009" errorplus="0.009">0.828</semimajoraxis>

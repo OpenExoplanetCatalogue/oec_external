@@ -6,7 +6,7 @@
 		<name>Kepler-61</name>
 		<age>1.0</age>
 		<radius>0.62</radius>
-		<mass>0.62</mass>
+		<mass>0.635</mass>
 		<spectraltype>K7V</spectraltype>
 		<temperature>4017.0</temperature>
 		<metallicity>0.03</metallicity>

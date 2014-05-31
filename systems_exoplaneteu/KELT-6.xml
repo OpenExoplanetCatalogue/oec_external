@@ -5,10 +5,10 @@
 	<star>
 		<name>KELT-6</name>
 		<radius>1.58</radius>
-		<mass>1.2</mass>
+		<mass>1.085</mass>
 		<spectraltype>F</spectraltype>
 		<temperature>6102.0</temperature>
-		<metallicity>-0.28</metallicity>
+		<metallicity>-0.281</metallicity>
 		<planet>
 			<name>KELT-6 b</name>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.079</semimajoraxis>
