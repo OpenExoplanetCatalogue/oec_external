@@ -12,15 +12,6 @@
 		<temperature errorminus="137.00" errorplus="137.00">6050.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-122 f</name>
-			<period>56.26800000</period>
-			<mass errorminus="-0.05100" errorplus="0.06100">0.11300</mass>
-			<radius errorminus="-0.014" errorplus="0.054">0.156</radius>
-			<discoverymethod>Transit Timing Variations</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 05 28</lastupdate>
-		</planet>
-		<planet>
 			<name>Kepler-122 b</name>
 			<semimajoraxis>0.064000</semimajoraxis>
 			<period errorminus="-0.00001600" errorplus="0.00001600">5.76619300</period>
@@ -59,6 +50,15 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.005790" errorplus="0.005790">2454996.015530</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-122 f</name>
+			<period>56.26800000</period>
+			<mass errorminus="-0.05100" errorplus="0.06100">0.11300</mass>
+			<radius errorminus="-0.014" errorplus="0.054">0.156</radius>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 28</lastupdate>
 		</planet>
 	</star>
 </system>

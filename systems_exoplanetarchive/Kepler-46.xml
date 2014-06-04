@@ -12,6 +12,20 @@
 		<temperature errorminus="200.00" errorplus="200.00">5309.00</temperature>
 		<metallicity>[M/H]</metallicity>
 		<planet>
+			<name>Kepler-46 b</name>
+			<semimajoraxis errorminus="-0.002800" errorplus="0.002900">0.196800</semimajoraxis>
+			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.010000</eccentricity>
+			<inclination errorminus="-0.067" errorplus="0.075">89.038</inclination>
+			<period errorminus="-0.00020000" errorplus="0.00021000">33.60134000</period>
+			<mass>6.00000</mass>
+			<radius errorminus="-0.043" errorplus="0.042">0.808</radius>
+			<temperature errorminus="-16" errorplus="16">543</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 12 11</lastupdate>
+			<transittime errorminus="-0.001400" errorplus="0.001300">2455053.282600</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-46 c</name>
 			<semimajoraxis errorminus="-0.004000" errorplus="0.004100">0.279900</semimajoraxis>
 			<eccentricity errorminus="-0.003600" errorplus="0.003400">0.014600</eccentricity>
@@ -33,20 +47,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.001920" errorplus="0.001920">2454971.058910</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-46 b</name>
-			<semimajoraxis errorminus="-0.002800" errorplus="0.002900">0.196800</semimajoraxis>
-			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.010000</eccentricity>
-			<inclination errorminus="-0.067" errorplus="0.075">89.038</inclination>
-			<period errorminus="-0.00020000" errorplus="0.00021000">33.60134000</period>
-			<mass>6.00000</mass>
-			<radius errorminus="-0.043" errorplus="0.042">0.808</radius>
-			<temperature errorminus="-16" errorplus="16">543</temperature>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2012 12 11</lastupdate>
-			<transittime errorminus="-0.001400" errorplus="0.001300">2455053.282600</transittime>
 		</planet>
 	</star>
 </system>

@@ -9,17 +9,6 @@
 		<magH errorminus="0.022" errorplus="0.022">4.778</magH>
 		<magK errorminus="0.024" errorplus="0.024">4.688</magK>
 		<planet>
-			<name>HD 169830 c</name>
-			<semimajoraxis>3.600000</semimajoraxis>
-			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.330000</eccentricity>
-			<periastron errorminus="-8.0000" errorplus="8.0000">252.0000</periastron>
-			<period errorminus="-264.00000000" errorplus="264.00000000">2102.00000000</period>
-			<mass>4.04000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2003</discoveryyear>
-			<lastupdate>2013 03 12</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 169830 b</name>
 			<semimajoraxis>0.810000</semimajoraxis>
 			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.310000</eccentricity>
@@ -28,6 +17,17 @@
 			<mass>2.88000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 169830 c</name>
+			<semimajoraxis>3.600000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.330000</eccentricity>
+			<periastron errorminus="-8.0000" errorplus="8.0000">252.0000</periastron>
+			<period errorminus="-264.00000000" errorplus="264.00000000">2102.00000000</period>
+			<mass>4.04000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>
 		</planet>
 	</star>

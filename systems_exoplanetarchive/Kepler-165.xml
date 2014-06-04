@@ -11,16 +11,6 @@
 		<temperature errorminus="200.00" errorplus="200.00">5211.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-165 c</name>
-			<semimajoraxis>0.110000</semimajoraxis>
-			<period errorminus="-0.00005700" errorplus="0.00005700">15.31299000</period>
-			<radius errorminus="-0.120" errorplus="0.120">0.199</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001920" errorplus="0.001920">2455004.791960</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-165 b</name>
 			<semimajoraxis>0.072000</semimajoraxis>
 			<period errorminus="-0.00002600" errorplus="0.00002600">8.18084800</period>
@@ -29,6 +19,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.001760" errorplus="0.001760">2455009.701130</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-165 c</name>
+			<semimajoraxis>0.110000</semimajoraxis>
+			<period errorminus="-0.00005700" errorplus="0.00005700">15.31299000</period>
+			<radius errorminus="-0.120" errorplus="0.120">0.199</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001920" errorplus="0.001920">2455004.791960</transittime>
 		</planet>
 	</star>
 </system>

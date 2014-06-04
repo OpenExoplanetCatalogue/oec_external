@@ -9,17 +9,6 @@
 		<magH errorminus="0.031" errorplus="0.031">5.303</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.142</magK>
 		<planet>
-			<name>HD 128311 c</name>
-			<semimajoraxis errorminus="-0.017000" errorplus="0.017000">1.745000</semimajoraxis>
-			<eccentricity errorminus="-0.058000" errorplus="0.058000">0.230000</eccentricity>
-			<periastron errorminus="-15.0000" errorplus="15.0000">28.0000</periastron>
-			<period errorminus="-5.30000000" errorplus="5.30000000">923.80000000</period>
-			<mass errorminus="-0.10000" errorplus="0.10000">3.24000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2005</discoveryyear>
-			<lastupdate>2013 03 11</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 128311 b</name>
 			<semimajoraxis errorminus="-0.008000" errorplus="0.008000">1.086000</semimajoraxis>
 			<eccentricity errorminus="-0.049000" errorplus="0.049000">0.345000</eccentricity>
@@ -29,6 +18,17 @@
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
 			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 128311 c</name>
+			<semimajoraxis errorminus="-0.017000" errorplus="0.017000">1.745000</semimajoraxis>
+			<eccentricity errorminus="-0.058000" errorplus="0.058000">0.230000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">28.0000</periastron>
+			<period errorminus="-5.30000000" errorplus="5.30000000">923.80000000</period>
+			<mass errorminus="-0.10000" errorplus="0.10000">3.24000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
 		</planet>
 	</star>
 </system>

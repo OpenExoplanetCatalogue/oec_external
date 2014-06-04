@@ -9,17 +9,6 @@
 		<magH errorminus="0.076" errorplus="0.076">4.765</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.536</magK>
 		<planet>
-			<name>HD 217107 b</name>
-			<semimajoraxis errorminus="-0.004300" errorplus="0.004300">0.074800</semimajoraxis>
-			<eccentricity errorminus="-0.005200" errorplus="0.005200">0.126700</eccentricity>
-			<periastron errorminus="-3.0000" errorplus="3.0000">24.4000</periastron>
-			<period errorminus="-0.00003900" errorplus="0.00003900">7.12681600</period>
-			<mass errorminus="-0.11000" errorplus="0.11000">1.39000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>1998</discoveryyear>
-			<lastupdate>2013 04 02</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 217107 c</name>
 			<semimajoraxis errorminus="-0.380000" errorplus="0.380000">5.320000</semimajoraxis>
 			<eccentricity errorminus="-0.033000" errorplus="0.033000">0.517000</eccentricity>
@@ -28,6 +17,17 @@
 			<mass errorminus="-0.15000" errorplus="0.15000">2.60000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 217107 b</name>
+			<semimajoraxis errorminus="-0.004300" errorplus="0.004300">0.074800</semimajoraxis>
+			<eccentricity errorminus="-0.005200" errorplus="0.005200">0.126700</eccentricity>
+			<periastron errorminus="-3.0000" errorplus="3.0000">24.4000</periastron>
+			<period errorminus="-0.00003900" errorplus="0.00003900">7.12681600</period>
+			<mass errorminus="-0.11000" errorplus="0.11000">1.39000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
 			<lastupdate>2013 04 02</lastupdate>
 		</planet>
 	</star>

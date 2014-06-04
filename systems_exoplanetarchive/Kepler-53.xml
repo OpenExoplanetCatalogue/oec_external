@@ -12,6 +12,16 @@
 		<temperature errorminus="200.00" errorplus="200.00">6085.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-53 b</name>
+			<period errorminus="-0.00016000" errorplus="0.00016000">18.64895250</period>
+			<mass>18.41000</mass>
+			<radius>0.258</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.002900" errorplus="0.002900">2455007.776080</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-53 c</name>
 			<period errorminus="-0.00041000" errorplus="0.00041000">38.55830380</period>
 			<radius>0.283</radius>
@@ -29,16 +39,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.004300" errorplus="0.004300">2454971.785200</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-53 b</name>
-			<period errorminus="-0.00016000" errorplus="0.00016000">18.64895250</period>
-			<mass>18.41000</mass>
-			<radius>0.258</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2013 10 07</lastupdate>
-			<transittime errorminus="-0.002900" errorplus="0.002900">2455007.776080</transittime>
 		</planet>
 	</star>
 </system>
