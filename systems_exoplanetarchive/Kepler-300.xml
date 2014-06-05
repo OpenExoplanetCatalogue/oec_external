@@ -12,16 +12,6 @@
 		<temperature errorminus="200.00" errorplus="200.00">5986.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-300 b</name>
-			<semimajoraxis>0.094000</semimajoraxis>
-			<period errorminus="-0.00004300" errorplus="0.00004300">10.44634700</period>
-			<radius errorminus="-0.068" errorplus="0.068">0.149</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.002250" errorplus="0.002250">2454966.278030</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-300 c</name>
 			<semimajoraxis>0.232000</semimajoraxis>
 			<period errorminus="-0.00024500" errorplus="0.00024500">40.71495500</period>
@@ -30,6 +20,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.003430" errorplus="0.003430">2454979.564430</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-300 b</name>
+			<semimajoraxis>0.094000</semimajoraxis>
+			<period errorminus="-0.00004300" errorplus="0.00004300">10.44634700</period>
+			<radius errorminus="-0.068" errorplus="0.068">0.149</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002250" errorplus="0.002250">2454966.278030</transittime>
 		</planet>
 	</star>
 </system>

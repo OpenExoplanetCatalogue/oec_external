@@ -10,13 +10,14 @@
 		<metallicity>-0.14</metallicity>
 		<planet>
 			<name>Kepler-13 b</name>
+			<longitude errorminus="2.0" errorplus="2.0">58.6</longitude>
 			<period errorminus="0.0013" errorplus="0.0013">1.7637</period>
 			<mass errorminus="1.5" errorplus="1.5">6.5</mass>
 			<radius errorminus="0.038" errorplus="0.038">1.406</radius>
 			<temperature>2750.0</temperature>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>14/03/28</lastupdate>
+			<lastupdate>14/06/04</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -1,0 +1,36 @@
+<system>
+	<name>Kapteyn's</name>
+	<rightascension>05 11 41</rightascension>
+	<declination>-45 58 54</declination>
+	<distance>3.91</distance>
+	<star>
+		<name>Kapteyn's</name>
+		<age>8.0</age>
+		<radius>0.29</radius>
+		<mass>0.281</mass>
+		<spectraltype>dM1</spectraltype>
+		<temperature>3550.0</temperature>
+		<metallicity>-0.86</metallicity>
+		<planet>
+			<name>Kapteyn's b</name>
+			<semimajoraxis errorminus="0.008" errorplus="0.008">0.168</semimajoraxis>
+			<periastron errorminus="30.0" errorplus="30.0">80.4</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.21</eccentricity>
+			<period errorminus="0.036" errorplus="0.036">48.616</period>
+			<mass errorminus="0.00314633609162131" errorplus="0.00314633609162131">0.0151024132398</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/06/04</lastupdate>
+		</planet>
+		<planet>
+			<name>Kapteyn's c</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.014">0.311</semimajoraxis>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.23</eccentricity>
+			<period errorminus="0.25" errorplus="0.25">121.54</period>
+			<mass errorminus="0.00377560330994557" errorplus="0.00377560330994557">0.0220243526413</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/06/04</lastupdate>
+		</planet>
+	</star>
+</system>

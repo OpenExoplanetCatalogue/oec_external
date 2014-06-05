@@ -12,6 +12,16 @@
 		<temperature errorminus="200.00" errorplus="200.00">5036.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-357 d</name>
+			<semimajoraxis>0.246000</semimajoraxis>
+			<period errorminus="-0.00046000" errorplus="0.00046000">49.49987500</period>
+			<radius errorminus="-0.182" errorplus="0.182">0.306</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005380" errorplus="0.005380">2454972.049460</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-357 b</name>
 			<semimajoraxis>0.063000</semimajoraxis>
 			<period errorminus="-0.00003400" errorplus="0.00003400">6.47543400</period>
@@ -30,16 +40,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.002990" errorplus="0.002990">2454975.342640</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-357 d</name>
-			<semimajoraxis>0.246000</semimajoraxis>
-			<period errorminus="-0.00046000" errorplus="0.00046000">49.49987500</period>
-			<radius errorminus="-0.182" errorplus="0.182">0.306</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.005380" errorplus="0.005380">2454972.049460</transittime>
 		</planet>
 	</star>
 </system>
