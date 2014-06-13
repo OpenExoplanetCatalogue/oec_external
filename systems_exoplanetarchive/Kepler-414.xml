@@ -16,7 +16,7 @@
 			<radius errorminus="-0.012" errorplus="0.028">0.153</radius>
 			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 05 28</lastupdate>
+			<lastupdate>2014 05 27</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-414 c</name>
@@ -25,7 +25,7 @@
 			<radius errorminus="-0.022" errorplus="0.048">0.269</radius>
 			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 05 28</lastupdate>
+			<lastupdate>2014 05 27</lastupdate>
 		</planet>
 	</star>
 </system>

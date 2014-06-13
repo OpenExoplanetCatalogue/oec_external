@@ -12,6 +12,26 @@
 		<temperature errorminus="80.00" errorplus="80.00">3793.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-32 e</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.032300</semimajoraxis>
+			<period errorminus="-0.00030000" errorplus="0.00030000">2.89600000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.134</radius>
+			<temperature>680</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-32 f</name>
+			<semimajoraxis errorminus="-0.000200" errorplus="0.000200">0.013000</semimajoraxis>
+			<period errorminus="-0.00007000" errorplus="0.00007000">0.74296000</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.072</radius>
+			<temperature>1100</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+		<planet>
 			<name>Kepler-32 b</name>
 			<semimajoraxis>0.050000</semimajoraxis>
 			<period errorminus="-0.00010000" errorplus="0.00010000">5.90124000</period>
@@ -39,26 +59,6 @@
 			<period errorminus="-0.00050000" errorplus="0.00050000">22.78020000</period>
 			<radius errorminus="-0.009" errorplus="0.009">0.241</radius>
 			<temperature>340</temperature>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2013 01 15</lastupdate>
-		</planet>
-		<planet>
-			<name>Kepler-32 e</name>
-			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.032300</semimajoraxis>
-			<period errorminus="-0.00030000" errorplus="0.00030000">2.89600000</period>
-			<radius errorminus="-0.009" errorplus="0.009">0.134</radius>
-			<temperature>680</temperature>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2013 01 15</lastupdate>
-		</planet>
-		<planet>
-			<name>Kepler-32 f</name>
-			<semimajoraxis errorminus="-0.000200" errorplus="0.000200">0.013000</semimajoraxis>
-			<period errorminus="-0.00007000" errorplus="0.00007000">0.74296000</period>
-			<radius errorminus="-0.004" errorplus="0.004">0.072</radius>
-			<temperature>1100</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>2013 01 15</lastupdate>

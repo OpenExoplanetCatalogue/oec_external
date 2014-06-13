@@ -58,7 +58,7 @@
 			<radius errorminus="-0.014" errorplus="0.054">0.156</radius>
 			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 05 28</lastupdate>
+			<lastupdate>2014 05 27</lastupdate>
 		</planet>
 	</star>
 </system>

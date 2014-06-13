@@ -11,16 +11,6 @@
 		<mass errorminus="0.05" errorplus="0.05">0.57</mass>
 		<temperature errorminus="238.00" errorplus="238.00">4079.00</temperature>
 		<planet>
-			<name>Kepler-138 b</name>
-			<semimajoraxis>0.077000</semimajoraxis>
-			<period errorminus="-0.00003600" errorplus="0.00003600">10.31236400</period>
-			<radius errorminus="-0.004" errorplus="0.004">0.054</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001910" errorplus="0.001910">2454966.544250</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-138 c</name>
 			<eccentricity errorminus="-0.025000" errorplus="0.049000">0.050000</eccentricity>
 			<periastron errorminus="-28.0000" errorplus="47.0000">72.0000</periastron>
@@ -43,6 +33,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 01 28</lastupdate>
 			<transittime errorminus="-0.001300" errorplus="0.001400">2455558.140400</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-138 b</name>
+			<semimajoraxis>0.077000</semimajoraxis>
+			<period errorminus="-0.00003600" errorplus="0.00003600">10.31236400</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.054</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001910" errorplus="0.001910">2454966.544250</transittime>
 		</planet>
 	</star>
 </system>

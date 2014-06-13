@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE 2008-BLG-355L</name>
+	<rightascension>17 59 09</rightascension>
+	<declination>-30 45 34</declination>
+	<star>
+		<name>OGLE 2008-BLG-355L</name>
+		<mass errorminus="0.30" errorplus="0.30">0.37</mass>
+		<planet>
+			<name>OGLE 2008-BLG-355L b</name>
+			<semimajoraxis errorminus="-0.300000" errorplus="0.290000">1.700000</semimajoraxis>
+			<mass errorminus="-2.20000" errorplus="3.70000">4.60000</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 06 10</lastupdate>
+		</planet>
+	</star>
+</system>

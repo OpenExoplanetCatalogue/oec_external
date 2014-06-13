@@ -12,16 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">3903.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-353 c</name>
-			<semimajoraxis>0.065000</semimajoraxis>
-			<period errorminus="-0.00003900" errorplus="0.00003900">8.41089400</period>
-			<radius errorminus="-0.006" errorplus="0.006">0.123</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.002650" errorplus="0.002650">2454966.805050</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-353 b</name>
 			<semimajoraxis>0.051000</semimajoraxis>
 			<period errorminus="-0.00005500" errorplus="0.00005500">5.79527800</period>
@@ -30,6 +20,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.005690" errorplus="0.005690">2454969.781970</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-353 c</name>
+			<semimajoraxis>0.065000</semimajoraxis>
+			<period errorminus="-0.00003900" errorplus="0.00003900">8.41089400</period>
+			<radius errorminus="-0.006" errorplus="0.006">0.123</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002650" errorplus="0.002650">2454966.805050</transittime>
 		</planet>
 	</star>
 </system>

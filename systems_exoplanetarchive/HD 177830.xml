@@ -9,17 +9,6 @@
 		<magH errorminus="0.044" errorplus="0.044">4.954</magH>
 		<magK errorminus="0.027" errorplus="0.027">4.809</magK>
 		<planet>
-			<name>HD 177830 c</name>
-			<semimajoraxis errorminus="-0.000300" errorplus="0.000300">0.513700</semimajoraxis>
-			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.300000</eccentricity>
-			<periastron errorminus="-29.0000" errorplus="29.0000">110.0000</periastron>
-			<period errorminus="-0.10000000" errorplus="0.10000000">110.90000000</period>
-			<mass errorminus="-0.02000" errorplus="0.02000">0.15000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2010</discoveryyear>
-			<lastupdate>2013 03 12</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 177830 b</name>
 			<semimajoraxis errorminus="-0.000800" errorplus="0.000800">1.221800</semimajoraxis>
 			<eccentricity errorminus="-0.004000" errorplus="0.004000">0.009000</eccentricity>
@@ -28,6 +17,17 @@
 			<mass errorminus="-0.03000" errorplus="0.03000">1.49000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 177830 c</name>
+			<semimajoraxis errorminus="-0.000300" errorplus="0.000300">0.513700</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.300000</eccentricity>
+			<periastron errorminus="-29.0000" errorplus="29.0000">110.0000</periastron>
+			<period errorminus="-0.10000000" errorplus="0.10000000">110.90000000</period>
+			<mass errorminus="-0.02000" errorplus="0.02000">0.15000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>
 		</planet>
 	</star>

@@ -13,6 +13,17 @@
 		<temperature errorminus="100.00" errorplus="100.00">3500.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>GJ 163 b</name>
+			<semimajoraxis>0.061000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.110000</eccentricity>
+			<periastron errorminus="-22.0000" errorplus="22.0000">97.0000</periastron>
+			<period errorminus="-0.00100000" errorplus="0.00100000">8.63100000</period>
+			<mass>0.03500</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 10</lastupdate>
+		</planet>
+		<planet>
 			<name>GJ 163 c</name>
 			<semimajoraxis>0.130000</semimajoraxis>
 			<eccentricity errorminus="-0.080000" errorplus="0.080000">0.080000</eccentricity>
@@ -30,17 +41,6 @@
 			<periastron errorminus="-17.0000" errorplus="17.0000">88.0000</periastron>
 			<period errorminus="-12.00000000" errorplus="12.00000000">603.00000000</period>
 			<mass>0.07900</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<lastupdate>2013 06 10</lastupdate>
-		</planet>
-		<planet>
-			<name>GJ 163 b</name>
-			<semimajoraxis>0.061000</semimajoraxis>
-			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.110000</eccentricity>
-			<periastron errorminus="-22.0000" errorplus="22.0000">97.0000</periastron>
-			<period errorminus="-0.00100000" errorplus="0.00100000">8.63100000</period>
-			<mass>0.03500</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 06 10</lastupdate>
