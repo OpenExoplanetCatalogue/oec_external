@@ -5,6 +5,7 @@
 	<star>
 		<name>SWEEPS-11</name>
 		<radius>1.45</radius>
+		<magV>19.830</magV>
 		<mass>1.10</mass>
 		<planet>
 			<name>SWEEPS-11 b</name>

@@ -5,6 +5,7 @@
 	<star>
 		<name>Kepler-66</name>
 		<radius errorminus="0.04" errorplus="0.04">0.97</radius>
+		<magV>15.300</magV>
 		<magJ errorminus="0.026" errorplus="0.026">14.021</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.689</magH>
 		<magK errorminus="0.045" errorplus="0.045">13.621</magK>

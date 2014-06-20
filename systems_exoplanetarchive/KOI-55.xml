@@ -5,6 +5,7 @@
 	<star>
 		<name>KOI-55</name>
 		<radius errorminus="0.01" errorplus="0.01">0.20</radius>
+		<magV errorminus="0.020" errorplus="0.020">14.870</magV>
 		<magJ errorminus="0.045" errorplus="0.045">15.356</magJ>
 		<magH errorminus="0.135" errorplus="0.135">15.593</magH>
 		<magK>15.495</magK>

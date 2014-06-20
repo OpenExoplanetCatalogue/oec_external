@@ -5,6 +5,7 @@
 	<star>
 		<name>HAT-P-13</name>
 		<radius errorminus="0.08" errorplus="0.08">1.56</radius>
+		<magV>10.622</magV>
 		<magJ errorminus="0.018" errorplus="0.018">9.328</magJ>
 		<magH errorminus="0.017" errorplus="0.017">9.058</magH>
 		<magK errorminus="0.017" errorplus="0.017">8.975</magK>

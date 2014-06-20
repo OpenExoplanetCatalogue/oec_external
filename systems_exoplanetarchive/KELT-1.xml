@@ -5,6 +5,7 @@
 	<star>
 		<name>KELT-1</name>
 		<radius errorminus="0.04" errorplus="0.04">1.46</radius>
+		<magV errorminus="0.057" errorplus="0.057">10.701</magV>
 		<magJ errorminus="0.022" errorplus="0.022">9.682</magJ>
 		<magH errorminus="0.029" errorplus="0.029">9.534</magH>
 		<magK errorminus="0.019" errorplus="0.019">9.437</magK>

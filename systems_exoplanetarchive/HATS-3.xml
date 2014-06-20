@@ -5,6 +5,7 @@
 	<star>
 		<name>HATS-3</name>
 		<radius errorminus="0.03" errorplus="0.03">1.40</radius>
+		<magV errorminus="0.200" errorplus="0.200">12.440</magV>
 		<magJ errorminus="0.017" errorplus="0.017">10.980</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.719</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.694</magK>

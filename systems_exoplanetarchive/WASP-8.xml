@@ -5,6 +5,7 @@
 	<star>
 		<name>WASP-8</name>
 		<radius errorminus="0.05" errorplus="0.05">0.94</radius>
+		<magV>9.790</magV>
 		<magJ errorminus="0.027" errorplus="0.027">8.501</magJ>
 		<magH errorminus="0.049" errorplus="0.049">8.218</magH>
 		<magK errorminus="0.022" errorplus="0.022">8.086</magK>
@@ -32,7 +33,7 @@
 			<period errorminus="-380.00000000" errorplus="740.00000000">4323.00000000</period>
 			<mass errorminus="-1.04000" errorplus="2.26000">9.45000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2014 03 26</lastupdate>
 		</planet>
 	</star>

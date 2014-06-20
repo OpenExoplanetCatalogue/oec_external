@@ -5,6 +5,7 @@
 	<star>
 		<name>Pr0211</name>
 		<radius errorminus="0.08" errorplus="0.08">0.87</radius>
+		<magV>12.060</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.660</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.242</magH>
 		<magK errorminus="0.016" errorplus="0.016">10.173</magK>

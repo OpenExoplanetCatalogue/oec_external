@@ -5,6 +5,7 @@
 	<star>
 		<name>CoRoT-27</name>
 		<radius errorminus="0.18" errorplus="0.18">1.08</radius>
+		<magV>15.540</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.571</magJ>
 		<magH errorminus="0.031" errorplus="0.031">13.170</magH>
 		<magK errorminus="0.032" errorplus="0.032">12.985</magK>

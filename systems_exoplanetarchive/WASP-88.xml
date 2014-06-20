@@ -5,6 +5,7 @@
 	<star>
 		<name>WASP-88</name>
 		<radius errorminus="0.12" errorplus="0.12">2.08</radius>
+		<magV>11.400</magV>
 		<magJ errorminus="0.018" errorplus="0.018">10.568</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.386</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.322</magK>

@@ -5,6 +5,7 @@
 	<star>
 		<name>WTS-1</name>
 		<radius errorminus="0.10" errorplus="0.10">1.15</radius>
+		<magV errorminus="0.040" errorplus="0.040">16.130</magV>
 		<magJ errorminus="0.051" errorplus="0.051">15.375</magJ>
 		<magH errorminus="0.081" errorplus="0.081">15.187</magH>
 		<magK errorminus="0.198" errorplus="0.198">15.271</magK>

@@ -4,6 +4,7 @@
 	<declination>-24 39 51</declination>
 	<star>
 		<name>2MASS J01225093-2439505</name>
+		<magV errorminus="0.070" errorplus="0.070">14.240</magV>
 		<magJ errorminus="0.026" errorplus="0.026">10.084</magJ>
 		<magH errorminus="0.021" errorplus="0.021">9.470</magH>
 		<magK errorminus="0.024" errorplus="0.024">9.198</magK>

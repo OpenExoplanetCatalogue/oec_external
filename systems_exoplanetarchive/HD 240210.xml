@@ -4,6 +4,7 @@
 	<declination>+57 01 46</declination>
 	<star>
 		<name>HD 240210</name>
+		<magV>8.330</magV>
 		<planet>
 			<name>HD 240210 b</name>
 			<semimajoraxis>1.330000</semimajoraxis>

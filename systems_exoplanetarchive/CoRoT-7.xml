@@ -5,6 +5,10 @@
 	<star>
 		<name>CoRoT-7</name>
 		<radius errorminus="0.04" errorplus="0.04">0.87</radius>
+		<magV errorminus="0.008" errorplus="0.008">11.668</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.301</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.880</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.806</magK>
 		<mass errorminus="0.03" errorplus="0.03">0.93</mass>
 		<temperature errorminus="75.00" errorplus="75.00">5275.00</temperature>
 		<metallicity>[M/H]</metallicity>

@@ -5,6 +5,7 @@
 	<star>
 		<name>TrES-5</name>
 		<radius errorminus="0.01" errorplus="0.01">0.87</radius>
+		<magV errorminus="0.005" errorplus="0.005">13.718</magV>
 		<magJ errorminus="0.026" errorplus="0.026">12.111</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.673</magH>
 		<magK errorminus="0.019" errorplus="0.019">11.591</magK>

@@ -4,6 +4,7 @@
 	<declination>-34 59 49</declination>
 	<star>
 		<name>GJ 667 C</name>
+		<magV errorminus="0.100" errorplus="0.100">10.220</magV>
 		<magJ errorminus="0.021" errorplus="0.021">6.848</magJ>
 		<magH errorminus="0.044" errorplus="0.044">6.322</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.036</magK>

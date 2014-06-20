@@ -4,7 +4,7 @@
 	<declination>+44 18 06</declination>
 	<star>
 		<name>HD 96127</name>
-		<magV errorminus="0.011" errorplus="0.011">7.407</magV>
+		<magV>7.430</magV>
 		<magJ errorminus="0.190" errorplus="0.190">4.887</magJ>
 		<magH errorminus="0.176" errorplus="0.176">4.124</magH>
 		<magK errorminus="0.036" errorplus="0.036">3.911</magK>

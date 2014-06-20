@@ -5,6 +5,7 @@
 	<star>
 		<name>GJ 3634</name>
 		<radius errorminus="0.03" errorplus="0.03">0.43</radius>
+		<magV errorminus="0.010" errorplus="0.010">11.930</magV>
 		<magJ errorminus="0.023" errorplus="0.023">8.361</magJ>
 		<magH errorminus="0.049" errorplus="0.049">7.762</magH>
 		<magK errorminus="0.027" errorplus="0.027">7.470</magK>

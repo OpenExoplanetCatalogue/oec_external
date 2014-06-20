@@ -5,6 +5,7 @@
 	<star>
 		<name>NGC 2682 YBP 1514</name>
 		<radius errorminus="0.02" errorplus="0.02">0.89</radius>
+		<magV>14.770</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.474</magJ>
 		<magH errorminus="0.021" errorplus="0.021">13.157</magH>
 		<magK errorminus="0.026" errorplus="0.026">13.105</magK>

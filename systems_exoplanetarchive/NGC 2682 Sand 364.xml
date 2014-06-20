@@ -5,6 +5,7 @@
 	<star>
 		<name>NGC 2682 Sand 364</name>
 		<radius errorminus="0.70" errorplus="0.70">21.80</radius>
+		<magV>9.800</magV>
 		<magJ errorminus="0.021" errorplus="0.021">7.542</magJ>
 		<magH errorminus="0.011" errorplus="0.011">6.915</magH>
 		<magK errorminus="9.995" errorplus="9.995">6.693</magK>

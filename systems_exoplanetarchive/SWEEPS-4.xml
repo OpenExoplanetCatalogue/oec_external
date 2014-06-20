@@ -5,6 +5,7 @@
 	<star>
 		<name>SWEEPS-4</name>
 		<radius>1.18</radius>
+		<magV>18.800</magV>
 		<mass>1.24</mass>
 		<planet>
 			<name>SWEEPS-4 b</name>

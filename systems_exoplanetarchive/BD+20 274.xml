@@ -5,6 +5,7 @@
 	<star>
 		<name>BD+20 274</name>
 		<radius errorminus="0.90" errorplus="0.90">17.30</radius>
+		<magV>9.360</magV>
 		<magJ errorminus="0.019" errorplus="0.019">7.003</magJ>
 		<magH errorminus="0.020" errorplus="0.020">6.337</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.169</magK>

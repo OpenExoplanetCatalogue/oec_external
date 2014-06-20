@@ -5,6 +5,7 @@
 	<star>
 		<name>HD 219415</name>
 		<radius errorminus="0.40" errorplus="0.40">2.90</radius>
+		<magV>8.940</magV>
 		<magJ errorminus="0.018" errorplus="0.018">7.023</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.532</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.421</magK>

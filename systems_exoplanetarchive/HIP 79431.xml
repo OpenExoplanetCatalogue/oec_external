@@ -4,6 +4,7 @@
 	<declination>-18 52 32</declination>
 	<star>
 		<name>HIP 79431</name>
+		<magV>11.340</magV>
 		<magJ errorminus="0.025" errorplus="0.025">7.555</magJ>
 		<magH errorminus="0.044" errorplus="0.044">6.855</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.589</magK>

@@ -5,6 +5,7 @@
 	<star>
 		<name>Kepler-412</name>
 		<radius errorminus="0.04" errorplus="0.04">1.29</radius>
+		<magV errorminus="0.240" errorplus="0.240">13.730</magV>
 		<magJ errorminus="0.027" errorplus="0.027">13.190</magJ>
 		<magH errorminus="0.033" errorplus="0.033">12.932</magH>
 		<magK errorminus="0.031" errorplus="0.031">12.837</magK>
