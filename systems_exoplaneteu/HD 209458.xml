@@ -20,9 +20,9 @@
 			<period errorminus="3.8e-07" errorplus="3.8e-07">3.52474859</period>
 			<mass errorminus="0.017" errorplus="0.017">0.714</mass>
 			<radius errorminus="0.018" errorplus="0.018">1.38</radius>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>1999</discoveryyear>
-			<lastupdate>14/04/09</lastupdate>
+			<lastupdate>14/06/20</lastupdate>
 		</planet>
 	</star>
 </system>
