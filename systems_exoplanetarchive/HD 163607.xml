@@ -4,10 +4,14 @@
 	<declination>+56 23 31</declination>
 	<star>
 		<name>HD 163607</name>
+		<radius errorminus="0.07" errorplus="0.07">1.63</radius>
 		<magV errorminus="0.012" errorplus="0.012">7.979</magV>
 		<magJ errorminus="0.018" errorplus="0.018">6.648</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.342</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.271</magK>
+		<mass errorminus="0.02" errorplus="0.02">1.09</mass>
+		<temperature errorminus="44.00" errorplus="44.00">5543.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 163607 b</name>
 			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.360000</semimajoraxis>
@@ -21,10 +25,11 @@
 		</planet>
 		<planet>
 			<name>HD 163607 c</name>
-			<semimajoraxis>2.420000</semimajoraxis>
-			<eccentricity>0.120000</eccentricity>
-			<period>1314.00000000</period>
-			<mass>2.29000</mass>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">2.420000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.120000</eccentricity>
+			<periastron errorminus="-93.0000" errorplus="93.0000">265.0000</periastron>
+			<period errorminus="-8.00000000" errorplus="8.00000000">1314.00000000</period>
+			<mass errorminus="-0.16000" errorplus="0.16000">2.29000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>

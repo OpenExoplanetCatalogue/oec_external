@@ -12,20 +12,6 @@
 		<temperature errorminus="66.00" errorplus="66.00">5911.00</temperature>
 		<metallicity>[m/H]</metallicity>
 		<planet>
-			<name>Kepler-36 b</name>
-			<semimajoraxis errorminus="-0.001500" errorplus="0.001500">0.115300</semimajoraxis>
-			<eccentricity>0.039000</eccentricity>
-			<inclination errorminus="-0.710" errorplus="0.690">90.010</inclination>
-			<period errorminus="-0.00060000" errorplus="0.00082000">13.83989000</period>
-			<mass errorminus="-0.00100" errorplus="0.00100">0.01400</mass>
-			<radius errorminus="-0.003" errorplus="0.003">0.133</radius>
-			<temperature errorminus="-11" errorplus="11">978</temperature>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2012 12 10</lastupdate>
-			<transittime errorminus="-0.005800" errorplus="0.005500">2454960.975300</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-36 c</name>
 			<semimajoraxis errorminus="-0.001600" errorplus="0.001600">0.128300</semimajoraxis>
 			<eccentricity>0.033000</eccentricity>
@@ -38,6 +24,20 @@
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>2012 12 10</lastupdate>
 			<transittime errorminus="-0.001000" errorplus="0.001100">2454955.913200</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-36 b</name>
+			<semimajoraxis errorminus="-0.001500" errorplus="0.001500">0.115300</semimajoraxis>
+			<eccentricity>0.039000</eccentricity>
+			<inclination errorminus="-0.710" errorplus="0.690">90.010</inclination>
+			<period errorminus="-0.00060000" errorplus="0.00082000">13.83989000</period>
+			<mass errorminus="-0.00100" errorplus="0.00100">0.01400</mass>
+			<radius errorminus="-0.003" errorplus="0.003">0.133</radius>
+			<temperature errorminus="-11" errorplus="11">978</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.005800" errorplus="0.005500">2454960.975300</transittime>
 		</planet>
 	</star>
 </system>

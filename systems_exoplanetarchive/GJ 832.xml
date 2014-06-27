@@ -4,25 +4,35 @@
 	<declination>-49 00 32</declination>
 	<star>
 		<name>GJ 832</name>
-		<radius>0.48</radius>
 		<magV>8.660</magV>
 		<magI>6.480</magI>
 		<magJ errorminus="0.032" errorplus="0.032">5.349</magJ>
 		<magH errorminus="0.256" errorplus="0.256">4.766</magH>
 		<magK errorminus="0.018" errorplus="0.018">4.501</magK>
 		<mass errorminus="0.05" errorplus="0.05">0.45</mass>
-		<temperature>3657.00</temperature>
+		<temperature>3472.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>GJ 832 b</name>
-			<semimajoraxis errorminus="-0.400000" errorplus="0.400000">3.400000</semimajoraxis>
-			<eccentricity errorminus="-0.110000" errorplus="0.110000">0.120000</eccentricity>
-			<periastron errorminus="-38.0000" errorplus="38.0000">304.0000</periastron>
-			<period errorminus="-131.00000000" errorplus="131.00000000">3416.00000000</period>
-			<mass errorminus="-0.06000" errorplus="0.06000">0.64000</mass>
+			<semimajoraxis errorminus="-0.280000" errorplus="0.280000">3.560000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.020000">0.080000</eccentricity>
+			<periastron errorminus="-22.0000" errorplus="22.0000">246.0000</periastron>
+			<period errorminus="-104.00000000" errorplus="104.00000000">3657.00000000</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">0.68000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 832 c</name>
+			<semimajoraxis errorminus="-0.006000" errorplus="0.006000">0.163000</semimajoraxis>
+			<eccentricity errorminus="-0.130000" errorplus="0.130000">0.180000</eccentricity>
+			<periastron errorminus="-47.0000" errorplus="47.0000">10.0000</periastron>
+			<period errorminus="-0.03000000" errorplus="0.03000000">35.68000000</period>
+			<mass errorminus="-0.00300" errorplus="0.00300">0.01700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 06 25</lastupdate>
 		</planet>
 	</star>
 </system>

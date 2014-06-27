@@ -4,14 +4,21 @@
 	<declination>-48 32 58</declination>
 	<star>
 		<name>HD 156411</name>
+		<radius errorminus="0.09" errorplus="0.09">2.16</radius>
 		<magV errorminus="0.010" errorplus="0.010">6.673</magV>
 		<magJ errorminus="0.018" errorplus="0.018">5.563</magJ>
 		<magH errorminus="0.031" errorplus="0.031">5.241</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.170</magK>
+		<mass>1.25</mass>
+		<temperature errorminus="15.00" errorplus="15.00">5900.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 156411 b</name>
-			<period>842.00000000</period>
-			<mass>0.75000</mass>
+			<semimajoraxis errorminus="-0.040000" errorplus="0.030000">1.880000</semimajoraxis>
+			<eccentricity errorminus="-0.080000" errorplus="0.080000">0.220000</eccentricity>
+			<periastron errorminus="-14.0000" errorplus="22.0000">45.0000</periastron>
+			<period errorminus="-14.50000000" errorplus="14.50000000">842.20000000</period>
+			<mass errorminus="-0.04000" errorplus="0.05000">0.74000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 03 11</lastupdate>

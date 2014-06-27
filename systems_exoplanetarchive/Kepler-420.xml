@@ -1,0 +1,31 @@
+<system>
+	<name>Kepler-420</name>
+	<rightascension>19 24 54</rightascension>
+	<declination>+44 55 39</declination>
+	<star>
+		<name>Kepler-420</name>
+		<radius errorminus="0.14" errorplus="0.14">1.13</radius>
+		<magV errorminus="0.062" errorplus="0.062">14.867</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.222</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.827</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.726</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.99</mass>
+		<temperature errorminus="80.00" errorplus="80.00">5520.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-420 b</name>
+			<semimajoraxis errorminus="-0.006000" errorplus="0.006000">0.382000</semimajoraxis>
+			<eccentricity errorminus="-0.045000" errorplus="0.045000">0.772000</eccentricity>
+			<periastron errorminus="-17.0000" errorplus="17.0000">141.3000</periastron>
+			<inclination errorminus="-0.380" errorplus="0.240">89.660</inclination>
+			<period errorminus="-0.00003400" errorplus="0.00003400">86.64766100</period>
+			<mass errorminus="-0.35000" errorplus="0.35000">1.45000</mass>
+			<radius errorminus="-0.120" errorplus="0.120">0.940</radius>
+			<temperature errorminus="-50" errorplus="50">511</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 06 25</lastupdate>
+			<transittime errorminus="-0.000300" errorplus="0.000300">2455006.794540</transittime>
+		</planet>
+	</star>
+</system>

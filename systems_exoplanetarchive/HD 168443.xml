@@ -4,28 +4,31 @@
 	<declination>-09 35 45</declination>
 	<star>
 		<name>HD 168443</name>
+		<radius errorminus="0.06" errorplus="0.06">1.51</radius>
 		<magV errorminus="0.011" errorplus="0.011">6.917</magV>
 		<magJ errorminus="0.019" errorplus="0.019">5.641</magJ>
 		<magH errorminus="0.016" errorplus="0.016">5.325</magH>
 		<magK errorminus="0.015" errorplus="0.015">5.211</magK>
+		<mass errorminus="0.02" errorplus="0.02">0.99</mass>
+		<temperature errorminus="44.00" errorplus="44.00">5491.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 168443 b</name>
-			<semimajoraxis errorminus="-0.017000" errorplus="0.017000">0.300000</semimajoraxis>
-			<eccentricity errorminus="-0.032000" errorplus="0.032000">0.528600</eccentricity>
-			<periastron errorminus="-0.9400" errorplus="0.9400">172.8700</periastron>
-			<period errorminus="-0.00550000" errorplus="0.00550000">58.11289000</period>
-			<mass errorminus="-0.65000" errorplus="0.65000">8.02000</mass>
+			<semimajoraxis errorplus="0.001810">0.293100</semimajoraxis>
+			<eccentricity errorminus="-0.001030" errorplus="0.001030">0.528830</eccentricity>
+			<periastron errorminus="-0.1390" errorplus="0.1390">172.9230</periastron>
+			<period errorminus="-0.00030000" errorplus="0.00030000">58.11247000</period>
+			<mass errorminus="-0.09750" errorplus="0.09750">7.65900</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>1998</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 168443 c</name>
-			<semimajoraxis errorminus="-0.170000" errorplus="0.170000">2.910000</semimajoraxis>
-			<eccentricity errorminus="-0.002000" errorplus="0.002000">0.212000</eccentricity>
-			<periastron errorminus="-0.2100" errorplus="0.2100">65.0700</periastron>
-			<period errorminus="-2.20000000" errorplus="2.20000000">1749.50000000</period>
-			<mass errorminus="-1.50000" errorplus="1.50000">18.10000</mass>
+			<eccentricity errorminus="-0.001710" errorplus="0.001710">0.211300</eccentricity>
+			<periastron errorminus="-0.5113" errorplus="0.5113">64.8700</periastron>
+			<period errorminus="-0.57000000" errorplus="0.57000000">1749.83000000</period>
+			<mass errorminus="-0.21000" errorplus="0.21000">17.19300</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>
