@@ -50,13 +50,14 @@
 			<semimajoraxis errorminus="0.00011" errorplus="0.00011">0.0156</semimajoraxis>
 			<periastron errorminus="130.0" errorplus="130.0">170.0</periastron>
 			<eccentricity errorminus="inf" errorplus="nan">0.06</eccentricity>
-			<inclination errorminus="1.7" errorplus="1.7">81.0</inclination>
-			<period errorminus="3e-06" errorplus="3e-06">0.736546</period>
-			<mass errorminus="0.00122707107573231" errorplus="0.00122707107573231">0.0261775162822893</mass>
-			<radius errorminus="0.00713713469022159" errorplus="0.00713713469022159">0.177536225419262</radius>
+			<longitude errorminus="12.0" errorplus="12.0">72.4</longitude>
+			<inclination errorminus="2.8" errorplus="2.1">85.4</inclination>
+			<period errorminus="2.8e-06" errorplus="2.8e-06">0.7365417</period>
+			<mass errorminus="0.00122707107573231" errorplus="0.00122707107573231">0.0261775162823</mass>
+			<radius errorminus="0.00713713469022159" errorplus="0.00713713469022159">0.177536225419</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
-			<lastupdate>13/11/05</lastupdate>
+			<lastupdate>14/06/27</lastupdate>
 		</planet>
 		<planet>
 			<name>55 Cnc f</name>

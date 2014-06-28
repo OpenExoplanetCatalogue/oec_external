@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-117</name>
+	<rightascension>02 27 06</rightascension>
+	<declination>-50 42 56</declination>
+	<star>
+		<name>WASP-117</name>
+		<age>4.6</age>
+		<radius>1.17</radius>
+		<mass>1.126</mass>
+		<spectraltype>F9</spectraltype>
+		<temperature>6040.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>WASP-117 b</name>
+			<semimajoraxis errorminus="0.00084" errorplus="0.00079">0.09459</semimajoraxis>
+			<periastron errorminus="2.5" errorplus="2.5">242.0</periastron>
+			<eccentricity errorminus="0.023" errorplus="0.023">0.302</eccentricity>
+			<longitude errorminus="11.0" errorplus="11.0">44.0</longitude>
+			<inclination errorminus="0.3" errorplus="0.3">89.14</inclination>
+			<period errorminus="0.00055" errorplus="0.00055">10.02165</period>
+			<mass errorminus="0.009" errorplus="0.009">0.2755</mass>
+			<radius errorminus="0.076" errorplus="0.065">1.021</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/06/27</lastupdate>
+		</planet>
+	</star>
+</system>
