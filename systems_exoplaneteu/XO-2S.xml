@@ -1,0 +1,37 @@
+<system>
+	<name>XO-2S</name>
+	<rightascension>07 49 37</rightascension>
+	<declination>+50 13 03</declination>
+	<distance>149.0</distance>
+	<star>
+		<name>XO-2S</name>
+		<age>7.1</age>
+		<radius>1.02</radius>
+		<mass>0.982</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5399.0</temperature>
+		<metallicity>0.39</metallicity>
+		<planet>
+			<name>XO-2S</name>
+			<semimajoraxis errorminus="0.0025" errorplus="0.0025">0.1344</semimajoraxis>
+			<periastron errorminus="9.5" errorplus="9.5">311.9</periastron>
+			<eccentricity errorminus="0.035" errorplus="0.035">0.18</eccentricity>
+			<period errorminus="0.034" errorplus="0.034">18.157</period>
+			<mass errorminus="0.014" errorplus="0.014">0.259</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/07/02</lastupdate>
+		</planet>
+		<planet>
+			<name>XO-2S c</name>
+			<semimajoraxis errorminus="0.0087" errorplus="0.0087">0.4756</semimajoraxis>
+			<periastron errorminus="4.9" errorplus="4.9">264.5</periastron>
+			<eccentricity errorminus="0.0098" errorplus="0.0098">0.1528</eccentricity>
+			<period errorminus="0.34" errorplus="0.34">120.8</period>
+			<mass errorminus="0.053" errorplus="0.053">1.37</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/07/02</lastupdate>
+		</planet>
+	</star>
+</system>
