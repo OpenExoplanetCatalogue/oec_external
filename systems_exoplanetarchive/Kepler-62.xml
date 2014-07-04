@@ -12,19 +12,6 @@
 		<temperature errorminus="70.00" errorplus="70.00">4925.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-62 f</name>
-			<semimajoraxis errorminus="-0.007000" errorplus="0.007000">0.718000</semimajoraxis>
-			<inclination errorminus="-0.030" errorplus="0.030">89.900</inclination>
-			<period errorminus="-0.00500000" errorplus="0.00500000">267.29100000</period>
-			<mass>0.11000</mass>
-			<radius errorminus="-0.006" errorplus="0.006">0.126</radius>
-			<temperature errorminus="-11" errorplus="11">208</temperature>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<lastupdate>2013 08 19</lastupdate>
-			<transittime errorminus="-0.006000" errorplus="0.006000">2455422.710000</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-62 b</name>
 			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.055300</semimajoraxis>
 			<inclination errorminus="-0.400" errorplus="0.400">89.200</inclination>
@@ -75,6 +62,19 @@
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 08 19</lastupdate>
 			<transittime errorminus="-0.003000" errorplus="0.003000">2454983.404000</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-62 f</name>
+			<semimajoraxis errorminus="-0.007000" errorplus="0.007000">0.718000</semimajoraxis>
+			<inclination errorminus="-0.030" errorplus="0.030">89.900</inclination>
+			<period errorminus="-0.00500000" errorplus="0.00500000">267.29100000</period>
+			<mass>0.11000</mass>
+			<radius errorminus="-0.006" errorplus="0.006">0.126</radius>
+			<temperature errorminus="-11" errorplus="11">208</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 08 19</lastupdate>
+			<transittime errorminus="-0.006000" errorplus="0.006000">2455422.710000</transittime>
 		</planet>
 	</star>
 </system>

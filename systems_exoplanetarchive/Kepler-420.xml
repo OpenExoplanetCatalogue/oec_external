@@ -24,7 +24,7 @@
 			<temperature errorminus="-50" errorplus="50">511</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 06 25</lastupdate>
+			<lastupdate>2014 06 26</lastupdate>
 			<transittime errorminus="-0.000300" errorplus="0.000300">2455006.794540</transittime>
 		</planet>
 	</star>
