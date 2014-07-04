@@ -22,7 +22,7 @@
 			<radius errorminus="-0.120" errorplus="0.120">0.960</radius>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 06 25</lastupdate>
+			<lastupdate>2014 06 26</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-419 c</name>
@@ -34,7 +34,7 @@
 			<mass errorminus="-0.40000" errorplus="0.40000">7.30000</mass>
 			<discoverymethod>Transit Timing Variations</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 06 25</lastupdate>
+			<lastupdate>2014 06 26</lastupdate>
 		</planet>
 	</star>
 </system>

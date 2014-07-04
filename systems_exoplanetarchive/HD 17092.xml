@@ -4,13 +4,15 @@
 	<declination>+49 39 11</declination>
 	<star>
 		<name>HD 17092</name>
-		<magV errorminus="0.011" errorplus="0.011">7.732</magV>
+		<magV>7.730</magV>
 		<magJ errorminus="0.020" errorplus="0.020">5.530</magJ>
 		<magH errorminus="0.018" errorplus="0.018">5.007</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.807</magK>
+		<mass errorminus="0.30" errorplus="0.30">2.30</mass>
+		<temperature errorminus="35.00" errorplus="35.00">4650.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 17092 b</name>
-			<semimajoraxis errorminus="-0.050000" errorplus="0.050000">1.290000</semimajoraxis>
 			<eccentricity errorminus="-0.052000" errorplus="0.052000">0.166000</eccentricity>
 			<periastron errorminus="-13.4000" errorplus="13.4000">347.4000</periastron>
 			<period errorminus="-2.40000000" errorplus="2.40000000">359.90000000</period>
