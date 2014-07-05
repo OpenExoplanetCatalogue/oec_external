@@ -34,17 +34,6 @@
 			<lastupdate>14/04/18</lastupdate>
 		</planet>
 		<planet>
-			<name>Gl 581 d</name>
-			<semimajoraxis>0.22</semimajoraxis>
-			<periastron errorminus="23.0" errorplus="23.0">2.0</periastron>
-			<eccentricity errorminus="0.08" errorplus="0.08">0.205</eccentricity>
-			<period errorminus="0.08" errorplus="0.08">66.64</period>
-			<mass>0.019</mass>
-			<discoverymethod>RV</discoverymethod>
-			<discoveryyear>2007</discoveryyear>
-			<lastupdate>14/04/18</lastupdate>
-		</planet>
-		<planet>
 			<name>Gl 581 e</name>
 			<semimajoraxis>0.028</semimajoraxis>
 			<periastron errorminus="17.0" errorplus="17.0">236.0</periastron>

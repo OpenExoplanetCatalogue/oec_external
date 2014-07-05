@@ -12,7 +12,7 @@
 		<temperature>5399.0</temperature>
 		<metallicity>0.39</metallicity>
 		<planet>
-			<name>XO-2S</name>
+			<name>XO-2S b</name>
 			<semimajoraxis errorminus="0.0025" errorplus="0.0025">0.1344</semimajoraxis>
 			<periastron errorminus="9.5" errorplus="9.5">311.9</periastron>
 			<eccentricity errorminus="0.035" errorplus="0.035">0.18</eccentricity>
@@ -20,7 +20,7 @@
 			<mass errorminus="0.014" errorplus="0.014">0.259</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/07/02</lastupdate>
+			<lastupdate>14/07/05</lastupdate>
 		</planet>
 		<planet>
 			<name>XO-2S c</name>
