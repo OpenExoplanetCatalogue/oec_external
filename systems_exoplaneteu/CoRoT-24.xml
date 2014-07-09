@@ -1,0 +1,39 @@
+<system>
+	<name>CoRoT-24</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<distance>600.0</distance>
+	<star>
+		<name>CoRoT-24</name>
+		<age>11.0</age>
+		<radius>0.86</radius>
+		<mass>0.91</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>4950.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>CoRoT-24 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.056</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="2.0" errorplus="2.0">86.5</inclination>
+			<period errorminus="0.0006" errorplus="0.0006">5.1134</period>
+			<mass errorminus="inf" errorplus="nan">0.018</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.33</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/07/08</lastupdate>
+		</planet>
+		<planet>
+			<name>CoRoT-24 c</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.098</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.0" errorplus="1.6">89.0</inclination>
+			<period errorminus="0.0063" errorplus="0.0063">11.759</period>
+			<mass errorminus="0.035" errorplus="0.035">0.088</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.44</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/07/08</lastupdate>
+		</planet>
+	</star>
+</system>
