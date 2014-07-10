@@ -1,0 +1,16 @@
+<system>
+	<name>OY Car</name>
+	<rightascension>10 06 22</rightascension>
+	<declination>-70 45 55</declination>
+	<star>
+		<name>OY Car</name>
+		<spectraltype>M5</spectraltype>
+		<planet>
+			<name>OY Car b</name>
+			<semimajoraxis errorminus="0.45" errorplus="0.45">6.18</semimajoraxis>
+			<mass errorminus="0.02" errorplus="0.02">8.48</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/07/09</lastupdate>
+		</planet>
+	</star>
+</system>
