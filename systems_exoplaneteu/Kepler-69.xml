@@ -29,7 +29,7 @@
 			<radius errorminus="0.021" errorplus="0.03">0.153</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/28</lastupdate>
+			<lastupdate>14/07/10</lastupdate>
 		</planet>
 	</star>
 </system>

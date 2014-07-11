@@ -12,16 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">6169.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-361 b</name>
-			<semimajoraxis>0.086000</semimajoraxis>
-			<period errorminus="-0.00008400" errorplus="0.00008400">8.48661600</period>
-			<radius errorminus="-0.025" errorplus="0.025">0.129</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.004640" errorplus="0.004640">2454971.017340</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-361 c</name>
 			<semimajoraxis>0.300000</semimajoraxis>
 			<period errorminus="-0.00065500" errorplus="0.00065500">55.18802300</period>
@@ -30,6 +20,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.005730" errorplus="0.005730">2455013.750180</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-361 b</name>
+			<semimajoraxis>0.086000</semimajoraxis>
+			<period errorminus="-0.00008400" errorplus="0.00008400">8.48661600</period>
+			<radius errorminus="-0.025" errorplus="0.025">0.129</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004640" errorplus="0.004640">2454971.017340</transittime>
 		</planet>
 	</star>
 </system>

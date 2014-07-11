@@ -12,6 +12,14 @@
 		<temperature errorminus="79.00" errorplus="79.00">6270.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-25 d</name>
+			<period errorminus="-2.00000000" errorplus="2.00000000">123.00000000</period>
+			<mass errorminus="-0.04300" errorplus="0.04300">0.28300</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+		</planet>
+		<planet>
 			<name>Kepler-25 b</name>
 			<semimajoraxis>0.068000</semimajoraxis>
 			<period>6.23850000</period>
@@ -32,14 +40,6 @@
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>2014 01 04</lastupdate>
 			<transittime>2454986.087100</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-25 d</name>
-			<period errorminus="-2.00000000" errorplus="2.00000000">123.00000000</period>
-			<mass errorminus="-0.04300" errorplus="0.04300">0.28300</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 01 03</lastupdate>
 		</planet>
 	</star>
 </system>
