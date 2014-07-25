@@ -12,6 +12,16 @@
 		<temperature errorminus="250.00" errorplus="250.00">5918.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-288 b</name>
+			<semimajoraxis>0.065000</semimajoraxis>
+			<period errorminus="-0.00006400" errorplus="0.00006400">6.09732600</period>
+			<radius errorminus="-0.071" errorplus="0.071">0.149</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005750" errorplus="0.005750">2455187.064120</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-288 c</name>
 			<semimajoraxis>0.140000</semimajoraxis>
 			<period errorminus="-0.00013500" errorplus="0.00013500">19.30577200</period>
@@ -30,16 +40,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.010460" errorplus="0.010460">2454968.552960</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-288 b</name>
-			<semimajoraxis>0.065000</semimajoraxis>
-			<period errorminus="-0.00006400" errorplus="0.00006400">6.09732600</period>
-			<radius errorminus="-0.071" errorplus="0.071">0.149</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.005750" errorplus="0.005750">2455187.064120</transittime>
 		</planet>
 	</star>
 </system>

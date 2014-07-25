@@ -53,7 +53,7 @@
 			<mass errorminus="-0.00100" errorplus="0.00100">0.02700</mass>
 			<radius errorminus="-0.012" errorplus="0.012">0.178</radius>
 			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2004</discoveryyear>
 			<lastupdate>2013 02 04</lastupdate>
 			<transittime errorminus="-0.000870" errorplus="0.000870">2455607.055620</transittime>
 		</planet>

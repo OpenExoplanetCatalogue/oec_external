@@ -9,6 +9,17 @@
 		<magH errorminus="0.059" errorplus="0.059">6.950</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.838</magK>
 		<planet>
+			<name>HD 125612 d</name>
+			<semimajoraxis>4.200000</semimajoraxis>
+			<eccentricity errorminus="-0.120000" errorplus="0.120000">0.280000</eccentricity>
+			<periastron errorminus="-8.0000" errorplus="8.0000">-76.0000</periastron>
+			<period errorminus="-202.00000000" errorplus="202.00000000">3008.00000000</period>
+			<mass>7.20000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+		<planet>
 			<name>HD 125612 b</name>
 			<semimajoraxis>1.370000</semimajoraxis>
 			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.460000</eccentricity>
@@ -26,17 +37,6 @@
 			<periastron errorminus="-23.0000" errorplus="23.0000">103.0000</periastron>
 			<period errorminus="-0.00050000" errorplus="0.00050000">4.15470000</period>
 			<mass>0.05800</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2009</discoveryyear>
-			<lastupdate>2013 03 11</lastupdate>
-		</planet>
-		<planet>
-			<name>HD 125612 d</name>
-			<semimajoraxis>4.200000</semimajoraxis>
-			<eccentricity errorminus="-0.120000" errorplus="0.120000">0.280000</eccentricity>
-			<periastron errorminus="-8.0000" errorplus="8.0000">-76.0000</periastron>
-			<period errorminus="-202.00000000" errorplus="202.00000000">3008.00000000</period>
-			<mass>7.20000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 03 11</lastupdate>

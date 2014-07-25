@@ -8,24 +8,27 @@
 		<magJ errorminus="0.024" errorplus="0.024">6.782</magJ>
 		<magH errorminus="0.036" errorplus="0.036">6.528</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.422</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.17</mass>
+		<temperature>5936.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 183263 b</name>
-			<semimajoraxis>1.520000</semimajoraxis>
-			<eccentricity errorminus="-0.030000" errorplus="0.030000">0.380000</eccentricity>
-			<periastron errorminus="-53.0000" errorplus="53.0000">242.0000</periastron>
-			<period>634.23000000</period>
-			<mass>3.69000</mass>
+			<semimajoraxis errorminus="-0.087000" errorplus="0.087000">1.510000</semimajoraxis>
+			<eccentricity errorminus="-0.009000" errorplus="0.009000">0.356700</eccentricity>
+			<periastron errorminus="-2.3000" errorplus="2.3000">233.5000</periastron>
+			<period errorminus="-1.10000000" errorplus="1.10000000">626.50000000</period>
+			<mass errorminus="-0.30000" errorplus="0.30000">3.67000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
 			<lastupdate>2013 03 04</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 183263 c</name>
-			<semimajoraxis errorminus="-0.470000" errorplus="0.470000">4.250000</semimajoraxis>
-			<eccentricity errorminus="-0.076000" errorplus="0.076000">0.253000</eccentricity>
-			<periastron errorminus="-9.1000" errorplus="9.1000">339.6000</periastron>
-			<period errorminus="-340.00000000" errorplus="340.00000000">2950.00000000</period>
-			<mass errorminus="-0.59000" errorplus="0.59000">3.82000</mass>
+			<semimajoraxis errorminus="-0.280000" errorplus="0.280000">4.350000</semimajoraxis>
+			<eccentricity errorminus="-0.064000" errorplus="0.064000">0.239000</eccentricity>
+			<periastron errorminus="-12.0000" errorplus="12.0000">345.0000</periastron>
+			<period errorminus="-110.00000000" errorplus="110.00000000">3070.00000000</period>
+			<mass errorminus="-0.55000" errorplus="0.55000">3.57000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>2013 03 04</lastupdate>

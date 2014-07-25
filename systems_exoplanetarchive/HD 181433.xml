@@ -9,13 +9,16 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.664</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.243</magH>
 		<magK errorminus="0.022" errorplus="0.022">6.094</magK>
+		<mass>0.78</mass>
+		<temperature errorminus="134.00" errorplus="134.00">4962.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 181433 b</name>
 			<semimajoraxis>0.080000</semimajoraxis>
 			<eccentricity errorminus="-0.062000" errorplus="0.062000">0.396000</eccentricity>
 			<periastron errorminus="-10.0000" errorplus="10.0000">202.0000</periastron>
 			<period errorminus="-0.00190000" errorplus="0.00190000">9.37430000</period>
-			<mass>0.02380</mass>
+			<mass>0.02400</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>

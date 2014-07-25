@@ -8,13 +8,16 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.635</magJ>
 		<magH errorminus="0.017" errorplus="0.017">6.395</magH>
 		<magK errorminus="0.016" errorplus="0.016">6.337</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.00</mass>
+		<temperature errorminus="40.00" errorplus="40.00">5830.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 187123 b</name>
-			<semimajoraxis>0.042000</semimajoraxis>
-			<eccentricity errorminus="-0.003000" errorplus="0.003000">0.030000</eccentricity>
-			<periastron>20.0000</periastron>
-			<period>3.09700000</period>
-			<mass>0.52000</mass>
+			<semimajoraxis errorminus="-0.002500" errorplus="0.002500">0.042600</semimajoraxis>
+			<eccentricity errorminus="-0.005900" errorplus="0.005900">0.010300</eccentricity>
+			<periastron>25.0000</periastron>
+			<period errorminus="-0.00000780" errorplus="0.00000780">3.09658280</period>
+			<mass errorminus="-0.04300" errorplus="0.04300">0.52300</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>1998</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>
@@ -27,7 +30,7 @@
 			<period errorminus="-420.00000000" errorplus="420.00000000">3810.00000000</period>
 			<mass errorminus="-0.25000" errorplus="0.25000">1.99000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>1999</discoveryyear>
+			<discoveryyear>2008</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>
 		</planet>
 	</star>

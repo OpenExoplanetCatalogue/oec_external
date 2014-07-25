@@ -12,14 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5428.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-82 b</name>
-			<period>26.44400000</period>
-			<radius errorminus="-0.162" errorplus="0.162">0.357</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2013 12 09</lastupdate>
-		</planet>
-		<planet>
 			<name>Kepler-82 c</name>
 			<period>51.53800000</period>
 			<radius errorminus="-0.218" errorplus="0.218">0.477</radius>
@@ -46,6 +38,14 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.001150" errorplus="0.001150">2454969.784430</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-82 b</name>
+			<period>26.44400000</period>
+			<radius errorminus="-0.162" errorplus="0.162">0.357</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
 		</planet>
 	</star>
 </system>

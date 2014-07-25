@@ -12,17 +12,6 @@
 		<temperature errorminus="75.00" errorplus="75.00">5417.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-37 c</name>
-			<semimajoraxis errorminus="-0.001400" errorplus="0.001100">0.136800</semimajoraxis>
-			<inclination errorminus="-0.330" errorplus="0.190">89.070</inclination>
-			<period errorminus="-0.00004400" errorplus="0.00004600">21.30188600</period>
-			<radius errorminus="-0.007" errorplus="0.006">0.066</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
-			<lastupdate>2014 01 04</lastupdate>
-			<transittime errorminus="-0.000780" errorplus="0.000360">2455024.838160</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-37 b</name>
 			<semimajoraxis errorminus="-0.001100" errorplus="0.000800">0.100300</semimajoraxis>
 			<inclination errorminus="-0.530" errorplus="0.300">88.630</inclination>
@@ -32,6 +21,17 @@
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2014 01 04</lastupdate>
 			<transittime errorminus="-0.000890" errorplus="0.000340">2455017.032710</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-37 c</name>
+			<semimajoraxis errorminus="-0.001400" errorplus="0.001100">0.136800</semimajoraxis>
+			<inclination errorminus="-0.330" errorplus="0.190">89.070</inclination>
+			<period errorminus="-0.00004400" errorplus="0.00004600">21.30188600</period>
+			<radius errorminus="-0.007" errorplus="0.006">0.066</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2014 01 04</lastupdate>
+			<transittime errorminus="-0.000780" errorplus="0.000360">2455024.838160</transittime>
 		</planet>
 		<planet>
 			<name>Kepler-37 d</name>

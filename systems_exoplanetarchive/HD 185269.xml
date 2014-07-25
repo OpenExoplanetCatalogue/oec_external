@@ -4,10 +4,14 @@
 	<declination>+28 29 60</declination>
 	<star>
 		<name>HD 185269</name>
+		<radius errorminus="0.10" errorplus="0.10">1.88</radius>
 		<magV errorminus="0.010" errorplus="0.010">6.669</magV>
 		<magJ errorminus="0.027" errorplus="0.027">5.518</magJ>
 		<magH errorminus="0.069" errorplus="0.069">5.400</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.260</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.28</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5980.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 185269 b</name>
 			<semimajoraxis>0.077000</semimajoraxis>

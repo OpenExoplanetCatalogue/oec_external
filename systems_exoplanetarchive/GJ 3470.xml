@@ -4,27 +4,29 @@
 	<declination>+15 23 29</declination>
 	<star>
 		<name>GJ 3470</name>
-		<radius errorminus="0.06" errorplus="0.06">0.50</radius>
+		<radius errorminus="0.04" errorplus="0.04">0.48</radius>
 		<magV errorminus="0.012" errorplus="0.012">12.330</magV>
 		<magI errorminus="0.013" errorplus="0.013">10.080</magI>
 		<magJ errorminus="0.025" errorplus="0.025">8.794</magJ>
 		<magH errorminus="0.022" errorplus="0.022">8.206</magH>
 		<magK errorminus="0.022" errorplus="0.022">7.989</magK>
-		<mass errorminus="0.07" errorplus="0.07">0.54</mass>
-		<temperature errorminus="200.00" errorplus="200.00">3600.00</temperature>
+		<mass errorminus="0.06" errorplus="0.06">0.51</mass>
+		<temperature errorminus="50.00" errorplus="50.00">3652.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>GJ 3470 b</name>
-			<semimajoraxis errorminus="-0.001400" errorplus="0.001400">0.034800</semimajoraxis>
-			<eccentricity>0.051000</eccentricity>
-			<inclination>88.800</inclination>
-			<period errorminus="-0.00017000" errorplus="0.00017000">3.33714000</period>
-			<mass errorminus="-0.00500" errorplus="0.00500">0.04400</mass>
-			<radius errorminus="-0.050" errorplus="0.050">0.370</radius>
-			<temperature errorminus="-16" errorplus="16">615</temperature>
+			<semimajoraxis errorminus="-0.002800" errorplus="0.002800">0.031000</semimajoraxis>
+			<eccentricity errorminus="-0.012000" errorplus="0.016000">0.017000</eccentricity>
+			<periastron errorminus="-1.2000" errorplus="0.9600">1.7000</periastron>
+			<inclination errorminus="-0.450" errorplus="0.620">88.880</inclination>
+			<period errorminus="-0.00000330" errorplus="0.00000430">3.33664870</period>
+			<mass errorminus="-0.00500" errorplus="0.00500">0.04300</mass>
+			<radius errorminus="-0.029" errorplus="0.029">0.346</radius>
+			<temperature errorminus="-98" errorplus="98">604</temperature>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>2013 02 04</lastupdate>
-			<transittime errorminus="-0.003400" errorplus="0.003400">2455953.664500</transittime>
+			<transittime errorminus="-0.000210" errorplus="0.000210">2455983.704720</transittime>
 		</planet>
 	</star>
 </system>
