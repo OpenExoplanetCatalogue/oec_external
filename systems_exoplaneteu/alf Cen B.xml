@@ -17,7 +17,7 @@
 			<mass errorminus="0.0003" errorplus="0.0003">0.0036</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>13/06/04</lastupdate>
+			<lastupdate>14/07/25</lastupdate>
 		</planet>
 	</star>
 </system>
