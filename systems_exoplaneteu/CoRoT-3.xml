@@ -6,11 +6,11 @@
 	<star>
 		<name>CoRoT-3</name>
 		<age>2.0</age>
-		<radius>1.56</radius>
-		<mass>1.37</mass>
+		<radius>1.44</radius>
+		<mass>1.41</mass>
 		<spectraltype>F3V</spectraltype>
-		<temperature>6740.0</temperature>
-		<metallicity>-0.02</metallicity>
+		<temperature>6558.0</temperature>
+		<metallicity>0.14</metallicity>
 		<planet>
 			<name>CoRoT-3 b</name>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.057</semimajoraxis>

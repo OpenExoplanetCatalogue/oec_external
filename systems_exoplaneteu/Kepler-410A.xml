@@ -6,10 +6,10 @@
 	<star>
 		<name>Kepler-410A</name>
 		<age>2.76</age>
-		<radius>1.352</radius>
-		<mass>1.214</mass>
-		<temperature>6273.0</temperature>
-		<metallicity>0.0</metallicity>
+		<radius>1.41</radius>
+		<mass>1.3</mass>
+		<temperature>6375.0</temperature>
+		<metallicity>0.09</metallicity>
 		<planet>
 			<name>Kepler-410A b</name>
 			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.1236</semimajoraxis>

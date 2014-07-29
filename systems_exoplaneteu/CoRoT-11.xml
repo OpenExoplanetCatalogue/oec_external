@@ -6,11 +6,11 @@
 	<star>
 		<name>CoRoT-11</name>
 		<age>2.0</age>
-		<radius>1.37</radius>
-		<mass>1.27</mass>
+		<radius>1.36</radius>
+		<mass>1.56</mass>
 		<spectraltype>F6V</spectraltype>
-		<temperature>6440.0</temperature>
-		<metallicity>-0.03</metallicity>
+		<temperature>6343.0</temperature>
+		<metallicity>0.04</metallicity>
 		<planet>
 			<name>CoRoT-11 b</name>
 			<semimajoraxis errorminus="0.00036" errorplus="0.00036">0.04351</semimajoraxis>

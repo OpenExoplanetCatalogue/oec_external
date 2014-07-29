@@ -6,11 +6,11 @@
 	<star>
 		<name>XO-3</name>
 		<age>2.82</age>
-		<radius>1.377</radius>
-		<mass>1.213</mass>
+		<radius>1.49</radius>
+		<mass>1.41</mass>
 		<spectraltype>F5V</spectraltype>
-		<temperature>6429.0</temperature>
-		<metallicity>-0.177</metallicity>
+		<temperature>6781.0</temperature>
+		<metallicity>-0.08</metallicity>
 		<planet>
 			<name>XO-3 b</name>
 			<semimajoraxis errorminus="0.00082" errorplus="0.00082">0.0454</semimajoraxis>

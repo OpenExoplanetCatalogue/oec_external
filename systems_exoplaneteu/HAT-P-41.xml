@@ -6,10 +6,10 @@
 	<star>
 		<name>HAT-P-41</name>
 		<age>2.2</age>
-		<radius>1.683</radius>
-		<mass>1.418</mass>
-		<temperature>6390.0</temperature>
-		<metallicity>0.21</metallicity>
+		<radius>1.19</radius>
+		<mass>1.28</mass>
+		<temperature>6479.0</temperature>
+		<metallicity>0.13</metallicity>
 		<planet>
 			<name>HAT-P-41 b</name>
 			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0426</semimajoraxis>

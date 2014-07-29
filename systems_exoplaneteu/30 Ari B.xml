@@ -6,11 +6,11 @@
 	<star>
 		<name>30 Ari B</name>
 		<age>0.91</age>
-		<radius>1.13</radius>
-		<mass>1.13</mass>
+		<radius>1.23</radius>
+		<mass>1.22</mass>
 		<spectraltype>F6V</spectraltype>
-		<temperature>6424.0</temperature>
-		<metallicity>0.07</metallicity>
+		<temperature>6484.0</temperature>
+		<metallicity>0.12</metallicity>
 		<planet>
 			<name>30 Ari B b</name>
 			<semimajoraxis errorminus="0.012" errorplus="0.012">0.995</semimajoraxis>

@@ -6,10 +6,10 @@
 	<star>
 		<name>HAT-P-34</name>
 		<age>1.7</age>
-		<radius>1.535</radius>
-		<mass>1.392</mass>
-		<temperature>6442.0</temperature>
-		<metallicity>0.22</metallicity>
+		<radius>1.45</radius>
+		<mass>1.36</mass>
+		<temperature>6509.0</temperature>
+		<metallicity>0.08</metallicity>
 		<planet>
 			<name>HAT-P-34 b</name>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0677</semimajoraxis>
