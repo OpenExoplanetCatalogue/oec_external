@@ -14,12 +14,13 @@
 		<planet>
 			<name>HATS-3 b</name>
 			<semimajoraxis errorminus="0.0006" errorplus="0.0004">0.0485</semimajoraxis>
+			<longitude errorminus="25.0" errorplus="25.0">3.0</longitude>
 			<period errorminus="5e-06" errorplus="5e-06">3.547851</period>
 			<mass errorminus="0.136" errorplus="0.136">1.071</mass>
 			<radius errorminus="0.035" errorplus="0.035">1.381</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/05/21</lastupdate>
+			<lastupdate>14/07/30</lastupdate>
 		</planet>
 	</star>
 </system>
