@@ -16,11 +16,11 @@
 			<eccentricity errorminus="0.001" errorplus="0.001">0.0626</eccentricity>
 			<inclination errorminus="0.7" errorplus="0.7">87.1</inclination>
 			<period errorminus="7e-05" errorplus="7e-05">19.22418</period>
-			<mass errorminus="0.00471950413743196" errorplus="0.00471950413743196">0.141899757732121</mass>
-			<radius errorminus="0.00892141836277699" errorplus="0.00892141836277699">0.990277438268246</radius>
+			<mass errorminus="0.00471950413743196" errorplus="0.00471950413743196">0.141899757732</mass>
+			<radius errorminus="0.00892141836277699" errorplus="0.00892141836277699">0.990277438268</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>14/03/07</lastupdate>
+			<lastupdate>14/08/16</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-9 c</name>
@@ -29,11 +29,11 @@
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0684</eccentricity>
 			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
 			<period errorminus="0.0002" errorplus="0.0002">39.03106</period>
-			<mass errorminus="0.00314633609162131" errorplus="0.00314633609162131">0.0975364188402605</mass>
-			<radius errorminus="0.00892141836277699" errorplus="0.00892141836277699">0.954591764817138</radius>
+			<mass errorminus="0.00314633609162131" errorplus="0.00314633609162131">0.0975364188403</mass>
+			<radius errorminus="0.00892141836277699" errorplus="0.00892141836277699">0.954591764817</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>14/03/07</lastupdate>
+			<lastupdate>14/08/16</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-9 d</name>

@@ -56,7 +56,7 @@
 			<radius errorminus="0.09" errorplus="0.09">0.078</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>13/08/30</lastupdate>
+			<lastupdate>14/08/16</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-20 f</name>

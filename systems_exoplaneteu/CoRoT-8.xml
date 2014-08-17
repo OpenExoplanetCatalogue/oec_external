@@ -17,11 +17,11 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.1" errorplus="0.1">88.4</inclination>
 			<period errorminus="3e-05" errorplus="3e-05">6.21229</period>
-			<mass errorminus="0.0339804297895101" errorplus="0.0339804297895101">0.215838655885222</mass>
-			<radius errorminus="0.0196271203981094" errorplus="0.0196271203981094">0.569186491545172</radius>
+			<mass errorminus="0.0339804297895101" errorplus="0.0339804297895101">0.215838655885</mass>
+			<radius errorminus="0.0196271203981094" errorplus="0.0196271203981094">0.569186491545</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>13/11/05</lastupdate>
+			<lastupdate>14/08/16</lastupdate>
 		</planet>
 	</star>
 </system>
