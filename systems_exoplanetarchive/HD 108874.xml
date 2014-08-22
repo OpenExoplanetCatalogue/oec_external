@@ -4,7 +4,6 @@
 	<declination>+22 52 47</declination>
 	<star>
 		<name>HD 108874</name>
-		<magV errorminus="0.014" errorplus="0.014">8.738</magV>
 		<magJ errorminus="0.020" errorplus="0.020">7.479</magJ>
 		<magH errorminus="0.029" errorplus="0.029">7.110</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.060</magK>

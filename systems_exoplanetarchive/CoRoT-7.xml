@@ -4,27 +4,27 @@
 	<declination>-01 03 47</declination>
 	<star>
 		<name>CoRoT-7</name>
-		<radius errorminus="0.04" errorplus="0.04">0.87</radius>
+		<radius errorminus="0.02" errorplus="0.02">0.82</radius>
 		<magV errorminus="0.008" errorplus="0.008">11.668</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.301</magJ>
 		<magH errorminus="0.020" errorplus="0.020">9.880</magH>
 		<magK errorminus="0.019" errorplus="0.019">9.806</magK>
-		<mass errorminus="0.03" errorplus="0.03">0.93</mass>
-		<temperature errorminus="75.00" errorplus="75.00">5275.00</temperature>
-		<metallicity>[M/H]</metallicity>
+		<mass errorminus="0.02" errorplus="0.02">0.91</mass>
+		<temperature errorminus="58.00" errorplus="58.00">5259.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>CoRoT-7 b</name>
-			<semimajoraxis errorminus="-0.000290" errorplus="0.000290">0.017200</semimajoraxis>
+			<semimajoraxis errorminus="-0.000170" errorplus="0.000170">0.017016</semimajoraxis>
 			<eccentricity>0.000000</eccentricity>
-			<periastron>180.0000</periastron>
-			<inclination errorminus="-0.300" errorplus="0.300">80.100</inclination>
-			<period errorminus="-0.00002400" errorplus="0.00002400">0.85358500</period>
+			<inclination errorminus="-0.230" errorplus="0.510">80.780</inclination>
+			<period errorminus="-0.00000058" errorplus="0.00000058">0.85359163</period>
 			<mass errorminus="-0.00300" errorplus="0.00300">0.01500</mass>
-			<radius errorminus="-0.008" errorplus="0.008">0.150</radius>
+			<radius errorminus="-0.006" errorplus="0.006">0.141</radius>
+			<temperature errorminus="-27" errorplus="27">1756</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>
-			<transittime errorminus="-0.001500" errorplus="0.001500">2454398.076700</transittime>
+			<transittime errorminus="-0.000740" errorplus="0.000450">2454398.077560</transittime>
 		</planet>
 		<planet>
 			<name>CoRoT-7 c</name>

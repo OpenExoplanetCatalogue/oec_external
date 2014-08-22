@@ -9,13 +9,16 @@
 		<magJ errorminus="0.284" errorplus="0.284">4.158</magJ>
 		<magH errorminus="0.206" errorplus="0.206">3.724</magH>
 		<magK errorminus="0.246" errorplus="0.246">3.683</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.08</mass>
+		<temperature errorminus="30.00" errorplus="30.00">5807.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 160691 b</name>
 			<semimajoraxis>1.497000</semimajoraxis>
 			<eccentricity errorminus="-0.017000" errorplus="0.017000">0.128000</eccentricity>
 			<periastron errorminus="-7.0000" errorplus="7.0000">22.0000</periastron>
 			<period errorminus="-0.90000000" errorplus="0.90000000">643.25000000</period>
-			<mass>1.67600</mass>
+			<mass>1.08000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
 			<lastupdate>2013 03 12</lastupdate>

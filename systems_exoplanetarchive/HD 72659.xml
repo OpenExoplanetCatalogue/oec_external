@@ -4,7 +4,6 @@
 	<declination>-01 34 06</declination>
 	<star>
 		<name>HD 72659</name>
-		<magV errorminus="0.011" errorplus="0.011">7.465</magV>
 		<magJ errorminus="0.019" errorplus="0.019">6.358</magJ>
 		<magH errorminus="0.027" errorplus="0.027">6.089</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.982</magK>

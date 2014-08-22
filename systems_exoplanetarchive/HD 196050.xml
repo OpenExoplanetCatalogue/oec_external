@@ -4,17 +4,20 @@
 	<declination>-60 38 04</declination>
 	<star>
 		<name>HD 196050</name>
-		<magV errorminus="0.010" errorplus="0.010">7.493</magV>
+		<magV>7.500</magV>
 		<magJ errorminus="0.021" errorplus="0.021">6.378</magJ>
 		<magH errorminus="0.033" errorplus="0.033">6.118</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.034</magK>
+		<mass>1.15</mass>
+		<temperature>5892.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 196050 b</name>
-			<semimajoraxis>2.500000</semimajoraxis>
-			<eccentricity>0.280000</eccentricity>
-			<periastron>223.0000</periastron>
-			<period>1289.00000000</period>
-			<mass>3.00000</mass>
+			<semimajoraxis errorminus="-0.150000" errorplus="0.150000">2.540000</semimajoraxis>
+			<eccentricity errorminus="-0.038000" errorplus="0.038000">0.228000</eccentricity>
+			<periastron errorminus="-12.0000" errorplus="12.0000">187.0000</periastron>
+			<period errorminus="-21.00000000" errorplus="21.00000000">1378.00000000</period>
+			<mass errorminus="-0.26000" errorplus="0.26000">2.90000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
 			<lastupdate>2013 04 01</lastupdate>

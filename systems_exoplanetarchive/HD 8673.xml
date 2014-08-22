@@ -4,7 +4,6 @@
 	<declination>+34 34 47</declination>
 	<star>
 		<name>HD 8673</name>
-		<magV errorminus="0.010" errorplus="0.010">6.341</magV>
 		<magJ errorminus="0.027" errorplus="0.027">5.440</magJ>
 		<magH errorminus="0.016" errorplus="0.016">5.224</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.169</magK>

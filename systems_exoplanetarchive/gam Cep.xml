@@ -5,7 +5,6 @@
 	<star>
 		<name>gam Cep</name>
 		<radius>4.90</radius>
-		<magV>3.210</magV>
 		<magJ errorminus="0.348" errorplus="0.348">1.661</magJ>
 		<magH errorminus="0.176" errorplus="0.176">1.190</magH>
 		<magK errorminus="0.206" errorplus="0.206">1.038</magK>

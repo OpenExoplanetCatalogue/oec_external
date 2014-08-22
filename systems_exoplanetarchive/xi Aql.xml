@@ -4,7 +4,6 @@
 	<declination>+08 27 41</declination>
 	<star>
 		<name>xi Aql</name>
-		<magV>4.680</magV>
 		<magI>3.689</magI>
 		<magJ errorminus="0.220" errorplus="0.220">2.852</magJ>
 		<magH errorminus="0.174" errorplus="0.174">2.367</magH>

@@ -11,16 +11,6 @@
 		<temperature errorminus="153.00" errorplus="153.00">5960.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-110 b</name>
-			<semimajoraxis>0.107000</semimajoraxis>
-			<period errorminus="-0.00003600" errorplus="0.00003600">12.69111200</period>
-			<radius errorminus="-0.032" errorplus="0.032">0.163</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001660" errorplus="0.001660">2454970.122960</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-110 c</name>
 			<semimajoraxis>0.198000</semimajoraxis>
 			<period errorminus="-0.00010400" errorplus="0.00010400">31.71977500</period>
@@ -29,6 +19,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.001770" errorplus="0.001770">2454975.820560</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-110 b</name>
+			<semimajoraxis>0.107000</semimajoraxis>
+			<period errorminus="-0.00003600" errorplus="0.00003600">12.69111200</period>
+			<radius errorminus="-0.032" errorplus="0.032">0.163</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001660" errorplus="0.001660">2454970.122960</transittime>
 		</planet>
 	</star>
 </system>

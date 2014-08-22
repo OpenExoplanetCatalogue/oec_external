@@ -5,6 +5,9 @@
 	<star>
 		<name>HD 240210</name>
 		<magV>8.330</magV>
+		<magJ errorminus="0.047" errorplus="0.047">5.306</magJ>
+		<magH errorminus="0.033" errorplus="0.033">4.587</magH>
+		<magK errorminus="0.015" errorplus="0.015">4.388</magK>
 		<planet>
 			<name>HD 240210 b</name>
 			<semimajoraxis>1.330000</semimajoraxis>

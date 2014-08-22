@@ -4,7 +4,6 @@
 	<declination>+20 43 51</declination>
 	<star>
 		<name>HD 37124</name>
-		<magV errorminus="0.013" errorplus="0.013">7.650</magV>
 		<magJ errorminus="0.020" errorplus="0.020">6.359</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.021</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.952</magK>

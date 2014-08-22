@@ -5,7 +5,6 @@
 	<star>
 		<name>XO-3</name>
 		<radius errorminus="0.08" errorplus="0.08">1.38</radius>
-		<magV errorminus="0.030" errorplus="0.030">9.800</magV>
 		<magJ errorminus="0.029" errorplus="0.029">9.013</magJ>
 		<magH errorminus="0.018" errorplus="0.018">8.845</magH>
 		<magK errorminus="0.019" errorplus="0.019">8.791</magK>

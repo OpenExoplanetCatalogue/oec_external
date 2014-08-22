@@ -4,7 +4,6 @@
 	<declination>+40 52 04</declination>
 	<star>
 		<name>HD 49674</name>
-		<magV errorminus="0.013" errorplus="0.013">8.097</magV>
 		<magJ errorminus="0.029" errorplus="0.029">6.835</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.523</magH>
 		<magK errorminus="0.016" errorplus="0.016">6.432</magK>
