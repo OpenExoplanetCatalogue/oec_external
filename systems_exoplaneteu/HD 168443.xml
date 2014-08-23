@@ -20,7 +20,7 @@
 			<mass errorminus="0.0975" errorplus="0.0975">7.659</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>1998</discoveryyear>
-			<lastupdate>13/05/20</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 168443 c</name>
@@ -32,7 +32,7 @@
 			<mass errorminus="0.21" errorplus="0.21">17.193</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2001</discoveryyear>
-			<lastupdate>13/05/20</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 	</star>
 </system>

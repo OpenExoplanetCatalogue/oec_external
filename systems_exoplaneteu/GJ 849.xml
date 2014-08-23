@@ -18,7 +18,7 @@
 			<mass errorminus="0.05" errorplus="0.05">0.9</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2006</discoveryyear>
-			<lastupdate>13/07/25</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 		<planet>
 			<name>GJ 849 c</name>
@@ -27,7 +27,7 @@
 			<mass>0.77</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/07/25</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 	</star>
 </system>

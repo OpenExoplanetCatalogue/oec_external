@@ -27,13 +27,13 @@
 		<planet>
 			<name>HAT-P-13 c</name>
 			<semimajoraxis errorminus="0.033" errorplus="0.033">1.186</semimajoraxis>
-			<periastron errorminus="0.45" errorplus="0.45">175.61</periastron>
-			<eccentricity errorminus="0.018" errorplus="0.018">0.666</eccentricity>
-			<period errorminus="1.0" errorplus="1.0">448.2</period>
-			<mass errorminus="1.0" errorplus="1.0">14.5</mass>
+			<periastron errorminus="0.35" errorplus="0.35">175.29</periastron>
+			<eccentricity errorminus="0.0054" errorplus="0.0054">0.6616</eccentricity>
+			<period errorminus="0.22" errorplus="0.22">446.27</period>
+			<mass errorminus="0.28" errorplus="0.28">14.28</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>11/02/04</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 	</star>
 </system>

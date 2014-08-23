@@ -12,16 +12,16 @@
 		<metallicity>-0.23</metallicity>
 		<planet>
 			<name>HD 97658 b</name>
-			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0796</semimajoraxis>
-			<periastron errorminus="66.0" errorplus="66.0">-9.0</periastron>
-			<eccentricity errorminus="0.044" errorplus="0.059">0.063</eccentricity>
-			<inclination errorminus="0.42" errorplus="0.37">89.45</inclination>
-			<period errorminus="0.0016" errorplus="0.0016">9.4909</period>
-			<mass errorminus="0.00229682534688355" errorplus="0.00229682534688355">0.0247302016801</mass>
-			<radius errorminus="0.0160585530529986" errorplus="0.0160585530529986">0.208761189689</radius>
+			<semimajoraxis errorminus="0.018" errorplus="0.0017">0.08</semimajoraxis>
+			<periastron errorminus="63.0" errorplus="65.0">71.0</periastron>
+			<eccentricity errorminus="0.053" errorplus="0.057">0.078</eccentricity>
+			<inclination errorminus="0.36" errorplus="0.52">89.14</inclination>
+			<period errorminus="0.0015" errorplus="0.0016">9.4903</period>
+			<mass errorminus="0.00248560551238083" errorplus="0.00261145895604568">0.0237548374917</mass>
+			<radius errorminus="0.00847534744463814" errorplus="0.00874298999552145">0.200464270612</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>14/05/27</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 	</star>
 </system>

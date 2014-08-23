@@ -12,14 +12,14 @@
 		<metallicity>0.08</metallicity>
 		<planet>
 			<name>Gl 785 b</name>
-			<semimajoraxis errorminus="0.005" errorplus="0.005">0.32</semimajoraxis>
-			<periastron errorminus="20.0" errorplus="20.0">173.0</periastron>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.13</eccentricity>
-			<period errorminus="0.1" errorplus="0.1">74.72</period>
-			<mass errorminus="0.0028" errorplus="0.0028">0.053</mass>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.319</semimajoraxis>
+			<periastron errorminus="19.0" errorplus="19.0">15.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.3</eccentricity>
+			<period errorminus="0.12" errorplus="0.12">74.39</period>
+			<mass errorminus="0.00629267218324261" errorplus="0.00629267218324261">0.0679608595790202</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>11/09/03</lastupdate>
+			<lastupdate>14/08/22</lastupdate>
 		</planet>
 	</star>
 </system>
