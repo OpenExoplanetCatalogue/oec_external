@@ -19,7 +19,7 @@
 			<mass errorminus="0.035" errorplus="0.035">0.865</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>14/08/22</lastupdate>
+			<lastupdate>14/08/25</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 13908 c</name>
@@ -30,7 +30,7 @@
 			<mass errorminus="0.25" errorplus="0.25">5.13</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/11/25</lastupdate>
+			<lastupdate>14/08/25</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -19,7 +19,7 @@
 			<mass errorminus="0.05" errorplus="0.05">1.13</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/11/25</lastupdate>
+			<lastupdate>14/08/25</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 159243 c</name>
@@ -30,7 +30,7 @@
 			<mass errorminus="0.13" errorplus="0.13">1.9</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/11/25</lastupdate>
+			<lastupdate>14/08/25</lastupdate>
 		</planet>
 	</star>
 </system>
