@@ -20,18 +20,18 @@
 			<mass errorminus="0.014" errorplus="0.014">0.259</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/07/05</lastupdate>
+			<lastupdate>14/08/26</lastupdate>
 		</planet>
 		<planet>
 			<name>XO-2S c</name>
 			<semimajoraxis errorminus="0.0087" errorplus="0.0087">0.4756</semimajoraxis>
 			<periastron errorminus="4.9" errorplus="4.9">264.5</periastron>
-			<eccentricity errorminus="0.0098" errorplus="0.0098">0.1528</eccentricity>
+			<eccentricity errorminus="0.0098" errorplus="0.0094">0.1528</eccentricity>
 			<period errorminus="0.34" errorplus="0.34">120.8</period>
 			<mass errorminus="0.053" errorplus="0.053">1.37</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/07/02</lastupdate>
+			<lastupdate>14/08/26</lastupdate>
 		</planet>
 	</star>
 </system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Gl 15 A</name>
+	<rightascension>00 18 23</rightascension>
+	<declination>+44 01 23</declination>
+	<distance>3.587</distance>
+	<star>
+		<name>Gl 15 A</name>
+		<radius>0.3863</radius>
+		<mass>0.375</mass>
+		<spectraltype>M2V</spectraltype>
+		<temperature>3567.0</temperature>
+		<metallicity>-0.32</metallicity>
+		<planet>
+			<name>Gl 15 A b</name>
+			<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.0717</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.0016" errorplus="0.0016">11.4433</period>
+			<mass errorminus="0.00235975206871598" errorplus="0.00235975206871598">0.016832898090174</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/08/26</lastupdate>
+		</planet>
+	</star>
+</system>
