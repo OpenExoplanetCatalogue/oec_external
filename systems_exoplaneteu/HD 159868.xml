@@ -19,7 +19,7 @@
 			<mass errorminus="0.11" errorplus="0.11">2.1</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
-			<lastupdate>12/05/15</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 		</planet>
 		<planet>
 			<name>HD 159868 c</name>
@@ -30,7 +30,7 @@
 			<mass errorminus="0.05" errorplus="0.05">0.73</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>12/05/15</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 		</planet>
 	</star>
 </system>

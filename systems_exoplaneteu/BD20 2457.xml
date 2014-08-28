@@ -18,7 +18,7 @@
 			<mass>21.42</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>14/01/14</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 		</planet>
 		<planet>
 			<name>BD20 2457 c</name>
@@ -29,7 +29,7 @@
 			<mass>12.47</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>09/06/10</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 		</planet>
 	</star>
 </system>

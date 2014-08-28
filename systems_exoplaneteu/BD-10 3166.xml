@@ -20,7 +20,7 @@
 			<mass errorminus="0.03" errorplus="0.03">0.48</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
-			<lastupdate>10/12/25</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 		</planet>
 	</star>
 </system>
