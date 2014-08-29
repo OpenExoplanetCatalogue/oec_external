@@ -1,0 +1,23 @@
+<system>
+	<name>HD 114762</name>
+	<rightascension>13 12 20</rightascension>
+	<declination>+17 31 02</declination>
+	<star>
+		<name>HD 114762</name>
+		<magV errorminus="0.013" errorplus="0.013">7.301</magV>
+		<magJ errorminus="0.025" errorplus="0.025">6.145</magJ>
+		<magH errorminus="0.017" errorplus="0.017">5.888</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.813</magK>
+		<planet>
+			<name>HD 114762 b</name>
+			<semimajoraxis errorminus="-0.021000" errorplus="0.021000">0.363000</semimajoraxis>
+			<eccentricity errorminus="-0.009100" errorplus="0.009100">0.335900</eccentricity>
+			<periastron errorminus="-1.4000" errorplus="1.4000">201.7000</periastron>
+			<period errorminus="-0.00860000" errorplus="0.00860000">83.88800000</period>
+			<mass errorminus="-0.96000" errorplus="0.96000">11.68000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1989</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+	</star>
+</system>

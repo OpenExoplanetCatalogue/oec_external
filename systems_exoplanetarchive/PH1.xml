@@ -1,0 +1,30 @@
+<system>
+	<name>PH1</name>
+	<rightascension>19 52 52</rightascension>
+	<declination>+39 57 18</declination>
+	<star>
+		<name>PH1</name>
+		<radius errorminus="0.04" errorplus="0.04">1.73</radius>
+		<magJ errorminus="0.023" errorplus="0.023">12.714</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.461</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.395</magK>
+		<mass errorminus="0.09" errorplus="0.09">1.53</mass>
+		<temperature errorminus="150.00" errorplus="150.00">6407.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>PH1 b</name>
+			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.652000</semimajoraxis>
+			<eccentricity errorminus="-0.003900" errorplus="0.002900">0.070200</eccentricity>
+			<periastron errorminus="-0.7000" errorplus="0.9700">341.8800</periastron>
+			<inclination errorminus="-0.053" errorplus="0.053">90.050</inclination>
+			<period errorminus="-0.02700000" errorplus="0.04000000">138.31700000</period>
+			<mass>0.53100</mass>
+			<radius errorminus="-0.015" errorplus="0.015">0.551</radius>
+			<temperature errorminus="-18" errorplus="18">481</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+			<transittime errorminus="-0.036000" errorplus="0.052000">2455074.490000</transittime>
+		</planet>
+	</star>
+</system>

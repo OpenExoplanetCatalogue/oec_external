@@ -1,0 +1,24 @@
+<system>
+	<name>HD 16417</name>
+	<rightascension>02 36 59</rightascension>
+	<declination>-34 34 41</declination>
+	<star>
+		<name>HD 16417</name>
+		<magV>5.790</magV>
+		<magI>5.085</magI>
+		<magJ errorminus="0.238" errorplus="0.238">4.596</magJ>
+		<magH errorminus="0.234" errorplus="0.234">4.185</magH>
+		<magK errorminus="0.018" errorplus="0.018">4.246</magK>
+		<planet>
+			<name>HD 16417 b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.140000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.200000</eccentricity>
+			<periastron errorminus="-26.0000" errorplus="26.0000">77.0000</periastron>
+			<period errorminus="-0.01000000" errorplus="0.01000000">17.24000000</period>
+			<mass errorminus="-0.00630" errorplus="0.00630">0.06960</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

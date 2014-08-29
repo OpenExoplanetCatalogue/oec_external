@@ -1,0 +1,75 @@
+<system>
+	<name>Kepler-33</name>
+	<rightascension>19 16 19</rightascension>
+	<declination>+46 00 19</declination>
+	<star>
+		<name>Kepler-33</name>
+		<radius errorminus="0.14" errorplus="0.14">1.82</radius>
+		<magJ errorminus="0.020" errorplus="0.020">12.871</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.620</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.591</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.29</mass>
+		<temperature errorminus="47.00" errorplus="47.00">5904.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-33 b</name>
+			<semimajoraxis errorminus="-0.001400" errorplus="0.001400">0.067700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.620" errorplus="0.960">86.390</inclination>
+			<period errorminus="-0.00012000" errorplus="0.00012000">5.66793000</period>
+			<radius errorminus="-0.016" errorplus="0.016">0.155</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.007500" errorplus="0.007500">2454964.898100</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-33 c</name>
+			<semimajoraxis errorminus="-0.002500" errorplus="0.002500">0.118900</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.060" errorplus="0.580">88.190</inclination>
+			<period errorminus="-0.00014000" errorplus="0.00014000">13.17562000</period>
+			<radius errorminus="-0.027" errorplus="0.027">0.285</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.004200" errorplus="0.004200">2454976.676400</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-33 d</name>
+			<semimajoraxis errorminus="-0.003500" errorplus="0.003500">0.166200</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.480" errorplus="0.610">88.710</inclination>
+			<period errorminus="-0.00011000" errorplus="0.00011000">21.77596000</period>
+			<radius errorminus="-0.044" errorplus="0.044">0.477</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.001800" errorplus="0.001800">2455022.634200</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-33 e</name>
+			<semimajoraxis errorminus="-0.004500" errorplus="0.004500">0.213800</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.350" errorplus="0.450">88.940</inclination>
+			<period errorminus="-0.00039000" errorplus="0.00039000">31.78440000</period>
+			<radius errorminus="-0.034" errorplus="0.034">0.359</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.004800" errorplus="0.004800">2454968.871500</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-33 f</name>
+			<semimajoraxis errorminus="-0.005400" errorplus="0.005400">0.253500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.420" errorplus="0.330">89.170</inclination>
+			<period errorminus="-0.00042000" errorplus="0.00042000">41.02902000</period>
+			<radius errorminus="-0.037" errorplus="0.037">0.398</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.004000" errorplus="0.004000">2455005.576300</transittime>
+		</planet>
+	</star>
+</system>

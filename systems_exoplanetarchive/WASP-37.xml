@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-37</name>
+	<rightascension>14 47 47</rightascension>
+	<declination>+01 03 54</declination>
+	<star>
+		<name>WASP-37</name>
+		<radius errorminus="0.05" errorplus="0.05">1.00</radius>
+		<magV errorminus="0.149" errorplus="0.149">12.704</magV>
+		<magJ errorminus="0.022" errorplus="0.022">11.499</magJ>
+		<magH errorminus="0.026" errorplus="0.026">11.181</magH>
+		<magK errorminus="0.023" errorplus="0.023">11.093</magK>
+		<mass errorminus="0.12" errorplus="0.12">0.93</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5800.00</temperature>
+		<planet>
+			<name>WASP-37 b</name>
+			<semimajoraxis errorminus="-0.001900" errorplus="0.001900">0.044600</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.860" errorplus="0.770">88.820</inclination>
+			<period errorminus="-0.00001100" errorplus="0.00001100">3.57746900</period>
+			<mass errorminus="-0.17000" errorplus="0.17000">1.80000</mass>
+			<radius errorminus="-0.060" errorplus="0.070">1.160</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000600" errorplus="0.000600">2455338.618800</transittime>
+		</planet>
+	</star>
+</system>

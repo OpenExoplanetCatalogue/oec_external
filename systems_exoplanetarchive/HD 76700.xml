@@ -1,0 +1,23 @@
+<system>
+	<name>HD 76700</name>
+	<rightascension>08 53 56</rightascension>
+	<declination>-66 48 04</declination>
+	<star>
+		<name>HD 76700</name>
+		<magV errorminus="0.012" errorplus="0.012">8.155</magV>
+		<magJ errorminus="0.023" errorplus="0.023">6.911</magJ>
+		<magH errorminus="0.036" errorplus="0.036">6.613</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.500</magK>
+		<planet>
+			<name>HD 76700 b</name>
+			<semimajoraxis errorminus="-0.004000" errorplus="0.004000">0.049000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.130000</eccentricity>
+			<periastron>24.0000</periastron>
+			<period errorminus="-0.00100000" errorplus="0.00100000">3.97100000</period>
+			<mass errorminus="-0.01700" errorplus="0.01700">0.19700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

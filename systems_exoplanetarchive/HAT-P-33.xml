@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-33</name>
+	<rightascension>07 32 44</rightascension>
+	<declination>+33 50 06</declination>
+	<star>
+		<name>HAT-P-33</name>
+		<radius errorminus="0.03" errorplus="0.03">1.64</radius>
+		<magV>11.188</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.263</magJ>
+		<magH errorminus="0.024" errorplus="0.024">10.061</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.004</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.38</mass>
+		<temperature errorminus="88.00" errorplus="88.00">6446.00</temperature>
+		<planet>
+			<name>HAT-P-33 b</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.049900</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="-0.100" errorplus="0.000">87.200</inclination>
+			<period errorminus="-0.00000100" errorplus="0.00000100">3.47447400</period>
+			<mass errorminus="-0.10100" errorplus="0.10100">0.76200</mass>
+			<radius errorminus="-0.045" errorplus="0.045">1.686</radius>
+			<temperature errorminus="-28" errorplus="28">1782</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000220" errorplus="0.000220">2455110.925950</transittime>
+		</planet>
+	</star>
+</system>

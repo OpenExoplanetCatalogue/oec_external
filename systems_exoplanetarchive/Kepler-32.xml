@@ -1,0 +1,68 @@
+<system>
+	<name>Kepler-32</name>
+	<rightascension>19 51 22</rightascension>
+	<declination>+46 34 27</declination>
+	<star>
+		<name>Kepler-32</name>
+		<radius errorminus="0.02" errorplus="0.02">0.53</radius>
+		<magV>16.452</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.616</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.901</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.757</magK>
+		<mass errorminus="0.02" errorplus="0.02">0.54</mass>
+		<temperature errorminus="80.00" errorplus="80.00">3793.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-32 c</name>
+			<semimajoraxis>0.090000</semimajoraxis>
+			<period errorminus="-0.00030000" errorplus="0.00030000">8.75220000</period>
+			<mass>0.50000</mass>
+			<radius errorminus="-0.018" errorplus="0.018">0.178</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+			<transittime errorminus="-0.013000" errorplus="0.013000">2454977.378000</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-32 d</name>
+			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.128000</semimajoraxis>
+			<period errorminus="-0.00050000" errorplus="0.00050000">22.78020000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.241</radius>
+			<temperature>340</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-32 e</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.032300</semimajoraxis>
+			<period errorminus="-0.00030000" errorplus="0.00030000">2.89600000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.134</radius>
+			<temperature>680</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-32 f</name>
+			<semimajoraxis errorminus="-0.000200" errorplus="0.000200">0.013000</semimajoraxis>
+			<period errorminus="-0.00007000" errorplus="0.00007000">0.74296000</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.072</radius>
+			<temperature>1100</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-32 b</name>
+			<semimajoraxis>0.050000</semimajoraxis>
+			<period errorminus="-0.00010000" errorplus="0.00010000">5.90124000</period>
+			<mass>4.10000</mass>
+			<radius errorminus="-0.018" errorplus="0.018">0.196</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+			<transittime errorminus="-0.008000" errorplus="0.008000">2454974.902000</transittime>
+		</planet>
+	</star>
+</system>

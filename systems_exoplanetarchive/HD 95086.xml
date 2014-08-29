@@ -1,0 +1,22 @@
+<system>
+	<name>HD 95086</name>
+	<rightascension>10 57 03</rightascension>
+	<declination>-68 40 02</declination>
+	<star>
+		<name>HD 95086</name>
+		<magV errorminus="0.010" errorplus="0.010">7.360</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.906</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.867</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.789</magK>
+		<mass>1.60</mass>
+		<planet>
+			<name>HD 95086 b</name>
+			<semimajoraxis errorminus="-2.500000" errorplus="2.500000">55.700000</semimajoraxis>
+			<mass errorminus="-2.00000" errorplus="2.00000">5.00000</mass>
+			<temperature errorminus="-200" errorplus="200">1000</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 03</lastupdate>
+		</planet>
+	</star>
+</system>

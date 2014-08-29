@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-38</name>
+	<rightascension>02 21 32</rightascension>
+	<declination>+32 14 46</declination>
+	<star>
+		<name>HAT-P-38</name>
+		<radius errorminus="0.10" errorplus="0.10">0.92</radius>
+		<magV errorminus="0.094" errorplus="0.094">12.557</magV>
+		<magJ errorminus="0.018" errorplus="0.018">10.989</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.593</magH>
+		<magK errorminus="0.014" errorplus="0.014">10.501</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.89</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5330.00</temperature>
+		<planet>
+			<name>HAT-P-38 b</name>
+			<semimajoraxis errorminus="-0.000900" errorplus="0.000900">0.052300</semimajoraxis>
+			<eccentricity errorminus="-0.047000" errorplus="0.047000">0.067000</eccentricity>
+			<periastron errorminus="-104.0000" errorplus="104.0000">240.0000</periastron>
+			<inclination errorminus="-0.700" errorplus="0.700">88.300</inclination>
+			<period errorminus="-0.00003200" errorplus="0.00003200">4.64038200</period>
+			<mass errorminus="-0.02000" errorplus="0.02000">0.26700</mass>
+			<radius errorminus="-0.063" errorplus="0.092">0.825</radius>
+			<temperature errorminus="-55" errorplus="55">1082</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000350" errorplus="0.000350">2455863.119570</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>HD 27631</name>
+	<rightascension>04 19 45</rightascension>
+	<declination>-41 57 37</declination>
+	<star>
+		<name>HD 27631</name>
+		<radius>1.00</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.243</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.023</magJ>
+		<magH errorminus="0.034" errorplus="0.034">6.719</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.646</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
+		<temperature errorminus="36.00" errorplus="36.00">5737.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 27631 b</name>
+			<semimajoraxis errorminus="-0.070000" errorplus="0.070000">3.250000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.120000</eccentricity>
+			<periastron errorminus="-44.0000" errorplus="44.0000">134.0000</periastron>
+			<period errorminus="-66.00000000" errorplus="66.00000000">2208.00000000</period>
+			<mass errorminus="-0.14000" errorplus="0.14000">1.45000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 29</lastupdate>
+		</planet>
+	</star>
+</system>

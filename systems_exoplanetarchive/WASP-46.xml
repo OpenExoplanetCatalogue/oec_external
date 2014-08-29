@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-46</name>
+	<rightascension>21 14 57</rightascension>
+	<declination>-55 52 18</declination>
+	<star>
+		<name>WASP-46</name>
+		<radius errorminus="0.03" errorplus="0.03">0.92</radius>
+		<magV>12.900</magV>
+		<magJ errorminus="0.023" errorplus="0.023">11.753</magJ>
+		<magH errorminus="0.025" errorplus="0.025">11.465</magH>
+		<magK errorminus="0.026" errorplus="0.026">11.401</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.96</mass>
+		<temperature errorminus="160.00" errorplus="160.00">5620.00</temperature>
+		<planet>
+			<name>WASP-46 b</name>
+			<semimajoraxis errorminus="-0.000280" errorplus="0.000280">0.024480</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.380" errorplus="0.380">82.630</inclination>
+			<period errorminus="-0.00000230" errorplus="0.00000230">1.43037000</period>
+			<mass errorminus="-0.07300" errorplus="0.07300">2.10100</mass>
+			<radius errorminus="-0.051" errorplus="0.051">1.310</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000200" errorplus="0.000200">2455392.315530</transittime>
+		</planet>
+	</star>
+</system>

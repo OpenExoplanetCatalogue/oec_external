@@ -1,0 +1,48 @@
+<system>
+	<name>GJ 676 A</name>
+	<rightascension>17 30 11</rightascension>
+	<declination>-51 38 13</declination>
+	<star>
+		<name>GJ 676 A</name>
+		<magV errorminus="0.009" errorplus="0.009">9.580</magV>
+		<magI errorminus="0.008" errorplus="0.008">7.730</magI>
+		<magJ errorminus="0.020" errorplus="0.020">6.711</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.082</magH>
+		<magK errorminus="0.029" errorplus="0.029">5.825</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.71</mass>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 676 A b</name>
+			<semimajoraxis errorminus="-0.070000" errorplus="0.070000">1.800000</semimajoraxis>
+			<eccentricity errorminus="-0.004000" errorplus="0.004000">0.328000</eccentricity>
+			<periastron errorminus="-0.6880" errorplus="0.6880">87.3760</periastron>
+			<period errorminus="-1.20000000" errorplus="1.20000000">1050.30000000</period>
+			<mass errorminus="-0.31000" errorplus="0.31000">4.95000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 27</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 676 A d</name>
+			<semimajoraxis errorminus="-0.001400" errorplus="0.001400">0.041300</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.150000</eccentricity>
+			<periastron errorminus="-108.9000" errorplus="108.9000">315.1000</periastron>
+			<period errorminus="-0.00080000" errorplus="0.00080000">3.60000000</period>
+			<mass errorminus="-0.00200" errorplus="0.00200">0.01400</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 27</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 676 A e</name>
+			<semimajoraxis errorminus="-0.007000" errorplus="0.007000">0.187000</semimajoraxis>
+			<eccentricity errorminus="-0.120000" errorplus="0.120000">0.240000</eccentricity>
+			<periastron errorminus="-126.1000" errorplus="126.1000">332.3000</periastron>
+			<period errorminus="-0.07000000" errorplus="0.07000000">35.37000000</period>
+			<mass errorminus="-0.00500" errorplus="0.00500">0.03600</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 27</lastupdate>
+		</planet>
+	</star>
+</system>

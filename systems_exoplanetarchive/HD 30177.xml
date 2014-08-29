@@ -1,0 +1,23 @@
+<system>
+	<name>HD 30177</name>
+	<rightascension>04 41 54</rightascension>
+	<declination>-58 01 15</declination>
+	<star>
+		<name>HD 30177</name>
+		<magV errorminus="0.013" errorplus="0.013">8.374</magV>
+		<magJ errorminus="0.035" errorplus="0.035">7.150</magJ>
+		<magH errorminus="0.053" errorplus="0.053">6.829</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.715</magK>
+		<planet>
+			<name>HD 30177 b</name>
+			<semimajoraxis errorminus="-0.900000" errorplus="0.900000">3.860000</semimajoraxis>
+			<eccentricity errorminus="-0.170000" errorplus="0.170000">0.300000</eccentricity>
+			<periastron>13.0000</periastron>
+			<period errorminus="-800.00000000" errorplus="800.00000000">2819.65400000</period>
+			<mass errorminus="-1.50000" errorplus="1.50000">9.17000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

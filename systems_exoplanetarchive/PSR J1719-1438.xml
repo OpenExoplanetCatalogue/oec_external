@@ -1,0 +1,21 @@
+<system>
+	<name>PSR J1719-1438</name>
+	<rightascension>17 19 10</rightascension>
+	<declination>-14 38 01</declination>
+	<star>
+		<name>PSR J1719-1438</name>
+		<radius>0.04</radius>
+		<mass>1.40</mass>
+		<temperature>4500.00</temperature>
+		<planet>
+			<name>PSR J1719-1438 b</name>
+			<semimajoraxis>0.004400</semimajoraxis>
+			<eccentricity>0.060000</eccentricity>
+			<period errorminus="-0.00000000" errorplus="0.00000000">0.09070629</period>
+			<mass>1.20000</mass>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 10 01</lastupdate>
+		</planet>
+	</star>
+</system>

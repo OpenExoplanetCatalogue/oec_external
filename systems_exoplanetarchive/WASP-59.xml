@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-59</name>
+	<rightascension>23 18 30</rightascension>
+	<declination>+24 53 21</declination>
+	<star>
+		<name>WASP-59</name>
+		<radius errorminus="0.04" errorplus="0.04">0.61</radius>
+		<magV>13.000</magV>
+		<magJ errorminus="0.016" errorplus="0.016">10.440</magJ>
+		<magH errorminus="0.021" errorplus="0.021">9.878</magH>
+		<magK errorminus="0.016" errorplus="0.016">9.723</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.72</mass>
+		<temperature errorminus="150.00" errorplus="150.00">4650.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-59 b</name>
+			<semimajoraxis errorminus="-0.001100" errorplus="0.001100">0.069700</semimajoraxis>
+			<eccentricity errorminus="-0.042000" errorplus="0.042000">0.100000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">74.0000</periastron>
+			<inclination errorminus="-0.520" errorplus="0.520">89.270</inclination>
+			<period errorminus="-0.00001000" errorplus="0.00001000">7.91958500</period>
+			<mass errorminus="-0.04500" errorplus="0.04500">0.86300</mass>
+			<radius errorminus="-0.068" errorplus="0.068">0.775</radius>
+			<temperature errorminus="-35" errorplus="35">670</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 13</lastupdate>
+			<transittime errorminus="-0.000530" errorplus="0.000530">2455830.955590</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,18 @@
+<system>
+	<name>PSR B1620-26</name>
+	<rightascension>16 23 38</rightascension>
+	<declination>-26 31 54</declination>
+	<star>
+		<name>PSR B1620-26</name>
+		<planet>
+			<name>PSR B1620-26 b</name>
+			<semimajoraxis>23.000000</semimajoraxis>
+			<inclination>55.000</inclination>
+			<period>36525.00000000</period>
+			<mass errorminus="-1.00000" errorplus="1.00000">2.50000</mass>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

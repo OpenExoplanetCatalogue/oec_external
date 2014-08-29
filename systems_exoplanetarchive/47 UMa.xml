@@ -1,0 +1,49 @@
+<system>
+	<name>47 UMa</name>
+	<rightascension>10 59 28</rightascension>
+	<declination>+40 25 49</declination>
+	<star>
+		<name>47 UMa</name>
+		<radius>1.23</radius>
+		<magV>5.050</magV>
+		<magJ errorminus="0.296" errorplus="0.296">3.960</magJ>
+		<magH errorminus="0.224" errorplus="0.224">3.736</magH>
+		<magK errorminus="0.340" errorplus="0.340">3.750</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.03</mass>
+		<temperature errorminus="70.00" errorplus="70.00">5892.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>47 UMa b</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">2.100000</semimajoraxis>
+			<eccentricity errorminus="-0.014000" errorplus="0.014000">0.032000</eccentricity>
+			<periastron errorminus="-23.0000" errorplus="23.0000">334.0000</periastron>
+			<period errorminus="-2.00000000" errorplus="2.00000000">1078.00000000</period>
+			<mass errorminus="-0.06000" errorplus="0.07000">2.53000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>47 UMa c</name>
+			<semimajoraxis errorminus="-0.100000" errorplus="0.100000">3.600000</semimajoraxis>
+			<eccentricity errorminus="-0.096000" errorplus="0.047000">0.098000</eccentricity>
+			<periastron errorminus="-160.0000" errorplus="114.0000">295.0000</periastron>
+			<period errorminus="-87.00000000" errorplus="100.00000000">2391.00000000</period>
+			<mass errorminus="-0.07300" errorplus="0.06600">0.54000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>47 UMa d</name>
+			<semimajoraxis errorminus="-2.900000" errorplus="2.100000">11.600000</semimajoraxis>
+			<eccentricity errorminus="-0.160000" errorplus="0.090000">0.160000</eccentricity>
+			<periastron errorminus="-160.0000" errorplus="132.0000">110.0000</periastron>
+			<period errorminus="-5095.00000000" errorplus="4018.00000000">14002.00000000</period>
+			<mass errorminus="-0.48000" errorplus="0.29000">1.64000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

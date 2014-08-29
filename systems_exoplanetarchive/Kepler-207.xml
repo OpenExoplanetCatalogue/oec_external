@@ -21,16 +21,6 @@
 			<transittime errorminus="-0.002260" errorplus="0.002260">2454966.570410</transittime>
 		</planet>
 		<planet>
-			<name>Kepler-207 c</name>
-			<semimajoraxis>0.044000</semimajoraxis>
-			<period errorminus="-0.00001600" errorplus="0.00001600">3.07157100</period>
-			<radius errorminus="-0.026" errorplus="0.026">0.134</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.002950" errorplus="0.002950">2454966.304250</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-207 d</name>
 			<semimajoraxis>0.068000</semimajoraxis>
 			<period errorminus="-0.00000900" errorplus="0.00000900">5.86807500</period>
@@ -39,6 +29,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.000910" errorplus="0.000910">2455003.322430</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-207 c</name>
+			<semimajoraxis>0.044000</semimajoraxis>
+			<period errorminus="-0.00001600" errorplus="0.00001600">3.07157100</period>
+			<radius errorminus="-0.026" errorplus="0.026">0.134</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002950" errorplus="0.002950">2454966.304250</transittime>
 		</planet>
 	</star>
 </system>

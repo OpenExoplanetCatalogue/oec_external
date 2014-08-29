@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-39</name>
+	<rightascension>07 35 02</rightascension>
+	<declination>+17 49 48</declination>
+	<star>
+		<name>HAT-P-39</name>
+		<radius errorminus="0.08" errorplus="0.08">1.62</radius>
+		<magV>12.422</magV>
+		<magJ errorminus="0.020" errorplus="0.020">11.424</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.184</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.157</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.40</mass>
+		<temperature errorminus="100.00" errorplus="100.00">6430.00</temperature>
+		<planet>
+			<name>HAT-P-39 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.050900</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.000" errorplus="1.000">87.000</inclination>
+			<period errorminus="-0.00000500" errorplus="0.00000500">3.54387000</period>
+			<mass errorminus="-0.09900" errorplus="0.09900">0.59900</mass>
+			<radius errorminus="-0.081" errorplus="0.108">1.571</radius>
+			<temperature errorminus="-43" errorplus="43">1752</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000410" errorplus="0.000410">2455208.750490</transittime>
+		</planet>
+	</star>
+</system>

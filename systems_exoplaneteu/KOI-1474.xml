@@ -1,0 +1,37 @@
+<system>
+	<name>KOI-1474</name>
+	<rightascension>19 41 40</rightascension>
+	<declination>+51 11 05</declination>
+	<star>
+		<name>KOI-1474</name>
+		<age>2.8</age>
+		<radius>1.4</radius>
+		<mass>1.22</mass>
+		<temperature>6230.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-419 b</name>
+			<semimajoraxis errorminus="0.006" errorplus="0.007">0.37</semimajoraxis>
+			<periastron errorminus="1.2" errorplus="1.0">95.2</periastron>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.833</eccentricity>
+			<inclination errorminus="0.17" errorplus="0.14">88.95</inclination>
+			<period errorminus="0.009" errorplus="0.0007">69.7546</period>
+			<mass errorminus="0.3" errorplus="0.3">2.5</mass>
+			<radius errorminus="0.21" errorplus="0.13">0.85</radius>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/08/28</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-419 c</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.68</semimajoraxis>
+			<periastron errorminus="1.0" errorplus="1.2">275.3</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.184</eccentricity>
+			<inclination errorminus="2.0" errorplus="3.0">88.0</inclination>
+			<period errorminus="0.11" errorplus="0.11">675.47</period>
+			<mass errorminus="0.4" errorplus="0.4">7.3</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/08/28</lastupdate>
+		</planet>
+	</star>
+</system>

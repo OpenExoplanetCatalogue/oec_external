@@ -1,0 +1,23 @@
+<system>
+	<name>HD 137388 A</name>
+	<rightascension>15 35 40</rightascension>
+	<declination>-80 12 17</declination>
+	<star>
+		<name>HD 137388 A</name>
+		<magV errorminus="0.013" errorplus="0.013">8.696</magV>
+		<magJ errorminus="0.024" errorplus="0.024">7.230</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.867</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.763</magK>
+		<planet>
+			<name>HD 137388 A b</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">0.890000</semimajoraxis>
+			<eccentricity errorminus="-0.120000" errorplus="0.120000">0.360000</eccentricity>
+			<periastron errorminus="-35.0000" errorplus="23.0000">86.0000</periastron>
+			<period errorminus="-4.00000000" errorplus="2.00000000">330.00000000</period>
+			<mass errorminus="-0.02900" errorplus="0.02900">0.22300</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

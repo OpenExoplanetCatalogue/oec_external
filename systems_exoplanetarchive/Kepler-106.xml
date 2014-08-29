@@ -12,26 +12,6 @@
 		<temperature errorminus="114.00" errorplus="114.00">5858.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-106 b</name>
-			<period>6.16486000</period>
-			<mass errorminus="-0.00880" errorplus="0.00880">0.00050</mass>
-			<radius errorminus="-0.010" errorplus="0.010">0.073</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 01 03</lastupdate>
-			<transittime>2454968.640350</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-106 c</name>
-			<period>13.57080000</period>
-			<mass errorminus="-0.01000" errorplus="0.01000">0.03300</mass>
-			<radius errorminus="-0.029" errorplus="0.029">0.223</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 01 03</lastupdate>
-			<transittime>2454969.278370</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-106 d</name>
 			<period>23.98020000</period>
 			<mass>0.02500</mass>
@@ -50,6 +30,26 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 01 03</lastupdate>
 			<transittime>2454984.933600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-106 b</name>
+			<period>6.16486000</period>
+			<mass errorminus="-0.00880" errorplus="0.00880">0.00050</mass>
+			<radius errorminus="-0.010" errorplus="0.010">0.073</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454968.640350</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-106 c</name>
+			<period>13.57080000</period>
+			<mass errorminus="-0.01000" errorplus="0.01000">0.03300</mass>
+			<radius errorminus="-0.029" errorplus="0.029">0.223</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454969.278370</transittime>
 		</planet>
 	</star>
 </system>

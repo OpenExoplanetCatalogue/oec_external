@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-158</name>
+	<rightascension>18 56 08</rightascension>
+	<declination>+39 46 53</declination>
+	<star>
+		<name>Kepler-158</name>
+		<radius errorminus="0.08" errorplus="0.08">0.62</radius>
+		<magJ errorminus="0.023" errorplus="0.023">12.722</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.138</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.057</magK>
+		<temperature errorminus="200.00" errorplus="200.00">4623.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-158 b</name>
+			<semimajoraxis>0.111000</semimajoraxis>
+			<period errorminus="-0.00006400" errorplus="0.00006400">16.70918400</period>
+			<radius errorminus="-0.032" errorplus="0.032">0.189</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001930" errorplus="0.001930">2455007.755610</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-158 c</name>
+			<semimajoraxis>0.158000</semimajoraxis>
+			<period errorminus="-0.00014000" errorplus="0.00014000">28.55138300</period>
+			<radius errorminus="-0.027" errorplus="0.027">0.170</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002470" errorplus="0.002470">2455018.476780</transittime>
+		</planet>
+	</star>
+</system>

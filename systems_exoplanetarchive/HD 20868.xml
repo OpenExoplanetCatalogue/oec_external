@@ -1,0 +1,23 @@
+<system>
+	<name>HD 20868</name>
+	<rightascension>03 20 43</rightascension>
+	<declination>-33 43 48</declination>
+	<star>
+		<name>HD 20868</name>
+		<magV errorminus="0.026" errorplus="0.026">9.928</magV>
+		<magJ errorminus="0.032" errorplus="0.032">8.138</magJ>
+		<magH errorminus="0.031" errorplus="0.031">7.641</magH>
+		<magK errorminus="0.015" errorplus="0.015">7.543</magK>
+		<planet>
+			<name>HD 20868 b</name>
+			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.947000</semimajoraxis>
+			<eccentricity errorminus="-0.002000" errorplus="0.002000">0.750000</eccentricity>
+			<periastron errorminus="-0.4000" errorplus="0.4000">356.2000</periastron>
+			<period errorminus="-0.09000000" errorplus="0.09000000">380.85000000</period>
+			<mass errorminus="-0.05000" errorplus="0.05000">1.99000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

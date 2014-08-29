@@ -1,0 +1,23 @@
+<system>
+	<name>HD 81688</name>
+	<rightascension>09 28 40</rightascension>
+	<declination>+45 36 05</declination>
+	<star>
+		<name>HD 81688</name>
+		<magV errorminus="0.009" errorplus="0.009">5.393</magV>
+		<magJ errorminus="0.294" errorplus="0.294">3.799</magJ>
+		<magH errorminus="0.218" errorplus="0.218">3.269</magH>
+		<magK errorminus="0.352" errorplus="0.352">3.056</magK>
+		<planet>
+			<name>HD 81688 b</name>
+			<semimajoraxis>0.810000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<period errorminus="-0.18000000" errorplus="0.18000000">184.02000000</period>
+			<mass>2.70000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

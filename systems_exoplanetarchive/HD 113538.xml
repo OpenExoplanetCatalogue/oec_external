@@ -1,0 +1,35 @@
+<system>
+	<name>HD 113538</name>
+	<rightascension>13 04 57</rightascension>
+	<declination>-52 26 35</declination>
+	<star>
+		<name>HD 113538</name>
+		<magV errorminus="0.009" errorplus="0.009">9.070</magV>
+		<magI errorminus="0.008" errorplus="0.008">7.410</magI>
+		<magJ errorminus="0.021" errorplus="0.021">6.438</magJ>
+		<magH errorminus="0.042" errorplus="0.042">5.835</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.637</magK>
+		<planet>
+			<name>HD 113538 b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.710000</semimajoraxis>
+			<eccentricity errorminus="-0.110000" errorplus="0.110000">0.610000</eccentricity>
+			<periastron errorminus="-20.0000" errorplus="20.0000">74.0000</periastron>
+			<period errorminus="-2.30000000" errorplus="2.30000000">263.30000000</period>
+			<mass errorminus="-0.08000" errorplus="0.08000">0.27000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 113538 c</name>
+			<semimajoraxis errorminus="-0.060000" errorplus="0.060000">2.430000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.320000</eccentricity>
+			<periastron errorminus="-21.0000" errorplus="21.0000">270.0000</periastron>
+			<period errorminus="-48.00000000" errorplus="48.00000000">1657.00000000</period>
+			<mass errorminus="-0.06000" errorplus="0.06000">0.71000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+	</star>
+</system>

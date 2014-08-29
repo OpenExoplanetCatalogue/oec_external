@@ -1,0 +1,26 @@
+<system>
+	<name>6 Lyn</name>
+	<rightascension>06 30 47</rightascension>
+	<declination>+58 09 46</declination>
+	<star>
+		<name>6 Lyn</name>
+		<radius errorminus="0.40" errorplus="0.40">5.20</radius>
+		<magJ errorminus="0.254" errorplus="0.254">4.272</magJ>
+		<magH errorminus="0.252" errorplus="0.252">3.825</magH>
+		<magK errorminus="0.300" errorplus="0.300">3.701</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.70</mass>
+		<temperature errorminus="18.00" errorplus="18.00">4978.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>6 Lyn b</name>
+			<semimajoraxis errorminus="-0.060000" errorplus="0.050000">2.180000</semimajoraxis>
+			<eccentricity>0.059000</eccentricity>
+			<periastron errorminus="-52.6000" errorplus="75.5000">314.9000</periastron>
+			<period errorminus="-8.47000000" errorplus="16.27000000">874.77400000</period>
+			<mass errorminus="-0.16000" errorplus="0.11000">2.21000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

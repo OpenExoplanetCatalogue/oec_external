@@ -1,0 +1,28 @@
+<system>
+	<name>7 CMa</name>
+	<rightascension>06 36 41</rightascension>
+	<declination>-19 15 21</declination>
+	<star>
+		<name>7 CMa</name>
+		<radius errorminus="0.10" errorplus="0.10">2.30</radius>
+		<magV>3.920</magV>
+		<magI>2.935</magI>
+		<magJ errorminus="0.244" errorplus="0.244">2.173</magJ>
+		<magH errorminus="0.234" errorplus="0.234">1.679</magH>
+		<magK errorminus="0.252" errorplus="0.252">1.564</magK>
+		<mass errorminus="0.30" errorplus="0.30">1.52</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4792.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>7 CMa b</name>
+			<semimajoraxis errorminus="-0.100000" errorplus="0.100000">1.900000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.140000</eccentricity>
+			<periastron errorminus="-41.0000" errorplus="41.0000">12.0000</periastron>
+			<period errorminus="-17.00000000" errorplus="17.00000000">763.00000000</period>
+			<mass errorminus="-0.60000" errorplus="0.60000">2.60000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

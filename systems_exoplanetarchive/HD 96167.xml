@@ -1,0 +1,23 @@
+<system>
+	<name>HD 96167</name>
+	<rightascension>11 05 15</rightascension>
+	<declination>-10 17 29</declination>
+	<star>
+		<name>HD 96167</name>
+		<magV errorminus="0.014" errorplus="0.014">8.080</magV>
+		<magJ errorminus="0.030" errorplus="0.030">6.926</magJ>
+		<magH errorminus="0.057" errorplus="0.057">6.621</magH>
+		<magK errorminus="0.036" errorplus="0.036">6.554</magK>
+		<planet>
+			<name>HD 96167 b</name>
+			<semimajoraxis errorminus="-0.070000" errorplus="0.070000">1.300000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.710000</eccentricity>
+			<periastron errorminus="-7.0000" errorplus="7.0000">285.0000</periastron>
+			<period errorminus="-1.00000000" errorplus="1.00000000">498.90000000</period>
+			<mass errorminus="-0.18000" errorplus="0.18000">0.68000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

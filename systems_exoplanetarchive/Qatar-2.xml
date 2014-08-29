@@ -1,0 +1,28 @@
+<system>
+	<name>Qatar-2</name>
+	<rightascension>13 50 37</rightascension>
+	<declination>-06 48 15</declination>
+	<star>
+		<name>Qatar-2</name>
+		<radius errorminus="0.02" errorplus="0.02">0.71</radius>
+		<magV>13.300</magV>
+		<magJ errorminus="0.026" errorplus="0.026">11.350</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.794</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.619</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.74</mass>
+		<temperature errorminus="50.00" errorplus="50.00">4645.00</temperature>
+		<planet>
+			<name>Qatar-2 b</name>
+			<semimajoraxis errorminus="-0.000360" errorplus="0.000360">0.021490</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.940" errorplus="0.940">88.300</inclination>
+			<period errorminus="-0.00000370" errorplus="0.00000370">1.33711820</period>
+			<mass errorminus="-0.08600" errorplus="0.08600">2.48700</mass>
+			<radius errorminus="-0.035" errorplus="0.035">1.144</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000110" errorplus="0.000110">2455624.266790</transittime>
+		</planet>
+	</star>
+</system>

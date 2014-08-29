@@ -1,0 +1,21 @@
+<system>
+	<name>ROXs 42 B</name>
+	<rightascension>16 31 15</rightascension>
+	<declination>-24 32 44</declination>
+	<star>
+		<name>ROXs 42 B</name>
+		<magJ errorminus="0.021" errorplus="0.021">9.906</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.017</magH>
+		<magK errorminus="0.021" errorplus="0.021">8.671</magK>
+		<mass>1.00</mass>
+		<planet>
+			<name>ROXs 42 B b</name>
+			<semimajoraxis>157.000000</semimajoraxis>
+			<mass errorminus="-3.00000" errorplus="3.00000">9.00000</mass>
+			<temperature errorminus="-25" errorplus="25">1975</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 11 18</lastupdate>
+		</planet>
+	</star>
+</system>

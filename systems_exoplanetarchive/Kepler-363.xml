@@ -12,16 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5593.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-363 b</name>
-			<semimajoraxis>0.048000</semimajoraxis>
-			<period errorminus="-0.00005300" errorplus="0.00005300">3.61456800</period>
-			<radius errorminus="-0.017" errorplus="0.017">0.103</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.008520" errorplus="0.008520">2454967.696560</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-363 c</name>
 			<semimajoraxis>0.079000</semimajoraxis>
 			<period errorminus="-0.00005800" errorplus="0.00005800">7.54242700</period>
@@ -40,6 +30,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.004430" errorplus="0.004430">2454975.105320</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-363 b</name>
+			<semimajoraxis>0.048000</semimajoraxis>
+			<period errorminus="-0.00005300" errorplus="0.00005300">3.61456800</period>
+			<radius errorminus="-0.017" errorplus="0.017">0.103</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.008520" errorplus="0.008520">2454967.696560</transittime>
 		</planet>
 	</star>
 </system>

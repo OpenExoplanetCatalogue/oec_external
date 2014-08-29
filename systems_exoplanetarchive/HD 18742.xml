@@ -1,0 +1,23 @@
+<system>
+	<name>HD 18742</name>
+	<rightascension>03 00 11</rightascension>
+	<declination>-20 48 09</declination>
+	<star>
+		<name>HD 18742</name>
+		<magV errorminus="0.012" errorplus="0.012">7.814</magV>
+		<magJ errorminus="0.027" errorplus="0.027">6.177</magJ>
+		<magH errorminus="0.042" errorplus="0.042">5.705</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.554</magK>
+		<planet>
+			<name>HD 18742 b</name>
+			<semimajoraxis errorminus="-0.050000" errorplus="0.050000">1.920000</semimajoraxis>
+			<eccentricity>0.120000</eccentricity>
+			<periastron errorminus="-50.0000" errorplus="50.0000">107.0000</periastron>
+			<period errorminus="-11.00000000" errorplus="11.00000000">772.00000000</period>
+			<mass errorminus="-0.30000" errorplus="0.30000">2.70000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>GJ 436</name>
+	<rightascension>11 42 11</rightascension>
+	<declination>+26 42 24</declination>
+	<star>
+		<name>GJ 436</name>
+		<radius errorminus="0.01" errorplus="0.01">0.46</radius>
+		<magV errorminus="0.020" errorplus="0.020">10.650</magV>
+		<magI errorminus="0.025" errorplus="0.025">8.250</magI>
+		<magJ errorminus="0.024" errorplus="0.024">6.900</magJ>
+		<magH errorminus="0.022" errorplus="0.022">6.319</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.073</magK>
+		<mass errorminus="0.01" errorplus="0.01">0.45</mass>
+		<temperature errorminus="300.00" errorplus="300.00">3350.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 436 b</name>
+			<semimajoraxis errorminus="-0.000260" errorplus="0.000290">0.028720</semimajoraxis>
+			<inclination errorminus="-0.170" errorplus="0.160">86.360</inclination>
+			<period>2.64385000</period>
+			<mass errorminus="-0.00250" errorplus="0.00250">0.07290</mass>
+			<radius errorminus="-0.009" errorplus="0.008">0.377</radius>
+			<temperature errorminus="-60" errorplus="60">649</temperature>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 02 04</lastupdate>
+		</planet>
+	</star>
+</system>

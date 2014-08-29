@@ -12,16 +12,6 @@
 		<temperature errorminus="200.00" errorplus="200.00">6402.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-394 c</name>
-			<semimajoraxis>0.110000</semimajoraxis>
-			<period errorminus="-0.00018000" errorplus="0.00018000">12.13068600</period>
-			<radius errorminus="-0.077" errorplus="0.077">0.148</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.009180" errorplus="0.009180">2454972.897290</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-394 b</name>
 			<semimajoraxis>0.083000</semimajoraxis>
 			<period errorminus="-0.00009000" errorplus="0.00009000">8.00501300</period>
@@ -30,6 +20,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.006870" errorplus="0.006870">2454971.710690</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-394 c</name>
+			<semimajoraxis>0.110000</semimajoraxis>
+			<period errorminus="-0.00018000" errorplus="0.00018000">12.13068600</period>
+			<radius errorminus="-0.077" errorplus="0.077">0.148</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009180" errorplus="0.009180">2454972.897290</transittime>
 		</planet>
 	</star>
 </system>

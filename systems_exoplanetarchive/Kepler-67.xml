@@ -1,0 +1,26 @@
+<system>
+	<name>Kepler-67</name>
+	<rightascension>19 36 37</rightascension>
+	<declination>+46 09 59</declination>
+	<star>
+		<name>Kepler-67</name>
+		<radius errorminus="0.03" errorplus="0.03">0.78</radius>
+		<magV>16.400</magV>
+		<magJ errorminus="0.034" errorplus="0.034">14.741</magJ>
+		<magH errorminus="0.050" errorplus="0.050">14.341</magH>
+		<magK errorminus="0.065" errorplus="0.065">14.155</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.86</mass>
+		<temperature errorminus="63.00" errorplus="63.00">5331.00</temperature>
+		<metallicity>[M/H]</metallicity>
+		<planet>
+			<name>Kepler-67 b</name>
+			<semimajoraxis errorminus="-0.001500" errorplus="0.001500">0.117100</semimajoraxis>
+			<period errorminus="-0.00011000" errorplus="0.00011000">15.72590000</period>
+			<radius errorminus="-0.014" errorplus="0.014">0.262</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 08 19</lastupdate>
+			<transittime errorminus="-0.004800" errorplus="0.004800">2454966.985500</transittime>
+		</planet>
+	</star>
+</system>

@@ -12,6 +12,16 @@
 		<temperature errorminus="100.00" errorplus="100.00">6175.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-342 d</name>
+			<semimajoraxis>0.242000</semimajoraxis>
+			<period errorminus="-0.00037500" errorplus="0.00037500">39.45935700</period>
+			<radius errorminus="-0.043" errorplus="0.043">0.222</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005970" errorplus="0.005970">2454969.461520</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-342 b</name>
 			<semimajoraxis>0.128000</semimajoraxis>
 			<period errorminus="-0.00005900" errorplus="0.00005900">15.17031800</period>
@@ -30,16 +40,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.003770" errorplus="0.003770">2454974.998660</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-342 d</name>
-			<semimajoraxis>0.242000</semimajoraxis>
-			<period errorminus="-0.00037500" errorplus="0.00037500">39.45935700</period>
-			<radius errorminus="-0.043" errorplus="0.043">0.222</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.005970" errorplus="0.005970">2454969.461520</transittime>
 		</planet>
 	</star>
 </system>

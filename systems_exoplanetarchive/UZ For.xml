@@ -1,0 +1,32 @@
+<system>
+	<name>UZ For</name>
+	<rightascension>03 35 29</rightascension>
+	<declination>-25 44 22</declination>
+	<star>
+		<name>UZ For</name>
+		<magJ errorminus="0.041" errorplus="0.041">15.317</magJ>
+		<magH errorminus="0.076" errorplus="0.076">14.897</magH>
+		<magK errorminus="0.124" errorplus="0.124">14.776</magK>
+		<mass>0.70</mass>
+		<planet>
+			<name>UZ For b</name>
+			<semimajoraxis errorminus="-1.400000" errorplus="1.400000">5.900000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.040000</eccentricity>
+			<period errorminus="-1095.00000000" errorplus="1095.00000000">5840.00000000</period>
+			<mass errorminus="-1.50000" errorplus="1.50000">6.30000</mass>
+			<discoverymethod>Eclipse Timing Variations</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2014 01 28</lastupdate>
+		</planet>
+		<planet>
+			<name>UZ For c</name>
+			<semimajoraxis errorminus="-0.500000" errorplus="0.500000">2.800000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.050000</eccentricity>
+			<period errorminus="-91.25000000" errorplus="91.25000000">1916.25000000</period>
+			<mass errorminus="-1.20000" errorplus="1.20000">7.70000</mass>
+			<discoverymethod>Eclipse Timing Variations</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2014 01 28</lastupdate>
+		</planet>
+	</star>
+</system>

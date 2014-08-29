@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-229</name>
+	<rightascension>19 07 60</rightascension>
+	<declination>+48 22 33</declination>
+	<star>
+		<name>Kepler-229</name>
+		<radius errorminus="0.26" errorplus="0.26">0.73</radius>
+		<magJ errorminus="0.036" errorplus="0.036">14.363</magJ>
+		<magH errorminus="0.044" errorplus="0.044">13.868</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.785</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5120.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-229 b</name>
+			<semimajoraxis>0.062000</semimajoraxis>
+			<period errorminus="-0.00002100" errorplus="0.00002100">6.25297200</period>
+			<radius errorminus="-0.070" errorplus="0.070">0.196</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001800" errorplus="0.001800">2455004.298840</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-229 c</name>
+			<semimajoraxis>0.117000</semimajoraxis>
+			<period errorminus="-0.00001900" errorplus="0.00001900">16.06863800</period>
+			<radius errorminus="-0.155" errorplus="0.155">0.439</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000620" errorplus="0.000620">2455006.621650</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-229 d</name>
+			<semimajoraxis>0.220000</semimajoraxis>
+			<period errorminus="-0.00024800" errorplus="0.00024800">41.19491200</period>
+			<radius errorminus="-0.123" errorplus="0.123">0.343</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003160" errorplus="0.003160">2454998.023650</transittime>
+		</planet>
+	</star>
+</system>

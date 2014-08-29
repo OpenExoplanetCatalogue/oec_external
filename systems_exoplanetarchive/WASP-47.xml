@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-47</name>
+	<rightascension>22 04 49</rightascension>
+	<declination>-12 01 08</declination>
+	<star>
+		<name>WASP-47</name>
+		<radius errorminus="0.03" errorplus="0.03">1.15</radius>
+		<magV>11.900</magV>
+		<magJ errorminus="0.022" errorplus="0.022">10.613</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.310</magH>
+		<magK errorminus="0.026" errorplus="0.026">10.192</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.08</mass>
+		<temperature errorminus="90.00" errorplus="90.00">5350.00</temperature>
+		<planet>
+			<name>WASP-47 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.052000</semimajoraxis>
+			<eccentricity>0.110000</eccentricity>
+			<inclination errorminus="-0.700" errorplus="0.500">89.200</inclination>
+			<period errorminus="-0.00000720" errorplus="0.00000720">4.15913990</period>
+			<mass errorminus="-0.05000" errorplus="0.05000">1.14000</mass>
+			<radius errorminus="-0.020" errorplus="0.040">1.150</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000220" errorplus="0.000220">2455764.346020</transittime>
+		</planet>
+	</star>
+</system>

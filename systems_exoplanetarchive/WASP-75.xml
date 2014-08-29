@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-75</name>
+	<rightascension>22 49 33</rightascension>
+	<declination>-10 40 32</declination>
+	<star>
+		<name>WASP-75</name>
+		<radius errorminus="0.04" errorplus="0.04">1.26</radius>
+		<magV errorminus="0.010" errorplus="0.010">11.450</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.362</magJ>
+		<magH errorminus="0.020" errorplus="0.020">10.097</magH>
+		<magK errorminus="0.023" errorplus="0.023">10.062</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.14</mass>
+		<temperature errorminus="100.00" errorplus="100.00">6100.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-75 b</name>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.000700">0.037500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.200" errorplus="0.300">82.000</inclination>
+			<period errorminus="-0.00000300" errorplus="0.00000300">2.48419300</period>
+			<mass errorminus="-0.05000" errorplus="0.05000">1.07000</mass>
+			<radius errorminus="-0.048" errorplus="0.048">1.270</radius>
+			<temperature errorminus="-20" errorplus="20">1710</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 08</lastupdate>
+			<transittime errorminus="-0.000300" errorplus="0.000300">2456016.266900</transittime>
+		</planet>
+	</star>
+</system>

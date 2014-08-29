@@ -1,0 +1,16 @@
+<system>
+	<name>OGLE 2007-BLG-368L</name>
+	<rightascension>17 56 26</rightascension>
+	<declination>-32 14 15</declination>
+	<star>
+		<name>OGLE 2007-BLG-368L</name>
+		<magV errorminus="0.180" errorplus="0.180">17.710</magV>
+		<planet>
+			<name>OGLE 2007-BLG-368L b</name>
+			<mass>0.06940</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

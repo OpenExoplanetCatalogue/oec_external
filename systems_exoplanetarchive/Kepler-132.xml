@@ -20,5 +20,25 @@
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.001900" errorplus="0.001900">2455001.861980</transittime>
 		</planet>
+		<planet>
+			<name>Kepler-132 c</name>
+			<semimajoraxis>0.068000</semimajoraxis>
+			<period errorminus="-0.00001900" errorplus="0.00001900">6.41491400</period>
+			<radius errorminus="-0.022" errorplus="0.022">0.114</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001850" errorplus="0.001850">2455002.639080</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-132 d</name>
+			<semimajoraxis>0.136000</semimajoraxis>
+			<period errorminus="-0.00006700" errorplus="0.00006700">18.01019900</period>
+			<radius errorminus="-0.027" errorplus="0.027">0.138</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002120" errorplus="0.002120">2455012.421160</transittime>
+		</planet>
 	</star>
 </system>

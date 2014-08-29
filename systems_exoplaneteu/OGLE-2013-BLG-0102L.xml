@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE-2013-BLG-0102L</name>
+	<rightascension>17 52 07</rightascension>
+	<declination>-31 18 34</declination>
+	<distance>3020.0</distance>
+	<star>
+		<name>OGLE-2013-BLG-0102L</name>
+		<mass>0.097</mass>
+		<planet>
+			<name>OGLE-2013-BLG-0102L b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">0.8</semimajoraxis>
+			<mass errorminus="3.0" errorplus="3.0">13.6</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/08/28</lastupdate>
+		</planet>
+	</star>
+</system>

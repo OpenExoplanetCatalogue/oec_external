@@ -1,0 +1,29 @@
+<system>
+	<name>CoRoT-26</name>
+	<rightascension>18 39 00</rightascension>
+	<declination>+06 58 11</declination>
+	<star>
+		<name>CoRoT-26</name>
+		<radius errorminus="0.18" errorplus="0.18">1.79</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.813</magJ>
+		<magH errorminus="0.034" errorplus="0.034">13.358</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.261</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.09</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5590.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>CoRoT-26 b</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.052600</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.000" errorplus="2.200">86.800</inclination>
+			<period errorminus="-0.00005000" errorplus="0.00005000">4.20474000</period>
+			<mass errorminus="-0.05000" errorplus="0.05000">0.52000</mass>
+			<radius errorminus="-0.070" errorplus="0.130">1.260</radius>
+			<temperature errorminus="-70" errorplus="80">1600</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2014 04 16</lastupdate>
+			<transittime errorminus="-0.000800" errorplus="0.000800">2454573.629900</transittime>
+		</planet>
+	</star>
+</system>

@@ -13,12 +13,12 @@
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>Kepler-91 b</name>
-			<semimajoraxis errorminus="-0.001900" errorplus="0.001900">0.072600</semimajoraxis>
+			<semimajoraxis errorminus="-0.007000" errorplus="0.002000">0.072000</semimajoraxis>
 			<eccentricity errorminus="-0.017000" errorplus="0.013000">0.066000</eccentricity>
-			<periastron errorminus="-100.0000" errorplus="100.0000">250.0000</periastron>
+			<periastron errorminus="-7.4000" errorplus="21.0000">316.8000</periastron>
 			<inclination errorminus="-1.600" errorplus="1.000">68.500</inclination>
 			<period errorminus="-0.00008200" errorplus="0.00008200">6.24658000</period>
-			<mass errorminus="-0.20000" errorplus="0.20000">1.09000</mass>
+			<mass errorminus="-0.33000" errorplus="0.17000">0.88000</mass>
 			<radius errorminus="-0.054" errorplus="0.011">1.384</radius>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>

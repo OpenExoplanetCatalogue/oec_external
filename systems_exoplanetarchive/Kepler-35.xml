@@ -1,0 +1,28 @@
+<system>
+	<name>Kepler-35</name>
+	<rightascension>19 37 59</rightascension>
+	<declination>+46 41 23</declination>
+	<star>
+		<name>Kepler-35</name>
+		<radius errorminus="0.00" errorplus="0.00">1.03</radius>
+		<magJ errorminus="0.035" errorplus="0.035">14.425</magJ>
+		<magH errorminus="0.045" errorplus="0.045">14.036</magH>
+		<magK errorminus="0.060" errorplus="0.060">13.875</magK>
+		<mass errorminus="0.01" errorplus="0.01">0.89</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5606.00</temperature>
+		<metallicity>[m/H]</metallicity>
+		<planet>
+			<name>Kepler-35 b</name>
+			<semimajoraxis errorminus="-0.001030" errorplus="0.001010">0.603470</semimajoraxis>
+			<eccentricity errorminus="-0.004000" errorplus="0.007000">0.042000</eccentricity>
+			<inclination errorminus="-0.090" errorplus="0.120">90.760</inclination>
+			<period errorminus="-0.10500000" errorplus="0.07700000">131.45800000</period>
+			<mass errorminus="-0.02000" errorplus="0.02000">0.12700</mass>
+			<radius errorminus="-0.014" errorplus="0.014">0.728</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 11 12</lastupdate>
+			<transittime>2454965.850000</transittime>
+		</planet>
+	</star>
+</system>

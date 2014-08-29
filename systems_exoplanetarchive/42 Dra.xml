@@ -1,0 +1,27 @@
+<system>
+	<name>42 Dra</name>
+	<rightascension>18 25 59</rightascension>
+	<declination>+65 33 49</declination>
+	<star>
+		<name>42 Dra</name>
+		<radius errorminus="1.00" errorplus="1.00">22.03</radius>
+		<magV>4.820</magV>
+		<magJ errorminus="0.234" errorplus="0.234">2.949</magJ>
+		<magH errorminus="0.196" errorplus="0.196">2.197</magH>
+		<magK errorminus="0.216" errorplus="0.216">2.085</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
+		<temperature errorminus="70.00" errorplus="70.00">4200.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>42 Dra b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">1.190000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.380000</eccentricity>
+			<periastron errorminus="-10.6000" errorplus="10.6000">218.7000</periastron>
+			<period errorminus="-6.20000000" errorplus="6.20000000">479.10000000</period>
+			<mass errorminus="-0.85000" errorplus="0.85000">3.88000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

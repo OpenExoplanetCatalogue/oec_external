@@ -1,0 +1,26 @@
+<system>
+	<name>70 Vir</name>
+	<rightascension>13 28 26</rightascension>
+	<declination>+13 46 44</declination>
+	<star>
+		<name>70 Vir</name>
+		<magV>4.980</magV>
+		<magJ errorminus="0.286" errorplus="0.286">3.798</magJ>
+		<magH errorminus="0.206" errorplus="0.206">3.457</magH>
+		<magK errorminus="0.294" errorplus="0.294">3.500</magK>
+		<mass>1.11</mass>
+		<temperature>5545.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>70 Vir b</name>
+			<semimajoraxis errorminus="-0.028000" errorplus="0.028000">0.484000</semimajoraxis>
+			<eccentricity errorminus="-0.003500" errorplus="0.003500">0.400700</eccentricity>
+			<periastron errorminus="-0.5400" errorplus="0.5400">358.7100</periastron>
+			<period errorminus="-0.00440000" errorplus="0.00440000">116.68840000</period>
+			<mass errorminus="-0.61000" errorplus="0.61000">7.49000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

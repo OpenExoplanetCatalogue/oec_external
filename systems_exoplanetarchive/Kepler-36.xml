@@ -1,0 +1,43 @@
+<system>
+	<name>Kepler-36</name>
+	<rightascension>19 25 00</rightascension>
+	<declination>+49 13 55</declination>
+	<star>
+		<name>Kepler-36</name>
+		<radius errorminus="0.02" errorplus="0.02">1.63</radius>
+		<magJ errorminus="0.023" errorplus="0.023">11.124</magJ>
+		<magH errorminus="0.029" errorplus="0.029">10.850</magH>
+		<magK errorminus="0.022" errorplus="0.022">10.788</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.07</mass>
+		<temperature errorminus="66.00" errorplus="66.00">5911.00</temperature>
+		<metallicity>[m/H]</metallicity>
+		<planet>
+			<name>Kepler-36 b</name>
+			<semimajoraxis errorminus="-0.001500" errorplus="0.001500">0.115300</semimajoraxis>
+			<eccentricity>0.039000</eccentricity>
+			<inclination errorminus="-0.710" errorplus="0.690">90.010</inclination>
+			<period errorminus="-0.00060000" errorplus="0.00082000">13.83989000</period>
+			<mass errorminus="-0.00100" errorplus="0.00100">0.01400</mass>
+			<radius errorminus="-0.003" errorplus="0.003">0.133</radius>
+			<temperature errorminus="-11" errorplus="11">978</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.005800" errorplus="0.005500">2454960.975300</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-36 c</name>
+			<semimajoraxis errorminus="-0.001600" errorplus="0.001600">0.128300</semimajoraxis>
+			<eccentricity>0.033000</eccentricity>
+			<inclination errorminus="-0.530" errorplus="0.540">89.980</inclination>
+			<period errorminus="-0.00054000" errorplus="0.00038000">16.23855000</period>
+			<mass errorminus="-0.00100" errorplus="0.00200">0.02500</mass>
+			<radius errorminus="-0.005" errorplus="0.005">0.328</radius>
+			<temperature errorminus="-10" errorplus="10">928</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 12 10</lastupdate>
+			<transittime errorminus="-0.001000" errorplus="0.001100">2454955.913200</transittime>
+		</planet>
+	</star>
+</system>
