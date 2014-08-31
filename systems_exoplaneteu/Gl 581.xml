@@ -20,7 +20,7 @@
 			<mass>0.05</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2005</discoveryyear>
-			<lastupdate>14/04/18</lastupdate>
+			<lastupdate>14/08/30</lastupdate>
 		</planet>
 		<planet>
 			<name>Gl 581 c</name>
@@ -31,7 +31,7 @@
 			<mass>0.017</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
-			<lastupdate>14/04/18</lastupdate>
+			<lastupdate>14/08/30</lastupdate>
 		</planet>
 		<planet>
 			<name>Gl 581 e</name>
@@ -42,7 +42,7 @@
 			<mass>0.0061</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>14/04/18</lastupdate>
+			<lastupdate>14/08/30</lastupdate>
 		</planet>
 	</star>
 </system>
