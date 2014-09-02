@@ -13,15 +13,15 @@
 		<metallicity>-0.15</metallicity>
 		<planet>
 			<name>TrES-2</name>
-			<semimajoraxis errorminus="0.00075" errorplus="0.00075">0.03556</semimajoraxis>
+			<semimajoraxis errorminus="0.00075" errorplus="0.00075">0.03555</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.068" errorplus="0.068">83.874</inclination>
-			<period errorminus="1.5e-07" errorplus="1.5e-07">2.470613402</period>
+			<inclination errorminus="0.009" errorplus="0.009">83.908</inclination>
+			<period errorminus="1.87e-08" errorplus="1.87e-08">2.4706133738</period>
 			<mass errorminus="0.052" errorplus="0.052">1.253</mass>
-			<radius errorminus="0.034" errorplus="0.034">1.169</radius>
+			<radius errorminus="0.025" errorplus="0.025">1.189</radius>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2006</discoveryyear>
-			<lastupdate>13/10/19</lastupdate>
+			<lastupdate>14/09/01</lastupdate>
 		</planet>
 	</star>
 </system>
