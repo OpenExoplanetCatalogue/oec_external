@@ -19,7 +19,6 @@
 			<inclination errorminus="12.0" errorplus="12.0">54.0</inclination>
 			<period errorminus="0.7" errorplus="0.7">256.0</period>
 			<mass>7.2</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
 			<lastupdate>13/07/04</lastupdate>
 		</planet>
@@ -30,7 +29,6 @@
 			<eccentricity errorminus="0.05" errorplus="0.05">0.0</eccentricity>
 			<period errorminus="0.1" errorplus="0.1">85.2</period>
 			<mass errorminus="0.3" errorplus="0.3">3.2</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/07/04</lastupdate>
 		</planet>

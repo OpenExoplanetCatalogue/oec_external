@@ -17,7 +17,6 @@
 			<eccentricity errorminus="0.11" errorplus="0.1">0.13</eccentricity>
 			<period errorminus="0.0017" errorplus="0.0017">7.2004</period>
 			<mass errorminus="0.0041" errorplus="0.0044">0.0176</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>
@@ -28,7 +27,6 @@
 			<eccentricity errorminus="0.02" errorplus="0.15">0.02</eccentricity>
 			<period errorminus="0.03" errorplus="0.03">28.14</period>
 			<mass errorminus="0.065" errorplus="0.053">0.0119</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>
@@ -39,7 +37,6 @@
 			<eccentricity errorminus="0.03" errorplus="0.2">0.03</eccentricity>
 			<period errorminus="0.89" errorplus="0.81">91.61</period>
 			<mass errorminus="0.00535" errorplus="0.00566">0.01604</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>
@@ -50,7 +47,6 @@
 			<eccentricity errorminus="0.02" errorplus="0.004">0.02</eccentricity>
 			<period errorminus="0.55" errorplus="0.55">62.24</period>
 			<mass errorminus="0.0044" errorplus="0.005">0.0085</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>
@@ -61,7 +57,6 @@
 			<eccentricity errorminus="0.03" errorplus="0.16">0.03</eccentricity>
 			<period errorminus="0.211" errorplus="0.194">39.026</period>
 			<mass errorminus="0.0038" errorplus="0.0044">0.0085</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>
@@ -72,7 +67,6 @@
 			<eccentricity errorminus="0.08" errorplus="0.41">0.08</eccentricity>
 			<period errorminus="7.9" errorplus="13.8">256.2</period>
 			<mass errorminus="0.0072" errorplus="0.0082">0.0145</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>

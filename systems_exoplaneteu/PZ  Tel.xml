@@ -16,7 +16,6 @@
 			<mass errorminus="16.9" errorplus="4.3">7.5</mass>
 			<radius errorminus="0.28" errorplus="0.34">2.42</radius>
 			<temperature>2500.0</temperature>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>14/06/20</lastupdate>
 		</planet>

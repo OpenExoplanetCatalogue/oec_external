@@ -18,7 +18,6 @@
 			<period errorminus="7e-07" errorplus="7e-07">2.4855335</period>
 			<mass errorminus="1.48" errorplus="1.48">4.34</mass>
 			<radius errorminus="0.083" errorplus="0.083">1.614</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
 			<lastupdate>10/12/06</lastupdate>
 		</planet>

@@ -13,7 +13,6 @@
 			<name>ROXs 12 b</name>
 			<semimajoraxis errorminus="20.0" errorplus="20.0">210.0</semimajoraxis>
 			<mass errorminus="4.0" errorplus="4.0">16.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/12/02</lastupdate>
 		</planet>

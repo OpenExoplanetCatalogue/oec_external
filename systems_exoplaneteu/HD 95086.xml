@@ -13,7 +13,6 @@
 			<semimajoraxis>56.0</semimajoraxis>
 			<mass errorminus="0.5" errorplus="0.5">4.5</mass>
 			<temperature>1000.0</temperature>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/09/09</lastupdate>
 		</planet>

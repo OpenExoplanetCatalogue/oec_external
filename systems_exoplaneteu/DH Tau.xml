@@ -11,7 +11,6 @@
 			<name>DH Tau b</name>
 			<semimajoraxis>330.0</semimajoraxis>
 			<mass errorminus="0.003" errorplus="0.01">11.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2005</discoveryyear>
 			<lastupdate>11/03/08</lastupdate>
 		</planet>

@@ -19,7 +19,6 @@
 			<inclination errorminus="6.0" errorplus="6.0">84.0</inclination>
 			<period errorminus="3.81" errorplus="3.81">61.03</period>
 			<mass errorminus="0.003" errorplus="0.003">1.927</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
 			<lastupdate>14/04/01</lastupdate>
 		</planet>
@@ -31,7 +30,6 @@
 			<inclination errorminus="2.06" errorplus="2.06">48.07</inclination>
 			<period errorminus="0.19" errorplus="0.19">30.23</period>
 			<mass errorminus="0.002" errorplus="0.002">0.637</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
 			<lastupdate>14/04/01</lastupdate>
 		</planet>
@@ -43,7 +41,6 @@
 			<inclination>50.0</inclination>
 			<period errorminus="0.01" errorplus="0.01">1.94</period>
 			<mass errorminus="0.001" errorplus="0.001">0.017</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2005</discoveryyear>
 			<lastupdate>14/04/01</lastupdate>
 		</planet>
@@ -55,7 +52,6 @@
 			<inclination>59.5</inclination>
 			<period errorminus="90.04" errorplus="90.04">124.69</period>
 			<mass errorminus="0.001" errorplus="0.001">0.039</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>14/04/01</lastupdate>
 		</planet>

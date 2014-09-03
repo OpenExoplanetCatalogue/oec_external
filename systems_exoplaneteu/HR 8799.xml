@@ -18,7 +18,6 @@
 			<period>164250.0</period>
 			<mass errorminus="2.0" errorplus="4.0">7.0</mass>
 			<radius errorminus="0.1" errorplus="0.1">1.2</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>14/05/27</lastupdate>
 		</planet>
@@ -30,7 +29,6 @@
 			<period>82145.0</period>
 			<mass errorminus="3.0" errorplus="3.0">10.0</mass>
 			<radius errorminus="0.0" errorplus="0.0">1.3</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>13/08/30</lastupdate>
 		</planet>
@@ -43,7 +41,6 @@
 			<period>41054.0</period>
 			<mass errorminus="3.0" errorplus="3.0">10.0</mass>
 			<radius errorminus="0.0" errorplus="0.0">1.2</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>13/08/30</lastupdate>
 		</planet>
@@ -52,7 +49,6 @@
 			<semimajoraxis errorminus="0.5" errorplus="0.5">14.5</semimajoraxis>
 			<period errorminus="0.0" errorplus="0.0">18000.0</period>
 			<mass errorminus="4.0" errorplus="4.0">9.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>13/08/30</lastupdate>
 		</planet>

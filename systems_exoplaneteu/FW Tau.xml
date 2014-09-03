@@ -13,7 +13,6 @@
 			<name>FW Tau b</name>
 			<semimajoraxis errorminus="30.0" errorplus="30.0">330.0</semimajoraxis>
 			<mass errorminus="4.0" errorplus="4.0">10.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/12/02</lastupdate>
 		</planet>

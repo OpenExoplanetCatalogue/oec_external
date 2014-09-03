@@ -14,7 +14,6 @@
 			<period>15.3348</period>
 			<mass errorminus="inf" errorplus="nan">9.11</mass>
 			<radius>0.36</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>12/01/30</lastupdate>
 		</planet>
@@ -24,7 +23,6 @@
 			<period>31.3309</period>
 			<mass errorminus="inf" errorplus="nan">13.8</mass>
 			<radius>0.44</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/10/10</lastupdate>
 		</planet>

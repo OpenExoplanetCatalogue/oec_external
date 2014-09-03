@@ -17,7 +17,6 @@
 			<period errorminus="0.0011" errorplus="0.0011">10.5016</period>
 			<mass errorminus="0.012" errorplus="0.012">0.07</mass>
 			<radius errorminus="0.03" errorplus="0.03">0.58</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/10/21</lastupdate>
 		</planet>
@@ -29,7 +28,6 @@
 			<period errorminus="0.00062" errorplus="0.00062">21.40239</period>
 			<mass errorminus="0.07" errorplus="0.07">0.569</mass>
 			<radius errorminus="0.04" errorplus="0.04">0.88</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/10/21</lastupdate>
 		</planet>
@@ -38,7 +36,6 @@
 			<semimajoraxis>2.0</semimajoraxis>
 			<eccentricity>0.4</eccentricity>
 			<mass>3.3</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/10/18</lastupdate>
 		</planet>

@@ -19,7 +19,6 @@
 			<inclination errorminus="4.0" errorplus="3.0">45.0</inclination>
 			<period errorminus="0.0014" errorplus="0.0014">3.3135</period>
 			<mass errorminus="0.2" errorplus="0.35">5.9</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>1996</discoveryyear>
 			<lastupdate>14/08/22</lastupdate>
 		</planet>

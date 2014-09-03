@@ -13,7 +13,6 @@
 			<semimajoraxis errorminus="2.1" errorplus="2.1">15.7</semimajoraxis>
 			<period errorminus="0.0" errorplus="0.0">40000.0</period>
 			<mass errorminus="1.0" errorplus="1.0">6.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>11/10/19</lastupdate>
 		</planet>

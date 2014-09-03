@@ -10,7 +10,6 @@
 			<name>USco1602-2401 b</name>
 			<semimajoraxis errorminus="140.0" errorplus="140.0">1000.0</semimajoraxis>
 			<mass errorminus="18.0" errorplus="20.0">47.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/22</lastupdate>
 		</planet>

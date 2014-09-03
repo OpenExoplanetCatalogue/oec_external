@@ -12,7 +12,6 @@
 			<name>Ross 458(AB) c</name>
 			<semimajoraxis>1168.0</semimajoraxis>
 			<mass errorminus="2.5" errorplus="2.5">8.5</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>11/08/11</lastupdate>
 		</planet>

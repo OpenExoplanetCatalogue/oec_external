@@ -15,7 +15,6 @@
 			<semimajoraxis errorminus="2.0" errorplus="2.0">55.0</semimajoraxis>
 			<mass errorminus="1.0" errorplus="2.0">12.8</mass>
 			<temperature>1900.0</temperature>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/05/22</lastupdate>
 		</planet>

@@ -13,7 +13,6 @@
 			<name>ROXs 42B b</name>
 			<semimajoraxis errorminus="10.0" errorplus="10.0">140.0</semimajoraxis>
 			<mass errorminus="4.0" errorplus="4.0">10.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/12/02</lastupdate>
 		</planet>

@@ -13,7 +13,6 @@
 			<name>FU Tau b</name>
 			<semimajoraxis>800.0</semimajoraxis>
 			<mass>15.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>11/09/19</lastupdate>
 		</planet>

@@ -14,7 +14,6 @@
 			<name>CD-35 2722 b</name>
 			<semimajoraxis errorminus="4.0" errorplus="4.0">67.0</semimajoraxis>
 			<mass errorminus="8.0" errorplus="8.0">31.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>11/02/23</lastupdate>
 		</planet>

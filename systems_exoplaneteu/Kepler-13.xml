@@ -15,7 +15,6 @@
 			<mass errorminus="1.5" errorplus="1.5">6.5</mass>
 			<radius errorminus="0.038" errorplus="0.038">1.406</radius>
 			<temperature>2750.0</temperature>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>14/06/04</lastupdate>
 		</planet>

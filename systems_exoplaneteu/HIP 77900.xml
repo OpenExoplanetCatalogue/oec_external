@@ -10,7 +10,6 @@
 			<name>HIP 77900 b</name>
 			<semimajoraxis errorminus="300.0" errorplus="300.0">3200.0</semimajoraxis>
 			<mass errorminus="3.0" errorplus="7.0">20.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/26</lastupdate>
 		</planet>

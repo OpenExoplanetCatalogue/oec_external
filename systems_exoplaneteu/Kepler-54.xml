@@ -11,7 +11,6 @@
 			<name>Kepler-54 b</name>
 			<period errorminus="6.9e-05" errorplus="6.9e-05">8.0109434</period>
 			<radius>0.19</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/01/17</lastupdate>
 		</planet>
@@ -19,7 +18,6 @@
 			<name>Kepler-54 c</name>
 			<period errorminus="0.00029" errorplus="0.00029">12.0717249</period>
 			<radius>0.11</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/01/17</lastupdate>
 		</planet>
@@ -28,7 +26,6 @@
 			<semimajoraxis>0.126</semimajoraxis>
 			<period errorminus="0.000143" errorplus="0.000143">20.995694</period>
 			<radius errorminus="0.007" errorplus="0.007">0.136</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>

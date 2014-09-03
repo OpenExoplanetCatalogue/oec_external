@@ -10,7 +10,6 @@
 			<name>USco1610-1913 b</name>
 			<semimajoraxis errorminus="90.0" errorplus="90.0">840.0</semimajoraxis>
 			<mass errorminus="3.0" errorplus="7.0">20.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/22</lastupdate>
 		</planet>

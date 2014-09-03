@@ -18,7 +18,6 @@
 			<eccentricity errorminus="0.08" errorplus="0.08">0.2</eccentricity>
 			<period>430.0</period>
 			<mass>5.0</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2003</discoveryyear>
 			<lastupdate>12/08/10</lastupdate>
 		</planet>
@@ -26,7 +25,6 @@
 			<name>HD 47536 c</name>
 			<period>2500.0</period>
 			<mass>7.0</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
 			<lastupdate>12/08/10</lastupdate>
 		</planet>

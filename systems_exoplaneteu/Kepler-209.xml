@@ -12,7 +12,6 @@
 			<semimajoraxis>0.122</semimajoraxis>
 			<period errorminus="4.1e-05" errorplus="4.1e-05">16.087845</period>
 			<radius errorminus="0.03" errorplus="0.03">0.202</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>
@@ -21,7 +20,6 @@
 			<semimajoraxis>0.231</semimajoraxis>
 			<period errorminus="0.000106" errorplus="0.000106">41.749882</period>
 			<radius errorminus="0.045" errorplus="0.045">0.277</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>

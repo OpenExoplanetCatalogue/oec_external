@@ -16,7 +16,6 @@
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.0614</semimajoraxis>
 			<period errorminus="0.0015" errorplus="0.0015">5.7561</period>
 			<mass errorminus="0.025" errorplus="0.025">0.5</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/01/17</lastupdate>
 		</planet>

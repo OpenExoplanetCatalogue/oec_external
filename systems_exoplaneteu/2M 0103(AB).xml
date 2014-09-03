@@ -12,7 +12,6 @@
 			<name>2M 0103(AB) b</name>
 			<semimajoraxis>84.0</semimajoraxis>
 			<mass errorminus="1.0" errorplus="1.0">13.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>13/07/22</lastupdate>
 		</planet>

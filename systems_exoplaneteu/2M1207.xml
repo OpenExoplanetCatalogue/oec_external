@@ -12,7 +12,6 @@
 			<name>2M1207 b</name>
 			<semimajoraxis errorminus="5.0" errorplus="5.0">46.0</semimajoraxis>
 			<mass errorminus="1.0" errorplus="1.0">4.0</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
 			<lastupdate>14/05/25</lastupdate>
 		</planet>

@@ -16,7 +16,6 @@
 			<inclination errorminus="0.05" errorplus="0.05">89.95</inclination>
 			<period errorminus="0.0058" errorplus="0.0058">697.0159</period>
 			<radius errorminus="0.09" errorplus="0.09">0.4</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/05/22</lastupdate>
 		</planet>

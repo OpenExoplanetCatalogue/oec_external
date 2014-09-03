@@ -15,7 +15,6 @@
 			<semimajoraxis errorminus="0.0" errorplus="0.0">330.0</semimajoraxis>
 			<mass errorminus="2.0" errorplus="4.0">8.0</mass>
 			<radius>1.7</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>14/05/23</lastupdate>
 		</planet>

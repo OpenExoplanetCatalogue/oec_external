@@ -15,7 +15,6 @@
 			<period>25800.0</period>
 			<mass>10.0</mass>
 			<temperature>500.0</temperature>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>14/01/16</lastupdate>
 		</planet>

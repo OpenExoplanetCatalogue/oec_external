@@ -20,7 +20,6 @@
 			<period errorminus="3e-06" errorplus="3e-06">2.916243</period>
 			<mass errorminus="0.038" errorplus="0.038">0.85</mass>
 			<radius errorminus="0.079" errorplus="0.079">1.28</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>12/09/20</lastupdate>
 		</planet>
@@ -31,7 +30,6 @@
 			<eccentricity errorminus="0.0054" errorplus="0.0054">0.6616</eccentricity>
 			<period errorminus="0.22" errorplus="0.22">446.27</period>
 			<mass errorminus="0.28" errorplus="0.28">14.28</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>14/08/22</lastupdate>
 		</planet>

@@ -12,7 +12,6 @@
 			<name>2M 044144 b</name>
 			<semimajoraxis errorminus="0.6" errorplus="0.6">15.0</semimajoraxis>
 			<mass errorminus="2.5" errorplus="2.5">7.5</mass>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>10/04/06</lastupdate>
 		</planet>

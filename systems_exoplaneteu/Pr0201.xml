@@ -14,7 +14,6 @@
 			<name>Pr0201 c</name>
 			<period errorminus="0.007" errorplus="0.007">4.4264</period>
 			<mass errorminus="0.039" errorplus="0.039">0.54</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>13/01/17</lastupdate>
 		</planet>

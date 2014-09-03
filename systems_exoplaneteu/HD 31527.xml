@@ -12,7 +12,6 @@
 			<eccentricity errorminus="0.05" errorplus="0.05">0.13</eccentricity>
 			<period errorminus="0.0074" errorplus="0.0074">16.546</period>
 			<mass errorminus="0.0025" errorplus="0.0025">0.0363</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>11/09/12</lastupdate>
 		</planet>
@@ -22,7 +21,6 @@
 			<eccentricity errorminus="0.07" errorplus="0.07">0.11</eccentricity>
 			<period errorminus="0.0848" errorplus="0.0848">51.284</period>
 			<mass errorminus="0.00345" errorplus="0.00345">0.0498</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>11/09/12</lastupdate>
 		</planet>
@@ -32,7 +30,6 @@
 			<eccentricity errorminus="0.25" errorplus="0.25">0.38</eccentricity>
 			<period errorminus="7.8133" errorplus="7.8133">274.49</period>
 			<mass errorminus="0.0257" errorplus="0.0257">0.0519</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>11/09/12</lastupdate>
 		</planet>

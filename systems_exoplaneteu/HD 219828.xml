@@ -18,7 +18,6 @@
 			<eccentricity>0.0</eccentricity>
 			<period errorminus="0.0013" errorplus="0.0013">3.8335</period>
 			<mass>0.066</mass>
-			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
 			<lastupdate>12/11/21</lastupdate>
 		</planet>

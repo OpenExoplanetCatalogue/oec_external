@@ -17,7 +17,6 @@
 			<period errorminus="584.0" errorplus="584.0">7340.0</period>
 			<mass errorminus="20.0" errorplus="80.0">20.0</mass>
 			<radius errorminus="0.39" errorplus="0.39">0.92</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>12/01/20</lastupdate>
 		</planet>

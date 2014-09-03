@@ -12,7 +12,6 @@
 			<semimajoraxis>0.027</semimajoraxis>
 			<period errorminus="9e-06" errorplus="9e-06">1.796302</period>
 			<radius errorminus="0.022" errorplus="0.022">0.111</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>
@@ -21,7 +20,6 @@
 			<semimajoraxis>0.042</semimajoraxis>
 			<period errorminus="2.3e-05" errorplus="2.3e-05">3.468095</period>
 			<radius errorminus="0.024" errorplus="0.024">0.122</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>
@@ -30,7 +28,6 @@
 			<semimajoraxis>0.061</semimajoraxis>
 			<period errorminus="5.4e-05" errorplus="5.4e-05">5.914323</period>
 			<radius errorminus="0.024" errorplus="0.024">0.119</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>
@@ -39,7 +36,6 @@
 			<semimajoraxis>0.176</semimajoraxis>
 			<period errorminus="0.00037" errorplus="0.00037">29.221289</period>
 			<radius errorminus="0.038" errorplus="0.038">0.158</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 		</planet>

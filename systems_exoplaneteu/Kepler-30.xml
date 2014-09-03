@@ -15,7 +15,6 @@
 			<period errorminus="0.008" errorplus="0.008">29.334</period>
 			<mass errorminus="0.004" errorplus="0.004">0.036</mass>
 			<radius errorminus="0.02" errorplus="0.02">0.35</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/05/01</lastupdate>
 		</planet>
@@ -26,7 +25,6 @@
 			<period errorminus="0.0002" errorplus="0.0002">60.3231</period>
 			<mass errorminus="0.16" errorplus="0.16">2.01</mass>
 			<radius errorminus="0.036" errorplus="0.036">1.1</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>12/08/31</lastupdate>
 		</planet>
@@ -37,7 +35,6 @@
 			<period errorminus="0.009" errorplus="0.009">143.343</period>
 			<mass errorminus="0.008" errorplus="0.008">0.073</mass>
 			<radius errorminus="0.045" errorplus="0.045">0.79</radius>
-			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>12/08/31</lastupdate>
 		</planet>

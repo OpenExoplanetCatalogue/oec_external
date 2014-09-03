@@ -16,7 +16,6 @@
 			<period errorminus="4e-06" errorplus="4e-06">0.2401</period>
 			<mass>0.014</mass>
 			<radius>0.068</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>13/11/05</lastupdate>
 		</planet>
@@ -26,7 +25,6 @@
 			<period errorminus="1.3e-05" errorplus="1.3e-05">0.34289</period>
 			<mass>0.0021</mass>
 			<radius>0.078</radius>
-			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>13/11/05</lastupdate>
 		</planet>
