@@ -1,0 +1,23 @@
+<system>
+	<name>RR Cae</name>
+	<rightascension>04 21 06</rightascension>
+	<declination>-48 39 07</declination>
+	<star>
+		<name>RR Cae</name>
+		<magJ errorminus="0.024" errorplus="0.024">10.720</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.148</magH>
+		<magK errorminus="0.025" errorplus="0.025">9.852</magK>
+		<mass>0.44</mass>
+		<planet>
+			<name>RR Cae b</name>
+			<semimajoraxis errorminus="-0.600000" errorplus="0.600000">5.300000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination>17.600</inclination>
+			<period errorminus="-36.50000000" errorplus="36.50000000">4343.50000000</period>
+			<mass errorminus="-0.40000" errorplus="0.40000">4.20000</mass>
+			<discoverymethod>Eclipse Timing Variations</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 01</lastupdate>
+		</planet>
+	</star>
+</system>

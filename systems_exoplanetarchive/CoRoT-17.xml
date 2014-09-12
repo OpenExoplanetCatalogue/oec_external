@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-17</name>
+	<rightascension>18 34 48</rightascension>
+	<declination>-06 36 44</declination>
+	<star>
+		<name>CoRoT-17</name>
+		<radius errorminus="0.07" errorplus="0.07">1.59</radius>
+		<magV>15.460</magV>
+		<magJ errorminus="0.038" errorplus="0.038">13.174</magJ>
+		<magH errorminus="0.063" errorplus="0.063">12.615</magH>
+		<magK errorminus="0.054" errorplus="0.054">12.472</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.04</mass>
+		<temperature errorminus="80.00" errorplus="80.00">5740.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>CoRoT-17 b</name>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.000800">0.046100</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="-1.540" errorplus="1.540">88.340</inclination>
+			<period errorminus="-0.00030000" errorplus="0.00030000">3.76810000</period>
+			<mass errorminus="-0.30000" errorplus="0.30000">2.43000</mass>
+			<radius errorminus="-0.070" errorplus="0.070">1.020</radius>
+			<temperature errorminus="-31" errorplus="31">1626</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+			<transittime errorminus="-0.003600" errorplus="0.003600">2454923.309300</transittime>
+		</planet>
+	</star>
+</system>

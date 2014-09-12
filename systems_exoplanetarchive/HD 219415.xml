@@ -1,0 +1,26 @@
+<system>
+	<name>HD 219415</name>
+	<rightascension>23 14 54</rightascension>
+	<declination>+56 43 49</declination>
+	<star>
+		<name>HD 219415</name>
+		<radius errorminus="0.40" errorplus="0.40">2.90</radius>
+		<magV>8.940</magV>
+		<magJ errorminus="0.018" errorplus="0.018">7.023</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.532</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.421</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.00</mass>
+		<temperature errorminus="20.00" errorplus="20.00">4820.00</temperature>
+		<planet>
+			<name>HD 219415 b</name>
+			<semimajoraxis>3.200000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.400000</eccentricity>
+			<periastron errorminus="-12.3000" errorplus="12.3000">207.0000</periastron>
+			<period errorminus="-32.70000000" errorplus="32.70000000">2093.30000000</period>
+			<mass>1.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

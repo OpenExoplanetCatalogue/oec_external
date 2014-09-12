@@ -1,0 +1,40 @@
+<system>
+	<name>Kepler-419</name>
+	<rightascension>19 41 40</rightascension>
+	<declination>+51 11 05</declination>
+	<star>
+		<name>Kepler-419</name>
+		<radius errorminus="0.07" errorplus="0.07">1.74</radius>
+		<magJ errorminus="0.020" errorplus="0.020">12.088</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.899</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.859</magK>
+		<mass errorminus="0.08" errorplus="0.08">1.39</mass>
+		<temperature errorminus="79.00" errorplus="79.00">6430.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-419 b</name>
+			<semimajoraxis errorminus="-0.006000" errorplus="0.007000">0.370000</semimajoraxis>
+			<eccentricity errorminus="-0.013000" errorplus="0.013000">0.833000</eccentricity>
+			<periastron errorminus="-1.2000" errorplus="1.0000">95.2000</periastron>
+			<inclination errorminus="-0.170" errorplus="0.140">88.950</inclination>
+			<period errorminus="-0.00090000" errorplus="0.00070000">69.75460000</period>
+			<mass errorminus="-0.30000" errorplus="0.30000">2.50000</mass>
+			<radius errorminus="-0.120" errorplus="0.120">0.960</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 06 26</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-419 c</name>
+			<semimajoraxis errorminus="-0.030000" errorplus="0.030000">1.680000</semimajoraxis>
+			<eccentricity errorminus="-0.002000" errorplus="0.002000">0.184000</eccentricity>
+			<periastron errorminus="-1.0000" errorplus="1.2000">275.3000</periastron>
+			<inclination errorminus="-2.000" errorplus="3.000">88.000</inclination>
+			<period errorminus="-0.11000000" errorplus="0.11000000">675.47000000</period>
+			<mass errorminus="-0.40000" errorplus="0.40000">7.30000</mass>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 06 26</lastupdate>
+		</planet>
+	</star>
+</system>

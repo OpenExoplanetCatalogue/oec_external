@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-408</name>
+	<rightascension>18 59 09</rightascension>
+	<declination>+48 25 24</declination>
+	<star>
+		<name>Kepler-408</name>
+		<radius errorminus="0.03" errorplus="0.03">1.23</radius>
+		<magJ errorminus="0.021" errorplus="0.021">7.784</magJ>
+		<magH errorminus="0.021" errorplus="0.021">7.539</magH>
+		<magK errorminus="0.018" errorplus="0.018">7.486</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.08</mass>
+		<temperature errorminus="74.00" errorplus="74.00">6104.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-408 b</name>
+			<period>2.46502000</period>
+			<mass errorminus="-0.01000" errorplus="0.01000">0.00200</mass>
+			<radius errorminus="-0.003" errorplus="0.003">0.073</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454965.679280</transittime>
+		</planet>
+	</star>
+</system>

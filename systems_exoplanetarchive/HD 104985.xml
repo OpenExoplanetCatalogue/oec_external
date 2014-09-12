@@ -1,0 +1,23 @@
+<system>
+	<name>HD 104985</name>
+	<rightascension>12 05 15</rightascension>
+	<declination>+76 54 21</declination>
+	<star>
+		<name>HD 104985</name>
+		<magV>5.800</magV>
+		<magJ errorminus="0.226" errorplus="0.226">4.112</magJ>
+		<magH errorminus="0.194" errorplus="0.194">3.547</magH>
+		<magK errorminus="0.304" errorplus="0.304">3.274</magK>
+		<planet>
+			<name>HD 104985 b</name>
+			<semimajoraxis>0.950000</semimajoraxis>
+			<eccentricity errorminus="-0.009000" errorplus="0.009000">0.090000</eccentricity>
+			<periastron errorminus="-5.7000" errorplus="5.7000">203.5000</periastron>
+			<period errorminus="-0.08500000" errorplus="0.08500000">199.50500000</period>
+			<mass>8.30000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+		</planet>
+	</star>
+</system>

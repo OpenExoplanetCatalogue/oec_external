@@ -1,0 +1,20 @@
+<system>
+	<name>HD 6718</name>
+	<rightascension>01 07 49</rightascension>
+	<declination>-08 14 01</declination>
+	<star>
+		<name>HD 6718</name>
+		<magV errorminus="0.014" errorplus="0.014">8.450</magV>
+		<magJ errorminus="0.018" errorplus="0.018">7.269</magJ>
+		<magH errorminus="0.045" errorplus="0.045">6.988</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.876</magK>
+		<planet>
+			<name>HD 6718 b</name>
+			<period>2496.00000000</period>
+			<mass>1.65000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>DENIS-P J082303.1-491201</name>
+	<rightascension>08 23 03</rightascension>
+	<declination>-49 12 01</declination>
+	<star>
+		<name>DENIS-P J082303.1-491201</name>
+		<magJ errorminus="0.023" errorplus="0.023">13.547</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.636</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.062</magK>
+		<mass errorminus="0.01" errorplus="0.01">0.07</mass>
+		<planet>
+			<name>DENIS-P J082303.1-491201 b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.360000</semimajoraxis>
+			<eccentricity errorminus="-0.064000" errorplus="0.068000">0.345000</eccentricity>
+			<periastron errorminus="-8.4000" errorplus="7.2000">36.3000</periastron>
+			<inclination errorminus="-2.100" errorplus="1.900">56.600</inclination>
+			<period errorminus="-1.35000000" errorplus="1.38000000">246.36000000</period>
+			<mass errorminus="-1.90000" errorplus="1.90000">28.50000</mass>
+			<discoverymethod>Astrometry</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 17</lastupdate>
+		</planet>
+	</star>
+</system>

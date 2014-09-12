@@ -1,0 +1,37 @@
+<system>
+	<name>HD 207832</name>
+	<rightascension>21 52 36</rightascension>
+	<declination>-26 01 36</declination>
+	<star>
+		<name>HD 207832</name>
+		<radius errorminus="0.06" errorplus="0.06">0.90</radius>
+		<magV errorminus="0.014" errorplus="0.014">8.786</magV>
+		<magJ errorminus="0.018" errorplus="0.018">7.587</magJ>
+		<magH errorminus="0.024" errorplus="0.024">7.297</magH>
+		<magK errorminus="0.017" errorplus="0.017">7.207</magK>
+		<mass errorminus="0.10" errorplus="0.10">0.94</mass>
+		<temperature errorminus="81.00" errorplus="81.00">5710.00</temperature>
+		<planet>
+			<name>HD 207832 b</name>
+			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.570000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.180000">0.130000</eccentricity>
+			<periastron errorminus="-83.4000" errorplus="23.9000">130.8000</periastron>
+			<period errorminus="-0.78000000" errorplus="0.97000000">161.97000000</period>
+			<mass errorminus="-0.03000" errorplus="0.06000">0.56000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 207832 c</name>
+			<semimajoraxis errorminus="-0.045000" errorplus="0.087000">2.112000</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.220000">0.270000</eccentricity>
+			<periastron errorminus="-76.5000" errorplus="32.4000">121.6000</periastron>
+			<period errorminus="-37.00000000" errorplus="71.90000000">1155.70000000</period>
+			<mass errorminus="-0.05000" errorplus="0.18000">0.73000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

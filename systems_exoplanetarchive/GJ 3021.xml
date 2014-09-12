@@ -1,0 +1,28 @@
+<system>
+	<name>GJ 3021</name>
+	<rightascension>00 16 13</rightascension>
+	<declination>-79 51 04</declination>
+	<star>
+		<name>GJ 3021</name>
+		<radius>0.90</radius>
+		<magV errorminus="0.010" errorplus="0.010">6.582</magV>
+		<magJ errorminus="0.021" errorplus="0.021">5.366</magJ>
+		<magH errorminus="0.038" errorplus="0.038">4.990</magH>
+		<magK errorminus="0.022" errorplus="0.022">4.859</magK>
+		<mass>0.90</mass>
+		<temperature errorminus="75.00" errorplus="75.00">5540.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 3021 b</name>
+			<semimajoraxis>0.490000</semimajoraxis>
+			<eccentricity errorminus="-0.017000" errorplus="0.017000">0.511000</eccentricity>
+			<periastron errorminus="-3.0000" errorplus="3.0000">290.7000</periastron>
+			<period errorminus="-0.20000000" errorplus="0.20000000">133.71000000</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">3.37000</mass>
+			<temperature errorminus="-90" errorplus="90">350</temperature>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

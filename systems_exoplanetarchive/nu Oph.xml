@@ -1,0 +1,38 @@
+<system>
+	<name>nu Oph</name>
+	<rightascension>17 59 02</rightascension>
+	<declination>-09 46 25</declination>
+	<star>
+		<name>nu Oph</name>
+		<radius errorminus="1.10" errorplus="1.10">15.10</radius>
+		<magV>3.340</magV>
+		<magI>2.387</magI>
+		<magJ errorminus="0.290" errorplus="0.290">1.732</magJ>
+		<magH errorminus="0.284" errorplus="0.284">1.289</magH>
+		<magK errorminus="0.306" errorplus="0.306">1.225</magK>
+		<mass errorminus="0.06" errorplus="0.06">3.04</mass>
+		<temperature errorminus="25.00" errorplus="25.00">4928.00</temperature>
+		<planet>
+			<name>nu Oph c</name>
+			<semimajoraxis>6.100000</semimajoraxis>
+			<eccentricity errorminus="-0.013000" errorplus="0.013000">0.165000</eccentricity>
+			<periastron errorminus="-4.5000" errorplus="4.5000">4.6000</periastron>
+			<period errorminus="-14.00000000" errorplus="14.00000000">3186.00000000</period>
+			<mass>27.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+		</planet>
+		<planet>
+			<name>nu Oph b</name>
+			<semimajoraxis>1.900000</semimajoraxis>
+			<eccentricity errorminus="-0.006500" errorplus="0.006500">0.125600</eccentricity>
+			<periastron errorminus="-3.8000" errorplus="3.8000">9.6000</periastron>
+			<period errorminus="-0.35000000" errorplus="0.35000000">530.32000000</period>
+			<mass>24.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+		</planet>
+	</star>
+</system>

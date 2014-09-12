@@ -1,0 +1,20 @@
+<system>
+	<name>HD 290327</name>
+	<rightascension>05 23 22</rightascension>
+	<declination>-02 16 39</declination>
+	<star>
+		<name>HD 290327</name>
+		<magV errorminus="0.017" errorplus="0.017">8.944</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.683</magJ>
+		<magH errorminus="0.047" errorplus="0.047">7.404</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.271</magK>
+		<planet>
+			<name>HD 290327 b</name>
+			<period>2443.00000000</period>
+			<mass>2.54000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

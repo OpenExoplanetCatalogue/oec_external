@@ -1,0 +1,94 @@
+<system>
+	<name>Kepler-11</name>
+	<rightascension>19 48 28</rightascension>
+	<declination>+41 54 33</declination>
+	<star>
+		<name>Kepler-11</name>
+		<radius errorminus="0.10" errorplus="0.10">1.10</radius>
+		<magV>14.200</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.548</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.237</magH>
+		<magK errorminus="0.020" errorplus="0.020">12.180</magK>
+		<mass errorminus="0.10" errorplus="0.10">0.95</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5680.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-11 b</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.091000</semimajoraxis>
+			<eccentricity errorminus="-0.042000" errorplus="0.068000">0.045000</eccentricity>
+			<inclination errorminus="-0.180" errorplus="0.360">89.640</inclination>
+			<period errorminus="-0.00100000" errorplus="0.00060000">10.30390000</period>
+			<mass errorminus="-0.00300" errorplus="0.00400">0.00600</mass>
+			<radius errorminus="-0.004" errorplus="0.003">0.161</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 02</lastupdate>
+			<transittime errorminus="-0.004700" errorplus="0.002600">2455589.737800</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-11 c</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.107000</semimajoraxis>
+			<eccentricity errorminus="-0.013000" errorplus="0.063000">0.026000</eccentricity>
+			<inclination errorminus="-0.160" errorplus="0.410">89.590</inclination>
+			<period errorminus="-0.00080000" errorplus="0.00130000">13.02410000</period>
+			<mass errorminus="-0.00500" errorplus="0.00900">0.00900</mass>
+			<radius errorminus="-0.005" errorplus="0.004">0.256</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 02</lastupdate>
+			<transittime errorminus="-0.001900" errorplus="0.001400">2455583.349400</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-11 d</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.155000</semimajoraxis>
+			<eccentricity errorminus="-0.002000" errorplus="0.007000">0.004000</eccentricity>
+			<inclination errorminus="-0.160" errorplus="0.130">89.670</inclination>
+			<period errorminus="-0.00090000" errorplus="0.00090000">22.68450000</period>
+			<mass errorminus="-0.00500" errorplus="0.00300">0.02300</mass>
+			<radius errorminus="-0.006" errorplus="0.005">0.278</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 02</lastupdate>
+			<transittime errorminus="-0.001400" errorplus="0.002200">2455594.006900</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-11 f</name>
+			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.250000</semimajoraxis>
+			<eccentricity errorminus="-0.009000" errorplus="0.011000">0.013000</eccentricity>
+			<inclination errorminus="-0.040" errorplus="0.040">89.470</inclination>
+			<period errorminus="-0.00320000" errorplus="0.00270000">46.68880000</period>
+			<mass errorminus="-0.00300" errorplus="0.00300">0.00600</mass>
+			<radius errorminus="-0.006" errorplus="0.004">0.222</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 06</lastupdate>
+			<transittime errorminus="-0.003800" errorplus="0.004100">2455618.271000</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-11 g</name>
+			<semimajoraxis errorminus="-0.004000" errorplus="0.004000">0.466000</semimajoraxis>
+			<eccentricity>0.150000</eccentricity>
+			<inclination errorminus="-0.060" errorplus="0.050">89.870</inclination>
+			<period errorminus="-0.00060000" errorplus="0.00100000">118.38070000</period>
+			<mass>0.07900</mass>
+			<radius errorminus="-0.007" errorplus="0.005">0.297</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 09 10</lastupdate>
+			<transittime errorminus="-0.002100" errorplus="0.003000">2455593.802100</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-11 e</name>
+			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.195000</semimajoraxis>
+			<eccentricity errorminus="-0.006000" errorplus="0.006000">0.012000</eccentricity>
+			<inclination errorminus="-0.020" errorplus="0.020">88.890</inclination>
+			<period errorminus="-0.00120000" errorplus="0.00080000">31.99960000</period>
+			<mass errorminus="-0.00700" errorplus="0.00500">0.02500</mass>
+			<radius errorminus="-0.008" errorplus="0.006">0.374</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 02</lastupdate>
+			<transittime errorminus="-0.000900" errorplus="0.001500">2455595.075500</transittime>
+		</planet>
+	</star>
+</system>

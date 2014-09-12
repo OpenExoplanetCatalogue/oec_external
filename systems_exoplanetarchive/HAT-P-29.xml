@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-29</name>
+	<rightascension>02 12 31</rightascension>
+	<declination>+51 46 44</declination>
+	<star>
+		<name>HAT-P-29</name>
+		<radius errorminus="0.13" errorplus="0.13">1.22</radius>
+		<magV>11.900</magV>
+		<magJ errorminus="0.023" errorplus="0.023">10.648</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.395</magH>
+		<magK errorminus="0.020" errorplus="0.020">10.297</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.21</mass>
+		<temperature errorminus="88.00" errorplus="88.00">6087.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-29 b</name>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.000800">0.066700</semimajoraxis>
+			<eccentricity errorminus="-0.047000" errorplus="0.047000">0.095000</eccentricity>
+			<periastron errorminus="-30.0000" errorplus="30.0000">169.0000</periastron>
+			<inclination errorminus="-0.700" errorplus="0.500">87.100</inclination>
+			<period errorminus="-0.00004900" errorplus="0.00004900">5.72318600</period>
+			<mass errorminus="-0.04000" errorplus="0.07600">0.77800</mass>
+			<radius errorminus="-0.082" errorplus="0.136">1.107</radius>
+			<temperature errorminus="-45" errorplus="64">1260</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.001810" errorplus="0.001810">2455197.575400</transittime>
+		</planet>
+	</star>
+</system>

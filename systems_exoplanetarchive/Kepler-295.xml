@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-295</name>
+	<rightascension>19 01 23</rightascension>
+	<declination>+45 22 04</declination>
+	<star>
+		<name>Kepler-295</name>
+		<radius errorminus="0.47" errorplus="0.47">0.90</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.145</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.763</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.717</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5603.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-295 b</name>
+			<semimajoraxis>0.099000</semimajoraxis>
+			<period errorminus="-0.00018100" errorplus="0.00018100">12.64516400</period>
+			<radius errorminus="-0.057" errorplus="0.057">0.109</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.008120" errorplus="0.008120">2454971.625360</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-295 c</name>
+			<semimajoraxis>0.142000</semimajoraxis>
+			<period errorminus="-0.00033600" errorplus="0.00033600">21.52625800</period>
+			<radius errorminus="-0.055" errorplus="0.055">0.104</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009600" errorplus="0.009600">2454965.287200</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-295 d</name>
+			<semimajoraxis>0.192000</semimajoraxis>
+			<period errorminus="-0.00068500" errorplus="0.00068500">33.88405400</period>
+			<radius errorminus="-0.064" errorplus="0.064">0.121</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009190" errorplus="0.009190">2454993.006250</transittime>
+		</planet>
+	</star>
+</system>

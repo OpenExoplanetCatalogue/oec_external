@@ -1,0 +1,50 @@
+<system>
+	<name>HR 8799</name>
+	<rightascension>23 07 29</rightascension>
+	<declination>+21 08 03</declination>
+	<star>
+		<name>HR 8799</name>
+		<magV errorminus="0.010" errorplus="0.010">5.953</magV>
+		<magJ errorminus="0.027" errorplus="0.027">5.383</magJ>
+		<magH errorminus="0.018" errorplus="0.018">5.280</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.240</magK>
+		<planet>
+			<name>HR 8799 b</name>
+			<semimajoraxis>68.000000</semimajoraxis>
+			<period>170000.00000000</period>
+			<mass errorminus="-2.00000" errorplus="4.00000">7.00000</mass>
+			<radius errorminus="-0.100" errorplus="0.100">1.200</radius>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HR 8799 c</name>
+			<semimajoraxis>38.000000</semimajoraxis>
+			<period>69000.00000000</period>
+			<mass errorminus="-3.00000" errorplus="3.00000">10.00000</mass>
+			<radius errorminus="0.000" errorplus="0.100">1.200</radius>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HR 8799 d</name>
+			<semimajoraxis>24.000000</semimajoraxis>
+			<period>37000.00000000</period>
+			<mass errorminus="-3.00000" errorplus="3.00000">10.00000</mass>
+			<radius errorminus="0.000" errorplus="0.100">1.200</radius>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HR 8799 e</name>
+			<semimajoraxis errorminus="-0.500000" errorplus="0.500000">14.500000</semimajoraxis>
+			<period>18000.00000000</period>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HD 162020</name>
+	<rightascension>17 50 38</rightascension>
+	<declination>-40 19 06</declination>
+	<star>
+		<name>HD 162020</name>
+		<magV errorminus="0.023" errorplus="0.023">9.118</magV>
+		<magJ errorminus="0.021" errorplus="0.021">7.175</magJ>
+		<magH errorminus="0.027" errorplus="0.027">6.649</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.539</magK>
+		<planet>
+			<name>HD 162020 b</name>
+			<semimajoraxis>0.074000</semimajoraxis>
+			<eccentricity errorminus="-0.002000" errorplus="0.002000">0.277000</eccentricity>
+			<periastron errorminus="-0.0020" errorplus="0.0020">-27.3280</periastron>
+			<period errorminus="-0.00005600" errorplus="0.00005600">8.42819800</period>
+			<mass>14.40000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

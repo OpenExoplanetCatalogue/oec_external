@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-6</name>
+	<rightascension>23 39 06</rightascension>
+	<declination>+42 27 58</declination>
+	<star>
+		<name>HAT-P-6</name>
+		<radius errorminus="0.07" errorplus="0.07">1.46</radius>
+		<magV errorminus="0.036" errorplus="0.036">10.440</magV>
+		<magJ errorminus="0.023" errorplus="0.023">9.558</magJ>
+		<magH errorminus="0.018" errorplus="0.018">9.440</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.313</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.29</mass>
+		<temperature errorminus="80.00" errorplus="80.00">6570.00</temperature>
+		<planet>
+			<name>HAT-P-6 b</name>
+			<semimajoraxis errorminus="-0.000870" errorplus="0.000870">0.052350</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.350" errorplus="0.350">85.510</inclination>
+			<period errorminus="-0.00000500" errorplus="0.00000500">3.85298500</period>
+			<mass errorminus="-0.11900" errorplus="0.11900">1.05700</mass>
+			<radius errorminus="-0.061" errorplus="0.061">1.330</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000280" errorplus="0.000280">2454035.675750</transittime>
+		</planet>
+	</star>
+</system>

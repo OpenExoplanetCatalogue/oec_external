@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-45</name>
+	<rightascension>19 31 29</rightascension>
+	<declination>+41 03 51</declination>
+	<star>
+		<name>Kepler-45</name>
+		<radius errorminus="0.11" errorplus="0.11">0.55</radius>
+		<magV errorminus="0.050" errorplus="0.050">16.880</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.749</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.077</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.892</magK>
+		<mass errorminus="0.06" errorplus="0.06">0.59</mass>
+		<temperature errorminus="90.00" errorplus="90.00">3820.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-45 b</name>
+			<semimajoraxis>0.030000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.100000">0.110000</eccentricity>
+			<periastron errorminus="-68.0000" errorplus="68.0000">230.0000</periastron>
+			<inclination errorminus="-0.700" errorplus="0.700">87.000</inclination>
+			<period errorminus="-0.00000400" errorplus="0.00000400">2.45523900</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">0.50500</mass>
+			<radius errorminus="-0.110" errorplus="0.110">0.960</radius>
+			<temperature errorminus="-20" errorplus="20">1000</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 11</lastupdate>
+		</planet>
+	</star>
+</system>

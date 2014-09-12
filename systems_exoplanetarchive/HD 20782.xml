@@ -1,0 +1,23 @@
+<system>
+	<name>HD 20782</name>
+	<rightascension>03 20 04</rightascension>
+	<declination>-28 51 15</declination>
+	<star>
+		<name>HD 20782</name>
+		<magV errorminus="0.010" errorplus="0.010">7.367</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.229</magJ>
+		<magH errorminus="0.038" errorplus="0.038">5.956</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.827</magK>
+		<planet>
+			<name>HD 20782 b</name>
+			<semimajoraxis errorminus="-0.005000" errorplus="0.005000">1.381000</semimajoraxis>
+			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.970000</eccentricity>
+			<periastron errorminus="-6.5000" errorplus="6.5000">147.7000</periastron>
+			<period errorminus="-2.80000000" errorplus="2.80000000">591.90000000</period>
+			<mass errorminus="-0.50000" errorplus="0.50000">1.90000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

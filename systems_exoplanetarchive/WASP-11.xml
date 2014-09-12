@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-11</name>
+	<rightascension>03 09 29</rightascension>
+	<declination>+30 40 25</declination>
+	<star>
+		<name>WASP-11</name>
+		<radius errorminus="0.02" errorplus="0.02">0.79</radius>
+		<magV>11.600</magV>
+		<magJ errorminus="0.020" errorplus="0.020">10.015</magJ>
+		<magH errorminus="0.019" errorplus="0.019">9.560</magH>
+		<magK errorminus="0.017" errorplus="0.017">9.421</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.83</mass>
+		<temperature errorminus="60.00" errorplus="60.00">4980.00</temperature>
+		<planet>
+			<name>WASP-11 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.043500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.400" errorplus="0.500">88.600</inclination>
+			<period errorminus="-0.00000650" errorplus="0.00000650">3.72247470</period>
+			<mass errorminus="-0.01800" errorplus="0.01800">0.48700</mass>
+			<radius errorminus="-0.027" errorplus="0.032">1.005</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000160" errorplus="0.000160">2454759.686830</transittime>
+		</planet>
+	</star>
+</system>

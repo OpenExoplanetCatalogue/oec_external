@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-412</name>
+	<rightascension>19 04 26</rightascension>
+	<declination>+43 40 51</declination>
+	<star>
+		<name>Kepler-412</name>
+		<radius errorminus="0.04" errorplus="0.04">1.29</radius>
+		<magV errorminus="0.240" errorplus="0.240">13.730</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.190</magJ>
+		<magH errorminus="0.033" errorplus="0.033">12.932</magH>
+		<magK errorminus="0.031" errorplus="0.031">12.837</magK>
+		<mass errorminus="0.09" errorplus="0.09">1.17</mass>
+		<temperature errorminus="90.00" errorplus="90.00">5750.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-412 b</name>
+			<semimajoraxis errorminus="-0.000780" errorplus="0.000780">0.029590</semimajoraxis>
+			<eccentricity errorminus="-0.003200" errorplus="0.008700">0.003800</eccentricity>
+			<periastron errorminus="-49.0000" errorplus="150.0000">125.0000</periastron>
+			<inclination errorminus="-0.200" errorplus="0.200">80.890</inclination>
+			<period errorminus="-0.00000005" errorplus="0.00000005">1.72086123</period>
+			<mass errorminus="-0.08500" errorplus="0.08500">0.93900</mass>
+			<radius errorminus="-0.043" errorplus="0.043">1.325</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 28</lastupdate>
+			<transittime errorminus="-0.000023" errorplus="0.000023">2454966.021033</transittime>
+		</planet>
+	</star>
+</system>

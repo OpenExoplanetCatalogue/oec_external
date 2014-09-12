@@ -1,0 +1,24 @@
+<system>
+	<name>HD 85512</name>
+	<rightascension>09 51 07</rightascension>
+	<declination>-43 30 10</declination>
+	<star>
+		<name>HD 85512</name>
+		<magV>7.670</magV>
+		<magI>6.328</magI>
+		<magJ errorminus="0.018" errorplus="0.018">5.451</magJ>
+		<magH errorminus="0.026" errorplus="0.026">4.998</magH>
+		<magK errorminus="0.021" errorplus="0.021">4.717</magK>
+		<planet>
+			<name>HD 85512 b</name>
+			<semimajoraxis errorminus="-0.005000" errorplus="0.005000">0.260000</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.110000</eccentricity>
+			<periastron errorminus="-0.5800" errorplus="0.5800">178.0000</periastron>
+			<period errorminus="-0.13000000" errorplus="0.13000000">58.43000000</period>
+			<mass errorminus="-0.00157" errorplus="0.00157">0.01133</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

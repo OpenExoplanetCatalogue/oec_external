@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-7</name>
+	<rightascension>19 28 59</rightascension>
+	<declination>+47 58 10</declination>
+	<star>
+		<name>HAT-P-7</name>
+		<radius errorminus="0.23" errorplus="0.23">1.84</radius>
+		<magJ errorminus="0.030" errorplus="0.030">9.555</magJ>
+		<magH errorminus="0.029" errorplus="0.029">9.344</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.334</magK>
+		<mass errorminus="0.08" errorplus="0.08">1.47</mass>
+		<temperature errorminus="80.00" errorplus="80.00">6350.00</temperature>
+		<planet>
+			<name>HAT-P-7 b</name>
+			<semimajoraxis errorminus="-0.000500" errorplus="0.000500">0.037700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.030" errorplus="0.030">83.111</inclination>
+			<period errorminus="-0.00001700" errorplus="0.00001700">2.20473700</period>
+			<mass errorminus="-0.07700" errorplus="0.07700">1.77600</mass>
+			<radius errorminus="-0.068" errorplus="0.068">1.342</radius>
+			<temperature errorminus="-21" errorplus="21">2733</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+			<transittime errorminus="-0.000005" errorplus="0.000005">2454954.357463</transittime>
+		</planet>
+	</star>
+</system>

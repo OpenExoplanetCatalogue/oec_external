@@ -1,0 +1,24 @@
+<system>
+	<name>HD 147513</name>
+	<rightascension>16 24 01</rightascension>
+	<declination>-39 11 35</declination>
+	<star>
+		<name>HD 147513</name>
+		<magV>5.390</magV>
+		<magI>4.700</magI>
+		<magJ errorminus="0.258" errorplus="0.258">4.405</magJ>
+		<magH errorminus="0.190" errorplus="0.190">4.025</magH>
+		<magK errorminus="0.036" errorplus="0.036">3.933</magK>
+		<planet>
+			<name>HD 147513 b</name>
+			<semimajoraxis>1.320000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.260000</eccentricity>
+			<periastron errorminus="-9.0000" errorplus="9.0000">282.0000</periastron>
+			<period errorminus="-6.30000000" errorplus="6.30000000">528.40000000</period>
+			<mass>1.21000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

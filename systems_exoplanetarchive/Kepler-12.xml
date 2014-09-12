@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-12</name>
+	<rightascension>19 04 58</rightascension>
+	<declination>+50 02 25</declination>
+	<star>
+		<name>Kepler-12</name>
+		<radius errorminus="0.03" errorplus="0.03">1.48</radius>
+		<magV>13.800</magV>
+		<magJ errorminus="0.026" errorplus="0.026">12.406</magJ>
+		<magH errorminus="0.031" errorplus="0.031">12.107</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.066</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.17</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5947.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-12 b</name>
+			<semimajoraxis errorminus="-0.000700" errorplus="0.000700">0.055600</semimajoraxis>
+			<eccentricity>0.010000</eccentricity>
+			<periastron errorminus="-98.0000" errorplus="97.0000">182.0000</periastron>
+			<inclination errorminus="-0.080" errorplus="0.080">88.760</inclination>
+			<period errorminus="-0.00000020" errorplus="0.00000020">4.43796370</period>
+			<mass errorminus="-0.04000" errorplus="0.04100">0.43100</mass>
+			<radius errorminus="-0.032" errorplus="0.028">1.695</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 11 05</lastupdate>
+			<transittime errorminus="-0.000020" errorplus="0.000020">2455004.008350</transittime>
+		</planet>
+	</star>
+</system>

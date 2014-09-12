@@ -1,0 +1,27 @@
+<system>
+	<name>HD 98649</name>
+	<rightascension>11 20 52</rightascension>
+	<declination>-23 13 02</declination>
+	<star>
+		<name>HD 98649</name>
+		<radius>1.00</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.991</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.811</magJ>
+		<magH errorminus="0.042" errorplus="0.042">6.493</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.419</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<temperature errorminus="35.00" errorplus="35.00">5759.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 98649 b</name>
+			<semimajoraxis errorminus="-0.400000" errorplus="0.400000">5.600000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.850000</eccentricity>
+			<periastron errorminus="-9.0000" errorplus="9.0000">248.0000</periastron>
+			<period errorminus="-465.00000000" errorplus="607.00000000">4951.00000000</period>
+			<mass errorminus="-0.50000" errorplus="0.50000">6.80000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 29</lastupdate>
+		</planet>
+	</star>
+</system>

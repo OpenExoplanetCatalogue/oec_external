@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-123</name>
+	<rightascension>19 47 60</rightascension>
+	<declination>+42 46 55</declination>
+	<star>
+		<name>Kepler-123</name>
+		<radius errorminus="0.24" errorplus="0.24">1.26</radius>
+		<magJ errorminus="0.023" errorplus="0.023">12.982</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.725</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.655</magK>
+		<mass>1.03</mass>
+		<temperature errorminus="121.00" errorplus="121.00">6089.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-123 b</name>
+			<semimajoraxis>0.135000</semimajoraxis>
+			<period errorminus="-0.00005600" errorplus="0.00005600">17.23236600</period>
+			<radius errorminus="-0.051" errorplus="0.051">0.262</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001930" errorplus="0.001930">2454968.091130</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-123 c</name>
+			<semimajoraxis>0.181000</semimajoraxis>
+			<period errorminus="-0.00046800" errorplus="0.00046800">26.69507400</period>
+			<radius errorminus="-0.027" errorplus="0.027">0.132</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.010700" errorplus="0.010700">2454976.998120</transittime>
+		</planet>
+	</star>
+</system>

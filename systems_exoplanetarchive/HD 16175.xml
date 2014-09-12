@@ -1,0 +1,23 @@
+<system>
+	<name>HD 16175</name>
+	<rightascension>02 37 02</rightascension>
+	<declination>+42 03 46</declination>
+	<star>
+		<name>HD 16175</name>
+		<magV errorminus="0.010" errorplus="0.010">7.282</magV>
+		<magJ errorminus="0.039" errorplus="0.039">6.166</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.922</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
+		<planet>
+			<name>HD 16175 b</name>
+			<semimajoraxis errorminus="-0.080000" errorplus="0.080000">2.100000</semimajoraxis>
+			<eccentricity errorminus="-0.110000" errorplus="0.110000">0.590000</eccentricity>
+			<periastron errorminus="-9.0000" errorplus="9.0000">222.0000</periastron>
+			<period errorminus="-20.00000000" errorplus="20.00000000">990.00000000</period>
+			<mass errorminus="-0.34000" errorplus="0.34000">4.40000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

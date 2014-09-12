@@ -1,0 +1,92 @@
+<system>
+	<name>KOI-351</name>
+	<rightascension>18 57 44</rightascension>
+	<declination>+49 18 19</declination>
+	<star>
+		<name>KOI-351</name>
+		<radius errorminus="0.10" errorplus="0.10">1.20</radius>
+		<magJ errorminus="0.029" errorplus="0.029">12.790</magJ>
+		<magH errorminus="0.033" errorplus="0.033">12.531</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.482</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.20</mass>
+		<temperature errorminus="260.00" errorplus="260.00">6080.00</temperature>
+		<metallicity>[M/H]</metallicity>
+		<planet>
+			<name>KOI-351 b</name>
+			<semimajoraxis errorminus="-0.016000" errorplus="0.016000">0.074000</semimajoraxis>
+			<inclination errorminus="-1.500" errorplus="1.500">89.400</inclination>
+			<period errorminus="-0.00001900" errorplus="0.00001900">7.00815100</period>
+			<radius errorminus="-0.015" errorplus="0.015">0.117</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.001700" errorplus="0.001700">2454970.690600</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 c</name>
+			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.089000</semimajoraxis>
+			<inclination errorminus="-0.740" errorplus="0.740">89.680</inclination>
+			<period errorminus="-0.00002700" errorplus="0.00002700">8.71937500</period>
+			<radius errorminus="-0.012" errorplus="0.012">0.106</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.002300" errorplus="0.002300">2454972.568700</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 d</name>
+			<semimajoraxis errorminus="-0.050000" errorplus="0.050000">0.320000</semimajoraxis>
+			<inclination errorminus="-0.290" errorplus="0.290">89.710</inclination>
+			<period errorminus="-0.00038000" errorplus="0.00038000">59.73667000</period>
+			<radius errorminus="-0.027" errorplus="0.027">0.256</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.004200" errorplus="0.004200">2454991.965600</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 e</name>
+			<semimajoraxis errorminus="-0.060000" errorplus="0.060000">0.420000</semimajoraxis>
+			<inclination errorminus="-0.190" errorplus="0.190">89.790</inclination>
+			<period errorminus="-0.00073000" errorplus="0.00073000">91.93913000</period>
+			<radius errorminus="-0.026" errorplus="0.026">0.237</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.006300" errorplus="0.006300">2454967.312700</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 f</name>
+			<semimajoraxis errorminus="-0.090000" errorplus="0.090000">0.480000</semimajoraxis>
+			<inclination errorminus="-0.310" errorplus="0.310">89.770</inclination>
+			<period errorminus="-0.00190000" errorplus="0.00190000">124.91440000</period>
+			<radius errorminus="-0.046" errorplus="0.046">0.257</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.014000" errorplus="0.014000">2455087.704000</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 g</name>
+			<semimajoraxis errorminus="-0.080000" errorplus="0.080000">0.710000</semimajoraxis>
+			<inclination errorminus="-0.060" errorplus="0.060">89.800</inclination>
+			<period errorminus="-0.00043000" errorplus="0.00043000">210.60697000</period>
+			<radius errorminus="-0.071" errorplus="0.071">0.723</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.001400" errorplus="0.001400">2454980.036400</transittime>
+		</planet>
+		<planet>
+			<name>KOI-351 h</name>
+			<semimajoraxis errorminus="-0.110000" errorplus="0.110000">1.010000</semimajoraxis>
+			<inclination errorminus="-1.300" errorplus="1.300">89.600</inclination>
+			<period errorminus="-0.00037000" errorplus="0.00037000">331.60059000</period>
+			<radius errorminus="-0.089" errorplus="0.089">1.008</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 10 30</lastupdate>
+			<transittime errorminus="-0.000820" errorplus="0.000820">2454973.496310</transittime>
+		</planet>
+	</star>
+</system>

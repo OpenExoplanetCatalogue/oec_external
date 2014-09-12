@@ -1,0 +1,63 @@
+<system>
+	<name>Kepler-238</name>
+	<rightascension>19 11 35</rightascension>
+	<declination>+40 38 16</declination>
+	<star>
+		<name>Kepler-238</name>
+		<radius errorminus="0.26" errorplus="0.26">1.43</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.894</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.545</magH>
+		<magK errorminus="0.039" errorplus="0.039">13.512</magK>
+		<mass errorminus="0.17" errorplus="0.17">1.06</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5751.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-238 b</name>
+			<semimajoraxis>0.034000</semimajoraxis>
+			<period errorminus="-0.00002000" errorplus="0.00002000">2.09087600</period>
+			<radius errorminus="-0.036" errorplus="0.036">0.154</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.005530" errorplus="0.005530">2454967.164700</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-238 c</name>
+			<semimajoraxis>0.069000</semimajoraxis>
+			<period errorminus="-0.00005000" errorplus="0.00005000">6.15555700</period>
+			<radius errorminus="-0.040" errorplus="0.040">0.213</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004460" errorplus="0.004460">2454967.823220</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-238 d</name>
+			<semimajoraxis>0.115000</semimajoraxis>
+			<period errorminus="-0.00008100" errorplus="0.00008100">13.23354900</period>
+			<radius errorminus="-0.051" errorplus="0.051">0.274</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003650" errorplus="0.003650">2454973.321790</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-238 e</name>
+			<period>23.65400000</period>
+			<mass errorminus="-0.21700" errorplus="0.22600">0.53400</mass>
+			<radius errorminus="-0.041" errorplus="0.211">0.500</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-238 f</name>
+			<period>50.44700000</period>
+			<mass errorminus="-0.00800" errorplus="0.00900">0.04200</mass>
+			<radius errorminus="-0.015" errorplus="0.076">0.178</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,33 @@
+<system>
+	<name>Kepler-396</name>
+	<rightascension>19 44 32</rightascension>
+	<declination>+48 58 39</declination>
+	<star>
+		<name>Kepler-396</name>
+		<radius errorminus="0.39" errorplus="0.39">1.06</radius>
+		<magJ errorminus="0.021" errorplus="0.021">10.672</magJ>
+		<magH errorminus="0.018" errorplus="0.018">10.356</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.285</magK>
+		<mass errorminus="0.13" errorplus="0.13">0.85</mass>
+		<temperature>5384.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-396 b</name>
+			<period>42.99400000</period>
+			<mass errorminus="-0.01800" errorplus="0.03700">0.23800</mass>
+			<radius errorminus="-0.058" errorplus="0.114">0.312</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-396 c</name>
+			<period>88.50500000</period>
+			<mass errorminus="-0.00400" errorplus="0.00900">0.05600</mass>
+			<radius errorminus="-0.088" errorplus="0.174">0.473</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 16</lastupdate>
+		</planet>
+	</star>
+</system>

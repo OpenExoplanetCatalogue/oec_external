@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-117</name>
+	<rightascension>02 27 06</rightascension>
+	<declination>-50 17 04</declination>
+	<star>
+		<name>WASP-117</name>
+		<radius errorminus="0.07" errorplus="0.07">1.17</radius>
+		<magV>10.150</magV>
+		<magJ errorminus="0.018" errorplus="0.018">9.143</magJ>
+		<magH errorminus="0.022" errorplus="0.022">8.860</magH>
+		<magK errorminus="0.019" errorplus="0.019">8.780</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.13</mass>
+		<temperature errorminus="88.00" errorplus="88.00">6038.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-117 b</name>
+			<semimajoraxis errorminus="-0.000790" errorplus="0.000840">0.094590</semimajoraxis>
+			<eccentricity errorminus="-0.023000" errorplus="0.023000">0.302000</eccentricity>
+			<periastron errorminus="-2.7000" errorplus="2.3000">242.0000</periastron>
+			<inclination errorminus="-0.300" errorplus="0.300">89.140</inclination>
+			<period errorminus="-0.00055000" errorplus="0.00055000">10.02165000</period>
+			<mass errorminus="-0.00900" errorplus="0.00900">0.27550</mass>
+			<radius errorminus="-0.065" errorplus="0.076">1.021</radius>
+			<temperature errorminus="-32" errorplus="29">1001</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 08 27</lastupdate>
+			<transittime errorminus="-0.000900" errorplus="0.000950">2456533.823260</transittime>
+		</planet>
+	</star>
+</system>

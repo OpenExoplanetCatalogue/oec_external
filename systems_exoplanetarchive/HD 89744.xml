@@ -1,0 +1,23 @@
+<system>
+	<name>HD 89744</name>
+	<rightascension>10 22 11</rightascension>
+	<declination>+41 13 46</declination>
+	<star>
+		<name>HD 89744</name>
+		<magV errorminus="0.009" errorplus="0.009">5.720</magV>
+		<magJ errorminus="0.232" errorplus="0.232">4.855</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.529</magH>
+		<magK errorminus="0.021" errorplus="0.021">4.454</magK>
+		<planet>
+			<name>HD 89744 b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.918000</semimajoraxis>
+			<eccentricity errorminus="-0.007000" errorplus="0.007000">0.673000</eccentricity>
+			<periastron errorminus="-1.0000" errorplus="1.0000">195.1000</periastron>
+			<period errorminus="-0.05000000" errorplus="0.05000000">256.78000000</period>
+			<mass errorminus="-0.23000" errorplus="0.23000">8.44000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

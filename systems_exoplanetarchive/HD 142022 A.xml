@@ -1,0 +1,24 @@
+<system>
+	<name>HD 142022 A</name>
+	<rightascension>16 10 15</rightascension>
+	<declination>-84 13 54</declination>
+	<star>
+		<name>HD 142022 A</name>
+		<magV>7.655</magV>
+		<magI>6.820</magI>
+		<magJ errorminus="0.021" errorplus="0.021">6.384</magJ>
+		<magH errorminus="0.034" errorplus="0.034">6.100</magH>
+		<magK errorminus="0.027" errorplus="0.027">5.964</magK>
+		<planet>
+			<name>HD 142022 A b</name>
+			<semimajoraxis errorminus="-0.050000" errorplus="0.050000">3.030000</semimajoraxis>
+			<eccentricity errorminus="-0.180000" errorplus="0.230000">0.530000</eccentricity>
+			<periastron errorminus="-10.0000" errorplus="8.0000">170.0000</periastron>
+			<period errorminus="-39.00000000" errorplus="53.00000000">1928.00000000</period>
+			<mass errorminus="-1.50000" errorplus="2.60000">5.10000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-173</name>
+	<rightascension>19 38 35</rightascension>
+	<declination>+41 53 03</declination>
+	<star>
+		<name>Kepler-173</name>
+		<radius errorminus="0.47" errorplus="0.47">0.95</radius>
+		<magJ errorminus="0.024" errorplus="0.024">13.081</magJ>
+		<magH errorminus="0.033" errorplus="0.033">12.763</magH>
+		<magK errorminus="0.034" errorplus="0.034">12.668</magK>
+		<mass>0.78</mass>
+		<temperature errorminus="200.00" errorplus="200.00">6031.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-173 b</name>
+			<semimajoraxis>0.048000</semimajoraxis>
+			<period errorminus="-0.00002100" errorplus="0.00002100">4.26374200</period>
+			<radius errorminus="-0.057" errorplus="0.057">0.115</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002830" errorplus="0.002830">2454966.720310</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-173 c</name>
+			<semimajoraxis>0.074000</semimajoraxis>
+			<period errorminus="-0.00001500" errorplus="0.00001500">8.00577700</period>
+			<radius errorminus="-0.108" errorplus="0.108">0.217</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001160" errorplus="0.001160">2455003.503400</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,54 @@
+<system>
+	<name>Kepler-197</name>
+	<rightascension>19 40 54</rightascension>
+	<declination>+50 33 32</declination>
+	<star>
+		<name>Kepler-197</name>
+		<radius errorminus="0.03" errorplus="0.03">1.12</radius>
+		<magJ errorminus="0.025" errorplus="0.025">10.814</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.577</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.535</magK>
+		<temperature errorminus="102.00" errorplus="102.00">6004.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-197 b</name>
+			<semimajoraxis>0.060000</semimajoraxis>
+			<period errorminus="-0.00002300" errorplus="0.00002300">5.59930800</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.091</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002210" errorplus="0.002210">2455004.472820</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-197 c</name>
+			<semimajoraxis>0.090000</semimajoraxis>
+			<period errorminus="-0.00004500" errorplus="0.00004500">10.34969500</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.110</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002540" errorplus="0.002540">2455007.064210</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-197 d</name>
+			<semimajoraxis>0.119000</semimajoraxis>
+			<period errorminus="-0.00009600" errorplus="0.00009600">15.67756300</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.109</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003280" errorplus="0.003280">2455012.468860</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-197 e</name>
+			<semimajoraxis>0.164000</semimajoraxis>
+			<period errorminus="-0.00038700" errorplus="0.00038700">25.20971500</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.081</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009340" errorplus="0.009340">2454987.413420</transittime>
+		</planet>
+	</star>
+</system>

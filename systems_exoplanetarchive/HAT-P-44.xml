@@ -1,0 +1,41 @@
+<system>
+	<name>HAT-P-44</name>
+	<rightascension>14 12 35</rightascension>
+	<declination>+47 00 53</declination>
+	<star>
+		<name>HAT-P-44</name>
+		<radius errorminus="0.08" errorplus="0.08">0.95</radius>
+		<magJ errorminus="0.018" errorplus="0.018">11.729</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.360</magH>
+		<magK errorminus="0.016" errorplus="0.016">11.275</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5295.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-44 b</name>
+			<semimajoraxis errorminus="-0.000700" errorplus="0.000700">0.050700</semimajoraxis>
+			<eccentricity errorminus="-0.052000" errorplus="0.052000">0.044000</eccentricity>
+			<periastron errorminus="-90.0000" errorplus="90.0000">113.0000</periastron>
+			<inclination errorminus="-0.400" errorplus="0.400">89.100</inclination>
+			<period errorminus="-0.00001900" errorplus="0.00001900">4.30121900</period>
+			<mass errorminus="-0.02900" errorplus="0.02900">0.35200</mass>
+			<radius errorminus="-0.051" errorplus="0.106">1.242</radius>
+			<temperature errorminus="-32" errorplus="51">1108</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 07</lastupdate>
+			<transittime errorminus="-0.000240" errorplus="0.000240">2455696.936950</transittime>
+		</planet>
+		<planet>
+			<name>HAT-P-44 c</name>
+			<semimajoraxis errorminus="-0.025000" errorplus="0.025000">1.752000</semimajoraxis>
+			<eccentricity errorminus="-0.081000" errorplus="0.081000">0.494000</eccentricity>
+			<period errorminus="-1.70000000" errorplus="1.70000000">872.20000000</period>
+			<mass errorminus="-0.80000" errorplus="1.40000">4.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 07</lastupdate>
+			<transittime errorminus="-13.400000" errorplus="13.400000">2455711.200000</transittime>
+		</planet>
+	</star>
+</system>

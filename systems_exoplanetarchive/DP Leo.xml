@@ -1,0 +1,20 @@
+<system>
+	<name>DP Leo</name>
+	<rightascension>11 17 16</rightascension>
+	<declination>+17 57 41</declination>
+	<star>
+		<name>DP Leo</name>
+		<mass>0.69</mass>
+		<planet>
+			<name>DP Leo b</name>
+			<semimajoraxis errorminus="-0.390000" errorplus="0.390000">8.190000</semimajoraxis>
+			<eccentricity errorminus="-0.130000" errorplus="0.130000">0.390000</eccentricity>
+			<periastron errorminus="-20.0000" errorplus="20.0000">-78.0000</periastron>
+			<period errorminus="-730.00000000" errorplus="730.00000000">10220.00000000</period>
+			<mass errorminus="-0.58000" errorplus="0.47000">6.05000</mass>
+			<discoverymethod>Eclipse Timing Variations</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-131</name>
+	<rightascension>19 14 07</rightascension>
+	<declination>+40 56 32</declination>
+	<star>
+		<name>Kepler-131</name>
+		<radius errorminus="0.10" errorplus="0.10">1.03</radius>
+		<magJ errorminus="0.022" errorplus="0.022">10.418</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.127</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.079</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.02</mass>
+		<temperature errorminus="74.00" errorplus="74.00">5685.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-131 b</name>
+			<period>16.09200000</period>
+			<mass errorminus="-0.01100" errorplus="0.01100">0.05100</mass>
+			<radius errorminus="-0.018" errorplus="0.018">0.215</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2455003.597950</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-131 c</name>
+			<period>25.51690000</period>
+			<mass errorminus="-0.01900" errorplus="0.01900">0.02600</mass>
+			<radius errorminus="-0.006" errorplus="0.006">0.075</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454987.423420</transittime>
+		</planet>
+	</star>
+</system>

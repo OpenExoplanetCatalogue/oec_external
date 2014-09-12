@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-96</name>
+	<rightascension>00 04 11</rightascension>
+	<declination>-47 21 38</declination>
+	<star>
+		<name>WASP-96</name>
+		<radius errorminus="0.05" errorplus="0.05">1.05</radius>
+		<magJ errorminus="0.022" errorplus="0.022">11.267</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.936</magH>
+		<magK errorminus="0.022" errorplus="0.022">10.914</magK>
+		<mass errorminus="0.09" errorplus="0.09">1.06</mass>
+		<temperature errorminus="140.00" errorplus="140.00">5540.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-96 b</name>
+			<semimajoraxis errorminus="-0.001300" errorplus="0.001300">0.045300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.200" errorplus="0.200">85.600</inclination>
+			<period errorminus="-0.00000270" errorplus="0.00000270">3.42526020</period>
+			<mass errorminus="-0.03000" errorplus="0.03000">0.48000</mass>
+			<radius errorminus="-0.060" errorplus="0.060">1.200</radius>
+			<temperature errorminus="-40" errorplus="40">1285</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 04 16</lastupdate>
+			<transittime errorminus="-0.000200" errorplus="0.000200">2456258.062100</transittime>
+		</planet>
+	</star>
+</system>

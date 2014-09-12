@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-44</name>
+	<rightascension>00 15 37</rightascension>
+	<declination>-11 56 17</declination>
+	<star>
+		<name>WASP-44</name>
+		<radius errorminus="0.07" errorplus="0.07">0.93</radius>
+		<magV>12.900</magV>
+		<magJ errorminus="0.023" errorplus="0.023">11.702</magJ>
+		<magH errorminus="0.025" errorplus="0.025">11.408</magH>
+		<magK errorminus="0.026" errorplus="0.026">11.341</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.95</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5410.00</temperature>
+		<planet>
+			<name>WASP-44 b</name>
+			<semimajoraxis errorminus="-0.000410" errorplus="0.000410">0.034730</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.860" errorplus="1.110">86.020</inclination>
+			<period errorminus="-0.00000870" errorplus="0.00000870">2.42380390</period>
+			<mass errorminus="-0.06200" errorplus="0.06200">0.88900</mass>
+			<radius errorminus="-0.110" errorplus="0.110">1.140</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000400" errorplus="0.000400">2455434.376000</transittime>
+		</planet>
+	</star>
+</system>

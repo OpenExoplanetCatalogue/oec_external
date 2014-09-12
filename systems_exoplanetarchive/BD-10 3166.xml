@@ -1,0 +1,26 @@
+<system>
+	<name>BD-10 3166</name>
+	<rightascension>10 58 29</rightascension>
+	<declination>-10 46 13</declination>
+	<star>
+		<name>BD-10 3166</name>
+		<magV>10.080</magV>
+		<magJ errorminus="0.032" errorplus="0.032">8.611</magJ>
+		<magH errorminus="0.040" errorplus="0.040">8.300</magH>
+		<magK errorminus="0.026" errorplus="0.026">8.124</magK>
+		<mass>1.01</mass>
+		<temperature>5393.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>BD-10 3166 b</name>
+			<semimajoraxis errorminus="-0.002600" errorplus="0.002600">0.045200</semimajoraxis>
+			<eccentricity errorminus="-0.023000" errorplus="0.023000">0.019000</eccentricity>
+			<periastron>334.0000</periastron>
+			<period errorminus="-0.00011000" errorplus="0.00011000">3.48777000</period>
+			<mass errorminus="-0.03900" errorplus="0.03900">0.45800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

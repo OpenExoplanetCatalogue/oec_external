@@ -1,0 +1,23 @@
+<system>
+	<name>HD 153950</name>
+	<rightascension>17 04 31</rightascension>
+	<declination>-43 18 35</declination>
+	<star>
+		<name>HD 153950</name>
+		<magV errorminus="0.011" errorplus="0.011">7.390</magV>
+		<magJ errorminus="0.018" errorplus="0.018">6.313</magJ>
+		<magH errorminus="0.034" errorplus="0.034">6.078</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.006</magK>
+		<planet>
+			<name>HD 153950 b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">1.280000</semimajoraxis>
+			<eccentricity errorminus="-0.021000" errorplus="0.021000">0.340000</eccentricity>
+			<periastron errorminus="-2.4000" errorplus="2.4000">308.2000</periastron>
+			<period errorminus="-3.60000000" errorplus="3.60000000">499.40000000</period>
+			<mass errorminus="-0.05000" errorplus="0.05000">2.73000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

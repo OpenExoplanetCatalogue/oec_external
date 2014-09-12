@@ -1,0 +1,23 @@
+<system>
+	<name>HD 143361</name>
+	<rightascension>16 01 50</rightascension>
+	<declination>-44 26 04</declination>
+	<star>
+		<name>HD 143361</name>
+		<magV errorminus="0.021" errorplus="0.021">9.225</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.905</magJ>
+		<magH errorminus="0.038" errorplus="0.038">7.572</magH>
+		<magK errorminus="0.018" errorplus="0.018">7.488</magK>
+		<planet>
+			<name>HD 143361 b</name>
+			<semimajoraxis>2.000000</semimajoraxis>
+			<eccentricity errorminus="-0.170000" errorplus="0.170000">0.150000</eccentricity>
+			<periastron errorminus="-55.0000" errorplus="55.0000">237.0000</periastron>
+			<period errorminus="-20.00000000" errorplus="20.00000000">1057.00000000</period>
+			<mass errorminus="-1.44000" errorplus="1.44000">3.12000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-52</name>
+	<rightascension>19 06 57</rightascension>
+	<declination>+49 58 33</declination>
+	<star>
+		<name>Kepler-52</name>
+		<radius errorminus="0.02" errorplus="0.02">0.56</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.153</magJ>
+		<magH errorminus="0.032" errorplus="0.032">12.507</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.360</magK>
+		<mass>0.54</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4263.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-52 b</name>
+			<period errorminus="-0.00003800" errorplus="0.00003800">7.87735650</period>
+			<mass>8.70000</mass>
+			<radius>0.187</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.001500" errorplus="0.001500">2455009.376920</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-52 c</name>
+			<period errorminus="-0.00014000" errorplus="0.00014000">16.38500210</period>
+			<mass>10.41000</mass>
+			<radius>0.164</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.002700" errorplus="0.002700">2455005.725490</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-52 d</name>
+			<semimajoraxis>0.182000</semimajoraxis>
+			<period errorminus="-0.00025300" errorplus="0.00025300">36.44517100</period>
+			<radius errorminus="-0.019" errorplus="0.019">0.174</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003880" errorplus="0.003880">2454984.601150</transittime>
+		</planet>
+	</star>
+</system>

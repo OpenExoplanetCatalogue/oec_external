@@ -1,0 +1,28 @@
+<system>
+	<name>TrES-5</name>
+	<rightascension>20 20 53</rightascension>
+	<declination>+59 26 56</declination>
+	<star>
+		<name>TrES-5</name>
+		<radius errorminus="0.01" errorplus="0.01">0.87</radius>
+		<magV errorminus="0.005" errorplus="0.005">13.718</magV>
+		<magJ errorminus="0.026" errorplus="0.026">12.111</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.673</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.591</magK>
+		<mass errorminus="0.02" errorplus="0.02">0.89</mass>
+		<temperature errorminus="36.00" errorplus="36.00">5171.00</temperature>
+		<planet>
+			<name>TrES-5 b</name>
+			<semimajoraxis errorminus="-0.000680" errorplus="0.000680">0.024460</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.005" errorplus="0.005">84.529</inclination>
+			<period errorminus="-0.00000070" errorplus="0.00000070">1.48224460</period>
+			<mass errorminus="-0.06300" errorplus="0.06300">1.77800</mass>
+			<radius errorminus="-0.021" errorplus="0.021">1.209</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000107" errorplus="0.000107">2455443.251530</transittime>
+		</planet>
+	</star>
+</system>

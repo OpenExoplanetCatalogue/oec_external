@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-19</name>
+	<rightascension>09 53 40</rightascension>
+	<declination>-45 39 33</declination>
+	<star>
+		<name>WASP-19</name>
+		<radius errorminus="0.01" errorplus="0.01">1.02</radius>
+		<magV>12.590</magV>
+		<magJ errorminus="0.026" errorplus="0.026">10.911</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.602</magH>
+		<magK errorminus="0.023" errorplus="0.023">10.481</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
+		<temperature errorminus="90.00" errorplus="90.00">5460.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-19 b</name>
+			<semimajoraxis errorminus="-0.000130" errorplus="0.000130">0.016550</semimajoraxis>
+			<eccentricity errorminus="-0.002800" errorplus="0.004400">0.004600</eccentricity>
+			<periastron errorminus="-70.0000" errorplus="70.0000">3.0000</periastron>
+			<inclination errorminus="-0.400" errorplus="0.400">79.400</inclination>
+			<period errorminus="-0.00000030" errorplus="0.00000030">0.78884000</period>
+			<mass errorminus="-0.02300" errorplus="0.02300">1.16800</mass>
+			<radius errorminus="-0.032" errorplus="0.032">1.386</radius>
+			<temperature errorminus="-40" errorplus="40">2050</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000090" errorplus="0.000090">2455168.968010</transittime>
+		</planet>
+	</star>
+</system>

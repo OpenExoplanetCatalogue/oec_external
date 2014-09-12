@@ -1,0 +1,28 @@
+<system>
+	<name>HD 215497</name>
+	<rightascension>22 46 37</rightascension>
+	<declination>-56 35 58</declination>
+	<star>
+		<name>HD 215497</name>
+		<magV errorminus="0.016" errorplus="0.016">8.950</magV>
+		<magJ errorminus="0.024" errorplus="0.024">7.339</magJ>
+		<magH errorminus="0.053" errorplus="0.053">6.917</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.784</magK>
+		<planet>
+			<name>HD 215497 b</name>
+			<period>3.93000000</period>
+			<mass>0.01700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 215497 c</name>
+			<period>567.00000000</period>
+			<mass>0.33000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

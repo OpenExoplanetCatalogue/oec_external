@@ -1,0 +1,81 @@
+<system>
+	<name>GJ 667 C</name>
+	<rightascension>17 18 59</rightascension>
+	<declination>-34 59 49</declination>
+	<star>
+		<name>GJ 667 C</name>
+		<magV errorminus="0.100" errorplus="0.100">10.220</magV>
+		<magJ errorminus="0.021" errorplus="0.021">6.848</magJ>
+		<magH errorminus="0.044" errorplus="0.044">6.322</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.036</magK>
+		<mass>0.33</mass>
+		<temperature>3600.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 667 C b</name>
+			<semimajoraxis errorminus="-0.005300" errorplus="0.004400">0.050500</semimajoraxis>
+			<eccentricity errorminus="-0.110000" errorplus="0.100000">0.130000</eccentricity>
+			<periastron errorminus="-5.7000" errorplus="354.3000">5.7000</periastron>
+			<period errorminus="-0.00170000" errorplus="0.00170000">7.20040000</period>
+			<mass errorminus="-0.00400" errorplus="0.00400">0.01800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 06 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 667 C c</name>
+			<semimajoraxis errorminus="-0.013000" errorplus="0.012000">0.125000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.150000">0.020000</eccentricity>
+			<periastron errorminus="-292.2000" errorplus="67.8000">292.2000</periastron>
+			<period errorminus="-0.06500000" errorplus="0.05300000">28.14000000</period>
+			<mass errorminus="-0.00400" errorplus="0.00500">0.01200</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2013 06 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 667 C d</name>
+			<semimajoraxis errorminus="-0.030000" errorplus="0.024000">0.276000</semimajoraxis>
+			<eccentricity errorminus="-0.030000" errorplus="0.200000">0.030000</eccentricity>
+			<periastron errorminus="-40.1100" errorplus="319.8900">40.1100</periastron>
+			<period errorminus="-0.89000000" errorplus="0.81000000">91.61000000</period>
+			<mass errorminus="-0.00500" errorplus="0.00600">0.01600</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 667 C e</name>
+			<semimajoraxis errorminus="-0.022000" errorplus="0.019000">0.213000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.220000">0.020000</eccentricity>
+			<periastron errorminus="-28.6000" errorplus="331.4000">28.6000</periastron>
+			<period errorminus="-0.55000000" errorplus="0.55000000">62.24000000</period>
+			<mass errorminus="-0.00400" errorplus="0.00500">0.00800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 667 C f</name>
+			<semimajoraxis errorminus="-0.017000" errorplus="0.014000">0.156000</semimajoraxis>
+			<eccentricity errorminus="-0.030000" errorplus="0.160000">0.030000</eccentricity>
+			<periastron errorminus="-103.1000" errorplus="256.9000">103.1000</periastron>
+			<period errorminus="-0.21100000" errorplus="0.19400000">39.02600000</period>
+			<mass errorminus="-0.00400" errorplus="0.00400">0.00800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 25</lastupdate>
+		</planet>
+		<planet>
+			<name>GJ 667 C g</name>
+			<semimajoraxis errorminus="-0.058000" errorplus="0.052000">0.549000</semimajoraxis>
+			<eccentricity errorminus="-0.080000" errorplus="0.410000">0.080000</eccentricity>
+			<periastron errorminus="-51.6000" errorplus="308.4000">51.6000</periastron>
+			<period errorminus="-7.90000000" errorplus="13.80000000">256.20000000</period>
+			<mass errorminus="-0.00700" errorplus="0.00800">0.01400</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 25</lastupdate>
+		</planet>
+	</star>
+</system>

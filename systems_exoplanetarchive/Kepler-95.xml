@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-95</name>
+	<rightascension>18 57 56</rightascension>
+	<declination>+44 23 53</declination>
+	<star>
+		<name>Kepler-95</name>
+		<radius errorminus="0.04" errorplus="0.04">1.41</radius>
+		<magJ errorminus="0.021" errorplus="0.021">11.210</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.867</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.801</magK>
+		<mass errorminus="0.08" errorplus="0.08">1.08</mass>
+		<temperature errorminus="74.00" errorplus="74.00">5699.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-95 b</name>
+			<period>11.52310000</period>
+			<mass errorminus="-0.00900" errorplus="0.00900">0.04100</mass>
+			<radius errorminus="-0.008" errorplus="0.008">0.305</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454964.968410</transittime>
+		</planet>
+	</star>
+</system>

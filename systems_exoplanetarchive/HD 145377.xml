@@ -1,0 +1,23 @@
+<system>
+	<name>HD 145377</name>
+	<rightascension>16 11 36</rightascension>
+	<declination>-27 04 41</declination>
+	<star>
+		<name>HD 145377</name>
+		<magV errorminus="0.013" errorplus="0.013">8.095</magV>
+		<magJ errorminus="0.018" errorplus="0.018">7.014</magJ>
+		<magH errorminus="0.040" errorplus="0.040">6.797</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.706</magK>
+		<planet>
+			<name>HD 145377 b</name>
+			<semimajoraxis errorminus="-0.004000" errorplus="0.004000">0.450000</semimajoraxis>
+			<eccentricity errorminus="-0.017000" errorplus="0.017000">0.307000</eccentricity>
+			<periastron errorminus="-2.8000" errorplus="2.8000">138.1000</periastron>
+			<period errorminus="-0.13000000" errorplus="0.13000000">103.95000000</period>
+			<mass errorminus="-0.10000" errorplus="0.10000">5.76000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

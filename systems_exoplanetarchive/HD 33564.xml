@@ -1,0 +1,23 @@
+<system>
+	<name>HD 33564</name>
+	<rightascension>05 22 34</rightascension>
+	<declination>+79 13 52</declination>
+	<star>
+		<name>HD 33564</name>
+		<magV errorminus="0.009" errorplus="0.009">5.084</magV>
+		<magJ errorminus="0.278" errorplus="0.278">4.416</magJ>
+		<magH errorminus="0.276" errorplus="0.276">4.201</magH>
+		<magK errorminus="0.020" errorplus="0.020">3.911</magK>
+		<planet>
+			<name>HD 33564 b</name>
+			<semimajoraxis>1.100000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.340000</eccentricity>
+			<periastron errorminus="-4.0000" errorplus="4.0000">205.0000</periastron>
+			<period errorminus="-3.00000000" errorplus="3.00000000">388.00000000</period>
+			<mass>9.10000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-60</name>
+	<rightascension>23 46 40</rightascension>
+	<declination>+31 09 21</declination>
+	<star>
+		<name>WASP-60</name>
+		<radius errorminus="0.13" errorplus="0.13">1.14</radius>
+		<magV>12.180</magV>
+		<magJ errorminus="0.019" errorplus="0.019">10.964</magJ>
+		<magH errorminus="0.028" errorplus="0.028">10.656</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.585</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.08</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5900.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-60 b</name>
+			<semimajoraxis errorminus="-0.000600" errorplus="0.000600">0.053100</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.600" errorplus="1.600">87.900</inclination>
+			<period errorminus="-0.00000620" errorplus="0.00000620">4.30500110</period>
+			<mass errorminus="-0.03400" errorplus="0.03400">0.51400</mass>
+			<radius errorminus="-0.120" errorplus="0.120">0.860</radius>
+			<temperature errorminus="-75" errorplus="75">1320</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 13</lastupdate>
+			<transittime errorminus="-0.002200" errorplus="0.002200">2455747.029500</transittime>
+		</planet>
+	</star>
+</system>

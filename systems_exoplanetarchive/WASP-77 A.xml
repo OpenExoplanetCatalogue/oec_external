@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-77 A</name>
+	<rightascension>02 28 37</rightascension>
+	<declination>-07 03 39</declination>
+	<star>
+		<name>WASP-77 A</name>
+		<radius errorminus="0.01" errorplus="0.01">0.95</radius>
+		<magV>10.300</magV>
+		<magJ errorminus="0.011" errorplus="0.011">8.766</magJ>
+		<magH errorminus="0.037" errorplus="0.037">8.374</magH>
+		<magK errorminus="0.030" errorplus="0.030">8.405</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.00</mass>
+		<temperature errorminus="80.00" errorplus="80.00">5500.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-77 A b</name>
+			<semimajoraxis errorminus="-0.000360" errorplus="0.000360">0.024000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.700" errorplus="0.400">89.400</inclination>
+			<period errorminus="-0.00000200" errorplus="0.00000200">1.36003090</period>
+			<mass errorminus="-0.06000" errorplus="0.06000">1.76000</mass>
+			<radius errorminus="-0.020" errorplus="0.020">1.210</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 27</lastupdate>
+			<transittime errorminus="-0.000140" errorplus="0.000140">2455870.449770</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>16 Cyg B</name>
+	<rightascension>19 41 52</rightascension>
+	<declination>+50 31 03</declination>
+	<star>
+		<name>16 Cyg B</name>
+		<magV>6.250</magV>
+		<magJ errorminus="0.037" errorplus="0.037">4.993</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.695</magH>
+		<magK errorminus="0.016" errorplus="0.016">4.651</magK>
+		<mass>0.99</mass>
+		<temperature>5674.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>16 Cyg B b</name>
+			<semimajoraxis errorminus="-0.097000" errorplus="0.097000">1.681000</semimajoraxis>
+			<eccentricity errorminus="-0.017000" errorplus="0.017000">0.681000</eccentricity>
+			<periastron errorminus="-2.4000" errorplus="2.4000">85.8000</periastron>
+			<period errorminus="-1.00000000" errorplus="1.00000000">798.50000000</period>
+			<mass errorminus="-0.15000" errorplus="0.15000">1.68000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,65 @@
+<system>
+	<name>Kepler-186</name>
+	<rightascension>19 54 37</rightascension>
+	<declination>+43 57 18</declination>
+	<star>
+		<name>Kepler-186</name>
+		<radius errorminus="0.05" errorplus="0.05">0.47</radius>
+		<magJ errorminus="0.026" errorplus="0.026">12.473</magJ>
+		<magH errorminus="0.033" errorplus="0.033">11.824</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.605</magK>
+		<mass errorminus="0.06" errorplus="0.06">0.48</mass>
+		<temperature errorminus="54.00" errorplus="54.00">3788.00</temperature>
+		<metallicity>[Me/H]</metallicity>
+		<planet>
+			<name>Kepler-186 b</name>
+			<semimajoraxis errorminus="-0.004600" errorplus="0.004600">0.034300</semimajoraxis>
+			<period errorminus="-0.00000630" errorplus="0.00000620">3.88679070</period>
+			<radius errorminus="-0.011" errorplus="0.011">0.095</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001300" errorplus="0.001300">2454966.330400</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-186 c</name>
+			<semimajoraxis errorminus="-0.007000" errorplus="0.007000">0.045100</semimajoraxis>
+			<period errorminus="-0.00001100" errorplus="0.00001200">7.26730200</period>
+			<radius errorminus="-0.012" errorplus="0.012">0.112</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001300" errorplus="0.001200">2455007.314200</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-186 d</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">0.078100</semimajoraxis>
+			<period errorminus="-0.00002400" errorplus="0.00002500">13.34299600</period>
+			<radius errorminus="-0.014" errorplus="0.014">0.125</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001500" errorplus="0.001400">2455009.904500</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-186 e</name>
+			<semimajoraxis errorminus="-0.015000" errorplus="0.015000">0.110000</semimajoraxis>
+			<period errorminus="-0.00007200" errorplus="0.00007400">22.40770400</period>
+			<radius errorminus="-0.012" errorplus="0.013">0.113</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002400" errorplus="0.002400">2454986.800600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-186 f</name>
+			<semimajoraxis errorminus="-0.048000" errorplus="0.048000">0.356000</semimajoraxis>
+			<period errorminus="-0.00120000" errorplus="0.00120000">129.94590000</period>
+			<radius errorminus="-0.012" errorplus="0.012">0.099</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 04 16</lastupdate>
+			<transittime errorminus="-0.006800" errorplus="0.006400">2455009.818300</transittime>
+		</planet>
+	</star>
+</system>

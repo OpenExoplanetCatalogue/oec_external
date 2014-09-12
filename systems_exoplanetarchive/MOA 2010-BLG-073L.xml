@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2010-BLG-073L</name>
+	<rightascension>18 10 11</rightascension>
+	<declination>-26 31 23</declination>
+	<star>
+		<name>MOA 2010-BLG-073L</name>
+		<radius errorminus="1.30" errorplus="1.30">14.70</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.16</mass>
+		<planet>
+			<name>MOA 2010-BLG-073L b</name>
+			<semimajoraxis errorminus="-0.160000" errorplus="0.160000">1.210000</semimajoraxis>
+			<mass errorminus="-2.00000" errorplus="2.00000">11.00000</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 15</lastupdate>
+		</planet>
+	</star>
+</system>

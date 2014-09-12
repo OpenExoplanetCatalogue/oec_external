@@ -1,0 +1,23 @@
+<system>
+	<name>HD 4113</name>
+	<rightascension>00 43 13</rightascension>
+	<declination>-37 58 58</declination>
+	<star>
+		<name>HD 4113</name>
+		<magV errorminus="0.012" errorplus="0.012">7.881</magV>
+		<magJ errorminus="0.023" errorplus="0.023">6.672</magJ>
+		<magH errorminus="0.021" errorplus="0.021">6.345</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.289</magK>
+		<planet>
+			<name>HD 4113 b</name>
+			<semimajoraxis>1.280000</semimajoraxis>
+			<eccentricity errorminus="-0.005000" errorplus="0.005000">0.903000</eccentricity>
+			<periastron errorminus="-1.9000" errorplus="1.9000">-42.3000</periastron>
+			<period errorminus="-0.30000000" errorplus="0.30000000">526.62000000</period>
+			<mass errorminus="-0.04000" errorplus="0.04000">1.56000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

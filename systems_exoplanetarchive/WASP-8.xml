@@ -1,0 +1,40 @@
+<system>
+	<name>WASP-8</name>
+	<rightascension>23 59 36</rightascension>
+	<declination>-35 01 53</declination>
+	<star>
+		<name>WASP-8</name>
+		<radius errorminus="0.05" errorplus="0.05">0.94</radius>
+		<magV>9.790</magV>
+		<magJ errorminus="0.027" errorplus="0.027">8.501</magJ>
+		<magH errorminus="0.049" errorplus="0.049">8.218</magH>
+		<magK errorminus="0.022" errorplus="0.022">8.086</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.03</mass>
+		<temperature errorminus="80.00" errorplus="80.00">5600.00</temperature>
+		<planet>
+			<name>WASP-8 b</name>
+			<semimajoraxis errorminus="-0.001600" errorplus="0.001400">0.080100</semimajoraxis>
+			<eccentricity errorminus="-0.002400" errorplus="0.002900">0.310000</eccentricity>
+			<periastron errorminus="-0.1800" errorplus="0.1700">-85.7300</periastron>
+			<inclination errorminus="-0.170" errorplus="0.150">88.550</inclination>
+			<period errorminus="-0.00001500" errorplus="0.00001600">8.15871500</period>
+			<mass errorminus="-0.09300" errorplus="0.07900">2.24400</mass>
+			<radius errorminus="-0.047" errorplus="0.007">1.038</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 30</lastupdate>
+			<transittime errorminus="-0.000430" errorplus="0.000500">2454679.333940</transittime>
+		</planet>
+		<planet>
+			<name>WASP-8 c</name>
+			<semimajoraxis errorminus="-0.340000" errorplus="0.630000">5.280000</semimajoraxis>
+			<eccentricity errorminus="0.000000" errorplus="0.000000">0.000000</eccentricity>
+			<periastron errorminus="0.0000" errorplus="0.0000">90.0000</periastron>
+			<period errorminus="-380.00000000" errorplus="740.00000000">4323.00000000</period>
+			<mass errorminus="-1.04000" errorplus="2.26000">9.45000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2014 03 26</lastupdate>
+		</planet>
+	</star>
+</system>

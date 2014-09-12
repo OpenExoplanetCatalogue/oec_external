@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-100</name>
+	<rightascension>04 35 50</rightascension>
+	<declination>-64 01 37</declination>
+	<star>
+		<name>WASP-100</name>
+		<magJ errorminus="0.024" errorplus="0.024">9.928</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.715</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.669</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.57</mass>
+		<temperature errorminus="120.00" errorplus="120.00">6900.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-100 b</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.045700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-1.700" errorplus="2.600">82.600</inclination>
+			<period errorminus="-0.00000800" errorplus="0.00000800">2.84937500</period>
+			<mass errorminus="-0.12000" errorplus="0.12000">2.03000</mass>
+			<radius errorminus="-0.290" errorplus="0.290">1.690</radius>
+			<temperature errorminus="-140" errorplus="140">2190</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 04 16</lastupdate>
+			<transittime errorminus="-0.000900" errorplus="0.000900">2456272.339500</transittime>
+		</planet>
+	</star>
+</system>

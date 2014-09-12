@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-21</name>
+	<rightascension>19 09 27</rightascension>
+	<declination>+38 42 51</declination>
+	<star>
+		<name>Kepler-21</name>
+		<radius errorminus="0.02" errorplus="0.02">1.86</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.250</magV>
+		<magJ errorminus="0.032" errorplus="0.032">7.229</magJ>
+		<magH errorminus="0.022" errorplus="0.022">7.031</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.945</magK>
+		<mass errorminus="0.01" errorplus="0.01">1.34</mass>
+		<temperature errorminus="44.00" errorplus="44.00">6131.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-21 b</name>
+			<semimajoraxis errorminus="-0.000119" errorplus="0.000098">0.042507</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.310" errorplus="0.280">82.580</inclination>
+			<period errorminus="-0.00003400" errorplus="0.00003100">2.78575500</period>
+			<mass>0.03300</mass>
+			<radius errorminus="-0.004" errorplus="0.003">0.146</radius>
+			<temperature errorminus="-297" errorplus="297">1956</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 03</lastupdate>
+			<transittime errorminus="-0.001600" errorplus="0.001600">2455093.836900</transittime>
+		</planet>
+	</star>
+</system>

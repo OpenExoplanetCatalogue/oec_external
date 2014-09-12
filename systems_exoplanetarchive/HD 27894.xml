@@ -1,0 +1,23 @@
+<system>
+	<name>HD 27894</name>
+	<rightascension>04 20 47</rightascension>
+	<declination>-59 24 39</declination>
+	<star>
+		<name>HD 27894</name>
+		<magV errorminus="0.021" errorplus="0.021">9.349</magV>
+		<magJ errorminus="0.019" errorplus="0.019">7.639</magJ>
+		<magH errorminus="0.027" errorplus="0.027">7.174</magH>
+		<magK errorminus="0.026" errorplus="0.026">7.071</magK>
+		<planet>
+			<name>HD 27894 b</name>
+			<semimajoraxis>0.122000</semimajoraxis>
+			<eccentricity errorminus="-0.008000" errorplus="0.008000">0.049000</eccentricity>
+			<periastron errorminus="-9.7000" errorplus="9.7000">132.9000</periastron>
+			<period errorminus="-0.00700000" errorplus="0.00700000">17.99100000</period>
+			<mass>0.62000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>CoRoT-8</name>
+	<rightascension>19 26 21</rightascension>
+	<declination>+01 25 35</declination>
+	<star>
+		<name>CoRoT-8</name>
+		<radius errorminus="0.02" errorplus="0.02">0.77</radius>
+		<magV>14.800</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.154</magJ>
+		<magH errorminus="0.024" errorplus="0.024">11.641</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.463</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.88</mass>
+		<temperature errorminus="80.00" errorplus="80.00">5080.00</temperature>
+		<metallicity>[M/H]</metallicity>
+		<planet>
+			<name>CoRoT-8 b</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.063000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.100" errorplus="0.100">88.400</inclination>
+			<period errorminus="-0.00003000" errorplus="0.00003000">6.21229000</period>
+			<mass errorminus="-0.03000" errorplus="0.03000">0.22000</mass>
+			<radius errorminus="-0.020" errorplus="0.020">0.570</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+			<transittime errorminus="-0.000400" errorplus="0.000400">2454238.974300</transittime>
+		</planet>
+	</star>
+</system>

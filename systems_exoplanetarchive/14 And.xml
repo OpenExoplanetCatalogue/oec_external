@@ -1,0 +1,26 @@
+<system>
+	<name>14 And</name>
+	<rightascension>23 31 17</rightascension>
+	<declination>+39 14 10</declination>
+	<star>
+		<name>14 And</name>
+		<radius errorminus="1.00" errorplus="1.00">11.00</radius>
+		<magJ errorminus="0.180" errorplus="0.180">3.019</magJ>
+		<magH errorminus="0.184" errorplus="0.184">2.608</magH>
+		<magK errorminus="0.240" errorplus="0.240">2.331</magK>
+		<mass errorminus="0.10" errorplus="0.10">2.20</mass>
+		<temperature errorminus="20.00" errorplus="20.00">4813.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>14 And b</name>
+			<semimajoraxis>0.830000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<period errorminus="-0.23000000" errorplus="0.23000000">185.84000000</period>
+			<mass>4.80000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

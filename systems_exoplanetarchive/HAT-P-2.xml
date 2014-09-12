@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-2</name>
+	<rightascension>16 20 36</rightascension>
+	<declination>+41 02 53</declination>
+	<star>
+		<name>HAT-P-2</name>
+		<radius errorminus="0.09" errorplus="0.09">1.64</radius>
+		<magJ errorminus="0.027" errorplus="0.027">7.796</magJ>
+		<magH errorminus="0.038" errorplus="0.038">7.652</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.603</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.36</mass>
+		<temperature errorminus="60.00" errorplus="60.00">6290.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-2 b</name>
+			<semimajoraxis errorminus="-0.000680" errorplus="0.000680">0.068780</semimajoraxis>
+			<eccentricity errorminus="-0.003300" errorplus="0.003300">0.517100</eccentricity>
+			<periastron errorminus="-0.9500" errorplus="0.9500">185.2200</periastron>
+			<inclination errorminus="-0.870" errorplus="1.120">86.720</inclination>
+			<period errorminus="-0.00000610" errorplus="0.00000610">5.63347290</period>
+			<mass errorminus="-0.24000" errorplus="0.24000">9.09000</mass>
+			<radius errorminus="-0.062" errorplus="0.073">1.157</radius>
+			<temperature errorminus="-30" errorplus="30">1540</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>2013 02 26</lastupdate>
+			<transittime errorminus="-0.000740" errorplus="0.000740">2454387.493750</transittime>
+		</planet>
+	</star>
+</system>

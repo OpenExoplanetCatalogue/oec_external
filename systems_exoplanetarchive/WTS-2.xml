@@ -1,0 +1,30 @@
+<system>
+	<name>WTS-2</name>
+	<rightascension>19 34 56</rightascension>
+	<declination>+36 48 56</declination>
+	<star>
+		<name>WTS-2</name>
+		<radius errorminus="0.03" errorplus="0.03">0.75</radius>
+		<magV errorminus="0.100" errorplus="0.100">15.900</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.928</magJ>
+		<magH errorminus="0.024" errorplus="0.024">13.464</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.414</magK>
+		<mass errorminus="0.08" errorplus="0.08">0.82</mass>
+		<temperature errorminus="250.00" errorplus="250.00">5000.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WTS-2 b</name>
+			<semimajoraxis errorminus="-0.000620" errorplus="0.000620">0.018550</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.530" errorplus="0.530">83.550</inclination>
+			<period errorminus="-0.00000065" errorplus="0.00000065">1.01870680</period>
+			<mass errorminus="-0.16000" errorplus="0.16000">1.12000</mass>
+			<radius errorminus="-0.061" errorplus="0.061">1.363</radius>
+			<temperature errorminus="-100" errorplus="100">2000</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 03 05</lastupdate>
+			<transittime errorminus="-0.000650" errorplus="0.000650">2454317.813330</transittime>
+		</planet>
+	</star>
+</system>

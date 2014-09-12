@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-178</name>
+	<rightascension>19 08 24</rightascension>
+	<declination>+46 53 47</declination>
+	<star>
+		<name>Kepler-178</name>
+		<radius errorminus="0.45" errorplus="0.45">1.07</radius>
+		<magJ errorminus="0.023" errorplus="0.023">13.280</magJ>
+		<magH errorminus="0.017" errorplus="0.017">12.967</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.899</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5676.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-178 c</name>
+			<semimajoraxis>0.142000</semimajoraxis>
+			<period errorminus="-0.00006600" errorplus="0.00006600">20.55280200</period>
+			<radius errorminus="-0.110" errorplus="0.110">0.257</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002010" errorplus="0.002010">2454978.026340</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-178 d</name>
+			<semimajoraxis>0.397000</semimajoraxis>
+			<period errorminus="-0.00070200" errorplus="0.00070200">96.67898800</period>
+			<radius errorminus="-0.152" errorplus="0.152">0.352</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003870" errorplus="0.003870">2454973.178420</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-178 b</name>
+			<semimajoraxis>0.085000</semimajoraxis>
+			<period errorminus="-0.00002100" errorplus="0.00002100">9.57669400</period>
+			<radius errorminus="-0.112" errorplus="0.112">0.259</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001240" errorplus="0.001240">2455009.681270</transittime>
+		</planet>
+	</star>
+</system>

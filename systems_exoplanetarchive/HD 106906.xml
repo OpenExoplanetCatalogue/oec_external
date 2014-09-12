@@ -1,0 +1,23 @@
+<system>
+	<name>HD 106906</name>
+	<rightascension>12 17 53</rightascension>
+	<declination>-55 58 32</declination>
+	<star>
+		<name>HD 106906</name>
+		<magV errorminus="0.011" errorplus="0.011">7.797</magV>
+		<magJ errorminus="0.030" errorplus="0.030">6.946</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.759</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.683</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.50</mass>
+		<temperature errorminus="165.00" errorplus="165.00">6516.00</temperature>
+		<planet>
+			<name>HD 106906 b</name>
+			<semimajoraxis>650.000000</semimajoraxis>
+			<mass errorminus="-2.00000" errorplus="2.00000">11.00000</mass>
+			<temperature errorminus="-100" errorplus="100">1800</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+	</star>
+</system>

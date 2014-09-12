@@ -1,0 +1,38 @@
+<system>
+	<name>BD+20 2457</name>
+	<rightascension>10 16 45</rightascension>
+	<declination>+19 53 29</declination>
+	<star>
+		<name>BD+20 2457</name>
+		<radius errorminus="26.00" errorplus="26.00">49.00</radius>
+		<magV>9.750</magV>
+		<magJ errorminus="0.023" errorplus="0.023">7.299</magJ>
+		<magH errorminus="0.021" errorplus="0.021">6.606</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.420</magK>
+		<mass errorminus="1.50" errorplus="1.50">2.80</mass>
+		<temperature errorminus="10.00" errorplus="10.00">4137.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>BD+20 2457 b</name>
+			<semimajoraxis>1.450000</semimajoraxis>
+			<eccentricity errorminus="-0.030000" errorplus="0.030000">0.150000</eccentricity>
+			<periastron errorminus="-21.9900" errorplus="21.9900">207.6400</periastron>
+			<period errorminus="-2.01000000" errorplus="2.01000000">379.63000000</period>
+			<mass>21.42000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>BD+20 2457 c</name>
+			<semimajoraxis>2.010000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.180000</eccentricity>
+			<periastron errorminus="-16.5400" errorplus="16.5400">126.0200</periastron>
+			<period errorminus="-10.20000000" errorplus="10.20000000">621.99000000</period>
+			<mass>12.47000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

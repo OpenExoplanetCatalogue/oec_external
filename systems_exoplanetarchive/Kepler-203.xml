@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-203</name>
+	<rightascension>19 48 22</rightascension>
+	<declination>+41 23 17</declination>
+	<star>
+		<name>Kepler-203</name>
+		<radius errorminus="0.21" errorplus="0.21">1.11</radius>
+		<magJ errorminus="0.024" errorplus="0.024">12.859</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.470</magH>
+		<magK errorminus="0.026" errorplus="0.026">12.445</magK>
+		<mass>0.98</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5821.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-203 b</name>
+			<semimajoraxis>0.043000</semimajoraxis>
+			<period errorminus="-0.00000400" errorplus="0.00000400">3.16269700</period>
+			<radius errorminus="-0.046" errorplus="0.046">0.229</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000730" errorplus="0.000730">2455002.641580</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-203 c</name>
+			<semimajoraxis>0.061000</semimajoraxis>
+			<period errorminus="-0.00000800" errorplus="0.00000800">5.37064700</period>
+			<radius errorminus="-0.042" errorplus="0.042">0.220</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000910" errorplus="0.000910">2455005.236970</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-203 d</name>
+			<semimajoraxis>0.100000</semimajoraxis>
+			<period errorminus="-0.00008000" errorplus="0.00008000">11.32972000</period>
+			<radius errorminus="-0.025" errorplus="0.025">0.128</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004450" errorplus="0.004450">2454966.968820</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,39 @@
+<system>
+	<name>HD 202206</name>
+	<rightascension>21 14 58</rightascension>
+	<declination>-20 47 21</declination>
+	<star>
+		<name>HD 202206</name>
+		<magV>8.080</magV>
+		<magJ errorminus="0.025" errorplus="0.025">6.850</magJ>
+		<magH errorminus="0.016" errorplus="0.016">6.567</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.485</magK>
+		<mass>1.15</mass>
+		<temperature errorminus="40.00" errorplus="40.00">5765.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 202206 b</name>
+			<semimajoraxis>0.830400</semimajoraxis>
+			<eccentricity>0.434920</eccentricity>
+			<periastron>161.1826</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.06000000" errorplus="0.06000000">255.87000000</period>
+			<mass>17.42774</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 01</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 202206 c</name>
+			<semimajoraxis>2.542000</semimajoraxis>
+			<eccentricity>0.266920</eccentricity>
+			<periastron>55.5000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-18.40000000" errorplus="18.40000000">1383.40000000</period>
+			<mass>2.43653</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 04 01</lastupdate>
+		</planet>
+	</star>
+</system>

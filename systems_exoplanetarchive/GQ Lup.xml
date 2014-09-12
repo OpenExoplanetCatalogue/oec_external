@@ -1,0 +1,24 @@
+<system>
+	<name>GQ Lup</name>
+	<rightascension>15 49 12</rightascension>
+	<declination>-35 39 05</declination>
+	<star>
+		<name>GQ Lup</name>
+		<magV>12.430</magV>
+		<magI>10.800</magI>
+		<magJ errorminus="0.021" errorplus="0.021">8.605</magJ>
+		<magH errorminus="0.033" errorplus="0.033">7.702</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.096</magK>
+		<mass>0.70</mass>
+		<planet>
+			<name>GQ Lup b</name>
+			<semimajoraxis>100.000000</semimajoraxis>
+			<mass>20.00000</mass>
+			<radius errorminus="-0.500" errorplus="0.500">3.000</radius>
+			<temperature errorminus="-100" errorplus="100">2650</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

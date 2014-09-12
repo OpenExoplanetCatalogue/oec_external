@@ -1,0 +1,26 @@
+<system>
+	<name>HD 222582</name>
+	<rightascension>23 41 52</rightascension>
+	<declination>-05 59 09</declination>
+	<star>
+		<name>HD 222582</name>
+		<magV>7.680</magV>
+		<magJ errorminus="0.019" errorplus="0.019">6.522</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.243</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.173</magK>
+		<mass>0.99</mass>
+		<temperature>5727.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 222582 b</name>
+			<semimajoraxis errorminus="-0.078000" errorplus="0.078000">1.347000</semimajoraxis>
+			<eccentricity errorminus="-0.012000" errorplus="0.012000">0.725000</eccentricity>
+			<periastron errorminus="-0.8700" errorplus="0.8700">319.0100</periastron>
+			<period errorminus="-0.61000000" errorplus="0.61000000">572.38000000</period>
+			<mass errorminus="-0.65000" errorplus="0.65000">7.75000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

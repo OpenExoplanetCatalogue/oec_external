@@ -1,0 +1,26 @@
+<system>
+	<name>HD 185269</name>
+	<rightascension>19 37 12</rightascension>
+	<declination>+28 29 60</declination>
+	<star>
+		<name>HD 185269</name>
+		<radius errorminus="0.10" errorplus="0.10">1.88</radius>
+		<magJ errorminus="0.027" errorplus="0.027">5.518</magJ>
+		<magH errorminus="0.069" errorplus="0.069">5.400</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.260</magK>
+		<mass errorminus="0.10" errorplus="0.10">1.28</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5980.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 185269 b</name>
+			<semimajoraxis>0.077000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.300000</eccentricity>
+			<periastron errorminus="-6.8000" errorplus="6.8000">173.0000</periastron>
+			<period errorminus="-0.00100000" errorplus="0.00100000">6.83800000</period>
+			<mass>0.94000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

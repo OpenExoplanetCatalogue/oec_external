@@ -1,0 +1,23 @@
+<system>
+	<name>HD 102117</name>
+	<rightascension>11 44 50</rightascension>
+	<declination>-58 42 13</declination>
+	<star>
+		<name>HD 102117</name>
+		<magV errorminus="0.011" errorplus="0.011">7.448</magV>
+		<magJ errorminus="0.023" errorplus="0.023">6.224</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.949</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.833</magK>
+		<planet>
+			<name>HD 102117 b</name>
+			<semimajoraxis errorminus="-0.008800" errorplus="0.008800">0.153200</semimajoraxis>
+			<eccentricity errorminus="-0.082000" errorplus="0.082000">0.121000</eccentricity>
+			<periastron>279.0000</periastron>
+			<period errorminus="-0.00640000" errorplus="0.00640000">20.81330000</period>
+			<mass errorminus="-0.02000" errorplus="0.02000">0.17200</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+		</planet>
+	</star>
+</system>

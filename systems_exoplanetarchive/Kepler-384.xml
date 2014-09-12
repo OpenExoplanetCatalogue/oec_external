@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-384</name>
+	<rightascension>19 04 06</rightascension>
+	<declination>+44 46 58</declination>
+	<star>
+		<name>Kepler-384</name>
+		<radius errorminus="0.25" errorplus="0.25">0.88</radius>
+		<magJ errorminus="0.020" errorplus="0.020">12.419</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.082</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.038</magK>
+		<mass>0.76</mass>
+		<temperature errorminus="145.00" errorplus="145.00">5577.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-384 b</name>
+			<semimajoraxis>0.148000</semimajoraxis>
+			<period errorminus="-0.00024300" errorplus="0.00024300">22.59705300</period>
+			<radius errorminus="-0.029" errorplus="0.029">0.100</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.007480" errorplus="0.007480">2454973.419900</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-384 c</name>
+			<semimajoraxis>0.236000</semimajoraxis>
+			<period errorminus="-0.00077900" errorplus="0.00077900">45.34826900</period>
+			<radius errorminus="-0.029" errorplus="0.029">0.101</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009070" errorplus="0.009070">2454975.250800</transittime>
+		</planet>
+	</star>
+</system>

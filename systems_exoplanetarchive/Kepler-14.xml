@@ -1,0 +1,27 @@
+<system>
+	<name>Kepler-14</name>
+	<rightascension>19 10 50</rightascension>
+	<declination>+47 19 59</declination>
+	<star>
+		<name>Kepler-14</name>
+		<radius errorminus="0.11" errorplus="0.11">2.05</radius>
+		<magJ errorminus="0.022" errorplus="0.022">11.202</magJ>
+		<magH errorminus="0.020" errorplus="0.020">11.068</magH>
+		<magK errorminus="0.011" errorplus="0.011">10.988</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.51</mass>
+		<temperature errorminus="60.00" errorplus="60.00">6395.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-14 b</name>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.035000</eccentricity>
+			<inclination errorminus="-2.800" errorplus="0.000">90.000</inclination>
+			<period errorminus="-0.00000430" errorplus="0.00000430">6.79012300</period>
+			<mass errorminus="-0.34000" errorplus="0.35000">8.40000</mass>
+			<radius errorminus="-0.054" errorplus="0.073">1.136</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 11 27</lastupdate>
+			<transittime errorminus="-0.000180" errorplus="0.000180">2454971.087370</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>tau Gem</name>
+	<rightascension>07 11 08</rightascension>
+	<declination>+30 14 43</declination>
+	<star>
+		<name>tau Gem</name>
+		<radius errorminus="0.70" errorplus="0.70">26.80</radius>
+		<magV>4.420</magV>
+		<magJ errorminus="0.312" errorplus="0.312">2.377</magJ>
+		<magH errorminus="0.190" errorplus="0.190">1.821</magH>
+		<magK errorminus="0.254" errorplus="0.254">1.681</magK>
+		<mass errorminus="0.30" errorplus="0.30">2.30</mass>
+		<temperature errorminus="25.00" errorplus="25.00">4388.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>tau Gem b</name>
+			<semimajoraxis>1.170000</semimajoraxis>
+			<eccentricity errorminus="-0.009000" errorplus="0.009000">0.031000</eccentricity>
+			<periastron errorminus="-0.3000" errorplus="0.3000">137.4000</periastron>
+			<period errorminus="-0.10000000" errorplus="0.10000000">305.50000000</period>
+			<mass>20.60000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 05 28</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>HD 208527</name>
+	<rightascension>21 56 24</rightascension>
+	<declination>+21 14 24</declination>
+	<star>
+		<name>HD 208527</name>
+		<radius errorminus="8.30" errorplus="8.30">51.10</radius>
+		<magV>6.400</magV>
+		<magJ errorminus="0.214" errorplus="0.214">3.328</magJ>
+		<magH errorminus="0.170" errorplus="0.170">2.537</magH>
+		<magK errorminus="0.244" errorplus="0.244">2.224</magK>
+		<mass errorminus="0.40" errorplus="0.40">1.60</mass>
+		<temperature errorminus="65.00" errorplus="65.00">4035.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 208527 b</name>
+			<semimajoraxis errorminus="-0.200000" errorplus="0.200000">2.100000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.080000</eccentricity>
+			<periastron errorminus="-19.5000" errorplus="19.5000">278.0000</periastron>
+			<period errorminus="-5.80000000" errorplus="5.80000000">875.50000000</period>
+			<mass errorminus="-1.70000" errorplus="1.70000">9.90000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 12</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,53 @@
+<system>
+	<name>Kepler-48</name>
+	<rightascension>19 56 33</rightascension>
+	<declination>+40 56 57</declination>
+	<star>
+		<name>Kepler-48</name>
+		<radius errorminus="0.05" errorplus="0.05">0.89</radius>
+		<magJ errorminus="0.024" errorplus="0.024">11.702</magJ>
+		<magH errorminus="0.026" errorplus="0.026">11.292</magH>
+		<magK errorminus="0.023" errorplus="0.023">11.221</magK>
+		<mass errorminus="0.06" errorplus="0.06">0.88</mass>
+		<temperature errorminus="73.00" errorplus="73.00">5194.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-48 b</name>
+			<period errorminus="-0.00001400" errorplus="0.00001400">4.77798030</period>
+			<mass>5.94000</mass>
+			<radius>0.191</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2014 01 04</lastupdate>
+			<transittime errorminus="-0.001000" errorplus="0.001000">2454957.063010</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-48 c</name>
+			<period errorminus="-0.00002000" errorplus="0.00002000">9.67392830</period>
+			<mass>11.61000</mass>
+			<radius>0.280</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2014 01 04</lastupdate>
+			<transittime errorminus="-0.000770" errorplus="0.000770">2454958.339810</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-48 d</name>
+			<period>42.89610000</period>
+			<mass errorminus="-0.01450" errorplus="0.01450">0.02500</mass>
+			<radius errorminus="-0.010" errorplus="0.010">0.182</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454979.065540</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-48 e</name>
+			<period errorminus="-8.00000000" errorplus="8.00000000">982.00000000</period>
+			<mass errorminus="-0.07900" errorplus="0.07900">2.06700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-146</name>
+	<rightascension>19 36 27</rightascension>
+	<declination>+38 42 37</declination>
+	<star>
+		<name>Kepler-146</name>
+		<radius errorminus="0.23" errorplus="0.23">1.21</radius>
+		<magJ errorminus="0.021" errorplus="0.021">12.739</magJ>
+		<magH errorminus="0.019" errorplus="0.019">12.472</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.475</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5948.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-146 b</name>
+			<semimajoraxis>0.200000</semimajoraxis>
+			<period errorminus="-0.00007900" errorplus="0.00007900">31.15879900</period>
+			<radius errorminus="-0.062" errorplus="0.062">0.331</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001500" errorplus="0.001500">2455006.902720</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-146 c</name>
+			<semimajoraxis>0.364000</semimajoraxis>
+			<period errorminus="-0.00060900" errorplus="0.00060900">76.73217100</period>
+			<radius errorminus="-0.053" errorplus="0.053">0.279</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003870" errorplus="0.003870">2455033.670820</transittime>
+		</planet>
+	</star>
+</system>

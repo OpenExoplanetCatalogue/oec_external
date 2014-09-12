@@ -1,0 +1,23 @@
+<system>
+	<name>HD 87883</name>
+	<rightascension>10 08 43</rightascension>
+	<declination>+34 14 32</declination>
+	<star>
+		<name>HD 87883</name>
+		<magV errorminus="0.012" errorplus="0.012">7.551</magV>
+		<magJ errorminus="0.020" errorplus="0.020">5.839</magJ>
+		<magH errorminus="0.045" errorplus="0.045">5.441</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.314</magK>
+		<planet>
+			<name>HD 87883 b</name>
+			<semimajoraxis errorminus="-0.080000" errorplus="0.080000">3.600000</semimajoraxis>
+			<eccentricity errorminus="-0.120000" errorplus="0.120000">0.530000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">191.0000</periastron>
+			<period errorminus="-87.00000000" errorplus="87.00000000">2754.00000000</period>
+			<mass errorminus="-0.34000" errorplus="0.34000">1.78000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

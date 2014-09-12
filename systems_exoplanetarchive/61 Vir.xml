@@ -1,0 +1,50 @@
+<system>
+	<name>61 Vir</name>
+	<rightascension>13 18 24</rightascension>
+	<declination>-18 18 40</declination>
+	<star>
+		<name>61 Vir</name>
+		<radius errorminus="0.01" errorplus="0.01">0.96</radius>
+		<magV>4.740</magV>
+		<magI>3.970</magI>
+		<magJ errorminus="0.200" errorplus="0.200">3.334</magJ>
+		<magH errorminus="0.176" errorplus="0.176">2.974</magH>
+		<magK errorminus="0.236" errorplus="0.236">2.956</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.94</mass>
+		<temperature errorminus="33.00" errorplus="33.00">5577.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>61 Vir b</name>
+			<semimajoraxis errorminus="-0.000005" errorplus="0.000005">0.050201</semimajoraxis>
+			<eccentricity errorminus="-0.110000" errorplus="0.110000">0.120000</eccentricity>
+			<periastron errorminus="-54.0000" errorplus="54.0000">105.0000</periastron>
+			<period errorminus="-0.00060000" errorplus="0.00060000">4.21500000</period>
+			<mass errorminus="-0.00200" errorplus="0.00200">0.01600</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>61 Vir c</name>
+			<semimajoraxis errorminus="-0.000100" errorplus="0.000100">0.217500</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.140000</eccentricity>
+			<periastron errorminus="-38.0000" errorplus="38.0000">341.0000</periastron>
+			<period errorminus="-0.03400000" errorplus="0.03400000">38.02100000</period>
+			<mass errorminus="-0.00300" errorplus="0.00300">0.05700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+		<planet>
+			<name>61 Vir d</name>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.476000</semimajoraxis>
+			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.350000</eccentricity>
+			<periastron errorminus="-20.0000" errorplus="20.0000">314.0000</periastron>
+			<period errorminus="-0.55000000" errorplus="0.55000000">123.01000000</period>
+			<mass errorminus="-0.00800" errorplus="0.00800">0.07200</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

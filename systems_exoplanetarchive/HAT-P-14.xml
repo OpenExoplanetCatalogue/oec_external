@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-14</name>
+	<rightascension>17 20 28</rightascension>
+	<declination>+38 14 32</declination>
+	<star>
+		<name>HAT-P-14</name>
+		<radius errorminus="0.05" errorplus="0.05">1.47</radius>
+		<magV errorminus="0.058" errorplus="0.058">9.980</magV>
+		<magJ errorminus="0.021" errorplus="0.021">9.094</magJ>
+		<magH errorminus="0.020" errorplus="0.020">8.927</magH>
+		<magK errorminus="0.019" errorplus="0.019">8.851</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.39</mass>
+		<temperature errorminus="90.00" errorplus="90.00">6600.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-14 b</name>
+			<semimajoraxis errorminus="-0.000700" errorplus="0.000700">0.060600</semimajoraxis>
+			<eccentricity errorminus="-0.013000" errorplus="0.013000">0.107000</eccentricity>
+			<periastron errorminus="-4.0000" errorplus="4.0000">94.0000</periastron>
+			<inclination errorminus="-0.300" errorplus="0.300">83.500</inclination>
+			<period errorminus="-0.00000500" errorplus="0.00000500">4.62766900</period>
+			<mass errorminus="-0.05900" errorplus="0.05900">2.23200</mass>
+			<radius errorminus="-0.052" errorplus="0.052">1.150</radius>
+			<temperature errorminus="-34" errorplus="34">1570</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 26</lastupdate>
+			<transittime errorminus="-0.000470" errorplus="0.000470">2454875.289380</transittime>
+		</planet>
+	</star>
+</system>

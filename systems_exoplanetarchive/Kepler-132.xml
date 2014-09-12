@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-132</name>
+	<rightascension>18 52 57</rightascension>
+	<declination>+41 20 35</declination>
+	<star>
+		<name>Kepler-132</name>
+		<radius errorminus="0.23" errorplus="0.23">1.18</radius>
+		<magJ errorminus="0.023" errorplus="0.023">10.797</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.516</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.424</magK>
+		<temperature errorminus="146.00" errorplus="146.00">6003.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-132 b</name>
+			<semimajoraxis>0.067000</semimajoraxis>
+			<period errorminus="-0.00002200" errorplus="0.00002200">6.17819600</period>
+			<radius errorminus="-0.021" errorplus="0.021">0.108</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001900" errorplus="0.001900">2455001.861980</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-132 c</name>
+			<semimajoraxis>0.068000</semimajoraxis>
+			<period errorminus="-0.00001900" errorplus="0.00001900">6.41491400</period>
+			<radius errorminus="-0.022" errorplus="0.022">0.114</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001850" errorplus="0.001850">2455002.639080</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-132 d</name>
+			<semimajoraxis>0.136000</semimajoraxis>
+			<period errorminus="-0.00006700" errorplus="0.00006700">18.01019900</period>
+			<radius errorminus="-0.027" errorplus="0.027">0.138</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002120" errorplus="0.002120">2455012.421160</transittime>
+		</planet>
+	</star>
+</system>

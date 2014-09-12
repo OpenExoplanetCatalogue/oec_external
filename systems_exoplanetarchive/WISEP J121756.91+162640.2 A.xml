@@ -1,0 +1,21 @@
+<system>
+	<name>WISEP J121756.91+162640.2 A</name>
+	<rightascension>12 17 57</rightascension>
+	<declination>+16 26 40</declination>
+	<star>
+		<name>WISEP J121756.91+162640.2 A</name>
+		<radius errorminus="0.00" errorplus="0.00">0.09</radius>
+		<mass errorminus="0.01" errorplus="0.01">0.03</mass>
+		<temperature errorminus="25.00" errorplus="25.00">575.00</temperature>
+		<planet>
+			<name>WISEP J121756.91+162640.2 A b</name>
+			<semimajoraxis errorminus="-1.300000" errorplus="1.300000">8.000000</semimajoraxis>
+			<mass errorminus="-2.00000" errorplus="2.00000">22.00000</mass>
+			<radius errorminus="-0.029" errorplus="0.029">0.934</radius>
+			<temperature>450</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 11 18</lastupdate>
+		</planet>
+	</star>
+</system>

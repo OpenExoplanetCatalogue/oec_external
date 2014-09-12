@@ -1,0 +1,55 @@
+<system>
+	<name>Kepler-106</name>
+	<rightascension>20 03 27</rightascension>
+	<declination>+44 20 15</declination>
+	<star>
+		<name>Kepler-106</name>
+		<radius errorminus="0.17" errorplus="0.17">1.04</radius>
+		<magJ errorminus="0.020" errorplus="0.020">11.752</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.494</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.431</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.00</mass>
+		<temperature errorminus="114.00" errorplus="114.00">5858.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-106 d</name>
+			<period>23.98020000</period>
+			<mass>0.02500</mass>
+			<radius errorminus="-0.012" errorplus="0.012">0.085</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454980.532630</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-106 e</name>
+			<period>43.84450000</period>
+			<mass errorminus="-0.01800" errorplus="0.01800">0.03500</mass>
+			<radius errorminus="-0.029" errorplus="0.029">0.228</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454984.933600</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-106 b</name>
+			<period>6.16486000</period>
+			<mass errorminus="-0.00880" errorplus="0.00880">0.00050</mass>
+			<radius errorminus="-0.010" errorplus="0.010">0.073</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454968.640350</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-106 c</name>
+			<period>13.57080000</period>
+			<mass errorminus="-0.01000" errorplus="0.01000">0.03300</mass>
+			<radius errorminus="-0.029" errorplus="0.029">0.223</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454969.278370</transittime>
+		</planet>
+	</star>
+</system>

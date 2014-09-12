@@ -1,0 +1,23 @@
+<system>
+	<name>HD 25171</name>
+	<rightascension>03 55 49</rightascension>
+	<declination>-65 11 12</declination>
+	<star>
+		<name>HD 25171</name>
+		<magV errorminus="0.011" errorplus="0.011">7.778</magV>
+		<magJ errorminus="0.020" errorplus="0.020">6.765</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.570</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.489</magK>
+		<planet>
+			<name>HD 25171 b</name>
+			<semimajoraxis errorminus="-0.160000" errorplus="0.160000">3.020000</semimajoraxis>
+			<eccentricity errorminus="-0.060000" errorplus="0.060000">0.080000</eccentricity>
+			<periastron errorminus="-89.0000" errorplus="89.0000">96.0000</periastron>
+			<period errorminus="-167.00000000" errorplus="167.00000000">1845.00000000</period>
+			<mass errorminus="-0.10000" errorplus="0.10000">0.95000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

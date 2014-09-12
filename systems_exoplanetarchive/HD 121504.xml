@@ -1,0 +1,23 @@
+<system>
+	<name>HD 121504</name>
+	<rightascension>13 57 17</rightascension>
+	<declination>-56 02 24</declination>
+	<star>
+		<name>HD 121504</name>
+		<magV errorminus="0.011" errorplus="0.011">7.517</magV>
+		<magJ errorminus="0.093" errorplus="0.093">6.557</magJ>
+		<magH errorminus="0.036" errorplus="0.036">6.224</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.124</magK>
+		<planet>
+			<name>HD 121504 b</name>
+			<semimajoraxis>0.330000</semimajoraxis>
+			<eccentricity errorminus="-0.010000" errorplus="0.010000">0.030000</eccentricity>
+			<periastron errorminus="-12.0000" errorplus="12.0000">265.0000</periastron>
+			<period errorminus="-0.03000000" errorplus="0.03000000">63.33000000</period>
+			<mass>1.22000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

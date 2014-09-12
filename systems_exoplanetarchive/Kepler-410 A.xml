@@ -1,0 +1,26 @@
+<system>
+	<name>Kepler-410 A</name>
+	<rightascension>18 52 36</rightascension>
+	<declination>+45 08 23</declination>
+	<star>
+		<name>Kepler-410 A</name>
+		<radius errorminus="0.01" errorplus="0.01">1.35</radius>
+		<magJ errorminus="0.020" errorplus="0.020">8.417</magJ>
+		<magH errorminus="0.021" errorplus="0.021">8.191</magH>
+		<magK errorminus="0.013" errorplus="0.013">8.140</magK>
+		<mass errorminus="0.03" errorplus="0.03">1.21</mass>
+		<temperature errorminus="140.00" errorplus="140.00">6273.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-410 A b</name>
+			<semimajoraxis errorminus="-0.004700" errorplus="0.004700">0.122600</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.100000">0.170000</eccentricity>
+			<inclination errorminus="-0.150" errorplus="0.130">87.720</inclination>
+			<period errorminus="-0.00005400" errorplus="0.00005400">17.83364800</period>
+			<radius errorminus="-0.005" errorplus="0.005">0.253</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 17</lastupdate>
+		</planet>
+	</star>
+</system>

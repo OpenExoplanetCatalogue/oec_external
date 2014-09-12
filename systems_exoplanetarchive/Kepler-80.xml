@@ -1,0 +1,51 @@
+<system>
+	<name>Kepler-80</name>
+	<rightascension>19 44 27</rightascension>
+	<declination>+39 58 44</declination>
+	<star>
+		<name>Kepler-80</name>
+		<radius errorminus="0.02" errorplus="0.02">0.64</radius>
+		<magJ errorminus="0.023" errorplus="0.023">12.954</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.354</magH>
+		<magK errorminus="0.020" errorplus="0.020">12.253</magK>
+		<mass errorminus="0.11" errorplus="0.11">0.72</mass>
+		<temperature errorminus="74.00" errorplus="74.00">4613.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-80 b</name>
+			<period>7.05300000</period>
+			<radius errorminus="-0.010" errorplus="0.010">0.236</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-80 c</name>
+			<period>9.52200000</period>
+			<radius errorminus="-0.012" errorplus="0.012">0.249</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-80 d</name>
+			<semimajoraxis>0.037000</semimajoraxis>
+			<period errorminus="-0.00001000" errorplus="0.00001000">3.07218600</period>
+			<radius errorminus="-0.018" errorplus="0.018">0.155</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001690" errorplus="0.001690">2454967.021490</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-80 e</name>
+			<semimajoraxis>0.049000</semimajoraxis>
+			<period errorminus="-0.00001500" errorplus="0.00001500">4.64538700</period>
+			<radius errorminus="-0.019" errorplus="0.019">0.146</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001680" errorplus="0.001680">2454967.587360</transittime>
+		</planet>
+	</star>
+</system>

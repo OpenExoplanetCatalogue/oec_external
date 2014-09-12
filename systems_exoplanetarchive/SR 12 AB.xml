@@ -1,0 +1,18 @@
+<system>
+	<name>SR 12 AB</name>
+	<rightascension>16 27 20</rightascension>
+	<declination>-24 41 40</declination>
+	<star>
+		<name>SR 12 AB</name>
+		<magJ errorminus="0.023" errorplus="0.023">9.424</magJ>
+		<magH errorminus="0.044" errorplus="0.044">8.631</magH>
+		<magK errorminus="0.036" errorplus="0.036">8.408</magK>
+		<planet>
+			<name>SR 12 AB c</name>
+			<mass errorminus="-7.00000" errorplus="7.00000">13.00000</mass>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

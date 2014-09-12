@@ -1,0 +1,15 @@
+<system>
+	<name>MOA 2008-BLG-310L</name>
+	<rightascension>17 54 15</rightascension>
+	<declination>-34 46 41</declination>
+	<star>
+		<name>MOA 2008-BLG-310L</name>
+		<planet>
+			<name>MOA 2008-BLG-310L b</name>
+			<mass errorminus="-0.05000" errorplus="0.05000">0.23000</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04-09</lastupdate>
+		</planet>
+	</star>
+</system>

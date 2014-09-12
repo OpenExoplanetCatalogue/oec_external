@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-12</name>
+	<rightascension>13 57 33</rightascension>
+	<declination>+43 29 37</declination>
+	<star>
+		<name>HAT-P-12</name>
+		<radius errorminus="0.02" errorplus="0.02">0.70</radius>
+		<magV>12.840</magV>
+		<magJ errorminus="0.023" errorplus="0.023">10.794</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.236</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.108</magK>
+		<mass errorminus="0.02" errorplus="0.02">0.73</mass>
+		<temperature errorminus="60.00" errorplus="60.00">4650.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-12 b</name>
+			<semimajoraxis errorminus="-0.000300" errorplus="0.000300">0.038400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.400" errorplus="0.400">89.000</inclination>
+			<period errorminus="-0.00000210" errorplus="0.00000210">3.21305980</period>
+			<mass errorminus="-0.01200" errorplus="0.01200">0.21100</mass>
+			<radius errorminus="-0.021" errorplus="0.029">0.959</radius>
+			<temperature errorminus="-16" errorplus="16">963</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 02 26</lastupdate>
+			<transittime errorminus="-0.000200" errorplus="0.000200">2454419.195560</transittime>
+		</planet>
+	</star>
+</system>

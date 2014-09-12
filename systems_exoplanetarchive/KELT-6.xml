@@ -1,0 +1,31 @@
+<system>
+	<name>KELT-6</name>
+	<rightascension>13 03 56</rightascension>
+	<declination>+30 38 24</declination>
+	<star>
+		<name>KELT-6</name>
+		<radius errorminus="0.16" errorplus="0.16">1.58</radius>
+		<magV errorminus="0.047" errorplus="0.047">10.418</magV>
+		<magJ errorminus="0.017" errorplus="0.017">9.302</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.137</magH>
+		<magK errorminus="0.014" errorplus="0.014">9.083</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.08</mass>
+		<temperature errorminus="43.00" errorplus="43.00">6102.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>KELT-6 b</name>
+			<semimajoraxis errorminus="-0.000990" errorplus="0.001000">0.079390</semimajoraxis>
+			<eccentricity errorminus="-0.100000" errorplus="0.120000">0.220000</eccentricity>
+			<periastron errorminus="-120.0000" errorplus="110.0000">80.0000</periastron>
+			<inclination errorminus="-0.910" errorplus="0.790">88.810</inclination>
+			<period errorminus="-0.00020000" errorplus="0.00020000">7.84570000</period>
+			<mass errorminus="-0.04600" errorplus="0.04500">0.43000</mass>
+			<radius errorminus="-0.077" errorplus="0.130">1.193</radius>
+			<temperature errorminus="-38" errorplus="59">1313</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 21</lastupdate>
+			<transittime errorminus="-0.000364" errorplus="0.000364">2456347.796793</transittime>
+		</planet>
+	</star>
+</system>

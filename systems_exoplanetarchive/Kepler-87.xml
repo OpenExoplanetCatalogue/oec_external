@@ -1,0 +1,43 @@
+<system>
+	<name>Kepler-87</name>
+	<rightascension>19 51 40</rightascension>
+	<declination>+46 57 55</declination>
+	<star>
+		<name>Kepler-87</name>
+		<radius errorminus="0.04" errorplus="0.04">1.82</radius>
+		<magJ errorminus="0.022" errorplus="0.022">13.389</magJ>
+		<magH errorminus="0.022" errorplus="0.022">13.033</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.981</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.10</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5600.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-87 b</name>
+			<semimajoraxis errorminus="-0.028000" errorplus="0.026000">0.481000</semimajoraxis>
+			<eccentricity errorminus="-0.009000" errorplus="0.009000">0.036000</eccentricity>
+			<periastron errorminus="-27.6000" errorplus="27.6000">238.6000</periastron>
+			<inclination errorminus="-0.030" errorplus="0.034">89.274</inclination>
+			<period errorminus="-0.00015000" errorplus="0.00015000">114.73635000</period>
+			<mass errorminus="-0.02800" errorplus="0.02800">1.02000</mass>
+			<radius errorminus="-0.049" errorplus="0.049">1.204</radius>
+			<temperature errorminus="-4" errorplus="4">478</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+		<planet>
+			<name>Kepler-87 c</name>
+			<semimajoraxis errorminus="-0.040000" errorplus="0.037000">0.676000</semimajoraxis>
+			<eccentricity errorminus="-0.012000" errorplus="0.012000">0.039000</eccentricity>
+			<periastron errorminus="-18.8000" errorplus="18.8000">223.2000</periastron>
+			<inclination errorminus="-0.027" errorplus="0.031">89.588</inclination>
+			<period errorminus="-0.00150000" errorplus="0.00150000">191.23180000</period>
+			<mass errorminus="-0.00300" errorplus="0.00300">0.02000</mass>
+			<radius errorminus="-0.026" errorplus="0.026">0.548</radius>
+			<temperature errorminus="-4" errorplus="4">403</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
+		</planet>
+	</star>
+</system>

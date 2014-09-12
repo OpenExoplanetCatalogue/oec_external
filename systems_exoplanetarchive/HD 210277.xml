@@ -1,0 +1,24 @@
+<system>
+	<name>HD 210277</name>
+	<rightascension>22 09 30</rightascension>
+	<declination>-07 32 55</declination>
+	<star>
+		<name>HD 210277</name>
+		<magV>6.530</magV>
+		<magI>5.765</magI>
+		<magJ errorminus="0.024" errorplus="0.024">5.275</magJ>
+		<magH errorminus="0.031" errorplus="0.031">4.957</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.799</magK>
+		<planet>
+			<name>HD 210277 b</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">1.100000</semimajoraxis>
+			<eccentricity errorminus="-0.011000" errorplus="0.011000">0.472000</eccentricity>
+			<periastron errorminus="-1.9000" errorplus="1.9000">118.2000</periastron>
+			<period errorminus="-0.40000000" errorplus="0.40000000">442.10000000</period>
+			<mass errorminus="-0.03000" errorplus="0.03000">1.23000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

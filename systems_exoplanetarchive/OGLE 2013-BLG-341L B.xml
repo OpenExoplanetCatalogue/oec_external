@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE 2013-BLG-341L B</name>
+	<rightascension>17 52 07</rightascension>
+	<declination>-29 50 46</declination>
+	<star>
+		<name>OGLE 2013-BLG-341L B</name>
+		<mass errorminus="0.01" errorplus="0.01">0.15</mass>
+		<planet>
+			<name>OGLE 2013-BLG-341L B b</name>
+			<semimajoraxis errorminus="-0.043000" errorplus="0.043000">0.883000</semimajoraxis>
+			<mass errorminus="-0.00080" errorplus="0.00080">0.00730</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 07 09</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>1RXS J160929.1-210524</name>
+	<rightascension>16 09 30</rightascension>
+	<declination>-21 04 59</declination>
+	<star>
+		<name>1RXS J160929.1-210524</name>
+		<radius>1.35</radius>
+		<magJ errorminus="0.027" errorplus="0.027">9.820</magJ>
+		<magH errorminus="0.023" errorplus="0.023">9.121</magH>
+		<magK errorminus="0.021" errorplus="0.021">8.916</magK>
+		<mass errorminus="0.20" errorplus="0.20">0.85</mass>
+		<temperature errorminus="300.00" errorplus="300.00">4060.00</temperature>
+		<planet>
+			<name>1RXS J160929.1-210524 b</name>
+			<semimajoraxis>330.000000</semimajoraxis>
+			<mass errorminus="-2.00000" errorplus="4.00000">8.00000</mass>
+			<radius>1.664</radius>
+			<temperature errorminus="-100" errorplus="200">1800</temperature>
+			<discoverymethod>Imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+		</planet>
+	</star>
+</system>

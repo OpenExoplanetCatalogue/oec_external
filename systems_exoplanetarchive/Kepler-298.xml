@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-298</name>
+	<rightascension>18 52 10</rightascension>
+	<declination>+48 49 31</declination>
+	<star>
+		<name>Kepler-298</name>
+		<radius errorminus="0.03" errorplus="0.03">0.58</radius>
+		<magJ errorminus="0.025" errorplus="0.025">13.718</magJ>
+		<magH errorminus="0.022" errorplus="0.022">13.139</magH>
+		<magK errorminus="0.031" errorplus="0.031">13.075</magK>
+		<mass>0.65</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4465.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-298 b</name>
+			<semimajoraxis>0.080000</semimajoraxis>
+			<period errorminus="-0.00002700" errorplus="0.00002700">10.47546400</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.175</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001500" errorplus="0.001500">2454985.641560</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-298 c</name>
+			<semimajoraxis>0.136000</semimajoraxis>
+			<period errorminus="-0.00038000" errorplus="0.00038000">22.92881000</period>
+			<radius errorminus="-0.020" errorplus="0.020">0.172</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.011340" errorplus="0.011340">2455156.033720</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-298 d</name>
+			<semimajoraxis>0.305000</semimajoraxis>
+			<period errorminus="-0.00061500" errorplus="0.00061500">77.47363300</period>
+			<radius errorminus="-0.018" errorplus="0.018">0.223</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004900" errorplus="0.004900">2455017.247350</transittime>
+		</planet>
+	</star>
+</system>

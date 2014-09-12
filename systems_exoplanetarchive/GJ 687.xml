@@ -1,0 +1,27 @@
+<system>
+	<name>GJ 687</name>
+	<rightascension>17 36 26</rightascension>
+	<declination>+68 20 21</declination>
+	<star>
+		<name>GJ 687</name>
+		<radius errorminus="0.01" errorplus="0.01">0.42</radius>
+		<magV>9.150</magV>
+		<magI errorminus="0.025" errorplus="0.025">6.670</magI>
+		<magJ errorminus="0.021" errorplus="0.021">5.335</magJ>
+		<magH errorminus="0.033" errorplus="0.033">4.766</magH>
+		<magK errorminus="0.021" errorplus="0.021">4.548</magK>
+		<mass errorminus="0.04" errorplus="0.04">0.41</mass>
+		<temperature errorminus="28.00" errorplus="28.00">3413.00</temperature>
+		<planet>
+			<name>GJ 687 b</name>
+			<semimajoraxis errorminus="-0.000043" errorplus="0.000043">0.163530</semimajoraxis>
+			<eccentricity errorminus="-0.076000" errorplus="0.076000">0.040000</eccentricity>
+			<periastron errorminus="-120.5430" errorplus="120.5430">359.4300</periastron>
+			<period errorminus="-0.01500000" errorplus="0.01500000">38.14000000</period>
+			<mass errorminus="-0.00700" errorplus="0.00700">0.05800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 05 20</lastupdate>
+		</planet>
+	</star>
+</system>

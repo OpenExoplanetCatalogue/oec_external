@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-112</name>
+	<rightascension>19 47 55</rightascension>
+	<declination>+43 12 35</declination>
+	<star>
+		<name>Kepler-112</name>
+		<radius errorminus="0.20" errorplus="0.20">0.84</radius>
+		<magJ errorminus="0.022" errorplus="0.022">12.583</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.226</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.155</magK>
+		<temperature errorminus="148.00" errorplus="148.00">5544.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-112 b</name>
+			<semimajoraxis>0.076000</semimajoraxis>
+			<period errorminus="-0.00001000" errorplus="0.00001000">8.40887800</period>
+			<radius errorminus="-0.051" errorplus="0.051">0.211</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.000690" errorplus="0.000690">2454967.006200</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-112 c</name>
+			<semimajoraxis>0.172000</semimajoraxis>
+			<period errorminus="-0.00006000" errorplus="0.00006000">28.57426300</period>
+			<radius errorminus="-0.052" errorplus="0.052">0.214</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001220" errorplus="0.001220">2454976.830800</transittime>
+		</planet>
+	</star>
+</system>

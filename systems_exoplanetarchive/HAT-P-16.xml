@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-16</name>
+	<rightascension>00 38 18</rightascension>
+	<declination>+42 27 47</declination>
+	<star>
+		<name>HAT-P-16</name>
+		<radius errorminus="0.03" errorplus="0.03">1.16</radius>
+		<magV>10.812</magV>
+		<magJ errorminus="0.022" errorplus="0.022">9.850</magJ>
+		<magH errorminus="0.022" errorplus="0.022">9.623</magH>
+		<magK errorminus="0.020" errorplus="0.020">9.553</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.22</mass>
+		<temperature errorminus="72.00" errorplus="72.00">6140.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HAT-P-16 b</name>
+			<semimajoraxis errorminus="-0.000400" errorplus="0.000400">0.041300</semimajoraxis>
+			<eccentricity errorminus="-0.004000" errorplus="0.004000">0.036000</eccentricity>
+			<periastron errorminus="-8.0000" errorplus="8.0000">214.0000</periastron>
+			<inclination errorminus="-0.700" errorplus="0.700">86.600</inclination>
+			<period errorminus="-0.00000300" errorplus="0.00000300">2.77596000</period>
+			<mass errorminus="-0.09400" errorplus="0.09400">4.19300</mass>
+			<radius errorminus="-0.066" errorplus="0.066">1.289</radius>
+			<temperature errorminus="-40" errorplus="40">1626</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 26</lastupdate>
+			<transittime errorminus="-0.000310" errorplus="0.000310">2455027.592930</transittime>
+		</planet>
+	</star>
+</system>

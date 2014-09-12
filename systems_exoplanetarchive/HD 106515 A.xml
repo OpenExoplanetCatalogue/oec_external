@@ -1,0 +1,27 @@
+<system>
+	<name>HD 106515 A</name>
+	<rightascension>12 15 07</rightascension>
+	<declination>-07 15 26</declination>
+	<star>
+		<name>HD 106515 A</name>
+		<radius errorminus="0.05" errorplus="0.05">1.62</radius>
+		<magV errorminus="0.014" errorplus="0.014">7.971</magV>
+		<magJ errorminus="0.024" errorplus="0.024">6.585</magJ>
+		<magH errorminus="0.045" errorplus="0.045">6.218</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.151</magK>
+		<mass errorminus="0.01" errorplus="0.01">0.97</mass>
+		<temperature errorminus="29.00" errorplus="29.00">5362.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 106515 A b</name>
+			<semimajoraxis errorminus="-0.010000" errorplus="0.010000">4.590000</semimajoraxis>
+			<eccentricity errorminus="-0.011000" errorplus="0.011000">0.572000</eccentricity>
+			<periastron errorminus="-2.5000" errorplus="2.5000">123.8000</periastron>
+			<period errorminus="-12.00000000" errorplus="12.00000000">3630.00000000</period>
+			<mass errorminus="-0.14000" errorplus="0.14000">9.61000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 01 29</lastupdate>
+		</planet>
+	</star>
+</system>

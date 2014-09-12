@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-50</name>
+	<rightascension>19 12 24</rightascension>
+	<declination>+50 02 01</declination>
+	<star>
+		<name>Kepler-50</name>
+		<radius>1.88</radius>
+		<magJ errorminus="0.026" errorplus="0.026">9.518</magJ>
+		<magH errorminus="0.031" errorplus="0.031">9.250</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.197</magK>
+		<mass>1.23</mass>
+		<temperature>6058.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-50 b</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.012000">0.077000</semimajoraxis>
+			<period errorminus="-0.00010000" errorplus="0.00010000">7.81254000</period>
+			<radius errorminus="-0.009" errorplus="0.004">0.153</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.007000" errorplus="0.007000">2454974.376000</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-50 c</name>
+			<semimajoraxis errorminus="-0.023000" errorplus="0.014000">0.087000</semimajoraxis>
+			<period errorminus="-0.00004000" errorplus="0.00004000">9.37647000</period>
+			<radius errorminus="-0.007" errorplus="0.006">0.194</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 10 07</lastupdate>
+			<transittime errorminus="-0.003000" errorplus="0.003000">2454969.958000</transittime>
+		</planet>
+	</star>
+</system>

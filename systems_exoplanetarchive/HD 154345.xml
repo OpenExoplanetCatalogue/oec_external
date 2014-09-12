@@ -1,0 +1,23 @@
+<system>
+	<name>HD 154345</name>
+	<rightascension>17 02 36</rightascension>
+	<declination>+47 04 55</declination>
+	<star>
+		<name>HD 154345</name>
+		<magV errorminus="0.010" errorplus="0.010">6.769</magV>
+		<magJ errorminus="0.041" errorplus="0.041">5.411</magJ>
+		<magH errorminus="0.020" errorplus="0.020">5.098</magH>
+		<magK errorminus="0.017" errorplus="0.017">5.003</magK>
+		<planet>
+			<name>HD 154345 b</name>
+			<semimajoraxis errorminus="-0.260000" errorplus="0.260000">4.190000</semimajoraxis>
+			<eccentricity errorminus="-0.046000" errorplus="0.046000">0.044000</eccentricity>
+			<periastron>68.0000</periastron>
+			<period errorminus="-95.00000000" errorplus="95.00000000">3342.00000000</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">0.94700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 03 11</lastupdate>
+		</planet>
+	</star>
+</system>

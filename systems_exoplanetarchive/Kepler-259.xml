@@ -1,0 +1,34 @@
+<system>
+	<name>Kepler-259</name>
+	<rightascension>19 12 51</rightascension>
+	<declination>+46 36 54</declination>
+	<star>
+		<name>Kepler-259</name>
+		<radius errorminus="0.43" errorplus="0.43">0.90</radius>
+		<magJ errorminus="0.021" errorplus="0.021">14.009</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.673</magH>
+		<magK errorminus="0.029" errorplus="0.029">13.555</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5938.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-259 b</name>
+			<semimajoraxis>0.079000</semimajoraxis>
+			<period errorminus="-0.00002200" errorplus="0.00002200">8.11531700</period>
+			<radius errorminus="-0.122" errorplus="0.122">0.250</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001590" errorplus="0.001590">2455007.519550</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-259 c</name>
+			<semimajoraxis>0.217000</semimajoraxis>
+			<period errorminus="-0.00018100" errorplus="0.00018100">36.92493100</period>
+			<radius errorminus="-0.117" errorplus="0.117">0.241</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002670" errorplus="0.002670">2455007.223360</transittime>
+		</planet>
+	</star>
+</system>

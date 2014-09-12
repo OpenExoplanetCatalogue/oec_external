@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-80</name>
+	<rightascension>20 12 40</rightascension>
+	<declination>-02 08 39</declination>
+	<star>
+		<name>WASP-80</name>
+		<radius errorminus="0.02" errorplus="0.02">0.57</radius>
+		<magV>11.870</magV>
+		<magJ errorminus="0.019" errorplus="0.019">9.218</magJ>
+		<magH errorminus="0.021" errorplus="0.021">8.513</magH>
+		<magK errorminus="0.020" errorplus="0.020">8.351</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.57</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4145.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-80 b</name>
+			<semimajoraxis errorminus="-0.001100" errorplus="0.000800">0.034600</semimajoraxis>
+			<eccentricity>0.070000</eccentricity>
+			<inclination errorminus="-0.120" errorplus="0.070">89.920</inclination>
+			<period errorminus="-0.00000270" errorplus="0.00000230">3.06785040</period>
+			<mass errorminus="-0.03900" errorplus="0.03000">0.55400</mass>
+			<radius errorminus="-0.027" errorplus="0.026">0.952</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 03 04</lastupdate>
+			<transittime errorminus="-0.000052" errorplus="0.000067">2456125.417512</transittime>
+		</planet>
+	</star>
+</system>

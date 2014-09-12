@@ -1,0 +1,22 @@
+<system>
+	<name>HD 47536</name>
+	<rightascension>06 37 48</rightascension>
+	<declination>-32 20 23</declination>
+	<star>
+		<name>HD 47536</name>
+		<magV>5.280</magV>
+		<magJ errorminus="0.270" errorplus="0.270">3.179</magJ>
+		<magH errorminus="0.210" errorplus="0.210">2.471</magH>
+		<magK errorminus="0.252" errorplus="0.252">2.383</magK>
+		<planet>
+			<name>HD 47536 b</name>
+			<eccentricity errorminus="-0.080000" errorplus="0.080000">0.200000</eccentricity>
+			<periastron errorminus="-23.7000" errorplus="23.7000">260.8000</periastron>
+			<period>430.00000000</period>
+			<mass>5.00000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+	</star>
+</system>

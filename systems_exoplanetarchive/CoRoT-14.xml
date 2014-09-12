@@ -1,0 +1,30 @@
+<system>
+	<name>CoRoT-14</name>
+	<rightascension>06 53 42</rightascension>
+	<declination>-05 32 10</declination>
+	<star>
+		<name>CoRoT-14</name>
+		<radius errorminus="0.08" errorplus="0.08">1.21</radius>
+		<magV errorminus="0.070" errorplus="0.070">16.033</magV>
+		<magJ errorminus="0.036" errorplus="0.036">14.321</magJ>
+		<magH errorminus="0.046" errorplus="0.046">14.007</magH>
+		<magK errorminus="0.053" errorplus="0.053">13.806</magK>
+		<mass errorminus="0.09" errorplus="0.09">1.13</mass>
+		<temperature errorminus="100.00" errorplus="100.00">6035.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>CoRoT-14 b</name>
+			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.027000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.800" errorplus="0.800">79.600</inclination>
+			<period errorminus="-0.00013000" errorplus="0.00013000">1.51214000</period>
+			<mass errorminus="-0.60000" errorplus="0.60000">7.60000</mass>
+			<radius errorminus="-0.070" errorplus="0.070">1.090</radius>
+			<temperature errorminus="-66" errorplus="66">1952</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 25</lastupdate>
+			<transittime errorminus="-0.005300" errorplus="0.005300">2454787.669400</transittime>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,15 @@
+<system>
+	<name>MOA 2007-BLG-400L</name>
+	<rightascension>18 09 42</rightascension>
+	<declination>-29 13 27</declination>
+	<star>
+		<name>MOA 2007-BLG-400L</name>
+		<planet>
+			<name>MOA 2007-BLG-400L b</name>
+			<mass errorminus="-0.40000" errorplus="0.40000">0.90000</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+		</planet>
+	</star>
+</system>

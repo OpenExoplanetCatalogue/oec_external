@@ -1,0 +1,31 @@
+<system>
+	<name>KELT-3</name>
+	<rightascension>09 54 34</rightascension>
+	<declination>+40 23 17</declination>
+	<star>
+		<name>KELT-3</name>
+		<radius errorminus="0.07" errorplus="0.07">1.47</radius>
+		<magV errorminus="0.029" errorplus="0.029">9.873</magV>
+		<magJ errorminus="0.015" errorplus="0.015">8.963</magJ>
+		<magH errorminus="0.017" errorplus="0.017">8.728</magH>
+		<magK errorminus="0.017" errorplus="0.017">8.662</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.28</mass>
+		<temperature errorminus="50.00" errorplus="50.00">6306.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>KELT-3 b</name>
+			<semimajoraxis errorminus="-0.000670" errorplus="0.000660">0.041220</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>90.0000</periastron>
+			<inclination errorminus="-0.580" errorplus="0.650">84.230</inclination>
+			<period errorminus="-0.00001000" errorplus="0.00000990">2.70339040</period>
+			<mass errorminus="-0.06400" errorplus="0.06600">1.47700</mass>
+			<radius errorminus="-0.072" errorplus="0.072">1.345</radius>
+			<temperature errorminus="-39" errorplus="37">1816</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 06 10</lastupdate>
+			<transittime errorminus="-0.000380" errorplus="0.000380">2456034.295370</transittime>
+		</planet>
+	</star>
+</system>

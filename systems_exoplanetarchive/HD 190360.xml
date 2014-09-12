@@ -1,0 +1,38 @@
+<system>
+	<name>HD 190360</name>
+	<rightascension>20 03 37</rightascension>
+	<declination>+29 53 49</declination>
+	<star>
+		<name>HD 190360</name>
+		<radius>1.13</radius>
+		<magV>5.730</magV>
+		<magJ errorminus="0.226" errorplus="0.226">4.554</magJ>
+		<magH errorminus="0.252" errorplus="0.252">4.239</magH>
+		<magK errorminus="0.027" errorplus="0.027">4.076</magK>
+		<mass>0.96</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5590.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 190360 b</name>
+			<semimajoraxis errorminus="-0.230000" errorplus="0.230000">4.010000</semimajoraxis>
+			<eccentricity errorminus="-0.019000" errorplus="0.019000">0.313000</eccentricity>
+			<periastron errorminus="-4.0000" errorplus="4.0000">12.9000</periastron>
+			<period errorminus="-29.00000000" errorplus="29.00000000">2915.00000000</period>
+			<mass errorminus="-0.13000" errorplus="0.13000">1.56000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>2013 03 15</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 190360 c</name>
+			<semimajoraxis errorminus="-0.007500" errorplus="0.007500">0.130400</semimajoraxis>
+			<eccentricity errorminus="-0.082000" errorplus="0.082000">0.237000</eccentricity>
+			<periastron errorminus="-26.0000" errorplus="26.0000">5.0000</periastron>
+			<period errorminus="-0.00480000" errorplus="0.00480000">17.11100000</period>
+			<mass errorminus="-0.00760" errorplus="0.00760">0.06000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 03 15</lastupdate>
+		</planet>
+	</star>
+</system>

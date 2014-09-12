@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-8</name>
+	<rightascension>18 45 09</rightascension>
+	<declination>+42 27 04</declination>
+	<star>
+		<name>Kepler-8</name>
+		<radius errorminus="0.05" errorplus="0.05">1.49</radius>
+		<magV errorminus="0.324" errorplus="0.324">13.900</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.576</magJ>
+		<magH errorminus="0.018" errorplus="0.018">12.324</magH>
+		<magK errorminus="0.015" errorplus="0.015">12.293</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.21</mass>
+		<temperature errorminus="150.00" errorplus="150.00">6213.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-8 b</name>
+			<semimajoraxis errorminus="-0.001200" errorplus="0.000600">0.048300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.330" errorplus="0.330">84.070</inclination>
+			<period errorminus="-0.00005000" errorplus="0.00003000">3.52254000</period>
+			<mass errorminus="-0.19000" errorplus="0.13000">0.60300</mass>
+			<radius errorminus="-0.058" errorplus="0.056">1.419</radius>
+			<temperature errorminus="-200" errorplus="200">1764</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2012 11 02</lastupdate>
+			<transittime errorminus="-0.000400" errorplus="0.000300">2454954.118200</transittime>
+		</planet>
+	</star>
+</system>

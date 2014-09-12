@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-18</name>
+	<rightascension>01 37 25</rightascension>
+	<declination>-45 40 40</declination>
+	<star>
+		<name>WASP-18</name>
+		<radius errorminus="0.05" errorplus="0.05">1.23</radius>
+		<magV errorminus="0.018" errorplus="0.018">9.303</magV>
+		<magJ errorminus="0.018" errorplus="0.018">8.409</magJ>
+		<magH errorminus="0.055" errorplus="0.055">8.231</magH>
+		<magK errorminus="0.027" errorplus="0.027">8.131</magK>
+		<mass errorminus="0.07" errorplus="0.07">1.28</mass>
+		<temperature errorminus="100.00" errorplus="100.00">6400.00</temperature>
+		<planet>
+			<name>WASP-18 b</name>
+			<semimajoraxis errorminus="-0.000680" errorplus="0.000680">0.020260</semimajoraxis>
+			<eccentricity errorminus="-0.002800" errorplus="0.002800">0.009200</eccentricity>
+			<periastron errorminus="-10.0000" errorplus="10.0000">-96.0000</periastron>
+			<inclination errorminus="-2.500" errorplus="2.500">86.000</inclination>
+			<period errorminus="-0.00000087" errorplus="0.00000087">0.94145299</period>
+			<mass errorminus="-0.38000" errorplus="0.38000">10.43000</mass>
+			<radius errorminus="-0.057" errorplus="0.057">1.165</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000380" errorplus="0.000380">2454221.481630</transittime>
+		</planet>
+	</star>
+</system>

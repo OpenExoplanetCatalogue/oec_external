@@ -1,0 +1,49 @@
+<system>
+	<name>HD 181433</name>
+	<rightascension>19 25 10</rightascension>
+	<declination>-66 28 08</declination>
+	<star>
+		<name>HD 181433</name>
+		<magV>8.400</magV>
+		<magI>7.380</magI>
+		<magJ errorminus="0.020" errorplus="0.020">6.664</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.243</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.094</magK>
+		<mass>0.78</mass>
+		<temperature errorminus="134.00" errorplus="134.00">4962.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 181433 d</name>
+			<semimajoraxis>3.000000</semimajoraxis>
+			<eccentricity errorminus="-0.050000" errorplus="0.050000">0.480000</eccentricity>
+			<periastron errorminus="-13.0000" errorplus="13.0000">-30.0000</periastron>
+			<period errorminus="-158.00000000" errorplus="158.00000000">2172.00000000</period>
+			<mass>0.54000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 181433 b</name>
+			<semimajoraxis>0.080000</semimajoraxis>
+			<eccentricity errorminus="-0.062000" errorplus="0.062000">0.396000</eccentricity>
+			<periastron errorminus="-10.0000" errorplus="10.0000">202.0000</periastron>
+			<period errorminus="-0.00190000" errorplus="0.00190000">9.37430000</period>
+			<mass>0.02400</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 181433 c</name>
+			<semimajoraxis>1.760000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.280000</eccentricity>
+			<periastron errorminus="-3.2000" errorplus="3.2000">21.4000</periastron>
+			<period errorminus="-15.00000000" errorplus="15.00000000">962.00000000</period>
+			<mass>0.64000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 03 12</lastupdate>
+		</planet>
+	</star>
+</system>

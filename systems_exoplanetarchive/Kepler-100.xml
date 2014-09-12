@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-100</name>
+	<rightascension>19 25 33</rightascension>
+	<declination>+41 59 25</declination>
+	<star>
+		<name>Kepler-100</name>
+		<radius errorminus="0.04" errorplus="0.04">1.49</radius>
+		<magJ errorminus="0.021" errorplus="0.021">10.081</magJ>
+		<magH errorminus="0.017" errorplus="0.017">9.804</magH>
+		<magK errorminus="0.014" errorplus="0.014">9.768</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.08</mass>
+		<temperature errorminus="75.00" errorplus="75.00">5825.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-100 b</name>
+			<period>6.88705000</period>
+			<mass errorminus="-0.01000" errorplus="0.01000">0.02300</mass>
+			<radius errorminus="-0.004" errorplus="0.004">0.118</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454966.177970</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-100 c</name>
+			<period>12.81590000</period>
+			<mass errorminus="-0.01300" errorplus="0.01300">0.00300</mass>
+			<radius errorminus="-0.004" errorplus="0.004">0.196</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454955.947130</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-100 d</name>
+			<period>35.33310000</period>
+			<mass>0.00900</mass>
+			<radius errorminus="-0.004" errorplus="0.004">0.144</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 01 03</lastupdate>
+			<transittime>2454986.980310</transittime>
+		</planet>
+	</star>
+</system>

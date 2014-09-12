@@ -1,0 +1,27 @@
+<system>
+	<name>WASP-16</name>
+	<rightascension>14 18 44</rightascension>
+	<declination>-20 16 32</declination>
+	<star>
+		<name>WASP-16</name>
+		<radius errorminus="0.06" errorplus="0.06">0.95</radius>
+		<magJ errorminus="0.024" errorplus="0.024">9.984</magJ>
+		<magH errorminus="0.021" errorplus="0.021">9.659</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.589</magK>
+		<mass errorminus="0.13" errorplus="0.13">1.02</mass>
+		<temperature errorminus="150.00" errorplus="150.00">5700.00</temperature>
+		<planet>
+			<name>WASP-16 b</name>
+			<semimajoraxis errorminus="-0.001800" errorplus="0.001000">0.042100</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.430" errorplus="0.270">85.220</inclination>
+			<period errorminus="-0.00001310" errorplus="0.00001460">3.11860090</period>
+			<mass errorminus="-0.07600" errorplus="0.04300">0.85500</mass>
+			<radius errorminus="-0.060" errorplus="0.083">1.008</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 09</lastupdate>
+			<transittime errorminus="-0.000230" errorplus="0.000350">2454584.428780</transittime>
+		</planet>
+	</star>
+</system>

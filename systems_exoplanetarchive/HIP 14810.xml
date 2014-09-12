@@ -1,0 +1,45 @@
+<system>
+	<name>HIP 14810</name>
+	<rightascension>03 11 14</rightascension>
+	<declination>+21 05 51</declination>
+	<star>
+		<name>HIP 14810</name>
+		<magV errorminus="0.016" errorplus="0.016">8.500</magV>
+		<magJ errorminus="0.023" errorplus="0.023">7.202</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.964</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.828</magK>
+		<planet>
+			<name>HIP 14810 b</name>
+			<semimajoraxis errorminus="-0.004000" errorplus="0.004000">0.069200</semimajoraxis>
+			<eccentricity errorminus="-0.000940" errorplus="0.000940">0.142700</eccentricity>
+			<periastron errorminus="-0.3800" errorplus="0.3800">159.3200</periastron>
+			<period errorminus="-0.00001900" errorplus="0.00001900">6.67385500</period>
+			<mass errorminus="-0.32000" errorplus="0.32000">3.88000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HIP 14810 c</name>
+			<semimajoraxis errorminus="-0.031000" errorplus="0.031000">0.545000</semimajoraxis>
+			<eccentricity errorminus="-0.012000" errorplus="0.012000">0.164000</eccentricity>
+			<periastron errorminus="-2.5000" errorplus="2.5000">329.0000</periastron>
+			<period errorminus="-0.06500000" errorplus="0.06500000">147.73000000</period>
+			<mass errorminus="-0.10000" errorplus="0.10000">1.28000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+		<planet>
+			<name>HIP 14810 d</name>
+			<semimajoraxis errorminus="-0.110000" errorplus="0.110000">1.890000</semimajoraxis>
+			<eccentricity errorminus="-0.037000" errorplus="0.037000">0.173000</eccentricity>
+			<periastron errorminus="-19.0000" errorplus="19.0000">286.0000</periastron>
+			<period errorminus="-15.00000000" errorplus="15.00000000">952.00000000</period>
+			<mass errorminus="-0.05200" errorplus="0.05200">0.57000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>2013 04 08</lastupdate>
+		</planet>
+	</star>
+</system>

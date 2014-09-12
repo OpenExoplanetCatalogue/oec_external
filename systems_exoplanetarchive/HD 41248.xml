@@ -1,0 +1,38 @@
+<system>
+	<name>HD 41248</name>
+	<rightascension>06 00 33</rightascension>
+	<declination>-56 09 43</declination>
+	<star>
+		<name>HD 41248</name>
+		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
+		<magV errorminus="0.015" errorplus="0.015">8.807</magV>
+		<magJ errorminus="0.023" errorplus="0.023">7.606</magJ>
+		<magH errorminus="0.024" errorplus="0.024">7.284</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.277</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.92</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5713.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 41248 b</name>
+			<semimajoraxis errorminus="-0.011000" errorplus="0.017000">0.137000</semimajoraxis>
+			<eccentricity errorminus="-0.150000" errorplus="0.110000">0.150000</eccentricity>
+			<periastron errorminus="-183.3000" errorplus="176.7000">183.3000</periastron>
+			<period errorminus="-0.04400000" errorplus="0.06600000">18.35700000</period>
+			<mass errorminus="-0.01700" errorplus="0.01300">0.03900</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 05 02</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 41248 c</name>
+			<semimajoraxis errorminus="-0.014000" errorplus="0.020000">0.172000</semimajoraxis>
+			<eccentricity errorminus="0.000000" errorplus="0.180000">0.000000</eccentricity>
+			<periastron errorminus="-57.3000" errorplus="302.7000">57.3000</periastron>
+			<period errorminus="-0.13000000" errorplus="0.12000000">25.64800000</period>
+			<mass errorminus="-0.01600" errorplus="0.02000">0.02700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 05 02</lastupdate>
+		</planet>
+	</star>
+</system>

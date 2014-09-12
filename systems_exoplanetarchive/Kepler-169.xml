@@ -1,0 +1,65 @@
+<system>
+	<name>Kepler-169</name>
+	<rightascension>19 03 60</rightascension>
+	<declination>+40 55 10</declination>
+	<star>
+		<name>Kepler-169</name>
+		<radius errorminus="0.05" errorplus="0.05">0.76</radius>
+		<magJ errorminus="0.022" errorplus="0.022">12.729</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.283</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.186</magK>
+		<mass>0.86</mass>
+		<temperature errorminus="100.00" errorplus="100.00">4997.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-169 b</name>
+			<semimajoraxis>0.040000</semimajoraxis>
+			<period errorminus="-0.00001300" errorplus="0.00001300">3.25061900</period>
+			<radius errorminus="-0.007" errorplus="0.007">0.101</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002320" errorplus="0.002320">2454966.692090</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-169 c</name>
+			<semimajoraxis>0.062000</semimajoraxis>
+			<period errorminus="-0.00002900" errorplus="0.00002900">6.19546900</period>
+			<radius errorminus="-0.007" errorplus="0.007">0.108</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002750" errorplus="0.002750">2454967.716160</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-169 d</name>
+			<semimajoraxis>0.075000</semimajoraxis>
+			<period errorminus="-0.00004100" errorplus="0.00004100">8.34812500</period>
+			<radius errorminus="-0.008" errorplus="0.008">0.112</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002490" errorplus="0.002490">2454969.841170</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-169 f</name>
+			<semimajoraxis>0.359000</semimajoraxis>
+			<period errorminus="-0.00040600" errorplus="0.00040600">87.09019500</period>
+			<radius errorminus="-0.021" errorplus="0.021">0.230</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002760" errorplus="0.002760">2455020.318400</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-169 e</name>
+			<semimajoraxis>0.105000</semimajoraxis>
+			<period errorminus="-0.00003400" errorplus="0.00003400">13.76710200</period>
+			<radius errorminus="-0.026" errorplus="0.026">0.196</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001450" errorplus="0.001450">2455007.810640</transittime>
+		</planet>
+	</star>
+</system>

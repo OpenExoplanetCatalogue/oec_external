@@ -1,0 +1,26 @@
+<system>
+	<name>HD 195019</name>
+	<rightascension>20 28 19</rightascension>
+	<declination>+18 46 10</declination>
+	<star>
+		<name>HD 195019</name>
+		<magV>6.870</magV>
+		<magJ errorminus="0.018" errorplus="0.018">5.604</magJ>
+		<magH errorminus="0.020" errorplus="0.020">5.325</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.256</magK>
+		<mass>1.07</mass>
+		<temperature>5788.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 195019 b</name>
+			<semimajoraxis errorminus="-0.008000" errorplus="0.008000">0.138800</semimajoraxis>
+			<eccentricity errorminus="-0.004400" errorplus="0.004400">0.013800</eccentricity>
+			<periastron errorminus="-20.0000" errorplus="20.0000">231.0000</periastron>
+			<period errorminus="-0.00039000" errorplus="0.00039000">18.20132000</period>
+			<mass errorminus="-0.30000" errorplus="0.30000">3.69000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>2013 04 01</lastupdate>
+		</planet>
+	</star>
+</system>

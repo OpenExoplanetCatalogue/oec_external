@@ -1,0 +1,49 @@
+<system>
+	<name>Kepler-130</name>
+	<rightascension>19 13 48</rightascension>
+	<declination>+40 14 43</declination>
+	<star>
+		<name>Kepler-130</name>
+		<radius errorminus="0.03" errorplus="0.03">1.13</radius>
+		<magJ errorminus="0.019" errorplus="0.019">10.810</magJ>
+		<magH errorminus="0.016" errorplus="0.016">10.529</magH>
+		<magK errorminus="0.020" errorplus="0.020">10.490</magK>
+		<mass errorminus="0.09" errorplus="0.09">1.00</mass>
+		<temperature errorminus="75.00" errorplus="75.00">5884.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-130 b</name>
+			<semimajoraxis>0.079000</semimajoraxis>
+			<period errorminus="-0.00003900" errorplus="0.00003900">8.45745800</period>
+			<radius errorminus="-0.004" errorplus="0.004">0.091</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.002690" errorplus="0.002690">2454972.066660</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-130 c</name>
+			<semimajoraxis errorminus="-0.005000" errorplus="0.005000">0.178000</semimajoraxis>
+			<eccentricity errorminus="0.000000" errorplus="0.070000">0.000000</eccentricity>
+			<periastron errorminus="0.0000" errorplus="10.8900">0.0000</periastron>
+			<inclination errorminus="-0.310" errorplus="0.660">89.340</inclination>
+			<period errorminus="-0.00007000" errorplus="0.00006000">27.50868000</period>
+			<radius errorminus="-0.022" errorplus="0.022">0.259</radius>
+			<temperature errorminus="-29" errorplus="29">683</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2014 01 07</lastupdate>
+			<transittime>2455015.103900</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-130 d</name>
+			<semimajoraxis>0.377000</semimajoraxis>
+			<period errorminus="-0.00074400" errorplus="0.00074400">87.51790500</period>
+			<radius errorminus="-0.014" errorplus="0.014">0.146</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004670" errorplus="0.004670">2455034.158050</transittime>
+		</planet>
+	</star>
+</system>

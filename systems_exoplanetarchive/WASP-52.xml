@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-52</name>
+	<rightascension>23 13 59</rightascension>
+	<declination>+08 45 41</declination>
+	<star>
+		<name>WASP-52</name>
+		<radius errorminus="0.02" errorplus="0.02">0.79</radius>
+		<magV>12.000</magV>
+		<magJ errorminus="0.018" errorplus="0.018">10.588</magJ>
+		<magH errorminus="0.026" errorplus="0.026">10.186</magH>
+		<magK errorminus="0.024" errorplus="0.024">10.086</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.87</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5000.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-52 b</name>
+			<semimajoraxis errorminus="-0.000300" errorplus="0.000300">0.027200</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.200" errorplus="0.200">85.350</inclination>
+			<period errorminus="-0.00000120" errorplus="0.00000120">1.74977980</period>
+			<mass errorminus="-0.02000" errorplus="0.02000">0.46000</mass>
+			<radius errorminus="-0.030" errorplus="0.030">1.270</radius>
+			<temperature errorminus="-35" errorplus="35">1315</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2012 11 13</lastupdate>
+			<transittime errorminus="-0.000090" errorplus="0.000090">2455793.681430</transittime>
+		</planet>
+	</star>
+</system>

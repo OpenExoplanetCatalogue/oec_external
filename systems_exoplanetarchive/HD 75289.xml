@@ -1,0 +1,23 @@
+<system>
+	<name>HD 75289</name>
+	<rightascension>08 47 40</rightascension>
+	<declination>-41 44 13</declination>
+	<star>
+		<name>HD 75289</name>
+		<magV>6.370</magV>
+		<magJ errorminus="0.019" errorplus="0.019">5.346</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.187</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.012</magK>
+		<planet>
+			<name>HD 75289 b</name>
+			<semimajoraxis>0.046000</semimajoraxis>
+			<eccentricity>0.054000</eccentricity>
+			<periastron>216.0000</periastron>
+			<period>3.51000000</period>
+			<mass>0.42000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+	</star>
+</system>

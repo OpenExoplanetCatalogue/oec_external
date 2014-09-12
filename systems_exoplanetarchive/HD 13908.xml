@@ -1,0 +1,38 @@
+<system>
+	<name>HD 13908</name>
+	<rightascension>02 18 15</rightascension>
+	<declination>+65 35 40</declination>
+	<star>
+		<name>HD 13908</name>
+		<radius errorminus="0.10" errorplus="0.10">1.67</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.508</magV>
+		<magJ errorminus="0.023" errorplus="0.023">6.497</magJ>
+		<magH errorminus="0.017" errorplus="0.017">6.251</magH>
+		<magK errorminus="0.021" errorplus="0.021">6.210</magK>
+		<mass errorminus="0.04" errorplus="0.04">1.29</mass>
+		<temperature errorminus="66.00" errorplus="66.00">6255.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>HD 13908 b</name>
+			<semimajoraxis errorminus="-0.002500" errorplus="0.002500">0.154000</semimajoraxis>
+			<eccentricity errorminus="-0.018000" errorplus="0.018000">0.020000</eccentricity>
+			<periastron errorminus="-43.0000" errorplus="43.0000">185.0000</periastron>
+			<period errorminus="-0.00600000" errorplus="0.00600000">19.38200000</period>
+			<mass errorminus="-0.03500" errorplus="0.03500">0.86500</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 11 25</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 13908 c</name>
+			<semimajoraxis errorminus="-0.040000" errorplus="0.040000">2.030000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.120000</eccentricity>
+			<periastron errorminus="-11.0000" errorplus="11.0000">185.0000</periastron>
+			<period errorminus="-17.00000000" errorplus="17.00000000">931.00000000</period>
+			<mass errorminus="-0.25000" errorplus="0.25000">5.13000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>2013 11 25</lastupdate>
+		</planet>
+	</star>
+</system>
