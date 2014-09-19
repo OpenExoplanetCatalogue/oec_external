@@ -12,16 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5828.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-334 d</name>
-			<semimajoraxis>0.168000</semimajoraxis>
-			<period errorminus="-0.00014200" errorplus="0.00014200">25.09849000</period>
-			<radius errorminus="-0.023" errorplus="0.023">0.126</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.003450" errorplus="0.003450">2454978.569450</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-334 b</name>
 			<semimajoraxis>0.061000</semimajoraxis>
 			<period errorminus="-0.00002100" errorplus="0.00002100">5.47031900</period>
@@ -40,6 +30,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.002560" errorplus="0.002560">2454966.957900</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-334 d</name>
+			<semimajoraxis>0.168000</semimajoraxis>
+			<period errorminus="-0.00014200" errorplus="0.00014200">25.09849000</period>
+			<radius errorminus="-0.023" errorplus="0.023">0.126</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.003450" errorplus="0.003450">2454978.569450</transittime>
 		</planet>
 	</star>
 </system>

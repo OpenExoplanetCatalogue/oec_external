@@ -7,7 +7,7 @@
 		<magJ errorminus="0.029" errorplus="0.029">5.158</magJ>
 		<magH errorminus="0.016" errorplus="0.016">4.803</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.714</magK>
-		<mass>0.90</mass>
+		<mass errorminus="0.05" errorplus="0.05">0.90</mass>
 		<temperature errorminus="87.00" errorplus="87.00">5311.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>

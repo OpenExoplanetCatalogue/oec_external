@@ -1,0 +1,26 @@
+<system>
+	<name>GJ 15 A</name>
+	<rightascension>00 18 23</rightascension>
+	<declination>+44 01 23</declination>
+	<star>
+		<name>GJ 15 A</name>
+		<radius errorminus="0.00" errorplus="0.00">0.39</radius>
+		<magV>8.080</magV>
+		<magJ errorminus="0.264" errorplus="0.264">5.252</magJ>
+		<magH errorminus="0.200" errorplus="0.200">4.476</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.018</magK>
+		<mass errorminus="0.06" errorplus="0.06">0.38</mass>
+		<temperature errorminus="11.00" errorplus="11.00">3567.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>GJ 15 A b</name>
+			<semimajoraxis errorminus="-0.003400" errorplus="0.003400">0.071700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<period errorminus="-0.00160000" errorplus="0.00160000">11.44330000</period>
+			<mass errorminus="-0.00200" errorplus="0.00200">0.01700</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 09 17</lastupdate>
+		</planet>
+	</star>
+</system>

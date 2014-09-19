@@ -8,8 +8,8 @@
 		<magJ errorminus="0.021" errorplus="0.021">6.848</magJ>
 		<magH errorminus="0.044" errorplus="0.044">6.322</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.036</magK>
-		<mass>0.33</mass>
-		<temperature>3600.00</temperature>
+		<mass errorminus="0.02" errorplus="0.02">0.33</mass>
+		<temperature errorminus="50.00" errorplus="50.00">3350.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>GJ 667 C b</name>
@@ -31,17 +31,6 @@
 			<mass errorminus="-0.00400" errorplus="0.00500">0.01200</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>2013 06 25</lastupdate>
-		</planet>
-		<planet>
-			<name>GJ 667 C d</name>
-			<semimajoraxis errorminus="-0.030000" errorplus="0.024000">0.276000</semimajoraxis>
-			<eccentricity errorminus="-0.030000" errorplus="0.200000">0.030000</eccentricity>
-			<periastron errorminus="-40.1100" errorplus="319.8900">40.1100</periastron>
-			<period errorminus="-0.89000000" errorplus="0.81000000">91.61000000</period>
-			<mass errorminus="-0.00500" errorplus="0.00600">0.01600</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 06 25</lastupdate>
 		</planet>
 		<planet>

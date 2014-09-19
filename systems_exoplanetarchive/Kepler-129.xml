@@ -11,16 +11,6 @@
 		<mass>1.18</mass>
 		<temperature errorminus="83.00" errorplus="83.00">5770.00</temperature>
 		<planet>
-			<name>Kepler-129 c</name>
-			<semimajoraxis>0.393000</semimajoraxis>
-			<period errorminus="-0.00068000" errorplus="0.00068000">82.20017000</period>
-			<radius errorminus="-0.009" errorplus="0.009">0.227</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.004780" errorplus="0.004780">2455041.789630</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-129 b</name>
 			<semimajoraxis>0.131000</semimajoraxis>
 			<period errorminus="-0.00006800" errorplus="0.00006800">15.79186000</period>
@@ -29,6 +19,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.002280" errorplus="0.002280">2455009.821660</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-129 c</name>
+			<semimajoraxis>0.393000</semimajoraxis>
+			<period errorminus="-0.00068000" errorplus="0.00068000">82.20017000</period>
+			<radius errorminus="-0.009" errorplus="0.009">0.227</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004780" errorplus="0.004780">2455041.789630</transittime>
 		</planet>
 	</star>
 </system>

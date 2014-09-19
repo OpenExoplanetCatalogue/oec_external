@@ -12,14 +12,12 @@
 		<temperature errorminus="100.00" errorplus="100.00">6189.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-79 e</name>
-			<semimajoraxis>0.390000</semimajoraxis>
-			<period errorminus="-0.00136500" errorplus="0.00136500">81.06529800</period>
-			<radius errorminus="-0.062" errorplus="0.062">0.300</radius>
+			<name>Kepler-79 b</name>
+			<period>13.48500000</period>
+			<radius errorminus="-0.073" errorplus="0.073">0.231</radius>
 			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.009690" errorplus="0.009690">2454972.529080</transittime>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 12 09</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-79 c</name>
@@ -40,12 +38,14 @@
 			<transittime errorminus="-0.000770" errorplus="0.000770">2454991.745080</transittime>
 		</planet>
 		<planet>
-			<name>Kepler-79 b</name>
-			<period>13.48500000</period>
-			<radius errorminus="-0.073" errorplus="0.073">0.231</radius>
+			<name>Kepler-79 e</name>
+			<semimajoraxis>0.390000</semimajoraxis>
+			<period errorminus="-0.00136500" errorplus="0.00136500">81.06529800</period>
+			<radius errorminus="-0.062" errorplus="0.062">0.300</radius>
 			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2012</discoveryyear>
-			<lastupdate>2013 12 09</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.009690" errorplus="0.009690">2454972.529080</transittime>
 		</planet>
 	</star>
 </system>
