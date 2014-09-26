@@ -13,23 +13,23 @@
 		<temperature>6095.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>HD 60532 c</name>
-			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">1.580000</semimajoraxis>
-			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.020000</eccentricity>
-			<periastron errorminus="-92.0000" errorplus="92.0000">-209.0000</periastron>
-			<period errorminus="-9.00000000" errorplus="9.00000000">604.00000000</period>
-			<mass errorminus="-0.09000" errorplus="0.09000">2.46000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2008</discoveryyear>
-			<lastupdate>2013 04 05</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 60532 b</name>
 			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.759000</semimajoraxis>
 			<eccentricity errorminus="-0.030000" errorplus="0.030000">0.280000</eccentricity>
 			<periastron errorminus="-4.9000" errorplus="4.9000">-8.1000</periastron>
 			<period errorminus="-0.60000000" errorplus="0.60000000">201.30000000</period>
 			<mass errorminus="-0.05000" errorplus="0.05000">1.03000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>2013 04 05</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 60532 c</name>
+			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">1.580000</semimajoraxis>
+			<eccentricity errorminus="-0.020000" errorplus="0.020000">0.020000</eccentricity>
+			<periastron errorminus="-92.0000" errorplus="92.0000">-209.0000</periastron>
+			<period errorminus="-9.00000000" errorplus="9.00000000">604.00000000</period>
+			<mass errorminus="-0.09000" errorplus="0.09000">2.46000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2008</discoveryyear>
 			<lastupdate>2013 04 05</lastupdate>

@@ -9,9 +9,10 @@
 		<magK errorminus="0.095" errorplus="0.095">14.635</magK>
 		<planet>
 			<name>NY Vir b</name>
-			<semimajoraxis>3.300000</semimajoraxis>
-			<period>2900.00000000</period>
-			<mass errorminus="-0.30000" errorplus="0.30000">2.30000</mass>
+			<eccentricity errorminus="-0.170000" errorplus="0.170000">0.440000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">346.0000</periastron>
+			<period errorminus="-65.70000000" errorplus="65.70000000">2985.70000000</period>
+			<mass errorminus="-0.19000" errorplus="0.19000">2.78000</mass>
 			<discoverymethod>Eclipse Timing Variations</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>2013 05 28</lastupdate>

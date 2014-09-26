@@ -4,31 +4,43 @@
 	<declination>+48 21 19</declination>
 	<star>
 		<name>Kepler-101</name>
-		<radius errorminus="0.41" errorplus="0.41">1.67</radius>
+		<radius errorminus="0.20" errorplus="0.20">1.56</radius>
+		<magV>13.800</magV>
 		<magJ errorminus="0.025" errorplus="0.025">12.403</magJ>
 		<magH errorminus="0.019" errorplus="0.019">12.112</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.011</magK>
-		<mass>1.12</mass>
-		<temperature errorminus="134.00" errorplus="134.00">5570.00</temperature>
+		<mass errorminus="0.07" errorplus="0.07">1.17</mass>
+		<temperature errorminus="50.00" errorplus="50.00">5667.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>Kepler-101 b</name>
-			<semimajoraxis>0.048000</semimajoraxis>
-			<period errorminus="-0.00000200" errorplus="0.00000200">3.48769100</period>
-			<radius errorminus="-0.130" errorplus="0.130">0.524</radius>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.001000">0.047400</semimajoraxis>
+			<eccentricity errorminus="-0.059000" errorplus="0.080000">0.086000</eccentricity>
+			<periastron errorminus="-90.0000" errorplus="32.0000">231.0000</periastron>
+			<inclination errorminus="-1.530" errorplus="1.730">85.820</inclination>
+			<period errorminus="-0.00000700" errorplus="0.00000700">3.48768120</period>
+			<mass errorminus="-0.01000" errorplus="0.02000">0.16000</mass>
+			<radius errorminus="-0.070" errorplus="0.080">0.510</radius>
+			<temperature errorminus="-145" errorplus="103">1513</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.000310" errorplus="0.000310">2455003.931260</transittime>
+			<transittime errorminus="-0.000410" errorplus="0.000410">2455088.779950</transittime>
 		</planet>
 		<planet>
 			<name>Kepler-101 c</name>
-			<semimajoraxis>0.068000</semimajoraxis>
-			<period errorminus="-0.00011500" errorplus="0.00011500">6.02980900</period>
-			<radius errorminus="-0.030" errorplus="0.030">0.119</radius>
+			<semimajoraxis errorminus="-0.001400" errorplus="0.001400">0.068400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>90.0000</periastron>
+			<inclination errorminus="-3.100" errorplus="3.400">84.600</inclination>
+			<period errorminus="-0.00007500" errorplus="0.00007500">6.02976000</period>
+			<mass>0.01000</mass>
+			<radius errorminus="-0.015" errorplus="0.017">0.112</radius>
+			<temperature errorminus="-210" errorplus="238">1413</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.011460" errorplus="0.011460">2454965.482050</transittime>
+			<transittime errorminus="-0.008800" errorplus="0.008800">2454965.486000</transittime>
 		</planet>
 	</star>
 </system>

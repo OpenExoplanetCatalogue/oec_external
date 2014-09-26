@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-104</name>
+	<rightascension>10 42 25</rightascension>
+	<declination>+07 26 06</declination>
+	<star>
+		<name>WASP-104</name>
+		<radius errorminus="0.03" errorplus="0.03">0.96</radius>
+		<magV errorminus="0.100" errorplus="0.100">11.120</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.360</magJ>
+		<magH errorminus="0.024" errorplus="0.024">9.979</magH>
+		<magK errorminus="0.017" errorplus="0.017">9.882</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.08</mass>
+		<temperature errorminus="127.00" errorplus="127.00">5475.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>WASP-104 b</name>
+			<semimajoraxis errorminus="-0.000450" errorplus="0.000450">0.029180</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="-0.250" errorplus="0.250">83.630</inclination>
+			<period errorminus="-0.00000360" errorplus="0.00000180">1.75541370</period>
+			<mass errorminus="-0.04700" errorplus="0.04700">1.27200</mass>
+			<radius errorminus="-0.037" errorplus="0.037">1.137</radius>
+			<temperature errorminus="-39" errorplus="39">1516</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 09 24</lastupdate>
+			<transittime errorminus="-0.000120" errorplus="0.000120">2456406.111260</transittime>
+		</planet>
+	</star>
+</system>

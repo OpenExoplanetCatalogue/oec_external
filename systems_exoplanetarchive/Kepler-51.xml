@@ -41,6 +41,7 @@
 			<name>Kepler-51 d</name>
 			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">0.509000</semimajoraxis>
 			<eccentricity errorminus="-0.008000" errorplus="0.011000">0.008000</eccentricity>
+			<period errorminus="-0.00200000" errorplus="0.00500000">130.19400000</period>
 			<mass errorminus="-0.00300" errorplus="0.00300">0.02400</mass>
 			<radius errorminus="-0.045" errorplus="0.045">0.865</radius>
 			<temperature errorminus="-8" errorplus="8">381</temperature>

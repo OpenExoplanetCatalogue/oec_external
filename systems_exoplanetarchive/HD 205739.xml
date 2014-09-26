@@ -4,10 +4,14 @@
 	<declination>-31 44 15</declination>
 	<star>
 		<name>HD 205739</name>
-		<magV errorminus="0.015" errorplus="0.015">8.544</magV>
+		<radius errorminus="0.10" errorplus="0.10">1.33</radius>
+		<magV>8.560</magV>
 		<magJ errorminus="0.024" errorplus="0.024">7.585</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.350</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.299</magK>
+		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
+		<temperature errorminus="30.00" errorplus="30.00">6176.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 205739 b</name>
 			<semimajoraxis errorminus="-0.015000" errorplus="0.019000">0.896000</semimajoraxis>
