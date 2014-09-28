@@ -19,9 +19,9 @@
 			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
 			<period errorminus="7e-06" errorplus="7e-06">4.124461</period>
 			<mass errorminus="0.161" errorplus="0.161">4.063</mass>
-			<radius errorminus="1.024" errorplus="1.024">1.024</radius>
+			<radius errorminus="0.092" errorplus="0.092">1.024</radius>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>10/12/11</lastupdate>
+			<lastupdate>14/09/28</lastupdate>
 		</planet>
 	</star>
 </system>
