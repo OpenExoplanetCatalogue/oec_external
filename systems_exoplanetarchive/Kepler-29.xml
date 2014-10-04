@@ -12,17 +12,6 @@
 		<temperature errorminus="250.00" errorplus="250.00">5750.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-29 b</name>
-			<semimajoraxis>0.090000</semimajoraxis>
-			<period errorminus="-0.00020000" errorplus="0.00020000">10.33760000</period>
-			<mass>0.40000</mass>
-			<radius errorminus="-0.045" errorplus="0.045">0.321</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2011</discoveryyear>
-			<lastupdate>2012 12 04</lastupdate>
-			<transittime errorminus="-0.009000" errorplus="0.009000">2454982.750000</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-29 c</name>
 			<semimajoraxis>0.110000</semimajoraxis>
 			<period errorminus="-0.00040000" errorplus="0.00040000">13.29070000</period>
@@ -32,6 +21,17 @@
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>2012 12 04</lastupdate>
 			<transittime errorminus="-0.016000" errorplus="0.016000">2454978.471000</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-29 b</name>
+			<semimajoraxis>0.090000</semimajoraxis>
+			<period errorminus="-0.00020000" errorplus="0.00020000">10.33760000</period>
+			<mass>0.40000</mass>
+			<radius errorminus="-0.045" errorplus="0.045">0.321</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>2012 12 04</lastupdate>
+			<transittime errorminus="-0.009000" errorplus="0.009000">2454982.750000</transittime>
 		</planet>
 	</star>
 </system>

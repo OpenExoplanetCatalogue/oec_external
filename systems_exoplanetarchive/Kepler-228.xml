@@ -11,6 +11,16 @@
 		<temperature errorminus="200.00" errorplus="200.00">6043.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
+			<name>Kepler-228 d</name>
+			<semimajoraxis>0.101000</semimajoraxis>
+			<period errorminus="-0.00003600" errorplus="0.00003600">11.09428600</period>
+			<radius errorminus="-0.165" errorplus="0.165">0.360</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001840" errorplus="0.001840">2455004.201230</transittime>
+		</planet>
+		<planet>
 			<name>Kepler-228 b</name>
 			<semimajoraxis>0.038000</semimajoraxis>
 			<period errorminus="-0.00002600" errorplus="0.00002600">2.56654600</period>
@@ -29,16 +39,6 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.002300" errorplus="0.002300">2455005.976780</transittime>
-		</planet>
-		<planet>
-			<name>Kepler-228 d</name>
-			<semimajoraxis>0.101000</semimajoraxis>
-			<period errorminus="-0.00003600" errorplus="0.00003600">11.09428600</period>
-			<radius errorminus="-0.165" errorplus="0.165">0.360</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001840" errorplus="0.001840">2455004.201230</transittime>
 		</planet>
 	</star>
 </system>

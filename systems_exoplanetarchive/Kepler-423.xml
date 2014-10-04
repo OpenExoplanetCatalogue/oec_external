@@ -1,0 +1,26 @@
+<system>
+	<name>Kepler-423</name>
+	<rightascension>19 31 25</rightascension>
+	<declination>+46 23 28</declination>
+	<star>
+		<name>Kepler-423</name>
+		<radius errorminus="0.05" errorplus="0.05">0.99</radius>
+		<magJ errorminus="0.022" errorplus="0.022">13.142</magJ>
+		<magH errorminus="0.018" errorplus="0.018">12.847</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.779</magK>
+		<mass errorminus="0.05" errorplus="0.05">1.07</mass>
+		<temperature errorminus="116.00" errorplus="116.00">5790.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-423 b</name>
+			<semimajoraxis errorminus="-0.003000" errorplus="0.003000">0.039600</semimajoraxis>
+			<period errorminus="-0.00000008" errorplus="0.00000008">2.68432848</period>
+			<mass errorminus="-0.12000" errorplus="0.12000">0.72000</mass>
+			<radius errorminus="-0.065" errorplus="0.065">1.200</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 10 02</lastupdate>
+			<transittime errorminus="-0.000027" errorplus="0.000026">2454966.354800</transittime>
+		</planet>
+	</star>
+</system>

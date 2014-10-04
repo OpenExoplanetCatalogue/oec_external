@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-425</name>
+	<rightascension>19 21 26</rightascension>
+	<declination>+40 34 04</declination>
+	<star>
+		<name>Kepler-425</name>
+		<radius errorminus="0.02" errorplus="0.02">0.86</radius>
+		<magV errorminus="0.040" errorplus="0.040">14.970</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.376</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.931</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.806</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.93</mass>
+		<temperature errorminus="70.00" errorplus="70.00">5170.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-425 b</name>
+			<semimajoraxis errorminus="-0.000800" errorplus="0.000800">0.046400</semimajoraxis>
+			<eccentricity>0.330000</eccentricity>
+			<inclination errorminus="-0.080" errorplus="0.080">87.020</inclination>
+			<period errorminus="-0.00000019" errorplus="0.00000019">3.79701816</period>
+			<mass errorminus="-0.08000" errorplus="0.08000">0.25000</mass>
+			<radius errorminus="-0.022" errorplus="0.022">0.978</radius>
+			<temperature errorminus="-15" errorplus="15">1070</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 10 02</lastupdate>
+			<transittime errorminus="-0.000039" errorplus="0.000039">2454966.508785</transittime>
+		</planet>
+	</star>
+</system>

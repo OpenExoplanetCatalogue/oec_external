@@ -9,17 +9,17 @@
 		<magH errorminus="0.053" errorplus="0.053">6.917</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.784</magK>
 		<planet>
-			<name>HD 215497 b</name>
-			<period>3.93000000</period>
-			<mass>0.01700</mass>
+			<name>HD 215497 c</name>
+			<period>567.00000000</period>
+			<mass>0.33000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 04 02</lastupdate>
 		</planet>
 		<planet>
-			<name>HD 215497 c</name>
-			<period>567.00000000</period>
-			<mass>0.33000</mass>
+			<name>HD 215497 b</name>
+			<period>3.93000000</period>
+			<mass>0.01700</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 04 02</lastupdate>

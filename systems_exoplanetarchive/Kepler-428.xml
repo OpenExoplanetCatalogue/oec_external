@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-428</name>
+	<rightascension>19 22 20</rightascension>
+	<declination>+40 34 39</declination>
+	<star>
+		<name>Kepler-428</name>
+		<radius errorminus="0.02" errorplus="0.02">0.80</radius>
+		<magV errorminus="0.016" errorplus="0.016">15.405</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.767</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.295</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.234</magK>
+		<mass errorminus="0.05" errorplus="0.05">0.87</mass>
+		<temperature errorminus="100.00" errorplus="100.00">5150.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
+		<planet>
+			<name>Kepler-428 b</name>
+			<semimajoraxis errorminus="-0.000900" errorplus="0.000900">0.043300</semimajoraxis>
+			<eccentricity>0.220000</eccentricity>
+			<inclination errorminus="-0.430" errorplus="0.430">89.360</inclination>
+			<period errorminus="-0.00000015" errorplus="0.00000015">3.52563254</period>
+			<mass errorminus="-0.19000" errorplus="0.19000">1.27000</mass>
+			<radius errorminus="-0.030" errorplus="0.030">1.080</radius>
+			<temperature errorminus="-25" errorplus="25">1070</temperature>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 10 02</lastupdate>
+			<transittime errorminus="-0.000032" errorplus="0.000032">2455003.048008</transittime>
+		</planet>
+	</star>
+</system>

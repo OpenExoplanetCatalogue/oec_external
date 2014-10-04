@@ -11,16 +11,6 @@
 		<temperature errorminus="200.00" errorplus="200.00">5208.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-253 d</name>
-			<semimajoraxis>0.130000</semimajoraxis>
-			<period errorminus="-0.00006600" errorplus="0.00006600">18.11986900</period>
-			<radius errorminus="-0.116" errorplus="0.116">0.283</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.001950" errorplus="0.001950">2455015.616200</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-253 b</name>
 			<semimajoraxis>0.046000</semimajoraxis>
 			<period errorminus="-0.00001700" errorplus="0.00001700">3.78398600</period>
@@ -39,6 +29,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.001640" errorplus="0.001640">2455008.339820</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-253 d</name>
+			<semimajoraxis>0.130000</semimajoraxis>
+			<period errorminus="-0.00006600" errorplus="0.00006600">18.11986900</period>
+			<radius errorminus="-0.116" errorplus="0.116">0.283</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.001950" errorplus="0.001950">2455015.616200</transittime>
 		</planet>
 	</star>
 </system>
