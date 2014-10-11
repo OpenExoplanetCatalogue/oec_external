@@ -15,11 +15,11 @@
 			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0379</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="2.0" errorplus="2.0">84.1</inclination>
-			<period errorminus="1.1e-07" errorplus="1.1e-07">2.20473506</period>
+			<period errorminus="2.4e-06" errorplus="2.4e-06">2.2047298</period>
 			<mass errorminus="0.028" errorplus="0.028">1.741</mass>
 			<radius errorminus="0.011" errorplus="0.011">1.431</radius>
 			<discoveryyear>2008</discoveryyear>
-			<lastupdate>14/08/16</lastupdate>
+			<lastupdate>14/10/10</lastupdate>
 		</planet>
 	</star>
 </system>
