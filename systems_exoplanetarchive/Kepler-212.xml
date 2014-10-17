@@ -11,16 +11,6 @@
 		<mass>1.16</mass>
 		<temperature errorminus="100.00" errorplus="100.00">5852.00</temperature>
 		<planet>
-			<name>Kepler-212 b</name>
-			<semimajoraxis>0.133000</semimajoraxis>
-			<period errorminus="-0.00037800" errorplus="0.00037800">16.25758200</period>
-			<radius errorminus="-0.019" errorplus="0.019">0.097</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.010640" errorplus="0.010640">2454972.647740</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-212 c</name>
 			<semimajoraxis>0.207000</semimajoraxis>
 			<period errorminus="-0.00014200" errorplus="0.00014200">31.80517400</period>
@@ -29,6 +19,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.002780" errorplus="0.002780">2455023.248300</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-212 b</name>
+			<semimajoraxis>0.133000</semimajoraxis>
+			<period errorminus="-0.00037800" errorplus="0.00037800">16.25758200</period>
+			<radius errorminus="-0.019" errorplus="0.019">0.097</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.010640" errorplus="0.010640">2454972.647740</transittime>
 		</planet>
 	</star>
 </system>

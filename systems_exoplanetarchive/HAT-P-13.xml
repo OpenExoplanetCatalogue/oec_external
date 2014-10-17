@@ -14,26 +14,23 @@
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HAT-P-13 b</name>
-			<semimajoraxis errorminus="-0.001200" errorplus="0.000600">0.042700</semimajoraxis>
-			<eccentricity errorminus="-0.009000" errorplus="0.009000">0.021000</eccentricity>
-			<periastron errorminus="-45.0000" errorplus="45.0000">181.0000</periastron>
-			<inclination errorminus="-0.600" errorplus="0.600">83.400</inclination>
-			<period errorminus="-0.00001000" errorplus="0.00001000">2.91626000</period>
-			<mass errorminus="-0.04600" errorplus="0.02900">0.85300</mass>
-			<radius errorminus="-0.079" errorplus="0.079">1.271</radius>
-			<temperature errorminus="-45" errorplus="45">1653</temperature>
+			<eccentricity errorminus="-0.004100" errorplus="0.004100">0.013300</eccentricity>
+			<periastron errorminus="-36.0000" errorplus="27.0000">210.0000</periastron>
+			<inclination errorminus="-0.680" errorplus="0.680">83.400</inclination>
+			<period errorminus="-0.00001500" errorplus="0.00001500">2.91625000</period>
+			<mass errorminus="-0.03800" errorplus="0.03800">0.85100</mass>
+			<radius errorminus="-0.065" errorplus="0.065">1.272</radius>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 02 26</lastupdate>
-			<transittime errorminus="-0.000380" errorplus="0.000380">2454779.929790</transittime>
+			<transittime errorminus="-0.000750" errorplus="0.000750">2454779.929760</transittime>
 		</planet>
 		<planet>
 			<name>HAT-P-13 c</name>
-			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">1.258000</semimajoraxis>
-			<eccentricity errorminus="-0.002100" errorplus="0.002100">0.655100</eccentricity>
-			<periastron errorminus="-0.2200" errorplus="0.2200">175.4000</periastron>
-			<period errorminus="-0.11000000" errorplus="0.11000000">445.82000000</period>
-			<mass errorminus="-0.48000" errorplus="0.46000">14.61000</mass>
+			<eccentricity errorminus="-0.005400" errorplus="0.005400">0.661600</eccentricity>
+			<periastron errorminus="-0.3500" errorplus="0.3500">175.2900</periastron>
+			<period errorminus="-0.22000000" errorplus="0.22000000">446.27000000</period>
+			<mass errorminus="-0.28000" errorplus="0.28000">14.28000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 02 26</lastupdate>

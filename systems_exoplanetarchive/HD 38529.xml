@@ -9,23 +9,23 @@
 		<magH errorminus="0.076" errorplus="0.076">4.384</magH>
 		<magK errorminus="0.036" errorplus="0.036">4.211</magK>
 		<planet>
-			<name>HD 38529 c</name>
-			<semimajoraxis errorminus="-0.048000" errorplus="0.048000">3.712000</semimajoraxis>
-			<eccentricity errorminus="-0.005000" errorplus="0.005000">0.341000</eccentricity>
-			<periastron errorminus="-1.2000" errorplus="1.2000">17.8000</periastron>
-			<period errorminus="-5.70000000" errorplus="5.70000000">2140.20000000</period>
-			<mass errorminus="-0.39000" errorplus="0.39000">13.38000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2000</discoveryyear>
-			<lastupdate>2013 04 02</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 38529 b</name>
 			<semimajoraxis errorminus="-0.002000" errorplus="0.002000">0.131000</semimajoraxis>
 			<eccentricity errorminus="-0.015000" errorplus="0.015000">0.257000</eccentricity>
 			<periastron errorminus="-3.9000" errorplus="3.9000">92.5000</periastron>
 			<period errorminus="-0.00050000" errorplus="0.00050000">14.30980000</period>
 			<mass errorminus="-0.03000" errorplus="0.03000">0.83900</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>2013 04 02</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 38529 c</name>
+			<semimajoraxis errorminus="-0.048000" errorplus="0.048000">3.712000</semimajoraxis>
+			<eccentricity errorminus="-0.005000" errorplus="0.005000">0.341000</eccentricity>
+			<periastron errorminus="-1.2000" errorplus="1.2000">17.8000</periastron>
+			<period errorminus="-5.70000000" errorplus="5.70000000">2140.20000000</period>
+			<mass errorminus="-0.39000" errorplus="0.39000">13.38000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2000</discoveryyear>
 			<lastupdate>2013 04 02</lastupdate>

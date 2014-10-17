@@ -5,24 +5,24 @@
 	<star>
 		<name>TrES-1</name>
 		<radius errorminus="0.02" errorplus="0.02">0.81</radius>
-		<magV>11.790</magV>
+		<magV errorminus="0.010" errorplus="0.010">11.760</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.294</magJ>
 		<magH errorminus="0.021" errorplus="0.021">9.887</magH>
 		<magK errorminus="0.019" errorplus="0.019">9.819</magK>
 		<mass errorminus="0.04" errorplus="0.04">0.88</mass>
 		<temperature errorminus="50.00" errorplus="50.00">5230.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>TrES-1 b</name>
 			<semimajoraxis errorminus="-0.000600" errorplus="0.000560">0.039250</semimajoraxis>
-			<eccentricity>0.000000</eccentricity>
 			<inclination errorminus="-1.100" errorplus="0.000">90.000</inclination>
 			<period>3.03006500</period>
 			<mass errorminus="-0.04600" errorplus="0.04700">0.75200</mass>
 			<radius errorminus="-0.021" errorplus="0.022">1.067</radius>
+			<temperature errorminus="-12" errorplus="13">1140</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
 			<lastupdate>2013 04 09</lastupdate>
-			<transittime errorminus="-0.000280" errorplus="0.000280">2453186.806030</transittime>
 		</planet>
 	</star>
 </system>

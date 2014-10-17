@@ -9,22 +9,20 @@
 		<magJ errorminus="0.022" errorplus="0.022">10.251</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.024</magH>
 		<magK errorminus="0.022" errorplus="0.022">9.990</magK>
-		<mass errorminus="0.04" errorplus="0.04">1.16</mass>
-		<temperature errorminus="88.00" errorplus="88.00">6207.00</temperature>
+		<temperature errorminus="64.00" errorplus="64.00">6269.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HAT-P-32 b</name>
 			<semimajoraxis errorminus="-0.000400" errorplus="0.000400">0.034300</semimajoraxis>
-			<eccentricity>0.000000</eccentricity>
-			<periastron>0.0000</periastron>
+			<eccentricity errorminus="-0.006400" errorplus="0.070000">0.007200</eccentricity>
+			<periastron errorminus="-11.0000" errorplus="180.0000">96.0000</periastron>
 			<inclination errorminus="-0.400" errorplus="0.400">88.900</inclination>
-			<period errorminus="-0.00000100" errorplus="0.00000100">2.15000800</period>
-			<mass errorminus="-0.16400" errorplus="0.16400">0.86000</mass>
+			<period errorminus="-0.00000097" errorplus="0.00000093">2.15000805</period>
 			<radius errorminus="-0.025" errorplus="0.025">1.789</radius>
-			<temperature errorminus="-26" errorplus="26">1786</temperature>
 			<discoverymethod>Transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>2013 02 28</lastupdate>
-			<transittime errorminus="-0.000090" errorplus="0.000090">2454420.446370</transittime>
+			<transittime errorminus="-0.000084" errorplus="0.000092">2454420.447120</transittime>
 		</planet>
 	</star>
 </system>

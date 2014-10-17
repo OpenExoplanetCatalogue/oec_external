@@ -12,17 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5760.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>HD 204313 b</name>
-			<semimajoraxis errorminus="-0.060000" errorplus="0.060000">3.040000</semimajoraxis>
-			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.230000</eccentricity>
-			<periastron errorminus="-6.0000" errorplus="6.0000">298.0000</periastron>
-			<period errorminus="-25.00000000" errorplus="25.00000000">1920.10000000</period>
-			<mass errorminus="-0.20000" errorplus="0.20000">3.55000</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2009</discoveryyear>
-			<lastupdate>2013 04 01</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 204313 d</name>
 			<semimajoraxis errorminus="-0.140000" errorplus="0.140000">3.930000</semimajoraxis>
 			<eccentricity errorminus="-0.090000" errorplus="0.090000">0.280000</eccentricity>
@@ -31,6 +20,17 @@
 			<mass errorminus="-0.30000" errorplus="0.30000">1.68000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
+			<lastupdate>2013 04 01</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 204313 b</name>
+			<semimajoraxis errorminus="-0.060000" errorplus="0.060000">3.040000</semimajoraxis>
+			<eccentricity errorminus="-0.040000" errorplus="0.040000">0.230000</eccentricity>
+			<periastron errorminus="-6.0000" errorplus="6.0000">298.0000</periastron>
+			<period errorminus="-25.00000000" errorplus="25.00000000">1920.10000000</period>
+			<mass errorminus="-0.20000" errorplus="0.20000">3.55000</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
 			<lastupdate>2013 04 01</lastupdate>
 		</planet>
 	</star>
