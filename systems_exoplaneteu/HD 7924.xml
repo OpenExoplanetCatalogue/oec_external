@@ -7,7 +7,7 @@
 		<name>HD 7924</name>
 		<radius>0.78</radius>
 		<mass>0.832</mass>
-		<spectraltype>KOV</spectraltype>
+		<spectraltype>K0V</spectraltype>
 		<temperature>5177.0</temperature>
 		<metallicity>-0.15</metallicity>
 		<planet>
