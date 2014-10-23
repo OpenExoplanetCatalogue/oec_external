@@ -15,7 +15,7 @@
 			<mass errorminus="0.13" errorplus="0.13">1.03</mass>
 			<radius errorminus="0.06" errorplus="0.08">0.89</radius>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/10/09</lastupdate>
+			<lastupdate>14/10/22</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-424 c</name>
