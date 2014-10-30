@@ -1,0 +1,26 @@
+<system>
+	<name>KOI-192</name>
+	<rightascension>19 13 01</rightascension>
+	<declination>+43 42 18</declination>
+	<distance>1100.0</distance>
+	<star>
+		<name>KOI-192</name>
+		<age>7.0</age>
+		<radius>1.35</radius>
+		<mass>0.96</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5800.0</temperature>
+		<metallicity>-0.19</metallicity>
+		<planet>
+			<name>KOI-192 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.091</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.57">0.57</eccentricity>
+			<inclination errorminus="0.45" errorplus="0.45">89.5</inclination>
+			<period errorminus="10.290994" errorplus="10.290994" />
+			<mass errorminus="0.09" errorplus="0.09">0.29</mass>
+			<radius errorminus="0.21" errorplus="0.21">1.23</radius>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,21 @@
+<system>
+	<name>1SWASP J1407</name>
+	<rightascension>14 07 48</rightascension>
+	<declination>-39 14 17</declination>
+	<distance>133.0</distance>
+	<star>
+		<name>1SWASP J1407</name>
+		<age>0.016</age>
+		<radius>0.99</radius>
+		<mass>0.9</mass>
+		<temperature>4400.0</temperature>
+		<planet>
+			<name>1SWASP J1407 b</name>
+			<semimajoraxis errorminus="1.7" errorplus="1.7">3.9</semimajoraxis>
+			<period errorminus="900.0" errorplus="900.0">3725.0</period>
+			<mass errorminus="6.0" errorplus="6.0">20.0</mass>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>

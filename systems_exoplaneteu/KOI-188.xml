@@ -1,0 +1,26 @@
+<system>
+	<name>KOI-188</name>
+	<rightascension>19 21 26</rightascension>
+	<declination>+40 34 04</declination>
+	<distance>650.0</distance>
+	<star>
+		<name>KOI-188</name>
+		<age>5.0</age>
+		<radius>0.86</radius>
+		<mass>0.93</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5170.0</temperature>
+		<metallicity>0.24</metallicity>
+		<planet>
+			<name>KOI-188 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0464</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.33">0.33</eccentricity>
+			<inclination errorminus="0.08" errorplus="0.08">87.02</inclination>
+			<period errorminus="1.9e-07" errorplus="1.9e-07">3.79701816</period>
+			<mass errorminus="0.08" errorplus="0.08">0.25</mass>
+			<radius errorminus="0.022" errorplus="0.022">0.978</radius>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>

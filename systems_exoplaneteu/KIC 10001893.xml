@@ -1,0 +1,22 @@
+<system>
+	<name>KIC 10001893</name>
+	<rightascension>19 09 33</rightascension>
+	<declination>+46 59 04</declination>
+	<star>
+		<name>KIC 10001893</name>
+		<mass>0.47</mass>
+		<temperature>26700.0</temperature>
+		<planet>
+			<name>KIC 10001893 b</name>
+			<period>0.2197</period>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+		<planet>
+			<name>KIC 10001893 d</name>
+			<period>0.81161</period>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>KOI-830</name>
+	<rightascension>19 22 20</rightascension>
+	<declination>+40 34 39</declination>
+	<distance>730.0</distance>
+	<star>
+		<name>KOI-830</name>
+		<age>5.0</age>
+		<radius>0.8</radius>
+		<mass>0.87</mass>
+		<temperature>5150.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>KOI-830 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0433</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.22">0.22</eccentricity>
+			<inclination errorminus="0.043" errorplus="0.043">89.36</inclination>
+			<period errorminus="1.5e-07" errorplus="1.5e-07">3.52563254</period>
+			<mass errorminus="0.19" errorplus="0.19">1.27</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.08</radius>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-108</name>
+	<rightascension>13 03 19</rightascension>
+	<declination>-49 21 37</declination>
+	<distance>220.0</distance>
+	<star>
+		<name>WASP-108</name>
+		<age>4.6</age>
+		<radius>1.215</radius>
+		<mass>1.167</mass>
+		<spectraltype>F9</spectraltype>
+		<temperature>6000.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>WASP-108 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.0397</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.84" errorplus="0.84">88.49</inclination>
+			<period errorminus="2.1e-06" errorplus="2.1e-06">2.6755463</period>
+			<mass errorminus="0.091" errorplus="0.091">1.167</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.215</radius>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>

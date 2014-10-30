@@ -1,0 +1,27 @@
+<system>
+	<name>KOI-1299</name>
+	<rightascension>19 33 08</rightascension>
+	<declination>+48 17 09</declination>
+	<distance>874.0</distance>
+	<star>
+		<name>KOI-1299</name>
+		<age>3.6</age>
+		<radius>4.15</radius>
+		<mass>1.35</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>5020.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>KOI-1299 b</name>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.304</semimajoraxis>
+			<periastron errorminus="0.7" errorplus="0.7">68.5</periastron>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.479</eccentricity>
+			<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
+			<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
+			<mass errorminus="0.05" errorplus="0.05">5.86</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.08</radius>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+		</planet>
+	</star>
+</system>
