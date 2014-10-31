@@ -4,7 +4,6 @@
 	<declination>-26 31 23</declination>
 	<star>
 		<name>MOA 2010-BLG-073L</name>
-		<radius errorminus="1.30" errorplus="1.30">14.70</radius>
 		<mass errorminus="0.03" errorplus="0.03">0.16</mass>
 		<planet>
 			<name>MOA 2010-BLG-073L b</name>

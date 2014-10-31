@@ -4,10 +4,13 @@
 	<declination>-33 59 25</declination>
 	<star>
 		<name>MOA 2009-BLG-387L</name>
+		<mass errorminus="0.30" errorplus="0.30">0.19</mass>
 		<planet>
 			<name>MOA 2009-BLG-387L b</name>
-			<period errorminus="-1.60000000" errorplus="2.20000000">1970.00000000</period>
-			<mass errorminus="-1.60000" errorplus="4.10000">2.60000</mass>
+			<semimajoraxis errorminus="-0.730000" errorplus="0.840000">1.820000</semimajoraxis>
+			<inclination errorminus="-12.000" errorplus="20.000">52.000</inclination>
+			<period errorminus="-587.65000000" errorplus="784.75000000">1981.95000000</period>
+			<mass errorminus="-1.58000" errorplus="4.15000">2.56000</mass>
 			<discoverymethod>Microlensing</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>2013 04 09</lastupdate>

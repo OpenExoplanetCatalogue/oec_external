@@ -4,9 +4,11 @@
 	<declination>-26 49 11</declination>
 	<star>
 		<name>MOA 2009-BLG-319L</name>
+		<mass errorminus="0.34" errorplus="0.34">0.38</mass>
 		<planet>
 			<name>MOA 2009-BLG-319L b</name>
-			<mass errorminus="-0.07500" errorplus="0.13800">0.15700</mass>
+			<semimajoraxis errorminus="-0.600000" errorplus="1.200000">2.400000</semimajoraxis>
+			<mass errorminus="-0.08000" errorplus="0.14000">0.16000</mass>
 			<discoverymethod>Microlensing</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>2013 04 09</lastupdate>

@@ -4,11 +4,11 @@
 	<declination>-30 11 49</declination>
 	<star>
 		<name>MOA 2008-BLG-379L</name>
-		<mass errorminus="0.29" errorplus="0.29">0.66</mass>
+		<mass errorminus="0.24" errorplus="0.24">0.56</mass>
 		<planet>
 			<name>MOA 2008-BLG-379L b</name>
-			<semimajoraxis errorminus="-1.500000" errorplus="1.900000">4.100000</semimajoraxis>
-			<mass errorminus="-2.40000" errorplus="2.10000">4.80000</mass>
+			<semimajoraxis errorminus="-1.200000" errorplus="1.700000">3.300000</semimajoraxis>
+			<mass errorminus="-1.90000" errorplus="1.70000">4.10000</mass>
 			<discoverymethod>Microlensing</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>2013 11 18</lastupdate>

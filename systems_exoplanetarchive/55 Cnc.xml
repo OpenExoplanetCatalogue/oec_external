@@ -13,55 +13,54 @@
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>55 Cnc b</name>
-			<semimajoraxis errorminus="-0.000110" errorplus="0.000110">0.113390</semimajoraxis>
-			<eccentricity errorminus="-0.001600" errorplus="0.002500">0.002300</eccentricity>
-			<inclination errorminus="-24.540" errorplus="24.490">89.730</inclination>
-			<period errorminus="-0.00095000" errorplus="0.00090000">14.46531400</period>
-			<mass errorminus="-0.03100" errorplus="0.13100">0.84000</mass>
+			<semimajoraxis errorminus="-0.000001" errorplus="0.000001">0.115227</semimajoraxis>
+			<eccentricity errorminus="-0.003200" errorplus="0.003200">0.003400</eccentricity>
+			<periastron errorminus="-53.0000" errorplus="53.0000">98.0000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.00015000" errorplus="0.00015000">14.65152000</period>
+			<mass errorminus="-0.00330" errorplus="0.00330">0.83060</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>1996</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>
 		</planet>
 		<planet>
 			<name>55 Cnc c</name>
-			<semimajoraxis errorminus="-0.000240" errorplus="0.000240">0.237350</semimajoraxis>
-			<eccentricity errorminus="-0.014000" errorplus="0.013000">0.072000</eccentricity>
-			<inclination errorminus="-24.540" errorplus="24.490">89.730</inclination>
-			<period errorminus="-0.01800000" errorplus="0.02000000">44.37300000</period>
-			<mass errorminus="-0.00780" errorplus="0.02750">0.17840</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>
 		</planet>
 		<planet>
 			<name>55 Cnc d</name>
-			<semimajoraxis errorminus="-0.020000" errorplus="0.020000">5.446000</semimajoraxis>
-			<eccentricity errorminus="-0.006500" errorplus="0.006100">0.026900</eccentricity>
-			<inclination errorminus="-24.540" errorplus="24.490">89.730</inclination>
-			<period errorminus="-26.00000000" errorplus="25.00000000">4867.00000000</period>
-			<mass errorminus="-0.15000" errorplus="0.60000">3.86000</mass>
+			<semimajoraxis errorminus="-0.030000" errorplus="0.030000">5.503000</semimajoraxis>
+			<eccentricity errorminus="-0.013000" errorplus="0.013000">0.019000</eccentricity>
+			<periastron errorminus="-31.0000" errorplus="31.0000">44.0000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-39.00000000" errorplus="39.00000000">4825.00000000</period>
+			<mass errorminus="-0.06800" errorplus="0.06800">3.87800</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>
 		</planet>
 		<planet>
 			<name>55 Cnc e</name>
-			<semimajoraxis errorminus="-0.000015" errorplus="0.000015">0.015439</semimajoraxis>
-			<eccentricity errorminus="-0.019000" errorplus="0.022000">0.028000</eccentricity>
-			<inclination errorminus="-4.660" errorplus="3.960">90.360</inclination>
-			<period errorminus="-0.00000120" errorplus="0.00000160">0.73654780</period>
-			<mass errorminus="-0.00081" errorplus="0.00082">0.02547</mass>
+			<semimajoraxis errorminus="-0.000000" errorplus="0.000000">0.015691</semimajoraxis>
+			<eccentricity errorminus="-0.027000" errorplus="0.027000">0.040000</eccentricity>
+			<periastron errorminus="-42.0000" errorplus="42.0000">72.0000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.00000150" errorplus="0.00000150">0.73655150</period>
+			<mass errorminus="-0.00073" errorplus="0.00073">0.02561</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
 			<lastupdate>2013 02 04</lastupdate>
 		</planet>
 		<planet>
 			<name>55 Cnc f</name>
-			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.773300</semimajoraxis>
-			<eccentricity errorminus="-0.057000" errorplus="0.102000">0.080000</eccentricity>
-			<inclination errorminus="-24.540" errorplus="24.490">89.730</inclination>
-			<period errorminus="-0.36000000" errorplus="0.36000000">260.91000000</period>
-			<mass errorminus="-0.00930" errorplus="0.02190">0.14790</mass>
+			<semimajoraxis errorminus="-0.001000" errorplus="0.001000">0.788000</semimajoraxis>
+			<eccentricity errorminus="-0.075000" errorplus="0.075000">0.305000</eccentricity>
+			<periastron errorminus="-15.0000" errorplus="15.0000">166.0000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.51000000" errorplus="0.51000000">262.00000000</period>
+			<mass errorminus="-0.01200" errorplus="0.01200">0.14100</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
 			<lastupdate>2013 02 25</lastupdate>

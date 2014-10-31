@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2008-BLG-092L</name>
+	<rightascension>17 47 29</rightascension>
+	<declination>-34 43 36</declination>
+	<star>
+		<name>OGLE 2008-BLG-092L</name>
+		<magI>13.900</magI>
+		<mass>0.71</mass>
+		<planet>
+			<name>OGLE 2008-BLG-092L b</name>
+			<semimajoraxis>18.000000</semimajoraxis>
+			<mass>0.18000</mass>
+			<discoverymethod>Microlensing</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 10 29</lastupdate>
+		</planet>
+	</star>
+</system>

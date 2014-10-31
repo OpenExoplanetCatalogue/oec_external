@@ -4,9 +4,8 @@
 	<declination>-28 28 37</declination>
 	<star>
 		<name>MOA 2011-BLG-293L</name>
-		<radius>0.82</radius>
+		<magH errorminus="0.030" errorplus="0.030">19.160</magH>
 		<mass errorminus="0.06" errorplus="0.06">0.86</mass>
-		<temperature>5180.00</temperature>
 		<planet>
 			<name>MOA 2011-BLG-293L b</name>
 			<semimajoraxis errorminus="-0.100000" errorplus="0.100000">1.100000</semimajoraxis>

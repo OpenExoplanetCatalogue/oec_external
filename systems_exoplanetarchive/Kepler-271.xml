@@ -11,16 +11,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5524.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-271 c</name>
-			<semimajoraxis>0.071000</semimajoraxis>
-			<period errorminus="-0.00004900" errorplus="0.00004900">7.41093500</period>
-			<radius errorminus="-0.016" errorplus="0.016">0.089</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.004040" errorplus="0.004040">2454968.747640</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-271 b</name>
 			<semimajoraxis>0.056000</semimajoraxis>
 			<period errorminus="-0.00004300" errorplus="0.00004300">5.21773800</period>
@@ -29,6 +19,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.004650" errorplus="0.004650">2454967.819500</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-271 c</name>
+			<semimajoraxis>0.071000</semimajoraxis>
+			<period errorminus="-0.00004900" errorplus="0.00004900">7.41093500</period>
+			<radius errorminus="-0.016" errorplus="0.016">0.089</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.004040" errorplus="0.004040">2454968.747640</transittime>
 		</planet>
 	</star>
 </system>

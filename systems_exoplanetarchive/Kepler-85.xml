@@ -12,16 +12,6 @@
 		<temperature errorminus="100.00" errorplus="100.00">5436.00</temperature>
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
-			<name>Kepler-85 e</name>
-			<semimajoraxis>0.163000</semimajoraxis>
-			<period errorminus="-0.00071800" errorplus="0.00071800">25.21675100</period>
-			<radius errorminus="-0.018" errorplus="0.018">0.113</radius>
-			<discoverymethod>Transit</discoverymethod>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>2014 02 26</lastupdate>
-			<transittime errorminus="-0.016950" errorplus="0.016950">2454985.688150</transittime>
-		</planet>
-		<planet>
 			<name>Kepler-85 b</name>
 			<period>8.30600000</period>
 			<radius errorminus="-0.009" errorplus="0.009">0.176</radius>
@@ -46,6 +36,16 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>2014 02 26</lastupdate>
 			<transittime errorminus="-0.009500" errorplus="0.009500">2454968.537730</transittime>
+		</planet>
+		<planet>
+			<name>Kepler-85 e</name>
+			<semimajoraxis>0.163000</semimajoraxis>
+			<period errorminus="-0.00071800" errorplus="0.00071800">25.21675100</period>
+			<radius errorminus="-0.018" errorplus="0.018">0.113</radius>
+			<discoverymethod>Transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>2014 02 26</lastupdate>
+			<transittime errorminus="-0.016950" errorplus="0.016950">2454985.688150</transittime>
 		</planet>
 	</star>
 </system>

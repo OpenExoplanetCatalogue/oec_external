@@ -9,30 +9,6 @@
 		<magH errorminus="0.031" errorplus="0.031">5.934</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.868</magK>
 		<planet>
-			<name>HD 10180 c</name>
-			<semimajoraxis errorminus="-0.001100" errorplus="0.001100">0.064100</semimajoraxis>
-			<eccentricity errorminus="-0.026000" errorplus="0.033000">0.077000</eccentricity>
-			<periastron errorminus="-25.0000" errorplus="63.0000">279.0000</periastron>
-			<inclination>90.000</inclination>
-			<period errorminus="-0.00028000" errorplus="0.00028000">5.75962000</period>
-			<mass errorminus="-0.00200" errorplus="0.00200">0.04100</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2010</discoveryyear>
-			<lastupdate>2013 02 28</lastupdate>
-		</planet>
-		<planet>
-			<name>HD 10180 d</name>
-			<semimajoraxis errorminus="-0.002200" errorplus="0.002200">0.128500</semimajoraxis>
-			<eccentricity errorminus="-0.058000" errorplus="0.058000">0.143000</eccentricity>
-			<periastron errorminus="-10.0000" errorplus="42.0000">292.0000</periastron>
-			<inclination>90.000</inclination>
-			<period errorminus="-0.00430000" errorplus="0.00430000">16.35670000</period>
-			<mass errorminus="-0.00200" errorplus="0.00200">0.03800</mass>
-			<discoverymethod>Radial Velocity</discoverymethod>
-			<discoveryyear>2010</discoveryyear>
-			<lastupdate>2013 02 22</lastupdate>
-		</planet>
-		<planet>
 			<name>HD 10180 e</name>
 			<semimajoraxis errorminus="-0.004500" errorplus="0.004500">0.269900</semimajoraxis>
 			<eccentricity errorminus="-0.035000" errorplus="0.035000">0.065000</eccentricity>
@@ -79,6 +55,30 @@
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
 			<lastupdate>2013 02 28</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 10180 c</name>
+			<semimajoraxis errorminus="-0.001100" errorplus="0.001100">0.064100</semimajoraxis>
+			<eccentricity errorminus="-0.026000" errorplus="0.033000">0.077000</eccentricity>
+			<periastron errorminus="-25.0000" errorplus="63.0000">279.0000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.00028000" errorplus="0.00028000">5.75962000</period>
+			<mass errorminus="-0.00200" errorplus="0.00200">0.04100</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 28</lastupdate>
+		</planet>
+		<planet>
+			<name>HD 10180 d</name>
+			<semimajoraxis errorminus="-0.002200" errorplus="0.002200">0.128500</semimajoraxis>
+			<eccentricity errorminus="-0.058000" errorplus="0.058000">0.143000</eccentricity>
+			<periastron errorminus="-10.0000" errorplus="42.0000">292.0000</periastron>
+			<inclination>90.000</inclination>
+			<period errorminus="-0.00430000" errorplus="0.00430000">16.35670000</period>
+			<mass errorminus="-0.00200" errorplus="0.00200">0.03800</mass>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>2013 02 22</lastupdate>
 		</planet>
 	</star>
 </system>

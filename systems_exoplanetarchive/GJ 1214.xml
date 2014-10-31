@@ -5,8 +5,8 @@
 	<star>
 		<name>GJ 1214</name>
 		<radius errorminus="0.01" errorplus="0.01">0.18</radius>
-		<magV errorminus="0.020" errorplus="0.020">14.680</magV>
-		<magI errorminus="0.025" errorplus="0.025">11.560</magI>
+		<magV errorminus="0.600" errorplus="0.600">15.100</magV>
+		<magI errorminus="0.100" errorplus="0.100">11.520</magI>
 		<magJ errorminus="0.024" errorplus="0.024">9.750</magJ>
 		<magH errorminus="0.024" errorplus="0.024">9.094</magH>
 		<magK errorminus="0.020" errorplus="0.020">8.782</magK>
@@ -15,7 +15,6 @@
 		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>GJ 1214 b</name>
-			<eccentricity>0.000000</eccentricity>
 			<inclination errorminus="-1.500" errorplus="0.000">90.000</inclination>
 			<period errorminus="-0.00000024" errorplus="0.00000024">1.58040482</period>
 			<mass errorminus="-0.00300" errorplus="0.00300">0.02000</mass>
