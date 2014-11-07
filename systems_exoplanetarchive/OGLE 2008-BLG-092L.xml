@@ -4,7 +4,6 @@
 	<declination>-34 43 36</declination>
 	<star>
 		<name>OGLE 2008-BLG-092L</name>
-		<magI>13.900</magI>
 		<mass>0.71</mass>
 		<planet>
 			<name>OGLE 2008-BLG-092L b</name>

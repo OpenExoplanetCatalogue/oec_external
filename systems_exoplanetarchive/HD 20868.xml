@@ -4,10 +4,14 @@
 	<declination>-33 43 48</declination>
 	<star>
 		<name>HD 20868</name>
-		<magV errorminus="0.026" errorplus="0.026">9.928</magV>
+		<radius>0.79</radius>
+		<magV>9.920</magV>
 		<magJ errorminus="0.032" errorplus="0.032">8.138</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.641</magH>
 		<magK errorminus="0.015" errorplus="0.015">7.543</magK>
+		<mass errorminus="0.03" errorplus="0.03">0.78</mass>
+		<temperature errorminus="124.00" errorplus="124.00">4795.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 20868 b</name>
 			<semimajoraxis errorminus="-0.012000" errorplus="0.012000">0.947000</semimajoraxis>

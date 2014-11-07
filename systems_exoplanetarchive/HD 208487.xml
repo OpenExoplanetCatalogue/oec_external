@@ -8,13 +8,16 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.477</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.213</magH>
 		<magK errorminus="0.034" errorplus="0.034">6.159</magK>
+		<mass>1.13</mass>
+		<temperature>6067.00</temperature>
+		<metallicity>[Fe/H]</metallicity>
 		<planet>
 			<name>HD 208487 b</name>
-			<semimajoraxis errorminus="-0.040000" errorplus="0.040000">0.490000</semimajoraxis>
-			<eccentricity errorminus="-0.100000" errorplus="0.100000">0.320000</eccentricity>
-			<periastron errorminus="-40.0000" errorplus="40.0000">126.0000</periastron>
-			<period errorminus="-1.00000000" errorplus="1.00000000">123.00000000</period>
-			<mass errorminus="-0.05000" errorplus="0.05000">0.45000</mass>
+			<semimajoraxis errorminus="-0.030000" errorplus="0.030000">0.524000</semimajoraxis>
+			<eccentricity errorminus="-0.160000" errorplus="0.160000">0.240000</eccentricity>
+			<periastron>113.0000</periastron>
+			<period errorminus="-0.51000000" errorplus="0.51000000">130.08000000</period>
+			<mass errorminus="-0.08200" errorplus="0.08200">0.52000</mass>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
 			<lastupdate>2013 04 02</lastupdate>
