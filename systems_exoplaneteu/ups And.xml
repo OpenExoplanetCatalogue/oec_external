@@ -14,35 +14,35 @@
 		<planet>
 			<name>ups And b</name>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
-			<periastron>51.0</periastron>
-			<eccentricity errorminus="0.016" errorplus="0.016">0.013</eccentricity>
-			<inclination errorminus="nan" errorplus="inf">30.0</inclination>
-			<period errorminus="4.7e-05" errorplus="4.7e-05">4.617136</period>
+			<periastron errorminus="24.0" errorplus="24.0">44.519</periastron>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.01186</eccentricity>
+			<inclination errorminus="0.0" errorplus="90.0">90.0</inclination>
+			<period errorminus="0.00018" errorplus="0.00018">4.61711</period>
 			<mass errorminus="0.09" errorplus="0.09">0.62</mass>
 			<discoveryyear>1996</discoveryyear>
-			<lastupdate>12/08/21</lastupdate>
+			<lastupdate>14/11/07</lastupdate>
 		</planet>
 		<planet>
 			<name>ups And c</name>
 			<semimajoraxis>0.861</semimajoraxis>
-			<periastron errorminus="4.9" errorplus="4.9">250.8</periastron>
-			<eccentricity>0.24</eccentricity>
-			<inclination errorminus="1.0" errorplus="1.0">8.0</inclination>
-			<period errorminus="0.2" errorplus="0.2">237.7</period>
+			<periastron errorminus="2.2" errorplus="2.2">247.629</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.2445</eccentricity>
+			<inclination errorminus="3.0" errorplus="3.0">11.347</inclination>
+			<period errorminus="0.06" errorplus="0.06">240.937</period>
 			<mass errorminus="0.26" errorplus="0.26">1.8</mass>
 			<discoveryyear>1999</discoveryyear>
-			<lastupdate>14/08/27</lastupdate>
+			<lastupdate>14/11/07</lastupdate>
 		</planet>
 		<planet>
 			<name>ups And d</name>
 			<semimajoraxis>2.55</semimajoraxis>
-			<periastron>240.8</periastron>
-			<eccentricity>0.274</eccentricity>
-			<inclination errorminus="1.0" errorplus="1.0">24.0</inclination>
-			<period>1302.61</period>
+			<periastron errorminus="1.32" errorplus="1.32">252.991</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.006">0.316</eccentricity>
+			<inclination errorminus="3.0" errorplus="3.0">25.609</inclination>
+			<period errorminus="2.0" errorplus="2.0">1281.439</period>
 			<mass>10.19</mass>
 			<discoveryyear>1999</discoveryyear>
-			<lastupdate>11/05/11</lastupdate>
+			<lastupdate>14/11/07</lastupdate>
 		</planet>
 		<planet>
 			<name>ups And e</name>
