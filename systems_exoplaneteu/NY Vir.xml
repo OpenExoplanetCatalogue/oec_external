@@ -10,20 +10,18 @@
 		<planet>
 			<name>NY Vir b</name>
 			<semimajoraxis>3.39</semimajoraxis>
-			<inclination>81.0</inclination>
 			<period>2987.745</period>
 			<mass>2.78</mass>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>14/10/09</lastupdate>
+			<lastupdate>14/11/20</lastupdate>
 		</planet>
 		<planet>
 			<name>NY Vir c</name>
 			<semimajoraxis>7.54</semimajoraxis>
-			<inclination>81.0</inclination>
 			<period>9861.75</period>
 			<mass>4.49</mass>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>14/10/09</lastupdate>
+			<lastupdate>14/11/20</lastupdate>
 		</planet>
 	</star>
 </system>
