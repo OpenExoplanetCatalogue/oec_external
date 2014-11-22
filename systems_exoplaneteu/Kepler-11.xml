@@ -49,10 +49,10 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.2" errorplus="0.2">88.8</inclination>
 			<period errorminus="0.00028" errorplus="0.00028">31.9959</period>
-			<mass errorminus="0.006605374" errorplus="0.004718124">0.025163329</mass>
-			<radius errorminus="0.00802915" errorplus="0.006244894">0.373801544</radius>
+			<mass errorminus="0.0066" errorplus="0.0047">0.03</mass>
+			<radius errorminus="0.008" errorplus="0.006">0.374</radius>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>14/05/27</lastupdate>
+			<lastupdate>14/11/21</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-11 f</name>

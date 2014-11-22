@@ -6,10 +6,10 @@
 	<star>
 		<name>HD 209458</name>
 		<age>4.0</age>
-		<radius>1.146</radius>
+		<radius>1.203</radius>
 		<mass>1.148</mass>
 		<spectraltype>G0 V</spectraltype>
-		<temperature>6075.0</temperature>
+		<temperature>6092.0</temperature>
 		<metallicity>0.02</metallicity>
 		<planet>
 			<name>HD 209458 b</name>

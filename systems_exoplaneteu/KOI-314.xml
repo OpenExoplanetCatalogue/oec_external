@@ -13,10 +13,10 @@
 			<periastron errorminus="28.0" errorplus="47.0">72.0</periastron>
 			<eccentricity errorminus="0.025" errorplus="0.049">0.05</eccentricity>
 			<period errorminus="0.00014" errorplus="0.00019">13.78164</period>
-			<mass errorminus="0.00396438347544285" errorplus="0.00475096749834817">0.0120504672309</mass>
-			<radius errorminus="0.013381916" errorplus="0.014274044">0.143634835641</radius>
+			<mass errorminus="0.0011" errorplus="0.0013">0.00318</mass>
+			<radius errorminus="0.013" errorplus="0.014">0.144</radius>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/11/05</lastupdate>
+			<lastupdate>14/11/21</lastupdate>
 		</planet>
 		<planet>
 			<name>Kepler-138 d</name>
