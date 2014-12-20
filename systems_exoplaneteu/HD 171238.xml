@@ -13,12 +13,12 @@
 		<planet>
 			<name>HD 171238 b</name>
 			<semimajoraxis errorminus="0.06" errorplus="0.06">2.54</semimajoraxis>
-			<periastron errorminus="-9.8" errorplus="-9.8">47.0</periastron>
-			<eccentricity errorminus="-0.065" errorplus="-0.065">0.4</eccentricity>
+			<periastron errorminus="9.8" errorplus="9.8">47.0</periastron>
+			<eccentricity errorminus="0.065" errorplus="0.065">0.4</eccentricity>
 			<period errorminus="45.0" errorplus="45.0">1523.0</period>
 			<mass errorminus="0.15" errorplus="0.15">2.6</mass>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>09/08/12</lastupdate>
+			<lastupdate>14/12/19</lastupdate>
 		</planet>
 	</star>
 </system>
