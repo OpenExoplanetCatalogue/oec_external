@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-436</name>
+	<rightascension>20 06 53</rightascension>
+	<declination>+44 24 43</declination>
+	<distance>618.0</distance>
+	<star>
+		<name>Kepler-436</name>
+		<age>3.0</age>
+		<radius>0.697</radius>
+		<mass>0.729</mass>
+		<temperature>4551.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-436 b</name>
+			<semimajoraxis errorminus="0.134" errorplus="0.053">0.339</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.19</eccentricity>
+			<inclination errorminus="0.07" errorplus="0.18">89.93</inclination>
+			<period errorminus="0.00072" errorplus="0.00053">64.00205</period>
+			<radius errorminus="0.021" errorplus="0.021">0.244</radius>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/07</lastupdate>
+		</planet>
+	</star>
+</system>

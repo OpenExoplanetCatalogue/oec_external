@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-443</name>
+	<rightascension>19 01 28</rightascension>
+	<declination>+39 16 48</declination>
+	<distance>342.0</distance>
+	<star>
+		<name>Kepler-443</name>
+		<age>2.9</age>
+		<radius>0.598</radius>
+		<mass>0.609</mass>
+		<temperature>4402.0</temperature>
+		<metallicity>-0.37</metallicity>
+		<planet>
+			<name>Kepler-443 b</name>
+			<semimajoraxis errorminus="0.209" errorplus="0.06">0.409</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.04">0.04</eccentricity>
+			<inclination errorminus="0.06" errorplus="0.12">89.94</inclination>
+			<period errorminus="0.0028" errorplus="0.0028">112.3053</period>
+			<radius errorminus="0.0098" errorplus="0.016">0.12</radius>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/07</lastupdate>
+		</planet>
+	</star>
+</system>

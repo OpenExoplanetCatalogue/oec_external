@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-438</name>
+	<rightascension>18 46 35</rightascension>
+	<declination>+41 57 04</declination>
+	<distance>145.0</distance>
+	<star>
+		<name>Kepler-438</name>
+		<age>4.4</age>
+		<radius>0.52</radius>
+		<mass>0.544</mass>
+		<temperature>3748.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>Kepler-438 b</name>
+			<semimajoraxis errorminus="0.051" errorplus="0.042">0.166</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.03">0.03</eccentricity>
+			<inclination errorminus="0.14" errorplus="0.32">89.86</inclination>
+			<period errorminus="0.00029" errorplus="0.00029">35.23319</period>
+			<radius errorminus="0.015" errorplus="0.015">0.0999</radius>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/07</lastupdate>
+		</planet>
+	</star>
+</system>

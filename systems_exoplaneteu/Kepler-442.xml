@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-442</name>
+	<rightascension>18 58 16</rightascension>
+	<declination>+49 00 46</declination>
+	<distance>284.0</distance>
+	<star>
+		<name>Kepler-442</name>
+		<age>1.9</age>
+		<radius>0.55</radius>
+		<mass>0.572</mass>
+		<temperature>4340.0</temperature>
+		<metallicity>-0.57</metallicity>
+		<planet>
+			<name>Kepler-442 b</name>
+			<semimajoraxis errorminus="0.32" errorplus="0.13">0.64</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.1">0.1</eccentricity>
+			<inclination errorminus="0.03" errorplus="0.07">89.97</inclination>
+			<period errorminus="0.0022" errorplus="0.0022">207.2482</period>
+			<radius errorminus="0.021" errorplus="0.021">0.146</radius>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/07</lastupdate>
+		</planet>
+	</star>
+</system>

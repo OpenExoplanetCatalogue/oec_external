@@ -1,0 +1,21 @@
+<system>
+	<name>HD 145934</name>
+	<rightascension>16 13 10</rightascension>
+	<declination>+13 14 22</declination>
+	<star>
+		<name>HD 145934</name>
+		<radius>5.38</radius>
+		<mass>1.748</mass>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 145934 b</name>
+			<semimajoraxis errorminus="0.14" errorplus="0.14">4.6</semimajoraxis>
+			<periastron errorminus="62.0" errorplus="62.0">215.0</periastron>
+			<eccentricity errorminus="0.053" errorplus="0.053">0.053</eccentricity>
+			<period errorminus="100.0" errorplus="100.0">2730.0</period>
+			<mass errorminus="0.6" errorplus="0.6">2.28</mass>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/07</lastupdate>
+		</planet>
+	</star>
+</system>
