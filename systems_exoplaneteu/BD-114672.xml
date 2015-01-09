@@ -1,0 +1,24 @@
+<system>
+	<name>BD-114672</name>
+	<rightascension>18 33 29</rightascension>
+	<declination>-11 21 50</declination>
+	<distance>27.3</distance>
+	<star>
+		<name>BD-114672</name>
+		<age>4.4</age>
+		<radius>0.52</radius>
+		<mass>0.571</mass>
+		<spectraltype>K7V</spectraltype>
+		<temperature>4475.0</temperature>
+		<metallicity>-0.48</metallicity>
+		<planet>
+			<name>BD-114672 b</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">2.28</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.05</eccentricity>
+			<period errorminus="33.0" errorplus="33.0">1667.0</period>
+			<mass errorminus="0.05" errorplus="0.05">0.53</mass>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/01/08</lastupdate>
+		</planet>
+	</star>
+</system>

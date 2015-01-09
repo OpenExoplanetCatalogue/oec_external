@@ -1,0 +1,25 @@
+<system>
+	<name>HD 108341</name>
+	<rightascension>12 27 31</rightascension>
+	<declination>-71 34 37</declination>
+	<distance>49.4</distance>
+	<star>
+		<name>HD 108341</name>
+		<age>4.9</age>
+		<radius>0.79</radius>
+		<mass>0.843</mass>
+		<spectraltype>K2V</spectraltype>
+		<temperature>5122.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>HD 108341 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.0</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">56.7</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.85</eccentricity>
+			<period errorminus="6.0" errorplus="8.0">1129.0</period>
+			<mass errorminus="3.4" errorplus="1.2">3.5</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/01/08</lastupdate>
+		</planet>
+	</star>
+</system>
