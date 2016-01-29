@@ -1,0 +1,37 @@
+<system>
+	<name>HAT-P-20</name>
+	<rightascension>07 27 40</rightascension>
+	<declination>+24 20 11</declination>
+	<distance>70</distance>
+	<star>
+		<mass>0.756</mass>
+		<radius>0.694</radius>
+		<magV>11.34</magV>
+		<magB errorminus="0.01" errorplus="0.01">12.58</magB>
+		<magR errorminus="0.04" errorplus="0.04">11.00</magR>
+		<magJ errorminus="0.022" errorplus="0.022">9.276</magJ>
+		<magH errorminus="0.021" errorplus="0.021">8.743</magH>
+		<magK errorminus="0.019" errorplus="0.019">8.601</magK>
+		<metallicity>0.35</metallicity>
+		<spectraltype>K7</spectraltype>
+		<planet>
+			<name>HAT-P-20 b</name>
+			<name>2MASS J07273995+2420118 b</name>
+			<list>Confirmed planets</list>
+			<mass>7.246</mass>
+			<radius>0.867</radius>
+			<period>2.875317</period>
+			<semimajoraxis>0.0361</semimajoraxis>
+			<eccentricity>0.015</eccentricity>
+			<inclination>86.8</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>10/12/11</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>888.3</temperature>
+			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455080.92661</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-20</name>
+		<temperature>4595.0</temperature>
+	</star>
+</system>

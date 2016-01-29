@@ -1,0 +1,52 @@
+<system>
+	<name>NSVS 14256825</name>
+	<name>2MASS J20200045+0437564</name>
+	<rightascension>20 20 00</rightascension>
+	<declination>+04 37 56</declination>
+	<distance>570</distance>
+	<binary>
+		<magB>12.9</magB>
+		<magR>13.34</magR>
+		<magJ errorminus="0.029" errorplus="0.029">13.658</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.797</magH>
+		<magK errorminus="0.06" errorplus="0.06">13.95</magK>
+		<period>0.110341681</period>
+		<star>
+			<mass>0.419</mass>
+			<radius>0.190</radius>
+			<name>NSVS 14256825 A</name>
+		</star>
+		<star>
+			<mass>0.109</mass>
+			<radius>0.151</radius>
+			<name>NSVS 14256825 B</name>
+		</star>
+		<planet>
+			<name>NSVS 14256825 c</name>
+			<list>Controversial</list>
+			<mass>2.8</mass>
+			<period>1276</period>
+			<semimajoraxis>1.9</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<description>NSVS 14256825 is an HW Vir type binary which consists of a hot subdwarf and a main-sequence low-mass star in a close orbit.</description>
+			<discoverymethod>timing</discoverymethod>
+			<lastupdate>12/11/12</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<list>Planets in binary systems, P-type</list>
+		</planet>
+		<planet>
+			<name>NSVS 14256825 d</name>
+			<list>Controversial</list>
+			<mass>8</mass>
+			<period>2506</period>
+			<semimajoraxis>2.9</semimajoraxis>
+			<eccentricity>0.52</eccentricity>
+			<description>NSVS 14256825 is an HW Vir type binary which consists of a hot subdwarf and a main-sequence low-mass star in a close orbit.</description>
+			<discoverymethod>timing</discoverymethod>
+			<lastupdate>12/11/12</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<list>Planets in binary systems, P-type</list>
+		</planet>
+	</binary>
+	<videolink>http://youtu.be/OG7tS5ZB91I</videolink>
+</system>

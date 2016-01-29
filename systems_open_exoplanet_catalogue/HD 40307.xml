@@ -1,0 +1,99 @@
+<system>
+	<name>HD 40307</name>
+	<rightascension>05 54 04</rightascension>
+	<declination>-60 01 24</declination>
+	<distance>12.8</distance>
+	<star>
+		<mass>0.77</mass>
+		<magV>7.17</magV>
+		<magB>8.097</magB>
+		<magR>6.597</magR>
+		<magI>6.119</magI>
+		<magJ errorminus="0.019" errorplus="0.019">5.412</magJ>
+		<magH errorminus="0.040" errorplus="0.040">4.968</magH>
+		<magK errorminus="0.016" errorplus="0.016">4.793</magK>
+		<metallicity>-0.31</metallicity>
+		<spectraltype>K2.5V</spectraltype>
+		<planet>
+			<name>HD 40307 b</name>
+			<mass>0.01258</mass>
+			<period>4.3123</period>
+			<semimajoraxis>0.0468</semimajoraxis>
+			<eccentricity>0.2</eccentricity>
+			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
+			<list>Confirmed planets</list>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/11/08</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>804.5</temperature>
+		</planet>
+		<planet>
+			<name>HD 40307 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.020761624</mass>
+			<period>9.6184</period>
+			<semimajoraxis>0.0799</semimajoraxis>
+			<eccentricity>0.06</eccentricity>
+			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/11/08</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>617.1</temperature>
+		</planet>
+		<planet>
+			<name>HD 40307 d</name>
+			<list>Confirmed planets</list>
+			<mass>0.029884156</mass>
+			<period>20.432</period>
+			<semimajoraxis>0.1321</semimajoraxis>
+			<eccentricity>0.07</eccentricity>
+			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/11/08</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>479.9</temperature>
+		</planet>
+		<planet>
+			<name>HD 40307 e</name>
+			<list>Confirmed planets</list>
+			<mass>0.0110099</mass>
+			<period>34.62</period>
+			<semimajoraxis>0.1886</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
+			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/11/08</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>401.2</temperature>
+		</planet>
+		<planet>
+			<name>HD 40307 f</name>
+			<mass>0.01635764</mass>
+			<period>51.76</period>
+			<semimajoraxis>0.247</semimajoraxis>
+			<eccentricity>0.02</eccentricity>
+			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
+			<list>Confirmed planets</list>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/11/08</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>351.1</temperature>
+		</planet>
+		<planet>
+			<name>HD 40307 g</name>
+			<list>Confirmed planets</list>
+			<mass>0.02233447</mass>
+			<period>197.8</period>
+			<semimajoraxis>0.60</semimajoraxis>
+			<eccentricity>0.29</eccentricity>
+			<description>The HD 40307 system hosts at least 5 planets. A signal of a sixth planet has also been reported but should be taken with a grain of salt as it might correlate with chromospheric emission from the star. If the signal is a genuine signal of planetary origin, then this super-Earth might be habitable as it could support liquid water on its surface.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/11/08</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<temperature>224.0</temperature>
+		</planet>
+		<name>HD 40307</name>
+		<temperature>4977.0</temperature>
+	</star>
+	<videolink>http://youtu.be/MNIllUKtjfI</videolink>
+</system>

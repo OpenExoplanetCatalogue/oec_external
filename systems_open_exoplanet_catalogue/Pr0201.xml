@@ -1,0 +1,37 @@
+<system>
+	<name>Pr0201</name>
+	<rightascension>08 41 43</rightascension>
+	<declination>+20 13 36</declination>
+	<distance>177</distance>
+	<star>
+		<magB>11.1</magB>
+		<magV>10.33</magV>
+		<magJ errorminus="0.023" errorplus="0.023">9.463</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.227</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.142</magK>
+		<mass>1.234</mass>
+		<radius>1.167</radius>
+		<temperature>6174</temperature>
+		<metallicity>0.187</metallicity>
+		<spectraltype>F7.5</spectraltype>
+		<planet>
+			<name>Pr0201 b</name>
+			<name>BD+20 2184</name>
+			<name>2MASS J08414382+2013368</name>
+			<list>Confirmed planets</list>
+			<list>Planets in open clusters</list>
+			<mass>0.54</mass>
+			<period>4.4264</period>
+			<eccentricity>0</eccentricity>
+			<description>This planet is a so-called Hot Jupiter which orbits tightly around its parent star in the Beehive Cluster, a collection of roughly 1,000 stars that appear to be swarming around a common center. The planet is not habitable but its sky would be starrier than what we see from Earth.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/09/14</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<image>beehive</image>
+			<imagedescription>Artist's impression of a planet in the Beehive cluster.
+
+Image credit: NASA/JPL-Caltech</imagedescription>
+		</planet>
+		<name>Pr0201</name>
+	</star>
+</system>

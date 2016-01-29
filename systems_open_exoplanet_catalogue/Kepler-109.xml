@@ -1,0 +1,67 @@
+<system>
+	<name>Kepler-109</name>
+	<name>KOI-123</name>
+	<name>KIC 5094751</name>
+	<rightascension>19 21 34.263</rightascension>
+	<declination>+40 17 05.66</declination>
+	<distance>468.1</distance>
+	<star>
+		<name>Kepler-109</name>
+		<name>KOI-123</name>
+		<name>KIC 5094751</name>
+		<name>TYC 3138-1820-1</name>
+		<name>2MASS J19213425+4017055</name>
+		<temperature errorminus="75" errorplus="75">5952</temperature>
+		<metallicity errorminus="0.10" errorplus="0.10">-0.08</metallicity>
+		<magB>12.82</magB>
+		<magV>12.93</magV>
+		<magJ errorminus="0.019" errorplus="0.019">11.314</magJ>
+		<magH errorminus="0.016" errorplus="0.016">11.046</magH>
+		<magK errorminus="0.017" errorplus="0.017">11.001</magK>
+		<mass errorminus="0.06" errorplus="0.06">1.04</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.32</radius>
+		<age>5.73</age>
+		<planet>
+			<name>Kepler-109 b</name>
+			<name>KOI-123.01</name>
+			<name>KOI-123 b</name>
+			<name>KIC 5094751 b</name>
+			<name>TYC 3138-1820-1 b</name>
+			<name>2MASS J19213425+4017055 b</name>
+			<period>6.48163</period>
+			<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
+			<mass upperlimit="0.022964" />
+			<transittime unit="BJD">2454955.97755</transittime>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.069</semimajoraxis>
+			<inclination errorminus="0.1" errorplus="0.1">87.0</inclination>
+			<eccentricity upperlimit="0.30" />
+			<list>Confirmed planets</list>
+			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/02/24</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<name>Kepler-109 c</name>
+			<name>KOI-123.02</name>
+			<name>KOI-123 c</name>
+			<name>KIC 5094751 c</name>
+			<name>TYC 3138-1820-1 c</name>
+			<name>2MASS J19213425+4017055 c</name>
+			<period>21.2227</period>
+			<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
+			<mass upperlimit="0.068576" />
+			<transittime unit="BJD">2454970.57250</transittime>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.152</semimajoraxis>
+			<inclination errorminus="0.2" errorplus="0.2">89.6</inclination>
+			<eccentricity errorminus="0.03" errorplus="0.19">0.03</eccentricity>
+			<list>Confirmed planets</list>
+			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/02/24</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<istransiting>1</istransiting>
+		</planet>
+	</star>
+</system>

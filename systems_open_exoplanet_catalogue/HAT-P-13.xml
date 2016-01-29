@@ -1,0 +1,56 @@
+<system>
+	<name>HAT-P-13</name>
+	<rightascension>08 39 32</rightascension>
+	<declination>+47 21 07</declination>
+	<distance>214</distance>
+	<star>
+		<mass>1.22</mass>
+		<radius>1.56</radius>
+		<magV errorminus="0.06" errorplus="0.06">10.42</magV>
+		<magR>10.40</magR>
+		<magB errorminus="0.08" errorplus="0.08">11.15</magB>
+		<magJ errorminus="0.018" errorplus="0.018">9.328</magJ>
+		<magH errorminus="0.017" errorplus="0.017">9.058</magH>
+		<magK errorminus="0.017" errorplus="0.017">8.975</magK>
+		<metallicity errorminus="0.08" errorplus="0.08">0.41</metallicity>
+		<spectraltype>G4</spectraltype>
+		<planet>
+			<name>HAT-P-13 b</name>
+			<name>TYC 3416-00543-1 b</name>
+			<name>2MASS J08393180+4721073 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.85</mass>
+			<radius>1.28</radius>
+			<period>2.916243</period>
+			<semimajoraxis>0.0426</semimajoraxis>
+			<eccentricity>0.0142</eccentricity>
+			<inclination>83.3</inclination>
+			<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>12/04/08</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>1504.3</temperature>
+			<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2454779.92979</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<name>HAT-P-13 c</name>
+			<name>TYC 3416-00543-1 c</name>
+			<name>2MASS J08393180+4721073 c</name>
+			<list>Confirmed planets</list>
+			<mass>14.5</mass>
+			<period>448.2</period>
+			<semimajoraxis>1.186</semimajoraxis>
+			<eccentricity>0.666</eccentricity>
+			<transittime errorminus="1.8" errorplus="1.8" unit="BJD">2454870.4</transittime>
+			<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>14/02/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>276.2</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-13</name>
+		<temperature>5638.0</temperature>
+	</star>
+</system>

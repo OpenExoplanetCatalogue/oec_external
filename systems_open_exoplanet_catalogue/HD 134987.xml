@@ -1,0 +1,44 @@
+<system>
+	<name>HD 134987</name>
+	<rightascension>15 13 28</rightascension>
+	<declination>-25 18 33</declination>
+	<distance>22.2</distance>
+	<star>
+		<mass>1.07</mass>
+		<radius>1.25</radius>
+		<magV>6.45</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.168</magB>
+		<magR>6.43</magR>
+		<magJ>5.268</magJ>
+		<magH errorminus="0.015" errorplus="0.015">5.121</magH>
+		<magK errorminus="0.016" errorplus="0.016">4.882</magK>
+		<metallicity>0.25</metallicity>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>HD 134987 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.59</mass>
+			<period>258.19</period>
+			<semimajoraxis>0.81</semimajoraxis>
+			<eccentricity>0.233</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/12/15</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+			<temperature>313.3</temperature>
+		</planet>
+		<planet>
+			<name>HD 134987 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.82</mass>
+			<period>5000</period>
+			<semimajoraxis>5.8</semimajoraxis>
+			<eccentricity>0.12</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/12/15</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>117.4</temperature>
+		</planet>
+		<name>HD 134987</name>
+		<temperature>5740.0</temperature>
+	</star>
+</system>

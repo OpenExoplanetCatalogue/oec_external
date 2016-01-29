@@ -1,0 +1,31 @@
+<system>
+	<name>HD 73256</name>
+	<rightascension>08 36 23</rightascension>
+	<declination>-30 02 15</declination>
+	<distance>36.5</distance>
+	<star>
+		<mass>1.05</mass>
+		<radius>0.89</radius>
+		<magV>8.08</magV>
+		<magJ errorminus="0.029" errorplus="0.029">6.719</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.376</magH>
+		<magK errorminus="0.023" errorplus="0.023">6.264</magK>
+		<magB errorminus="0.01" errorplus="0.01">8.84</magB>
+		<metallicity>0.29</metallicity>
+		<spectraltype>G8/K0</spectraltype>
+		<planet>
+			<name>HD 73256 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.87</mass>
+			<period>2.54858</period>
+			<semimajoraxis>0.037</semimajoraxis>
+			<eccentricity>0.029</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/23</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+			<temperature>1204.5</temperature>
+		</planet>
+		<name>HD 73256</name>
+		<temperature>5570.0</temperature>
+	</star>
+</system>

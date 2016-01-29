@@ -1,0 +1,40 @@
+<system>
+	<name>CoRoT-10</name>
+	<rightascension>19 24 15</rightascension>
+	<declination>+00 44 46</declination>
+	<distance>345</distance>
+	<star>
+		<mass>0.89</mass>
+		<radius>0.79</radius>
+		<magV>15.216</magV>
+		<magB>16.676</magB>
+		<magR>15.48</magR>
+		<magI errorminus="0.03" errorplus="0.03">13.64</magI>
+		<magJ errorminus="0.025" errorplus="0.025">12.567</magJ>
+		<magH errorminus="0.028" errorplus="0.028">11.929</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.782</magK>
+		<metallicity>0.26</metallicity>
+		<spectraltype>K1V</spectraltype>
+		<planet>
+			<name>CoRoT-10 b</name>
+			<name>CoRoT-Exo-10 b</name>
+			<name>2MASS J19241528+0044461 b</name>
+			<name>CoRoTID 100725706 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.75</mass>
+			<radius>0.97</radius>
+			<period>13.2406</period>
+			<semimajoraxis>0.1055</semimajoraxis>
+			<eccentricity>0.53</eccentricity>
+			<inclination>88.55</inclination>
+			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>10/06/14</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>600.8</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>CoRoT-10</name>
+		<temperature>5075.0</temperature>
+	</star>
+</system>

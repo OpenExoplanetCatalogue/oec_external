@@ -1,0 +1,38 @@
+<system>
+	<name>HAT-P-26</name>
+	<rightascension>14 12 37.54</rightascension>
+	<declination>+04 03 36.13</declination>
+	<distance>134</distance>
+	<star>
+		<mass>0.816</mass>
+		<radius>0.788</radius>
+		<magV errorminus="0.18" errorplus="0.18">11.76</magV>
+		<magB errorminus="0.21" errorplus="0.21">12.33</magB>
+		<magR errorminus="0.06" errorplus="0.06">11.56</magR>
+		<magJ errorminus="0.022" errorplus="0.022">10.080</magJ>
+		<magH errorminus="0.023" errorplus="0.023">9.685</magH>
+		<magK errorminus="0.023" errorplus="0.023">9.581</magK>
+		<metallicity>-0.04</metallicity>
+		<spectraltype>K1</spectraltype>
+		<planet>
+			<name>HAT-P-26 b</name>
+			<name>TYC 320-01027-1 b</name>
+			<name>2MASS J14123753+0403359 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.059</mass>
+			<radius>0.565</radius>
+			<period>4.234516</period>
+			<semimajoraxis>0.0479</semimajoraxis>
+			<eccentricity>0.124</eccentricity>
+			<inclination>88.6</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>907.4</temperature>
+			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455304.65122</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-26</name>
+		<temperature>5079.0</temperature>
+	</star>
+</system>

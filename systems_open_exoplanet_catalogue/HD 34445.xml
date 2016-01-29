@@ -1,0 +1,28 @@
+<system>
+	<name>HD 34445</name>
+	<rightascension>05 17 41</rightascension>
+	<declination>+07 21 12</declination>
+	<distance>46.5</distance>
+	<star>
+		<mass>1.07</mass>
+		<radius>1.38</radius>
+		<magV>7.31</magV>
+		<magB errorminus="0.02" errorplus="0.02">7.97</magB>
+		<metallicity>0.14</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 34445 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.79</mass>
+			<period>1049</period>
+			<semimajoraxis>2.07</semimajoraxis>
+			<eccentricity>0.27</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/03/19</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+			<temperature>209.1</temperature>
+		</planet>
+		<name>HD 34445</name>
+		<temperature>5836.0</temperature>
+	</star>
+</system>

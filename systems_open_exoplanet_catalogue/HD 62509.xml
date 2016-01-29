@@ -1,0 +1,36 @@
+<system>
+	<name>HD 62509</name>
+	<rightascension>07 45 18</rightascension>
+	<declination>+28 01 34</declination>
+	<distance>10.34</distance>
+	<star>
+		<name>HD 62509</name>
+		<name>Pollux</name>
+		<name>Beta Geminorum</name>
+		<name>Beta Gem</name>
+		<temperature>4666.0</temperature>
+		<mass>1.47</mass>
+		<radius>9.3</radius>
+		<magV>1.15</magV>
+		<magB>2.15</magB>
+		<magR>0.6</magR>
+		<magI>0.2</magI>
+		<metallicity>0.19</metallicity>
+		<spectraltype>K0IIIb</spectraltype>
+		<planet>
+			<name>HD 62509 b</name>
+			<name>Pollux b</name>
+			<name>Beta Geminorum b</name>
+			<name>Beta Gem b</name>
+			<list>Confirmed planets</list>
+			<mass>2.9</mass>
+			<period>589.64</period>
+			<semimajoraxis>1.69</semimajoraxis>
+			<eccentricity>0.02</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>06/07/11</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+			<temperature>482.6</temperature>
+		</planet>
+	</star>
+</system>

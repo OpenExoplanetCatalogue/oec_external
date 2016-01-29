@@ -1,0 +1,31 @@
+<system>
+	<name>HD 68988</name>
+	<rightascension>08 18 22</rightascension>
+	<declination>+61 27 38</declination>
+	<distance>58</distance>
+	<star>
+		<mass>1.2</mass>
+		<radius>1.14</radius>
+		<magV>8.21</magV>
+		<magJ errorminus="0.021" errorplus="0.021">7.06</magJ>
+		<magH errorminus="0.02" errorplus="0.02">6.812</magH>
+		<magK errorminus="0.024" errorplus="0.024">6.743</magK>
+		<magB errorminus="0.02" errorplus="0.02">8.84</magB>
+		<metallicity>0.24</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 68988 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.9</mass>
+			<period>6.276</period>
+			<semimajoraxis>0.071</semimajoraxis>
+			<eccentricity>0.14</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/30</lastupdate>
+			<discoveryyear>2001</discoveryyear>
+			<temperature>1017.7</temperature>
+		</planet>
+		<name>HD 68988</name>
+		<temperature>5767.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,90 @@
+<system>
+	<name>Gliese 676</name>
+	<rightascension>17 30 11</rightascension>
+	<declination>-51 38 13</declination>
+	<distance>16.5</distance>
+	<binary>
+		<separation unit="arcsec">50.0</separation>
+		<separation unit="AU">825</separation>
+		<positionangle>135</positionangle>
+		<star>
+			<name>Gliese 676 A</name>
+			<mass errorminus="0.04" errorplus="0.04">0.71</mass>
+			<metallicity>0.23</metallicity>
+			<magB>11.028</magB>
+			<magV>9.585</magV>
+			<magR>8.675</magR>
+			<magI>8.60</magI>
+			<magJ>6.711</magJ>
+			<magH>6.082</magH>
+			<magK>5.825</magK>
+			<spectraltype>M0V</spectraltype>
+			<planet>
+				<name>Gliese 676 A d</name>
+				<name>GJ 676 A d</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.002" errorplus="0.002">0.014</mass>
+				<period errorminus="0.0008" errorplus="0.0008">3.6000</period>
+				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0413</semimajoraxis>
+				<eccentricity errorminus="0.09" errorplus="0.09">0.15</eccentricity>
+				<description>The star system Gliese 676 is located in the constellation Ara. This  planet was confirmed using a Bayesian probability analysis. It is a small Super-Earth.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/12/05</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+			<planet>
+				<name>Gliese 676 A e</name>
+				<name>GJ 676 A e</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.005" errorplus="0.005">0.036</mass>
+				<period errorminus="0.07" errorplus="0.07">35.37</period>
+				<semimajoraxis errorminus="0.007" errorplus="0.007">0.187</semimajoraxis>
+				<eccentricity errorminus="0.12" errorplus="0.12">0.24</eccentricity>
+				<description>The star system Gliese 676 is located in the constellation Ara. This  planet was confirmed using a Bayesian probability analysis. It has a false alarme probability of less than one percent.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/12/05</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+			<planet>
+				<name>Gliese 676 A b</name>
+				<name>GJ 676 A b</name>
+				<list>Confirmed planets</list>
+				<mass errorminus="0.31" errorplus="0.31">4.95</mass>
+				<period errorminus="1.2" errorplus="1.2">1050.3</period>
+				<semimajoraxis errorminus="0.07" errorplus="0.07">1.80</semimajoraxis>
+				<eccentricity errorminus="0.004" errorplus="0.004">0.328</eccentricity>
+				<description>This gas giant was found in 2009 and announced in 2011. At that time there were strong indications for more planets but more data was needed to confirm them.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/12/05</lastupdate>
+				<discoveryyear>2011</discoveryyear>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+			<planet>
+				<name>Gliese 676 A c</name>
+				<name>GJ 676 A c</name>
+				<list>Controversial</list>
+				<mass>3.0</mass>
+				<period>4400</period>
+				<semimajoraxis>5.2</semimajoraxis>
+				<eccentricity>0.2</eccentricity>
+				<description>This companion is inferred from a curvature in the radial velocity residuals. Its nature is currently unclear.</description>
+				<discoverymethod>RV</discoverymethod>
+				<discoveryyear>2011</discoveryyear>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+		</star>
+		<star>
+			<name>Gliese 676 B</name>
+			<mass>0.17</mass>
+			<magB>14.8</magB>
+			<magR errorminus="13.14" errorplus="13.14">13.4</magR>
+			<magI>10.49</magI>
+			<magJ>8.976</magJ>
+			<magH>8.29</magH>
+			<magK>8.017</magK>
+			<spectraltype>M3.5V</spectraltype>
+		</star>
+	</binary>
+</system>

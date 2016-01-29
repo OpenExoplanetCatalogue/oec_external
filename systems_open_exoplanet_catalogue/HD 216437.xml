@@ -1,0 +1,31 @@
+<system>
+	<name>HD 216437</name>
+	<rightascension>22 54 39</rightascension>
+	<declination>-70 04 25</declination>
+	<distance>26.5</distance>
+	<star>
+		<mass>1.06</mass>
+		<radius>1.1</radius>
+		<magV>6.06</magV>
+		<magJ>5.01</magJ>
+		<magH>4.68</magH>
+		<magK>4.61</magK>
+		<magB>6.697</magB>
+		<metallicity>0.25</metallicity>
+		<spectraltype>G4 IV-V</spectraltype>
+		<planet>
+			<name>HD 216437 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.82</mass>
+			<period>1256</period>
+			<semimajoraxis>2.32</semimajoraxis>
+			<eccentricity>0.29</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/30</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+			<temperature>170.2</temperature>
+		</planet>
+		<name>HD 216437</name>
+		<temperature>5636.0</temperature>
+	</star>
+</system>

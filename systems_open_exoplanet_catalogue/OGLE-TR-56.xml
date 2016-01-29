@@ -1,0 +1,33 @@
+<system>
+	<name>OGLE-TR-56</name>
+	<rightascension>17 56 35</rightascension>
+	<declination>-29 32 21</declination>
+	<distance>1500</distance>
+	<star>
+		<mass>1.17</mass>
+		<radius>1.32</radius>
+		<magV>16.6</magV>
+		<magI>15.30</magI>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>OGLE-TR-56 b</name>
+			<name>OGLE-TR-056 b</name>
+			<name>V5157 Sgr b</name>
+			<list>Confirmed planets</list>
+			<mass>1.3</mass>
+			<radius>1.2</radius>
+			<period>1.211909</period>
+			<semimajoraxis>0.0225</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>78.8</inclination>
+			<transittime errorminus="0.00044" errorplus="0.00044" unit="BJD">2453963.60070</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>10/06/24</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+			<temperature>1390.3</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>OGLE-TR-56</name>
+		<temperature>5940.0</temperature>
+	</star>
+</system>

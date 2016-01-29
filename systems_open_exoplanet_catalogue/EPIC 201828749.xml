@@ -1,0 +1,38 @@
+<system>
+	<name>EPIC 201828749</name>
+	<rightascension>11 42 37.042</rightascension>
+	<declination>+05 53 39.56</declination>
+	<distance errorminus="12" errorplus="1996">146</distance>
+	<binary>
+		<star>
+			<name>EPIC 201828749</name>
+			<mass errorminus="0.04" errorplus="1.06">0.74</mass>
+			<radius errorminus="0.06" errorplus="9.64">0.71</radius>
+			<temperature errorminus="97" errorplus="87">5552</temperature>
+			<magJ errorminus="0.03" errorplus="0.03">10.49</magJ>
+			<magH errorminus="0.04" errorplus="0.04">10.23</magH>
+			<magK errorminus="0.03" errorplus="0.03">9.93</magK>
+			<metallicity errorminus="0.23" errorplus="0.34">-0.69</metallicity>
+			<planet>
+				<name>EPIC 201828749 b</name>
+				<name>EPIC 201828749.01</name>
+				<list>Controversial</list>
+				<radius errorminus="0.299" errorplus="0.299">0.353</radius>
+				<period errorminus="0.00232" errorplus="0.00232">33.51569</period>
+				<transittime errorminus="0.0034" errorplus="0.0034" unit="BJD">2456813.1504</transittime>
+				<semimajoraxis errorminus="0.009" errorplus="0.009">0.1875</semimajoraxis>
+				<temperature errorminus="239" errorplus="239">613</temperature>
+				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
+				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
+				<lastupdate>15/07/07</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+		</star>
+		<star>
+			<name>EPIC 201828749 B</name>
+		</star>
+		<separation errorminus="0.04" errorplus="0.04" unit="arcsec">2.46</separation>
+	</binary>
+</system>

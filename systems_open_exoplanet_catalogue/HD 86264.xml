@@ -1,0 +1,31 @@
+<system>
+	<name>HD 86264</name>
+	<rightascension>09 56 58</rightascension>
+	<declination>-15 53 42</declination>
+	<distance>72.6</distance>
+	<star>
+		<mass>1.42</mass>
+		<radius>1.88</radius>
+		<magV>7.42</magV>
+		<magB errorminus="0.02" errorplus="0.02">7.92</magB>
+		<magJ errorminus="0.019" errorplus="0.019">6.505</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.344</magH>
+		<magK errorminus="0.023" errorplus="0.023">6.224</magK>
+		<metallicity>0.202</metallicity>
+		<spectraltype>F7V</spectraltype>
+		<planet>
+			<name>HD 86264 b</name>
+			<list>Confirmed planets</list>
+			<mass>7</mass>
+			<period>1475</period>
+			<semimajoraxis>2.86</semimajoraxis>
+			<eccentricity>0.7</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>09/08/13</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>214.2</temperature>
+		</planet>
+		<name>HD 86264</name>
+		<temperature>6210.0</temperature>
+	</star>
+</system>

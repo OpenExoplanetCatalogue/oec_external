@@ -1,0 +1,51 @@
+<system>
+	<name>HD 4732</name>
+	<rightascension>00 49 13</rightascension>
+	<declination>-24 08 12</declination>
+	<distance>56.5</distance>
+	<star>
+		<name>HD 4732</name>
+		<mass>1.74</mass>
+		<radius>5.4</radius>
+		<temperature>4959</temperature>
+		<magV>2.04</magV>
+		<magR errorminus="0.30" errorplus="0.30">7.09</magR>
+		<magB>6.84</magB>
+		<magJ errorminus="0.248" errorplus="0.248">4.338</magJ>
+		<magH errorminus="0.242" errorplus="0.242">3.717</magH>
+		<magK errorminus="0.036" errorplus="0.036">3.691</magK>
+		<metallicity>0.01</metallicity>
+		<spectraltype>K0 IV</spectraltype>
+		<planet>
+			<name>HD 4732 b</name>
+			<name>HR 228 b</name>
+			<name>HIP 3834 b</name>
+			<name>HD 4732 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.37</mass>
+			<period>360.2</period>
+			<semimajoraxis>1.19</semimajoraxis>
+			<eccentricity>0.13</eccentricity>
+			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/10/26</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 4732 c</name>
+			<name>HR 228 c</name>
+			<name>HIP 3834 c</name>
+			<name>HD 4732 c</name>
+			<list>Confirmed planets</list>
+			<mass>2.37</mass>
+			<period>2732</period>
+			<semimajoraxis>4.60</semimajoraxis>
+			<eccentricity>0.23</eccentricity>
+			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/10/26</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+	<videolink>http://youtu.be/iPuHKvxb_Wg</videolink>
+</system>

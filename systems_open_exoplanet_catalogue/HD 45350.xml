@@ -1,0 +1,31 @@
+<system>
+	<name>HD 45350</name>
+	<rightascension>06 28 45</rightascension>
+	<declination>+38 57 46</declination>
+	<distance>49</distance>
+	<star>
+		<mass>1.02</mass>
+		<radius>1.27</radius>
+		<magV>7.88</magV>
+		<magJ errorminus="0.018" errorplus="0.018">6.587</magJ>
+		<magH errorminus="0.018" errorplus="0.018">6.279</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.224</magK>
+		<magB>8.62</magB>
+		<metallicity>0.29</metallicity>
+		<spectraltype>G5 IV</spectraltype>
+		<planet>
+			<name>HD 45350 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.79</mass>
+			<period>890.76</period>
+			<semimajoraxis>1.92</semimajoraxis>
+			<eccentricity>0.778</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/22</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+			<temperature>197.0</temperature>
+		</planet>
+		<name>HD 45350</name>
+		<temperature>5754.0</temperature>
+	</star>
+</system>
