@@ -1,0 +1,32 @@
+<system>
+	<name>HD 152581</name>
+	<rightascension>16 53 43</rightascension>
+	<declination>+11 58 25</declination>
+	<distance>186</distance>
+	<star>
+		<mass>0.927</mass>
+		<radius>2.8</radius>
+		<magV>8.54</magV>
+		<magB errorminus="0.018" errorplus="0.018">9.251</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.673</magJ>
+		<magH errorminus="0.017" errorplus="0.017">6.244</magH>
+		<magK errorminus="0.015" errorplus="0.015">6.173</magK>
+		<metallicity>-0.46</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 152581 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.5</mass>
+			<period>689</period>
+			<semimajoraxis>1.48</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<description>The star HD 152581 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/07/24</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>408.1</temperature>
+		</planet>
+		<name>HD 152581</name>
+		<temperature>5155.0</temperature>
+	</star>
+</system>

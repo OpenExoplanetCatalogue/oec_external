@@ -1,0 +1,41 @@
+<system>
+	<name>WASP-18</name>
+	<rightascension>01 37 25</rightascension>
+	<declination>-45 40 40</declination>
+	<distance>100</distance>
+	<star>
+		<mass>1.24</mass>
+		<radius>1.23</radius>
+		<magV>9.3</magV>
+		<magB>9.74</magB>
+		<magJ errorminus="0.018" errorplus="0.018">8.409</magJ>
+		<magH errorminus="0.055" errorplus="0.055">8.231</magH>
+		<magK errorminus="0.027" errorplus="0.027">8.131</magK>
+		<spectraltype>F6</spectraltype>
+		<planet>
+			<name>WASP-18 b</name>
+			<name>HIP 7562 b</name>
+			<name>TYC 8040-00072-1 b</name>
+			<name>HD 10069 b</name>
+			<name>CD-46 449 b</name>
+			<name>CPD-46 168 b</name>
+			<name>SAO 215585 b</name>
+			<name>2MASS J01372503-4540404 b</name>
+			<list>Confirmed planets</list>
+			<mass>10.43</mass>
+			<radius>1.165</radius>
+			<period>0.9414518</period>
+			<semimajoraxis>0.02047</semimajoraxis>
+			<eccentricity>0.0088</eccentricity>
+			<inclination>86</inclination>
+			<transittime errorminus="0.000080" errorplus="0.000080" unit="BJD">2455084.792931</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>12/07/05</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>2187.5</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>WASP-18</name>
+		<temperature>6400.0</temperature>
+	</star>
+</system>

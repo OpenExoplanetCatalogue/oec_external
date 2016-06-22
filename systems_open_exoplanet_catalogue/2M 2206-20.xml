@@ -1,0 +1,30 @@
+<system>
+	<name>2M 2206-20</name>
+	<name>2MASS J22062280-2047058</name>
+	<rightascension>22 06 22.802</rightascension>
+	<declination>-20 47 05.90</declination>
+	<distance>26.67</distance>
+	<star>
+		<mass>0.13</mass>
+		<radius>0.11</radius>
+		<magV errorminus="0.203" errorplus="0.203">19.788</magV>
+		<spectraltype>M8</spectraltype>
+		<planet>
+			<name>2M 2206-20 b</name>
+			<name>2MASS J22062280-2047058 b</name>
+			<list>Confirmed planets</list>
+			<mass>30</mass>
+			<radius>1.3</radius>
+			<period>8686</period>
+			<semimajoraxis>4.48</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>44.3</inclination>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>12/01/20</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+		<name>2M 2206-20</name>
+		<name>2MASS J22062280-2047058</name>
+		<temperature>2350.0</temperature>
+	</star>
+</system>

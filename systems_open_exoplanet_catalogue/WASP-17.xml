@@ -1,0 +1,38 @@
+<system>
+	<name>WASP-17</name>
+	<rightascension>15 59 51</rightascension>
+	<declination>-28 03 42</declination>
+	<distance errorminus="60" errorplus="60">400</distance>
+	<star>
+		<mass>1.306</mass>
+		<radius>1.572</radius>
+		<magV>11.6</magV>
+		<magR>11.31</magR>
+		<magB errorminus="0.08" errorplus="0.08">11.83</magB>
+		<magI errorminus="0.02" errorplus="0.02">10.92</magI>
+		<magJ errorminus="0.027" errorplus="0.027">10.509</magJ>
+		<magH errorminus="0.024" errorplus="0.024">10.319</magH>
+		<magK errorminus="0.027" errorplus="0.027">10.224</magK>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.19</metallicity>
+		<spectraltype>F4</spectraltype>
+		<planet>
+			<name>WASP-17 b</name>
+			<name>2MASS J15595095-2803422 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.486</mass>
+			<radius>1.991</radius>
+			<period>3.735438</period>
+			<semimajoraxis>0.0515</semimajoraxis>
+			<eccentricity>0.028</eccentricity>
+			<inclination>86.83</inclination>
+			<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2454577.85879</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>12/04/08</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>1517.8</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>WASP-17</name>
+		<temperature>6650.0</temperature>
+	</star>
+</system>

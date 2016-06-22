@@ -1,0 +1,32 @@
+<system>
+	<name>HD 82886</name>
+	<rightascension>09 35 45.1827</rightascension>
+	<declination>+34 46 50.673</declination>
+	<distance>125</distance>
+	<star>
+		<mass>1.06</mass>
+		<radius>4.8</radius>
+		<magV>7.78</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.493</magB>
+		<magJ errorminus="0.021" errorplus="0.021">5.995</magJ>
+		<magH errorminus="0.018" errorplus="0.018">5.563</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.452</magK>
+		<metallicity>-0.31</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 82886 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.3</mass>
+			<period>705</period>
+			<semimajoraxis>1.65</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<description>The star HD 82886 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/07/24</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>382.7</temperature>
+		</planet>
+		<name>HD 82886</name>
+		<temperature>5112.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,43 @@
+<system>
+	<name>HD 195019</name>
+	<rightascension>20 28 17</rightascension>
+	<declination>+18 46 12</declination>
+	<distance>37.36</distance>
+	<binary>
+		<separation unit="arcsec">3.5</separation>
+		<separation unit="AU">130</separation>
+		<positionangle>330</positionangle>
+		<star>
+			<name>HD 195019 A</name>
+			<mass>1.06</mass>
+			<radius>1.38</radius>
+			<magV>6.91</magV>
+			<magB errorminus="0.007" errorplus="0.007">7.530</magB>
+			<magR>6.5</magR>
+			<magI>6.2</magI>
+			<magJ>5.60</magJ>
+			<magH>5.32</magH>
+			<magK>5.26</magK>
+			<metallicity>0.08</metallicity>
+			<spectraltype>G3 IV-V</spectraltype>
+			<planet>
+				<name>HD 195019 A b</name>
+				<name>HD 195019 b</name>
+				<list>Confirmed planets</list>
+				<mass>3.7</mass>
+				<period>18.20163</period>
+				<semimajoraxis>0.1388</semimajoraxis>
+				<eccentricity>0.014</eccentricity>
+				<description>The planet is orbiting a star that is part of a binary system. The planet's periastron is far enough away from the host star such that tides are not important.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>12/12/08</lastupdate>
+				<discoveryyear>1998</discoveryyear>
+				<list>Planets in binary systems, S-type</list>
+			</planet>
+		</star>
+		<star>
+			<name>HD 195019 B</name>
+			<mass>0.70</mass>
+		</star>
+	</binary>
+</system>

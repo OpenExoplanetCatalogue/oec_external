@@ -1,0 +1,32 @@
+<system>
+	<name>HD 20367</name>
+	<rightascension>03 17 40</rightascension>
+	<declination>+31 07 37</declination>
+	<distance>27</distance>
+	<star>
+		<mass>1.04</mass>
+		<radius>1.18</radius>
+		<magV>6.41</magV>
+		<magR>6.4</magR>
+		<magJ errorminus="0.023" errorplus="0.023">5.325</magJ>
+		<magH errorminus="0.026" errorplus="0.026">5.117</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.039</magK>
+		<magB>6.933</magB>
+		<metallicity>0.1</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 20367 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.07</mass>
+			<period>500</period>
+			<semimajoraxis>1.25</semimajoraxis>
+			<eccentricity>0.23</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/16</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+			<temperature>261.6</temperature>
+		</planet>
+		<name>HD 20367</name>
+		<temperature>6128.0</temperature>
+	</star>
+</system>

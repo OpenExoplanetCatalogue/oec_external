@@ -1,0 +1,37 @@
+<system>
+	<name>HAT-P-1</name>
+	<rightascension>22 57 47</rightascension>
+	<declination>+38 40 30</declination>
+	<distance>139</distance>
+	<star>
+		<mass>1.133</mass>
+		<radius>1.115</radius>
+		<magV>10.4</magV>
+		<magB>11.0</magB>
+		<magJ errorminus="0.026" errorplus="0.026">9.156</magJ>
+		<magH errorminus="0.030" errorplus="0.030">8.923</magH>
+		<magK errorminus="0.018" errorplus="0.018">8.858</magK>
+		<metallicity>0.13</metallicity>
+		<spectraltype>G0V</spectraltype>
+		<planet>
+			<name>HAT-P-1 b</name>
+			<name>BD+37 4734s b</name>
+			<name>SAO 72884 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.524</mass>
+			<radius>1.217</radius>
+			<period>4.4652934</period>
+			<semimajoraxis>0.05535</semimajoraxis>
+			<eccentricity>0.067</eccentricity>
+			<inclination>86.28</inclination>
+			<transittime errorminus="0.00072" errorplus="0.00072" unit="BJD">2454363.94726</transittime>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>11/02/07</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+			<temperature>1182.1</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-1</name>
+		<temperature>5975.0</temperature>
+	</star>
+</system>

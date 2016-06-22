@@ -1,0 +1,50 @@
+<system>
+	<name>HD 109271</name>
+	<distance>62</distance>
+	<rightascension>12 33 35</rightascension>
+	<declination>-11 37 18</declination>
+	<star>
+		<name>HD 109271</name>
+		<name>HIP 61300</name>
+		<mass>1.047</mass>
+		<temperature>5783</temperature>
+		<magV>8.05</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.71</magB>
+		<magJ errorminus="0.026" errorplus="0.026">6.855</magJ>
+		<magH errorminus="0.026" errorplus="0.026">6.555</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.495</magK>
+		<metallicity>0.10</metallicity>
+		<spectraltype>G5V</spectraltype>
+		<age>7.3</age>
+		<planet>
+			<name>HD 109271 b</name>
+			<name>HIP 61300 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.054</mass>
+			<period>7.8543</period>
+			<semimajoraxis>0.079</semimajoraxis>
+			<eccentricity>0.25</eccentricity>
+			<periastron>-64</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/01/14</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+			<temperature>1076.0</temperature>
+		</planet>
+		<planet>
+			<name>HD 109271 c</name>
+			<name>HIP 61300 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.076</mass>
+			<period>30.93</period>
+			<semimajoraxis>0.196</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
+			<periastron>4</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/01/14</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<description>This planet was discovered with the European HARPS instrument. The system hosts at least two planetary companions. The architecture of this system is very similar to that of HD 698430. That might suggest that certain architectures are preferred in Nature.</description>
+			<temperature>684.9</temperature>
+		</planet>
+	</star>
+</system>

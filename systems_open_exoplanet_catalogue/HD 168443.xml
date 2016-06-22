@@ -1,0 +1,44 @@
+<system>
+	<name>HD 168443</name>
+	<rightascension>18 20 04</rightascension>
+	<declination>-09 35 34</declination>
+	<distance>37.38</distance>
+	<star>
+		<mass>0.995</mass>
+		<radius>1.51</radius>
+		<magV>6.92</magV>
+		<magB>7.62</magB>
+		<magJ errorminus="0.019" errorplus="0.019">5.641</magJ>
+		<magH errorminus="0.016" errorplus="0.016">5.325</magH>
+		<magK errorminus="0.015" errorplus="0.015">5.211</magK>
+		<metallicity>0.04</metallicity>
+		<spectraltype>G5</spectraltype>
+		<planet>
+			<name>HD 168443 b</name>
+			<list>Confirmed planets</list>
+			<mass>7.659</mass>
+			<period>58.11247</period>
+			<semimajoraxis>0.2931</semimajoraxis>
+			<eccentricity>0.52883</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/09/26</lastupdate>
+			<discoveryyear>1998</discoveryyear>
+			<temperature>549.0</temperature>
+		</planet>
+		<planet>
+			<name>HD 168443 c</name>
+			<list>Confirmed planets</list>
+			<mass>17.193</mass>
+			<period>1749.83</period>
+			<semimajoraxis>2.8373</semimajoraxis>
+			<eccentricity>0.2113</eccentricity>
+			<inclination>35.7</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/09/26</lastupdate>
+			<discoveryyear>2001</discoveryyear>
+			<temperature>179.3</temperature>
+		</planet>
+		<name>HD 168443</name>
+		<temperature>5591.0</temperature>
+	</star>
+</system>

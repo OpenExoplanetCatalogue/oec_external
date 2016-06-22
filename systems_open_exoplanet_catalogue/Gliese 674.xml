@@ -1,0 +1,36 @@
+<system>
+	<name>Gliese 674</name>
+	<rightascension>17 28 40</rightascension>
+	<declination>-46 53 43</declination>
+	<distance>4.54</distance>
+	<star>
+		<mass>0.35</mass>
+		<magV>9.38</magV>
+		<magB>10.973</magB>
+		<magR>8.337</magR>
+		<magI>7.006</magI>
+		<magJ errorminus="0.019" errorplus="0.019">5.711</magJ>
+		<magH errorminus="0.033" errorplus="0.033">5.154</magH>
+		<magK errorminus="0.018" errorplus="0.018">4.855</magK>
+		<metallicity>-0.28</metallicity>
+		<spectraltype>M2.5</spectraltype>
+		<planet>
+			<name>Gliese 674 b</name>
+			<name>GJ 674 b</name>
+			<name>Gj 674 b</name>
+			<name>Gl 674 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.037</mass>
+			<period>4.6938</period>
+			<semimajoraxis>0.039</semimajoraxis>
+			<eccentricity>0.2</eccentricity>
+			<description>Gliese 674 is a pre main sequence star in the constellation of Ara.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>07/04/25</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>519.6</temperature>
+		</planet>
+		<name>Gliese 674</name>
+		<temperature>3600.0</temperature>
+	</star>
+</system>

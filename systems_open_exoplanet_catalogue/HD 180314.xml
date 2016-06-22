@@ -1,0 +1,32 @@
+<system>
+	<name>HD 180314</name>
+	<rightascension>19 14 50</rightascension>
+	<declination>+31 51 37</declination>
+	<distance>132</distance>
+	<star>
+		<mass>2.6</mass>
+		<radius>9.2</radius>
+		<magV>6.61</magV>
+		<magB errorminus="0.01" errorplus="0.01">7.63</magB>
+		<magR errorminus="0.26" errorplus="0.26">6.41</magR>
+		<magJ errorminus="0.037" errorplus="0.037">4.892</magJ>
+		<magH errorminus="0.021" errorplus="0.021">4.489</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.312</magK>
+		<metallicity>0.2</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 180314 b</name>
+			<list>Confirmed planets</list>
+			<mass>22</mass>
+			<period>396.03</period>
+			<semimajoraxis>1.4</semimajoraxis>
+			<eccentricity>0.257</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/08/05</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>553.4</temperature>
+		</planet>
+		<name>HD 180314</name>
+		<temperature>4917.0</temperature>
+	</star>
+</system>

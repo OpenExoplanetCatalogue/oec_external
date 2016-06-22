@@ -1,0 +1,27 @@
+<system>
+	<name>HD 27894</name>
+	<rightascension>04 20 47</rightascension>
+	<declination>-59 24 39</declination>
+	<distance>42.37</distance>
+	<star>
+		<mass>0.8</mass>
+		<magV>9.36</magV>
+		<magB>10.42</magB>
+		<metallicity>0.3</metallicity>
+		<spectraltype>K2 V</spectraltype>
+		<planet>
+			<name>HD 27894 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.62</mass>
+			<period>17.991</period>
+			<semimajoraxis>0.122</semimajoraxis>
+			<eccentricity>0.049</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/12/25</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+			<temperature>548.8</temperature>
+		</planet>
+		<name>HD 27894</name>
+		<temperature>4875.0</temperature>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>HD 125595</name>
+	<rightascension>14 21 23</rightascension>
+	<declination>-40 23 38</declination>
+	<distance>27.4</distance>
+	<star>
+		<mass>0.756</mass>
+		<magV>9.03</magV>
+		<magB>10.13</magB>
+		<magJ errorminus="0.021" errorplus="0.021">7.097</magJ>
+		<magH errorminus="0.026" errorplus="0.026">6.608</magH>
+		<magK errorminus="0.023" errorplus="0.023">6.447</magK>
+		<metallicity>0.02</metallicity>
+		<spectraltype>K4V</spectraltype>
+		<planet>
+			<name>HD 125595 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.042</mass>
+			<period>9.6737</period>
+			<semimajoraxis>0.0809</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>11/07/05</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>584.9</temperature>
+		</planet>
+		<name>HD 125595</name>
+		<temperature>4908.0</temperature>
+	</star>
+</system>

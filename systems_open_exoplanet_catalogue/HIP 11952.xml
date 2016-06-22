@@ -1,0 +1,45 @@
+<system>
+	<name>HIP 11952</name>
+	<rightascension>02 34 11</rightascension>
+	<declination>-12 23 03</declination>
+	<distance>111</distance>
+	<star>
+		<mass>0.83</mass>
+		<radius>1.6</radius>
+		<magV>9.78</magV>
+		<magB errorminus="0.04" errorplus="0.04">10.18</magB>
+		<magJ errorminus="0.027" errorplus="0.027">8.790</magJ>
+		<magH errorminus="0.034" errorplus="0.034">8.516</magH>
+		<magK errorminus="0.019" errorplus="0.019">8.457</magK>
+		<metallicity>-1.9</metallicity>
+		<spectraltype>F2V</spectraltype>
+		<planet>
+			<name>HIP 11952 b</name>
+			<list>Controversial</list>
+			<mass>2.93</mass>
+			<period>290</period>
+			<semimajoraxis>0.81</semimajoraxis>
+			<eccentricity>0.27</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/02/14</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<description>This planet was announced in 2012. But a new study in 2013 using the HARPS-N spectrograph did not find any evidence for giant planets in the system. The planet is therefore labeled as constroversial.</description>
+			<temperature>372.6</temperature>
+		</planet>
+		<planet>
+			<name>HIP 11952 c</name>
+			<list>Controversial</list>
+			<mass>0.78</mass>
+			<period>6.95</period>
+			<semimajoraxis>0.07</semimajoraxis>
+			<eccentricity>0.35</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>13/02/14</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<description>This planet was announced in 2012. But a new study in 2013 using the HARPS-N spectrograph did not find any evidence for giant planets in the system. The planet is therefore labeled as constroversial.</description>
+			<temperature>1263.2</temperature>
+		</planet>
+		<name>HIP 11952</name>
+		<temperature>6040.0</temperature>
+	</star>
+</system>

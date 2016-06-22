@@ -1,0 +1,31 @@
+<system>
+	<name>HD 190984</name>
+	<rightascension>20 11 31</rightascension>
+	<declination>-64 37 14</declination>
+	<distance>103</distance>
+	<star>
+		<mass>0.91</mass>
+		<radius>1.53</radius>
+		<magV>8.76</magV>
+		<magB>9.27</magB>
+		<magJ errorminus="0.023" errorplus="0.023">7.671</magJ>
+		<magH errorminus="0.024" errorplus="0.024">7.389</magH>
+		<magK errorminus="0.016" errorplus="0.016">7.319</magK>
+		<metallicity>-0.48</metallicity>
+		<spectraltype>F8V</spectraltype>
+		<planet>
+			<name>HD 190984 b</name>
+			<list>Confirmed planets</list>
+			<mass>3.1</mass>
+			<period>4885</period>
+			<semimajoraxis>5.5</semimajoraxis>
+			<eccentricity>0.57</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>10/11/06</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+			<temperature>136.2</temperature>
+		</planet>
+		<name>HD 190984</name>
+		<temperature>5988.0</temperature>
+	</star>
+</system>

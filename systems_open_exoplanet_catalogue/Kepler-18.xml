@@ -1,0 +1,81 @@
+<system>
+	<name>Kepler-18</name>
+	<rightascension>19 52 19.067</rightascension>
+	<declination>+44 44 46.94</declination>
+	<star>
+		<name>Kepler-18</name>
+		<name>KOI-137</name>
+		<name>KIC 8644288</name>
+		<temperature>5383.0</temperature>
+		<mass>0.972</mass>
+		<radius>1.108</radius>
+		<magV>14</magV>
+		<magR errorminus="0.06" errorplus="0.06">13.93</magR>
+		<magJ errorminus="0.03" errorplus="0.03">12.19</magJ>
+		<magH errorminus="0.025" errorplus="0.025">11.873</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.756</magK>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>Kepler-18 b</name>
+			<name>KOI-137 b</name>
+			<name>KOI-137.03</name>
+			<name>GSC 03149-02089 b</name>
+			<name>KIC 8644288 b</name>
+			<name>2MASS J19521906+4444467 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.0217</mass>
+			<radius>0.179</radius>
+			<period>3.504725</period>
+			<semimajoraxis>0.0447</semimajoraxis>
+			<inclination>84.92</inclination>
+			<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2454966.5068</transittime>
+			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>11/10/05</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>1181.7</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<name>Kepler-18 c</name>
+			<name>KOI-137 c</name>
+			<name>KOI-137.01</name>
+			<name>GSC 03149-02089 c</name>
+			<name>KIC 8644288 c</name>
+			<name>2MASS J19521906+4444467 c</name>
+			<list>Confirmed planets</list>
+			<mass>0.054</mass>
+			<radius>0.49</radius>
+			<period>7.64159</period>
+			<semimajoraxis>0.0752</semimajoraxis>
+			<inclination>87.68</inclination>
+			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2455167.0883</transittime>
+			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>11/10/05</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>911.1</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<name>Kepler-18 d</name>
+			<name>KOI-137 d</name>
+			<name>KOI-137.02</name>
+			<name>KIC 8644288 d</name>
+			<name>KIC 8644288.02</name>
+			<list>Confirmed planets</list>
+			<mass>0.052</mass>
+			<radius>0.62</radius>
+			<period>14.85888</period>
+			<semimajoraxis>0.1172</semimajoraxis>
+			<inclination>88.07</inclination>
+			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">2455169.1776</transittime>
+			<description>The Kepler-18 system is hosting at least three transiting planets. It was discovered with the Kepler satellite, and confirmed by a combination of large transit-timing variations, radial-velocity variations, Warm-Spitzer observations, and a statistical analysis of false-positive probabilities.</description>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>11/10/05</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>729.8</temperature>
+			<istransiting>1</istransiting>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,32 @@
+<system>
+	<name>HD 70573</name>
+	<rightascension>08 22 50</rightascension>
+	<declination>+01 51 34</declination>
+	<distance>45.7</distance>
+	<star>
+		<mass>1</mass>
+		<magV>8.7</magV>
+		<magI errorminus="0.016" errorplus="0.016">7.999</magI>
+		<magB errorminus="0.02" errorplus="0.02">9.30</magB>
+		<magJ errorminus="0.021" errorplus="0.021">7.558</magJ>
+		<magH errorminus="0.034" errorplus="0.034">7.276</magH>
+		<magK errorminus="0.024" errorplus="0.024">7.191</magK>
+		<metallicity>-0.18</metallicity>
+		<spectraltype>G1-1.5V</spectraltype>
+		<planet>
+			<name>HD 70573 b</name>
+			<list>Controversial</list>
+			<mass>6.1</mass>
+			<period>851.8</period>
+			<semimajoraxis>1.76</semimajoraxis>
+			<eccentricity>0.4</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/05/24</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+			<temperature>167.4</temperature>
+			<description>The planet candidate HD 70573 b was not confirmed in follow-up measurements (Soto et al. 2015).</description>
+		</planet>
+		<name>HD 70573</name>
+		<temperature>5737.0</temperature>
+	</star>
+</system>

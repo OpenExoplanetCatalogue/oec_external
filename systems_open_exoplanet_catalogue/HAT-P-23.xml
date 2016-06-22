@@ -1,0 +1,38 @@
+<system>
+	<name>HAT-P-23</name>
+	<rightascension>20 24 30</rightascension>
+	<declination>+16 45 44</declination>
+	<distance>393</distance>
+	<star>
+		<mass>1.13</mass>
+		<radius>1.203</radius>
+		<magV errorminus="0.020" errorplus="0.020">11.94</magV>
+		<magB errorminus="0.38" errorplus="0.38">13.05</magB>
+		<magR errorminus="0.06" errorplus="0.06">12.27</magR>
+		<magJ errorminus="0.022" errorplus="0.022">11.103</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.846</magH>
+		<magK errorminus="0.020" errorplus="0.020">10.791</magK>
+		<metallicity>0.15</metallicity>
+		<spectraltype>G5</spectraltype>
+		<planet>
+			<name>HAT-P-23 b</name>
+			<name>TYC 1632-01396-1 b</name>
+			<name>2MASS J20242972+1645437 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.09</mass>
+			<radius>1.368</radius>
+			<period>1.212884</period>
+			<semimajoraxis>0.0232</semimajoraxis>
+			<eccentricity>0.106</eccentricity>
+			<inclination>85.1</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+			<temperature>1873.6</temperature>
+			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2454852.26464</transittime>
+			<istransiting>1</istransiting>
+		</planet>
+		<name>HAT-P-23</name>
+		<temperature>5905.0</temperature>
+	</star>
+</system>

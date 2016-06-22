@@ -1,0 +1,32 @@
+<system>
+	<name>HD 1502</name>
+	<rightascension>00 19 17</rightascension>
+	<declination>+14 03 17</declination>
+	<distance>159</distance>
+	<star>
+		<mass>1.61</mass>
+		<radius>4.5</radius>
+		<magV>8.52</magV>
+		<magB errorminus="0.007" errorplus="0.007">9.290</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.681</magJ>
+		<magH errorminus="0.017" errorplus="0.017">6.234</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.120</magK>
+		<metallicity>0.09</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HD 1502 b</name>
+			<list>Confirmed planets</list>
+			<mass>3.1</mass>
+			<period>431.8</period>
+			<semimajoraxis>1.31</semimajoraxis>
+			<eccentricity>0.101</eccentricity>
+			<description>The star HD 1502 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>12/07/24</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+			<temperature>412.3</temperature>
+		</planet>
+		<name>HD 1502</name>
+		<temperature>5049.0</temperature>
+	</star>
+</system>
