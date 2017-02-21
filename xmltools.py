@@ -42,7 +42,13 @@ def removeemptytags(elem):
                 del child.attrib['errorplus']
             if 'errorminus' in child.attrib and (child.attrib['errorminus'] == None or child.attrib['errorminus'] == ""):
                 del child.attrib['errorminus']
-        if child is None or (len(child) == 0 and len(child.text) == 0 and len(child.attrib) == 0):
+        torem = False
+        try:
+            if child is None or (len(child) == 0 and len(child.text) == 0 and len(child.attrib) == 0):
+                torem = True
+        except:
+            torem = True
+        if torem:
             toberemoved.append(child)
     for child in toberemoved:
         elem.remove(child)

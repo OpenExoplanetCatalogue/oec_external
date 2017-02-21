@@ -13,6 +13,14 @@ def get():
     xmltools.ensure_empty_dir("tmp_data")
     urllib.urlretrieve (url_exoplaneteu, "tmp_data/exoplanet.eu_catalog.csv")
 
+def tofl(s):
+    'convert str to nicer str'
+    try:
+        f = float(s)
+        return "%.6f"%f
+    except:
+        return ""
+
 def parse():
     # delete old data
     xmltools.ensure_empty_dir("systems_exoplaneteu")
@@ -69,7 +77,7 @@ def parse():
         ET.SubElement(planet, "eccentricity", errorminus=p['eccentricity_error_min'], errorplus=p['eccentricity_error_max']).text = p["eccentricity"]
         ET.SubElement(planet, "longitude", errorminus=p['lambda_angle_error_min'], errorplus=p['lambda_angle_error_max']).text = p["lambda_angle"]
         ET.SubElement(planet, "inclination", errorminus=p['inclination_error_min'], errorplus=p['inclination_error_max']).text = p["inclination"]
-        ET.SubElement(planet, "period", errorminus=p['orbital_period_err_min'], errorplus=p['orbital_period_err_max']).text = p["orbital_period"]
+        ET.SubElement(planet, "period", errorminus=tofl(p['orbital_period_error_min']), errorplus=tofl(p['orbital_period_error_max'])).text = p["orbital_period"]
         ET.SubElement(planet, "mass", errorminus=p['mass_error_min'], errorplus=p['mass_error_max']).text = p["mass"]
         ET.SubElement(planet, "radius", errorminus=p['radius_error_min'], errorplus=p['radius_error_max']).text = p["radius"]
         ET.SubElement(planet, "temperature").text = p["temp_measured"]
@@ -82,6 +90,8 @@ def parse():
             ET.SubElement(planet, "discoverymethod").text = "transit"
         ET.SubElement(planet, "discoveryyear").text = p["discovered"]
         ET.SubElement(planet, "lastupdate").text = p["updated"].replace("-","/")[2:]
+        ET.SubElement(planet, "list").text = "Confirmed planets"
+        ET.SubElement(planet, "description").text = "Data for this planet was imported from the exoplanet.eu database."
 
         # ET.SubElement(planet, "spinorbitalignment").text = p[""]
 
