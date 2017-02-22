@@ -80,6 +80,12 @@ def parse():
         ET.SubElement(planet, "period", errorminus=tofl(p['orbital_period_error_min']), errorplus=tofl(p['orbital_period_error_max'])).text = p["orbital_period"]
         ET.SubElement(planet, "mass", errorminus=p['mass_error_min'], errorplus=p['mass_error_max']).text = p["mass"]
         ET.SubElement(planet, "radius", errorminus=p['radius_error_min'], errorplus=p['radius_error_max']).text = p["radius"]
+        try:
+            if float(p["radius"])>0.:
+                ET.SubElement(planet, "istransiting").text = "1"
+        except:
+            pass
+
         ET.SubElement(planet, "temperature").text = p["temp_measured"]
         # to match OEC 
         if p['detection_type'].find("radial") != -1:

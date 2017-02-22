@@ -2,6 +2,8 @@ import xml.etree.ElementTree as ET, urllib, gzip, io
 import glob
 import difflib
 import html
+import shutil
+from operator import itemgetter, attrgetter, methodcaller
 
 class Sys(object):
     def __init__(self,pn,n,lu):
@@ -31,12 +33,12 @@ class Cat(object):
             for name in names:
                 self.systems.append(Sys(names[0].text,name.text,lu))
     def findnews(self,other):
-        usnames = list(set([s.pn for s in self.systems]))
+        ss = sorted(self.systems,key=attrgetter("lu"), reverse=True)
         othernames = [s.n for s in other.systems]
         snew = []
-        for usname in usnames:
-            if usname not in othernames:
-                snew.append([usname,difflib.get_close_matches(usname,othernames)])
+        for s in ss:
+            if s.pn not in othernames:
+                snew.append([s.pn,difflib.get_close_matches(s.pn,othernames)])
 
         return snew
     def getsystem(self,systemname):
@@ -72,10 +74,17 @@ def hello():
 
 
 @app.route('/update', methods=['POST'])
-def login():
+def update():
     o = ""
     for i,n in enumerate(news):
-        o+= "%d  "%i + request.form['s%05d'%i] + "<br/>"
+        pn, ons = n
+        f =  request.form['s%05d'%i]
+        if f=="ignore":
+            continue
+        elif f=="addsystem":
+            shutil.copyfile(eeu.path+"/"+pn+".xml","../open_exoplanet_catalogue/systems/"+pn+".xml")
+            o+="added "+pn+".xml<br>\n"
+
     return o
 
 if __name__ == "__main__":
