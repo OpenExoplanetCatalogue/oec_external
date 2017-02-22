@@ -16,6 +16,7 @@ class Cat(object):
         self.path = path
         self.planets = {}
         self.systems = []
+        self.altsystemnames = []
         self.lastupdate = {}
         for f in glob.glob(path+"/*.xml"):
             c = ET.parse(f)
@@ -24,6 +25,7 @@ class Cat(object):
                 names_text = []
                 for name in names:
                     self.planets[name.text] = names[0].text
+                    self.altsystemnames.append(name.text[0:-2])
             names = c.findall("./name")
             names_text = []
             try:
@@ -34,9 +36,13 @@ class Cat(object):
                 self.systems.append(Sys(names[0].text,name.text,lu))
     def findnews(self,other):
         ss = sorted(self.systems,key=attrgetter("lu"), reverse=True)
-        othernames = [s.n for s in other.systems]
+        othernames = [s.n for s in other.systems]+other.altsystemnames
         snew = []
+        with open("hidden.txt") as f:
+            hidden = [l.strip() for l in f.readlines()]
         for s in ss:
+            if s.pn in hidden:
+                continue
             if s.pn not in othernames:
                 snew.append([s.pn,difflib.get_close_matches(s.pn,othernames)])
 
@@ -64,6 +70,7 @@ def hello():
         pn, ons = n
         o+="<h2>%03d/%03d &nbsp;&nbsp;&nbsp; "%(i+1,len(news))+pn+"</h2>"
         o+="<input type='radio' name='s%05d' value='ignore' checked>ignore<br/>\n" %i
+        o+="<input type='radio' name='s%05d' value='hide'>hide permanently<br/>\n" %i
         for j,on in enumerate(ons):
             o+="<input type='radio' name='s%05d' value='on%02d'>add name to oec:  %s<br/>\n" %(i,j,on)
 
@@ -81,6 +88,10 @@ def update():
         f =  request.form['s%05d'%i]
         if f=="ignore":
             continue
+        if f=="hide":
+            with open('hidden.txt', 'a') as fh:
+                fh.write(pn+"\n")
+            o+="permanently ignored "+pn+".xml<br>\n"
         elif f=="addsystem":
             shutil.copyfile(eeu.path+"/"+pn+".xml","../open_exoplanet_catalogue/systems/"+pn+".xml")
             o+="added "+pn+".xml<br>\n"

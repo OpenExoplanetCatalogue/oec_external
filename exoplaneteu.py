@@ -32,6 +32,8 @@ def parse():
     for line in reader:
         p = dict(zip(header, line))
         outputfilename = "systems_exoplaneteu/"+p["star_name"].strip()+".xml"
+        if p["planet_status"] != "Confirmed":
+            continue
         if os.path.exists(outputfilename):
             system = ET.parse(outputfilename).getroot()
             star = system.find(".//star")
@@ -85,6 +87,13 @@ def parse():
                 ET.SubElement(planet, "istransiting").text = "1"
         except:
             pass
+        if p["detection_type"]=="Radial Velocity":
+            ET.SubElement(planet, "discoverymethod").text = "RV"
+        elif p["detection_type"]=="Primary Transit":
+            ET.SubElement(planet, "discoverymethod").text = "transit"
+        elif p["detection_type"]=="Imaging":
+            ET.SubElement(planet, "discoverymethod").text = "imaging"
+
 
         ET.SubElement(planet, "temperature").text = p["temp_measured"]
         # to match OEC 
