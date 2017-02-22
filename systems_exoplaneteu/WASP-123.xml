@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-123</name>
+	<rightascension>19 17 55</rightascension>
+	<declination>-32 08 24</declination>
+	<star>
+		<name>WASP-123</name>
+		<radius>1.296</radius>
+		<mass>1.207</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5730.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>WASP-123 b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0431</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.12">0.0</eccentricity>
+			<inclination errorminus="0.51" errorplus="0.51">85.79</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">2.977641</period>
+			<mass errorminus="0.051" errorplus="0.051">0.92</mass>
+			<radius errorminus="0.074" errorplus="0.074">1.327</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

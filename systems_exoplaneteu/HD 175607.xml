@@ -1,0 +1,27 @@
+<system>
+	<name>HD 175607</name>
+	<rightascension>19 01 05</rightascension>
+	<declination>-66 48 26</declination>
+	<distance>45.27</distance>
+	<star>
+		<name>HD 175607</name>
+		<age>10.32</age>
+		<radius>0.71</radius>
+		<mass>0.71</mass>
+		<spectraltype>G6V</spectraltype>
+		<temperature>5392.0</temperature>
+		<metallicity>-0.62</metallicity>
+		<planet>
+			<name>HD 175607 b</name>
+			<periastron errorminus="52.0" errorplus="52.0">142.2</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.11</eccentricity>
+			<period errorminus="0.020000" errorplus="0.020000">29.01</period>
+			<mass errorminus="0.0035" errorplus="0.0035">0.0283</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-729</name>
+	<rightascension>19 05 26</rightascension>
+	<declination>+45 24 51</declination>
+	<distance>1271.0</distance>
+	<star>
+		<name>Kepler-729</name>
+		<radius>0.91</radius>
+		<mass>0.94</mass>
+		<temperature>5633.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-729 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">3.16635371</period>
+			<radius errorminus="0.022" errorplus="0.037">0.319</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,20 @@
+<system>
+	<name>MOA-2007-BLG-192-L</name>
+	<rightascension>18 08 04</rightascension>
+	<declination>-27 51 00</declination>
+	<distance>700.0</distance>
+	<star>
+		<name>MOA-2007-BLG-192-L</name>
+		<mass>0.06</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>MOA-2007-BLG-192-L b</name>
+			<semimajoraxis errorminus="0.14" errorplus="0.14">0.66</semimajoraxis>
+			<mass errorminus="0.005" errorplus="0.015">0.01</mass>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>10/09/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

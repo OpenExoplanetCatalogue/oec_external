@@ -1,0 +1,24 @@
+<system>
+	<name>HD 206893</name>
+	<rightascension>21 45 22</rightascension>
+	<declination>-12 12 60</declination>
+	<distance>38.34</distance>
+	<star>
+		<name>HD 206893</name>
+		<age>1.1</age>
+		<mass>1.24</mass>
+		<spectraltype>F5V</spectraltype>
+		<temperature>6486.0</temperature>
+		<planet>
+			<name>HD 206893 b</name>
+			<semimajoraxis>10.0</semimajoraxis>
+			<mass errorminus="25.0" errorplus="25.0">49.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1290.0</temperature>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

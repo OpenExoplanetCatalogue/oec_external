@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-848</name>
+	<rightascension>19 33 09</rightascension>
+	<declination>+48 48 42</declination>
+	<distance>797.0</distance>
+	<star>
+		<name>Kepler-848</name>
+		<radius>1.2</radius>
+		<mass>1.01</mass>
+		<temperature>5695.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>Kepler-848 b</name>
+			<period errorminus="0.000025" errorplus="0.000025">6.91134416</period>
+			<radius errorminus="0.022" errorplus="0.028">0.152</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

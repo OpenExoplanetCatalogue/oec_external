@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1376</name>
+	<rightascension>19 07 50</rightascension>
+	<declination>+42 32 29</declination>
+	<distance>864.0</distance>
+	<star>
+		<name>Kepler-1376</name>
+		<radius>0.97</radius>
+		<mass>0.98</mass>
+		<temperature>5659.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-1376 b</name>
+			<period errorminus="0.000045" errorplus="0.000045">5.30880656</period>
+			<radius errorminus="0.008" errorplus="0.019">0.094</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

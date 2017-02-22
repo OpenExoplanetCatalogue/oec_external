@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1311</name>
+	<rightascension>19 18 36</rightascension>
+	<declination>+43 49 28</declination>
+	<distance>705.0</distance>
+	<star>
+		<name>Kepler-1311</name>
+		<radius>1.4</radius>
+		<mass>1.05</mass>
+		<temperature>5748.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>Kepler-1311 b</name>
+			<period errorminus="0.000139" errorplus="0.000139">11.1726994</period>
+			<radius errorminus="0.023" errorplus="0.022">0.111</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1311 c</name>
+			<period errorminus="0.000010" errorplus="0.000010">2.53573424</period>
+			<radius errorminus="0.021" errorplus="0.025">0.109</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

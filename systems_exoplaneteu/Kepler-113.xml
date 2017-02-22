@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-113</name>
+	<rightascension>19 11 59</rightascension>
+	<declination>+50 56 40</declination>
+	<star>
+		<name>Kepler-113</name>
+		<age>6.89</age>
+		<radius>0.69</radius>
+		<mass>0.75</mass>
+		<temperature>4725.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-113 b</name>
+			<period>4.754</period>
+			<mass errorminus="0.013" errorplus="0.013">0.0368</mass>
+			<radius errorminus="0.004" errorplus="0.004">0.162</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-113 c</name>
+			<period>8.92507</period>
+			<mass errorminus="0.027" errorplus="0.0">0.027</mass>
+			<radius errorminus="0.005" errorplus="0.005">0.194</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

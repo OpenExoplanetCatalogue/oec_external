@@ -1,0 +1,25 @@
+<system>
+	<name>HD 119445</name>
+	<rightascension>13 42 29</rightascension>
+	<declination>+41 40 27</declination>
+	<star>
+		<name>HD 119445</name>
+		<radius>20.5</radius>
+		<mass>3.9</mass>
+		<spectraltype>G6</spectraltype>
+		<temperature>5083.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>HD 119445 b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">1.71</semimajoraxis>
+			<eccentricity errorminus="0.007" errorplus="0.007">0.082</eccentricity>
+			<period errorminus="0.600000" errorplus="0.600000">410.2</period>
+			<mass errorminus="2.6" errorplus="2.6">37.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/08/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

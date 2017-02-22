@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-811</name>
+	<rightascension>19 01 42</rightascension>
+	<declination>+47 50 05</declination>
+	<distance>847.0</distance>
+	<star>
+		<name>Kepler-811</name>
+		<radius>1.24</radius>
+		<mass>1.01</mass>
+		<temperature>5747.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-811 b</name>
+			<period errorminus="0.000076" errorplus="0.000076">23.58447697</period>
+			<radius errorminus="0.043" errorplus="0.061">0.241</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

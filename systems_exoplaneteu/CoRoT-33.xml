@@ -1,0 +1,30 @@
+<system>
+	<name>CoRoT-33</name>
+	<rightascension>18 38 34</rightascension>
+	<declination>+05 37 29</declination>
+	<star>
+		<name>CoRoT-33</name>
+		<age>4.6</age>
+		<radius>0.94</radius>
+		<mass>0.86</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5225.0</temperature>
+		<metallicity>0.44</metallicity>
+		<planet>
+			<name>CoRoT-33 b</name>
+			<semimajoraxis>0.0579</semimajoraxis>
+			<periastron errorminus="0.87" errorplus="0.87">179.3</periastron>
+			<eccentricity errorminus="0.0016" errorplus="0.0016">0.07</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">85.5</inclination>
+			<period errorminus="0.000018" errorplus="0.000018">5.819143</period>
+			<mass errorminus="1.84" errorplus="1.85">59.2</mass>
+			<radius errorminus="0.53" errorplus="0.53">1.1</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

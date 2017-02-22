@@ -1,0 +1,21 @@
+<system>
+	<name>PSR B1957+20</name>
+	<rightascension>19 59 37</rightascension>
+	<declination>+20 48 15</declination>
+	<distance>1530.0</distance>
+	<star>
+		<name>PSR B1957+20</name>
+		<age>2.2</age>
+		<mass>1.4</mass>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR B1957+20 b</name>
+			<period>0.38</period>
+			<mass>22.0</mass>
+			<discoveryyear>1988</discoveryyear>
+			<lastupdate>16/07/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

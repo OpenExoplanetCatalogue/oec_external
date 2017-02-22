@@ -1,0 +1,55 @@
+<system>
+	<name>KOI-314</name>
+	<rightascension>19 21 32</rightascension>
+	<declination>+43 17 35</declination>
+	<star>
+		<name>KOI-314</name>
+		<radius>0.54</radius>
+		<mass>0.57</mass>
+		<spectraltype>M1V</spectraltype>
+		<temperature>3871.0</temperature>
+		<planet>
+			<name>Kepler-138 b</name>
+			<semimajoraxis>0.0746</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.95</inclination>
+			<period errorminus="0.000027" errorplus="0.000027">10.31320643</period>
+			<mass errorminus="0.00012" errorplus="0.00019">0.00021</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.052</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/06/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-138 c</name>
+			<periastron errorminus="28.0" errorplus="47.0">72.0</periastron>
+			<eccentricity errorminus="0.025" errorplus="0.049">0.05</eccentricity>
+			<period errorminus="0.000140" errorplus="0.000190">13.78164</period>
+			<mass errorminus="0.0011" errorplus="0.0013">0.00318</mass>
+			<radius errorminus="0.013" errorplus="0.014">0.144</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/06/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-138 d</name>
+			<periastron errorminus="120.0" errorplus="130.0">170.0</periastron>
+			<eccentricity errorminus="0.016" errorplus="0.03">0.024</eccentricity>
+			<period errorminus="0.000710" errorplus="0.000710">23.08933</period>
+			<mass errorminus="0.00106975427115124" errorplus="0.00132146115848095">0.00317779945254</mass>
+			<radius errorminus="0.013381916" errorplus="0.014274044">0.143634835641</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

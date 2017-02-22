@@ -1,0 +1,34 @@
+<system>
+	<name>HD 93385</name>
+	<rightascension>10 46 15</rightascension>
+	<declination>-41 32 08</declination>
+	<distance>42.2</distance>
+	<star>
+		<name>HD 93385</name>
+		<spectraltype>G2V</spectraltype>
+		<planet>
+			<name>HD 93385 b</name>
+			<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.1116</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.15</eccentricity>
+			<period errorminus="0.005900" errorplus="0.005900">13.186</period>
+			<mass errorminus="0.00276" errorplus="0.00276">0.0263</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 93385 c</name>
+			<semimajoraxis errorminus="0.0043" errorplus="0.0043">0.257</semimajoraxis>
+			<eccentricity errorminus="0.18" errorplus="0.18">0.24</eccentricity>
+			<period errorminus="0.007250" errorplus="0.007250">46.025</period>
+			<mass errorminus="0.00399" errorplus="0.00399">0.0318</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

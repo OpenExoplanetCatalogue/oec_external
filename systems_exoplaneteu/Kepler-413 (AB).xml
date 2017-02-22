@@ -1,0 +1,27 @@
+<system>
+	<name>Kepler-413 (AB)</name>
+	<rightascension>19 14 03</rightascension>
+	<declination>+51 09 45</declination>
+	<star>
+		<name>Kepler-413 (AB)</name>
+		<radius>0.7761</radius>
+		<mass>1.3623</mass>
+		<temperature>4700.0</temperature>
+		<planet>
+			<name>Kepler-413 (AB) b</name>
+			<semimajoraxis>0.3553</semimajoraxis>
+			<periastron>94.6</periastron>
+			<eccentricity>0.1181</eccentricity>
+			<inclination>89.929</inclination>
+			<period>66.262</period>
+			<mass errorminus="0.0660730579240475" errorplus="0.0660730579240475">0.210804518139</mass>
+			<radius errorminus="0.00883220417914922" errorplus="0.00883220417914922">0.38781405623</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

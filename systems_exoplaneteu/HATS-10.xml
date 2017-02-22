@@ -1,0 +1,29 @@
+<system>
+	<name>HATS-10</name>
+	<rightascension>19 37 14</rightascension>
+	<declination>-22 47 44</declination>
+	<distance>496.0</distance>
+	<star>
+		<name>HATS-10</name>
+		<age>3.3</age>
+		<radius>1.105</radius>
+		<mass>1.1</mass>
+		<temperature>5880.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>HATS-10 b</name>
+			<semimajoraxis errorminus="0.00074" errorplus="0.00074">0.0449</semimajoraxis>
+			<eccentricity errorminus="0.5" errorplus="0.0">0.5</eccentricity>
+			<inclination errorminus="0.72" errorplus="0.72">87.79</inclination>
+			<period errorminus="0.000006" errorplus="0.000006">3.312846</period>
+			<mass errorminus="0.0812" errorplus="0.0814">0.526</mass>
+			<radius errorminus="0.045" errorplus="0.061">0.969</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

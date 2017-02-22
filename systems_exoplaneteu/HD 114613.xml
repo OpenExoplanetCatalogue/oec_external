@@ -1,0 +1,26 @@
+<system>
+	<name>HD 114613</name>
+	<rightascension>13 12 03</rightascension>
+	<declination>-36 48 11</declination>
+	<distance>20.67</distance>
+	<star>
+		<name>HD 114613</name>
+		<mass>1.364</mass>
+		<spectraltype>G3-4</spectraltype>
+		<temperature>5729.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 114613 b</name>
+			<semimajoraxis errorminus="0.13" errorplus="0.13">5.16</semimajoraxis>
+			<periastron errorminus="5.0" errorplus="5.0">244.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.25</eccentricity>
+			<period errorminus="105.000000" errorplus="105.000000">3827.0</period>
+			<mass errorminus="0.04" errorplus="0.04">0.48</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/01/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

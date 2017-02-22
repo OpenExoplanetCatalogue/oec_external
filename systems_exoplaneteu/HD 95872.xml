@@ -1,0 +1,27 @@
+<system>
+	<name>HD 95872</name>
+	<rightascension>11 03 28</rightascension>
+	<declination>-22 54 22</declination>
+	<distance>7.56</distance>
+	<star>
+		<name>HD 95872</name>
+		<age>10.0</age>
+		<mass>0.95</mass>
+		<spectraltype>K0V</spectraltype>
+		<temperature>5312.0</temperature>
+		<metallicity>0.41</metallicity>
+		<planet>
+			<name>HD 95872 b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">5.2</semimajoraxis>
+			<periastron errorminus="67.0" errorplus="67.0">17.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+			<period errorminus="169.000000" errorplus="169.000000">4375.0</period>
+			<mass errorminus="0.3" errorplus="0.3">4.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-573</name>
+	<rightascension>19 18 05</rightascension>
+	<declination>+51 14 14</declination>
+	<distance>758.0</distance>
+	<star>
+		<name>Kepler-573</name>
+		<radius>1.02</radius>
+		<mass>0.99</mass>
+		<temperature>5746.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-573 b</name>
+			<period errorminus="0.000046" errorplus="0.000046">22.18329658</period>
+			<radius errorminus="0.021" errorplus="0.032">0.249</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-218</name>
+	<rightascension>19 41 39</rightascension>
+	<declination>+46 15 59</declination>
+	<star>
+		<name>Kepler-218</name>
+		<radius>1.06</radius>
+		<temperature>5502.0</temperature>
+		<metallicity>0.194</metallicity>
+		<planet>
+			<name>Kepler-218 b</name>
+			<semimajoraxis>0.046</semimajoraxis>
+			<period errorminus="0.000011" errorplus="0.000011">3.619337</period>
+			<radius errorminus="0.011" errorplus="0.011">0.132</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-218 c</name>
+			<semimajoraxis>0.248</semimajoraxis>
+			<period errorminus="0.000167" errorplus="0.000167">44.699576</period>
+			<radius errorminus="0.023" errorplus="0.023">0.28</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-218 d</name>
+			<period errorminus="0.000582" errorplus="0.000582">124.5244647</period>
+			<radius errorminus="0.016" errorplus="0.025">0.237</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

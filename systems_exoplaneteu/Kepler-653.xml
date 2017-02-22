@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-653</name>
+	<rightascension>18 48 51</rightascension>
+	<declination>+46 43 04</declination>
+	<distance>593.0</distance>
+	<star>
+		<name>Kepler-653</name>
+		<radius>1.19</radius>
+		<mass>1.02</mass>
+		<temperature>5665.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>Kepler-653 b</name>
+			<period errorminus="0.000038" errorplus="0.000038">14.70748976</period>
+			<radius errorminus="0.023" errorplus="0.026">0.174</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-653 c</name>
+			<period errorminus="0.000004" errorplus="0.000004">0.90037648</period>
+			<radius errorminus="0.011" errorplus="0.012">0.07</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

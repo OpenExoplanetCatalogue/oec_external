@@ -1,0 +1,40 @@
+<system>
+	<name>Kepler-109</name>
+	<rightascension>19 21 34</rightascension>
+	<declination>+40 17 06</declination>
+	<distance>464.73</distance>
+	<star>
+		<name>Kepler-109</name>
+		<age>6.35</age>
+		<radius>1.339</radius>
+		<mass>1.069</mass>
+		<temperature>5952.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-109 b</name>
+			<eccentricity errorminus="0.21" errorplus="0.09">0.21</eccentricity>
+			<period errorminus="0.000008" errorplus="0.000008">6.481637</period>
+			<mass errorminus="0.017" errorplus="0.017">0.0041</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.2086</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-109 c</name>
+			<eccentricity errorminus="0.03" errorplus="0.19">0.03</eccentricity>
+			<period errorminus="0.000030" errorplus="0.000030">21.22262</period>
+			<mass errorminus="0.025" errorplus="0.025">0.00698</mass>
+			<radius errorminus="0.0038" errorplus="0.0038">0.235</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

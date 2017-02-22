@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-699</name>
+	<rightascension>19 47 33</rightascension>
+	<declination>+41 23 46</declination>
+	<distance>888.0</distance>
+	<star>
+		<name>Kepler-699</name>
+		<radius>0.78</radius>
+		<mass>0.81</mass>
+		<temperature>5330.0</temperature>
+		<metallicity>-0.26</metallicity>
+		<planet>
+			<name>Kepler-699 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">27.80756293</period>
+			<radius errorminus="0.108" errorplus="0.124">1.259</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,72 @@
+<system>
+	<name>Kepler-79</name>
+	<rightascension>20 02 04</rightascension>
+	<declination>+44 22 54</declination>
+	<star>
+		<name>Kepler-79</name>
+		<age>3.44</age>
+		<radius>1.302</radius>
+		<mass>1.165</mass>
+		<temperature>6174.0</temperature>
+		<planet>
+			<name>Kepler-79 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.117</semimajoraxis>
+			<eccentricity errorminus="0.006" errorplus="0.012">0.015</eccentricity>
+			<inclination errorminus="0.09" errorplus="0.07">88.78</inclination>
+			<period errorminus="0.000200" errorplus="0.000200">13.4845</period>
+			<mass errorminus="0.018872" errorplus="0.023276">0.034285</mass>
+			<radius errorminus="0.006245" errorplus="0.006245">0.309568</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-79 c</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.002">0.187</semimajoraxis>
+			<eccentricity errorminus="0.021" errorplus="0.027">0.03</eccentricity>
+			<inclination errorminus="0.09" errorplus="0.07">89.48</inclination>
+			<period errorminus="0.000600" errorplus="0.000800">27.4029</period>
+			<mass errorminus="0.007234" errorplus="0.005976">0.018558</mass>
+			<radius errorminus="0.007" errorplus="0.007">0.332</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-79 d</name>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.287</semimajoraxis>
+			<eccentricity errorminus="0.023" errorplus="0.059">0.025</eccentricity>
+			<inclination errorminus="0.03" errorplus="0.07">89.93</inclination>
+			<period errorminus="0.001000" errorplus="0.001000">52.0902</period>
+			<mass errorminus="0.005033" errorplus="0.006605">0.018872</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.64</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-79 e</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.386</semimajoraxis>
+			<eccentricity errorminus="0.005" errorplus="0.044">0.012</eccentricity>
+			<inclination errorminus="0.02" errorplus="0.02">89.13</inclination>
+			<period errorminus="0.001300" errorplus="0.001300">81.0659</period>
+			<mass errorminus="0.0034" errorplus="0.0037">0.0129</mass>
+			<radius errorminus="0.1" errorplus="0.1">0.312</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

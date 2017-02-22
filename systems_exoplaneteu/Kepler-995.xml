@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-995</name>
+	<rightascension>18 58 28</rightascension>
+	<declination>+39 07 52</declination>
+	<distance>659.0</distance>
+	<star>
+		<name>Kepler-995</name>
+		<radius>0.8</radius>
+		<mass>0.83</mass>
+		<temperature>5206.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>Kepler-995 b</name>
+			<period errorminus="0.000086" errorplus="0.000086">28.26731672</period>
+			<radius errorminus="0.015" errorplus="0.017">0.241</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,40 @@
+<system>
+	<name>HD 109271</name>
+	<rightascension>12 33 36</rightascension>
+	<declination>-11 22 41</declination>
+	<distance>62.0</distance>
+	<star>
+		<name>HD 109271</name>
+		<age>7.3</age>
+		<mass>1.047</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5783.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>HD 109271 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.079</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="20.0">296.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.25</eccentricity>
+			<period errorminus="0.000900" errorplus="0.000900">7.8543</period>
+			<mass errorminus="0.004" errorplus="0.004">0.054</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 109271 c</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.196</semimajoraxis>
+			<periastron errorminus="120.0" errorplus="120.0">4.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.15</eccentricity>
+			<period errorminus="0.020000" errorplus="0.020000">30.93</period>
+			<mass errorminus="0.007" errorplus="0.007">0.076</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

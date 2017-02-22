@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-7</name>
+	<rightascension>19 14 20</rightascension>
+	<declination>+41 05 23</declination>
+	<star>
+		<name>Kepler-7</name>
+		<age>3.5</age>
+		<radius>2.02</radius>
+		<mass>1.36</mass>
+		<temperature>5933.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>Kepler-7 b</name>
+			<semimajoraxis errorminus="0.00046" errorplus="0.00046">0.06246</semimajoraxis>
+			<periastron errorminus="2.8" errorplus="2.8">357.1</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.1</eccentricity>
+			<inclination errorminus="0.076" errorplus="0.076">85.18</inclination>
+			<period errorminus="0.000040" errorplus="0.000040">4.885525</period>
+			<mass errorminus="0.042" errorplus="0.041">0.433</mass>
+			<radius errorminus="0.015" errorplus="0.015">1.614</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

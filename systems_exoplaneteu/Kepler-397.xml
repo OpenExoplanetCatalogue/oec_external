@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-397</name>
+	<rightascension>19 43 35</rightascension>
+	<declination>+42 22 50</declination>
+	<star>
+		<name>Kepler-397</name>
+		<radius>0.77</radius>
+		<temperature>5307.0</temperature>
+		<metallicity>-0.035</metallicity>
+		<planet>
+			<name>Kepler-397 b</name>
+			<semimajoraxis>0.144</semimajoraxis>
+			<period errorminus="0.000186" errorplus="0.000186">22.250949</period>
+			<radius errorminus="1.902" errorplus="1.902">0.219</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-397 c</name>
+			<semimajoraxis>0.48</semimajoraxis>
+			<period errorminus="0.000668" errorplus="0.000668">135.498527</period>
+			<radius errorminus="0.05" errorplus="0.05">0.551</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

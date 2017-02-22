@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1251</name>
+	<rightascension>19 28 28</rightascension>
+	<declination>+49 15 23</declination>
+	<distance>863.0</distance>
+	<star>
+		<name>Kepler-1251</name>
+		<radius>0.89</radius>
+		<mass>0.92</mass>
+		<temperature>5545.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-1251 b</name>
+			<period errorminus="0.000463" errorplus="0.000463">45.0904643</period>
+			<radius errorminus="0.012" errorplus="0.023">0.164</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

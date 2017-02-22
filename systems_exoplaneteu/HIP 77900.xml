@@ -1,0 +1,20 @@
+<system>
+	<name>HIP 77900</name>
+	<rightascension>15 54 30</rightascension>
+	<declination>-27 39 41</declination>
+	<star>
+		<name>HIP 77900</name>
+		<spectraltype>B6</spectraltype>
+		<temperature>13700.0</temperature>
+		<planet>
+			<name>HIP 77900 b</name>
+			<semimajoraxis errorminus="300.0" errorplus="300.0">3200.0</semimajoraxis>
+			<mass errorminus="3.0" errorplus="7.0">20.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

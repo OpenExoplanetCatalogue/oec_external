@@ -1,0 +1,29 @@
+<system>
+	<name>HATS-15</name>
+	<rightascension>20 44 22</rightascension>
+	<declination>-19 33 45</declination>
+	<distance>689.0</distance>
+	<star>
+		<name>HATS-15</name>
+		<age>11.0</age>
+		<radius>0.922</radius>
+		<mass>0.871</mass>
+		<temperature>5311.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>HATS-15 b</name>
+			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.02712</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.126">0.0</eccentricity>
+			<inclination>87.13</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">1.74748753</period>
+			<mass errorminus="0.15" errorplus="0.15">2.17</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.105</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/04/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

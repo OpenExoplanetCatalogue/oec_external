@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-558</name>
+	<rightascension>18 58 38</rightascension>
+	<declination>+42 39 10</declination>
+	<distance>652.0</distance>
+	<star>
+		<name>Kepler-558</name>
+		<radius>0.81</radius>
+		<mass>0.85</mass>
+		<temperature>5242.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-558 b</name>
+			<period errorminus="0.000089" errorplus="0.000089">29.00790538</period>
+			<radius errorminus="0.012" errorplus="0.015">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

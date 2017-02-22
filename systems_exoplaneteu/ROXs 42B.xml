@@ -1,0 +1,26 @@
+<system>
+	<name>ROXs 42B</name>
+	<rightascension>16 31 15</rightascension>
+	<declination>-24 27 16</declination>
+	<distance>135.0</distance>
+	<star>
+		<name>ROXs 42B</name>
+		<age>0.0068</age>
+		<mass>0.6</mass>
+		<spectraltype>M0 D</spectraltype>
+		<temperature>2200.0</temperature>
+		<planet>
+			<name>ROXs 42B b</name>
+			<semimajoraxis errorminus="10.0" errorplus="10.0">140.0</semimajoraxis>
+			<mass errorminus="3.0" errorplus="3.0">9.0</mass>
+			<radius>2.5</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1975.0</temperature>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/04/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

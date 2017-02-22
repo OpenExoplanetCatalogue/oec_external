@@ -1,0 +1,58 @@
+<system>
+	<name>K2-19</name>
+	<rightascension>11 39 50</rightascension>
+	<declination>+00 36 13</declination>
+	<distance>291.0</distance>
+	<star>
+		<name>K2-19</name>
+		<age>8.0</age>
+		<radius>0.86</radius>
+		<mass>0.93</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5430.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>K2-19 b</name>
+			<semimajoraxis errorminus="0.013" errorplus="0.008">0.077</semimajoraxis>
+			<periastron errorminus="52.0" errorplus="52.0">179.0</periastron>
+			<eccentricity errorminus="0.35" errorplus="0.82">0.119</eccentricity>
+			<inclination errorminus="0.89" errorplus="1.08">88.83</inclination>
+			<period errorminus="0.000050" errorplus="0.000050">7.9194</period>
+			<mass errorminus="0.0359" errorplus="0.0231">0.187</mass>
+			<radius errorminus="0.035" errorplus="0.035">0.691</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/04/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-19 c</name>
+			<semimajoraxis errorminus="0.008" errorplus="0.0074">0.1032</semimajoraxis>
+			<periastron errorminus="68.0" errorplus="15.0">237.0</periastron>
+			<eccentricity errorminus="0.035" errorplus="0.073">0.095</eccentricity>
+			<inclination errorminus="0.32" errorplus="0.05">89.91</inclination>
+			<period errorminus="0.001500" errorplus="0.001500">11.90715</period>
+			<mass errorminus="0.0063" errorplus="0.0123">0.031</mass>
+			<radius errorminus="0.039" errorplus="0.055">0.434</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/04/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-19 d</name>
+			<period errorminus="0.000410" errorplus="0.000410">2.50856</period>
+			<radius errorminus="0.012" errorplus="0.012">0.102</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-463</name>
+	<rightascension>19 55 45</rightascension>
+	<declination>+44 51 28</declination>
+	<distance>336.0</distance>
+	<star>
+		<name>Kepler-463</name>
+		<radius>0.9</radius>
+		<mass>0.87</mass>
+		<temperature>5661.0</temperature>
+		<metallicity>-0.28</metallicity>
+		<planet>
+			<name>Kepler-463 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">8.98101683</period>
+			<radius errorminus="0.027" errorplus="0.038">0.272</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

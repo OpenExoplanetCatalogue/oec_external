@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-770</name>
+	<rightascension>19 05 58</rightascension>
+	<declination>+38 22 30</declination>
+	<distance>761.0</distance>
+	<star>
+		<name>Kepler-770</name>
+		<radius>0.92</radius>
+		<mass>0.94</mass>
+		<temperature>5598.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-770 b</name>
+			<period errorminus="0.000053" errorplus="0.000053">18.92540274</period>
+			<radius errorminus="0.015" errorplus="0.029">0.205</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-770 c</name>
+			<period errorminus="0.000004" errorplus="0.000004">1.47532231</period>
+			<radius errorminus="0.009" errorplus="0.017">0.107</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-770 d</name>
+			<period errorminus="0.000017" errorplus="0.000017">4.15244722</period>
+			<radius errorminus="0.01" errorplus="0.017">0.125</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

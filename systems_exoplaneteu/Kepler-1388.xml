@@ -1,0 +1,57 @@
+<system>
+	<name>Kepler-1388</name>
+	<rightascension>18 53 21</rightascension>
+	<declination>+47 10 28</declination>
+	<distance>492.0</distance>
+	<star>
+		<name>Kepler-1388</name>
+		<radius>0.61</radius>
+		<mass>0.63</mass>
+		<temperature>4098.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1388 b</name>
+			<period errorminus="0.000088" errorplus="0.000088">12.2854603</period>
+			<radius errorminus="0.012" errorplus="0.012">0.231</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1388 c</name>
+			<period errorminus="0.000029" errorplus="0.000029">5.53608151</period>
+			<radius errorminus="0.01" errorplus="0.012">0.202</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1388 d</name>
+			<period errorminus="0.000171" errorplus="0.000171">20.9568158</period>
+			<radius errorminus="0.017" errorplus="0.011">0.255</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1388 e</name>
+			<period errorminus="0.000727" errorplus="0.000727">37.6327084</period>
+			<radius errorminus="0.013" errorplus="0.012">0.219</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

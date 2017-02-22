@@ -1,0 +1,29 @@
+<system>
+	<name>HATS-3</name>
+	<rightascension>20 49 50</rightascension>
+	<declination>-24 34 16</declination>
+	<distance>453.0</distance>
+	<star>
+		<name>HATS-3</name>
+		<age>3.2</age>
+		<radius>1.404</radius>
+		<mass>1.209</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6351.0</temperature>
+		<metallicity>-0.157</metallicity>
+		<planet>
+			<name>HATS-3 b</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0004">0.0485</semimajoraxis>
+			<longitude errorminus="25.0" errorplus="25.0">3.0</longitude>
+			<period errorminus="0.000005" errorplus="0.000005">3.547851</period>
+			<mass errorminus="0.136" errorplus="0.136">1.071</mass>
+			<radius errorminus="0.035" errorplus="0.035">1.381</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/07/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

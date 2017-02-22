@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1481</name>
+	<rightascension>19 17 45</rightascension>
+	<declination>+49 43 52</declination>
+	<distance>493.0</distance>
+	<star>
+		<name>Kepler-1481</name>
+		<radius>0.75</radius>
+		<mass>0.8</mass>
+		<temperature>4908.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1481 b</name>
+			<period errorminus="0.000023" errorplus="0.000023">5.94220998</period>
+			<radius errorminus="0.005" errorplus="0.007">0.11</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

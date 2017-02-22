@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-509</name>
+	<rightascension>19 18 39</rightascension>
+	<declination>+48 42 22</declination>
+	<distance>339.0</distance>
+	<star>
+		<name>Kepler-509</name>
+		<radius>1.2</radius>
+		<mass>1.1</mass>
+		<temperature>6060.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-509 b</name>
+			<period errorminus="0.000044" errorplus="0.000044">41.74600392</period>
+			<radius errorminus="0.005" errorplus="0.005">0.222</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

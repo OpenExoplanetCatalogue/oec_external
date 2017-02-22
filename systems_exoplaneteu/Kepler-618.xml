@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-618</name>
+	<rightascension>19 04 60</rightascension>
+	<declination>+48 03 39</declination>
+	<distance>1115.0</distance>
+	<star>
+		<name>Kepler-618</name>
+		<radius>1.08</radius>
+		<mass>1.05</mass>
+		<temperature>5860.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-618 b</name>
+			<period errorminus="0.000009" errorplus="0.000009">3.59576964</period>
+			<radius errorminus="0.037" errorplus="0.07">0.232</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

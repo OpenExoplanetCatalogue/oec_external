@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-356</name>
+	<rightascension>19 29 41</rightascension>
+	<declination>+37 40 58</declination>
+	<star>
+		<name>Kepler-356</name>
+		<radius>1.33</radius>
+		<mass>0.97</mass>
+		<temperature>6133.0</temperature>
+		<metallicity>-0.325</metallicity>
+		<planet>
+			<name>Kepler-356 b</name>
+			<semimajoraxis>0.057</semimajoraxis>
+			<period errorminus="0.000021" errorplus="0.000021">4.612696</period>
+			<radius errorminus="0.026" errorplus="0.026">0.14</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-356 c</name>
+			<semimajoraxis>0.115</semimajoraxis>
+			<period errorminus="0.000088" errorplus="0.000088">13.121632</period>
+			<radius errorminus="0.029" errorplus="0.029">0.161</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

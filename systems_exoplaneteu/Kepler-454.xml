@@ -1,0 +1,41 @@
+<system>
+	<name>Kepler-454</name>
+	<rightascension>19 09 55</rightascension>
+	<declination>+38 13 44</declination>
+	<star>
+		<name>Kepler-454</name>
+		<age>5.25</age>
+		<radius>1.066</radius>
+		<mass>1.028</mass>
+		<temperature>5687.0</temperature>
+		<metallicity>0.32</metallicity>
+		<planet>
+			<name>Kepler-454 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0954</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">87.09</inclination>
+			<period errorminus="0.000008" errorplus="0.000008">10.57375339</period>
+			<mass errorminus="0.00441" errorplus="0.00441">0.0215</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-454 c</name>
+			<semimajoraxis errorminus="0.0166" errorplus="0.0166">1.286</semimajoraxis>
+			<periastron errorminus="17.4" errorplus="17.4">337.4</periastron>
+			<eccentricity errorminus="0.008" errorplus="0.008">0.021</eccentricity>
+			<period errorminus="0.700000" errorplus="0.700000">523.9</period>
+			<mass errorminus="0.12" errorplus="0.12">4.46</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

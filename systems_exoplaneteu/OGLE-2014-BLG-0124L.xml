@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2014-BLG-0124L</name>
+	<rightascension>18 02 29</rightascension>
+	<declination>-28 36 13</declination>
+	<distance>4100.0</distance>
+	<star>
+		<name>OGLE-2014-BLG-0124L</name>
+		<mass>0.71</mass>
+		<planet>
+			<name>OGLE-2014-BLG-0124L b</name>
+			<semimajoraxis>3.1</semimajoraxis>
+			<mass>0.5</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

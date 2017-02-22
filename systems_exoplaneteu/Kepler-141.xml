@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-141</name>
+	<rightascension>19 51 53</rightascension>
+	<declination>+47 43 54</declination>
+	<star>
+		<name>Kepler-141</name>
+		<radius>0.79</radius>
+		<mass>1.0</mass>
+		<temperature>4910.0</temperature>
+		<metallicity>0.538</metallicity>
+		<planet>
+			<name>Kepler-141 b</name>
+			<semimajoraxis>0.039</semimajoraxis>
+			<period errorminus="0.000022" errorplus="0.000022">3.107675</period>
+			<radius errorminus="0.004" errorplus="0.004">0.062</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-141 c</name>
+			<semimajoraxis>0.067</semimajoraxis>
+			<period errorminus="0.000020" errorplus="0.000020">7.010606</period>
+			<radius errorminus="0.008" errorplus="0.008">0.126</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>BD-10 3166</name>
+	<rightascension>10 58 28</rightascension>
+	<declination>-10 13 47</declination>
+	<distance>66.0</distance>
+	<star>
+		<name>BD-10 3166</name>
+		<age>4.18</age>
+		<radius>1.71</radius>
+		<mass>0.99</mass>
+		<spectraltype>G4 V</spectraltype>
+		<temperature>5400.0</temperature>
+		<metallicity>0.5</metallicity>
+		<planet>
+			<name>BD-10 3166 b</name>
+			<semimajoraxis>0.046</semimajoraxis>
+			<periastron errorminus="83.9" errorplus="83.9">345.4</periastron>
+			<eccentricity errorminus="0.0192" errorplus="0.0104">0.0104</eccentricity>
+			<period errorminus="0.000100" errorplus="0.000100">3.4878</period>
+			<mass>0.46</mass>
+			<radius>1.03</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>15/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

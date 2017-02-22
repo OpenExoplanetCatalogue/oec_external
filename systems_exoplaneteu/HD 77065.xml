@@ -1,0 +1,26 @@
+<system>
+	<name>HD 77065</name>
+	<rightascension>09 00 47</rightascension>
+	<declination>+21 27 13</declination>
+	<distance>31.7</distance>
+	<star>
+		<name>HD 77065</name>
+		<mass>0.75</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>4990.0</temperature>
+		<metallicity>-0.51</metallicity>
+		<planet>
+			<name>HD 77065 b</name>
+			<semimajoraxis errorminus="0.013" errorplus="0.013">0.438</semimajoraxis>
+			<periastron errorminus="0.065" errorplus="0.065">105.972</periastron>
+			<eccentricity errorminus="0.00036" errorplus="0.00036">0.69397</eccentricity>
+			<period errorminus="0.002700" errorplus="0.002700">119.1135</period>
+			<mass errorminus="2.0" errorplus="2.0">41.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

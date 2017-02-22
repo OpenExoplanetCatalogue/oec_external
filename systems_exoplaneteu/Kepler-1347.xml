@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1347</name>
+	<rightascension>19 58 38</rightascension>
+	<declination>+40 50 38</declination>
+	<distance>321.0</distance>
+	<star>
+		<name>Kepler-1347</name>
+		<radius>0.79</radius>
+		<mass>0.82</mass>
+		<temperature>5193.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>Kepler-1347 b</name>
+			<period errorminus="0.000070" errorplus="0.000070">14.00947528</period>
+			<radius errorminus="0.004" errorplus="0.005">0.092</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

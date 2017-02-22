@@ -1,0 +1,22 @@
+<system>
+	<name>PSR J2241-5236</name>
+	<rightascension>22 41 42</rightascension>
+	<declination>-52 23 24</declination>
+	<distance>500.0</distance>
+	<star>
+		<name>PSR J2241-5236</name>
+		<age>5.22</age>
+		<mass>1.35</mass>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR J2241-5236 b</name>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.000000" errorplus="0.000000">0.1456722395</period>
+			<mass>12.0</mass>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/10/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

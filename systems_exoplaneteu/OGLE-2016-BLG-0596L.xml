@@ -1,0 +1,16 @@
+<system>
+	<name>OGLE-2016-BLG-0596L</name>
+	<rightascension>17 51 13</rightascension>
+	<declination>-30 09 01</declination>
+	<star>
+		<name>OGLE-2016-BLG-0596L</name>
+		<planet>
+			<name>OGLE-2016-BLG-596L b</name>
+			<mass>12.2</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/07/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1580</name>
+	<rightascension>19 03 52</rightascension>
+	<declination>+41 21 49</declination>
+	<distance>872.0</distance>
+	<star>
+		<name>Kepler-1580</name>
+		<radius>2.15</radius>
+		<mass>1.47</mass>
+		<temperature>6228.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>Kepler-1580 b</name>
+			<period errorminus="0.000852" errorplus="0.000852">56.6449279</period>
+			<radius errorminus="0.028" errorplus="0.027">0.188</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

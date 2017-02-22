@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-382</name>
+	<rightascension>19 56 33</rightascension>
+	<declination>+45 52 12</declination>
+	<star>
+		<name>Kepler-382</name>
+		<radius>0.94</radius>
+		<mass>0.8</mass>
+		<temperature>5600.0</temperature>
+		<metallicity>-0.314</metallicity>
+		<planet>
+			<name>Kepler-382 b</name>
+			<semimajoraxis>0.055</semimajoraxis>
+			<period errorminus="0.000047" errorplus="0.000047">5.262155</period>
+			<radius errorminus="0.056" errorplus="0.056">0.118</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-382 c</name>
+			<semimajoraxis>0.097</semimajoraxis>
+			<period errorminus="0.000109" errorplus="0.000109">12.162701</period>
+			<radius errorminus="0.069" errorplus="0.069">0.142</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

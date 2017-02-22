@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-634</name>
+	<rightascension>19 24 47</rightascension>
+	<declination>+40 42 10</declination>
+	<distance>757.0</distance>
+	<star>
+		<name>Kepler-634</name>
+		<radius>1.24</radius>
+		<mass>1.03</mass>
+		<temperature>6075.0</temperature>
+		<metallicity>-0.18</metallicity>
+		<planet>
+			<name>Kepler-634 b</name>
+			<period errorminus="0.000010" errorplus="0.000010">5.16950177</period>
+			<radius errorminus="0.022" errorplus="0.027">0.169</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

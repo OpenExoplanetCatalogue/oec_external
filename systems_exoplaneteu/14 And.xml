@@ -1,0 +1,26 @@
+<system>
+	<name>14 And</name>
+	<rightascension>23 31 17</rightascension>
+	<declination>+39 14 10</declination>
+	<distance>76.4</distance>
+	<star>
+		<name>14 And</name>
+		<radius>11.0</radius>
+		<mass>2.2</mass>
+		<spectraltype>K0III</spectraltype>
+		<temperature>4813.0</temperature>
+		<metallicity>-0.24</metallicity>
+		<planet>
+			<name>14 And b</name>
+			<semimajoraxis>0.83</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.230000" errorplus="0.230000">185.84</period>
+			<mass errorminus="0.57" errorplus="0.57">5.33</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-40</name>
+	<rightascension>19 47 15</rightascension>
+	<declination>+47 31 36</declination>
+	<distance>2700.0</distance>
+	<star>
+		<name>Kepler-40</name>
+		<age>2.8</age>
+		<radius>2.13</radius>
+		<mass>1.48</mass>
+		<spectraltype>F5IV</spectraltype>
+		<temperature>6510.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>Kepler-40 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.08</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.1">89.7</inclination>
+			<period errorminus="0.000640" errorplus="0.000640">6.87349</period>
+			<mass errorminus="0.4" errorplus="0.4">2.2</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

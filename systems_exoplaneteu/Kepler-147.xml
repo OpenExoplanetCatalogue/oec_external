@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-147</name>
+	<rightascension>19 11 54</rightascension>
+	<declination>+39 05 14</declination>
+	<star>
+		<name>Kepler-147</name>
+		<radius>1.47</radius>
+		<mass>1.01</mass>
+		<temperature>6012.0</temperature>
+		<metallicity>0.078</metallicity>
+		<planet>
+			<name>Kepler-147 b</name>
+			<semimajoraxis>0.113</semimajoraxis>
+			<period errorminus="0.000228" errorplus="0.000228">12.610584</period>
+			<radius errorminus="0.028" errorplus="0.028">0.136</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-147 c</name>
+			<semimajoraxis>0.216</semimajoraxis>
+			<period errorminus="0.000416" errorplus="0.000416">33.416423</period>
+			<radius errorminus="0.044" errorplus="0.044">0.217</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

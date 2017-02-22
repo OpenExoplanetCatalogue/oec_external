@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1195</name>
+	<rightascension>18 57 24</rightascension>
+	<declination>+40 51 11</declination>
+	<distance>812.0</distance>
+	<star>
+		<name>Kepler-1195</name>
+		<radius>0.71</radius>
+		<mass>0.74</mass>
+		<temperature>4965.0</temperature>
+		<metallicity>-0.25</metallicity>
+		<planet>
+			<name>Kepler-1195 b</name>
+			<period errorminus="0.000029" errorplus="0.000029">8.49642241</period>
+			<radius errorminus="0.015" errorplus="0.017">0.186</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

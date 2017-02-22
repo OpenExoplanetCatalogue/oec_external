@@ -1,0 +1,29 @@
+<system>
+	<name>HATS-14</name>
+	<rightascension>20 52 52</rightascension>
+	<declination>-25 18 46</declination>
+	<distance>513.0</distance>
+	<star>
+		<name>HATS-14</name>
+		<age>4.9</age>
+		<radius>0.933</radius>
+		<mass>0.967</mass>
+		<temperature>5346.0</temperature>
+		<metallicity>0.33</metallicity>
+		<planet>
+			<name>HATS-14 b</name>
+			<semimajoraxis errorminus="0.00032" errorplus="0.00032">0.03815</semimajoraxis>
+			<eccentricity errorminus="0.142" errorplus="0.0">0.142</eccentricity>
+			<inclination errorminus="0.66" errorplus="0.66">88.83</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">2.7667641</period>
+			<mass errorminus="0.07018" errorplus="0.07036">1.071</mass>
+			<radius errorminus="0.0022" errorplus="0.0032">1.039</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

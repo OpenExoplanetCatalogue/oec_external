@@ -1,0 +1,43 @@
+<system>
+	<name>Kepler-418</name>
+	<rightascension>19 37 44</rightascension>
+	<declination>+38 21 20</declination>
+	<star>
+		<name>Kepler-418</name>
+		<age>7.0</age>
+		<radius>1.094</radius>
+		<mass>0.98</mass>
+		<temperature>5820.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>KOI-1089.02</name>
+			<periastron errorminus="0.55" errorplus="0.55">3.48</periastron>
+			<eccentricity errorminus="0.0" errorplus="0.5">0.5</eccentricity>
+			<inclination errorminus="0.44" errorplus="0.44">87.6</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">12.21826</period>
+			<mass errorminus="0.0" errorplus="0.64">0.64</mass>
+			<radius errorminus="0.083" errorplus="0.083">0.625</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-418 b</name>
+			<periastron errorminus="0.41" errorplus="0.41">4.35</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.2</eccentricity>
+			<inclination errorminus="0.041" errorplus="0.041">89.952</inclination>
+			<period errorminus="0.000070" errorplus="0.000070">86.67865</period>
+			<mass errorminus="0.0" errorplus="1.1">1.1</mass>
+			<radius errorminus="0.16" errorplus="0.16">1.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

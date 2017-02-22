@@ -1,0 +1,27 @@
+<system>
+	<name>HD 85512</name>
+	<rightascension>09 51 07</rightascension>
+	<declination>-43 29 50</declination>
+	<distance>11.15</distance>
+	<star>
+		<name>HD 85512</name>
+		<age>5.61</age>
+		<mass>0.69</mass>
+		<spectraltype>K5V</spectraltype>
+		<temperature>4715.0</temperature>
+		<metallicity>-0.33</metallicity>
+		<planet>
+			<name>HD 85512 b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.26</semimajoraxis>
+			<periastron errorminus="0.58" errorplus="0.58">178.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.11</eccentricity>
+			<period errorminus="0.130000" errorplus="0.130000">58.43</period>
+			<mass errorminus="0.0016" errorplus="0.0016">0.011</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

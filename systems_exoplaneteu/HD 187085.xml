@@ -1,0 +1,27 @@
+<system>
+	<name>HD 187085</name>
+	<rightascension>19 49 33</rightascension>
+	<declination>-37 13 10</declination>
+	<distance>44.98</distance>
+	<star>
+		<name>HD 187085</name>
+		<age>3.3</age>
+		<mass>1.22</mass>
+		<spectraltype>G0 V</spectraltype>
+		<temperature>6075.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HD 187085 b</name>
+			<semimajoraxis>2.05</semimajoraxis>
+			<periastron>94.0</periastron>
+			<eccentricity>0.47</eccentricity>
+			<period>986.0</period>
+			<mass>0.75</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>10/12/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

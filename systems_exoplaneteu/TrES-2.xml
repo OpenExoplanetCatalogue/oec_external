@@ -1,0 +1,30 @@
+<system>
+	<name>TrES-2</name>
+	<rightascension>19 07 14</rightascension>
+	<declination>+49 18 59</declination>
+	<distance>220.0</distance>
+	<star>
+		<name>TrES-2</name>
+		<age>5.1</age>
+		<radius>1.0</radius>
+		<mass>0.98</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>5850.0</temperature>
+		<metallicity>-0.15</metallicity>
+		<planet>
+			<name>TrES-2</name>
+			<semimajoraxis errorminus="0.00075" errorplus="0.00075">0.03555</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.009" errorplus="0.009">83.908</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">2.4706133738</period>
+			<mass errorminus="0.052" errorplus="0.052">1.253</mass>
+			<radius errorminus="0.025" errorplus="0.025">1.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>14/09/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

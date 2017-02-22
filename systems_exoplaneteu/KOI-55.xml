@@ -1,0 +1,40 @@
+<system>
+	<name>KOI-55</name>
+	<rightascension>19 45 25</rightascension>
+	<declination>+41 05 34</declination>
+	<distance>1180.0</distance>
+	<star>
+		<name>KOI-55</name>
+		<age>0.0184</age>
+		<radius>0.203</radius>
+		<mass>0.496</mass>
+		<spectraltype>sdB</spectraltype>
+		<temperature>27730.0</temperature>
+		<planet>
+			<name>Kepler-70  b</name>
+			<semimajoraxis>0.006</semimajoraxis>
+			<period errorminus="0.000004" errorplus="0.000004">0.2401</period>
+			<mass>0.014</mass>
+			<radius>0.068</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-70 c</name>
+			<semimajoraxis>0.0076</semimajoraxis>
+			<period errorminus="0.000013" errorplus="0.000013">0.34289</period>
+			<mass>0.0021</mass>
+			<radius>0.078</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-826</name>
+	<rightascension>18 59 26</rightascension>
+	<declination>+39 14 26</declination>
+	<distance>649.0</distance>
+	<star>
+		<name>Kepler-826</name>
+		<radius>1.15</radius>
+		<mass>1.05</mass>
+		<temperature>6079.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>Kepler-826 b</name>
+			<period errorminus="0.000017" errorplus="0.000017">4.48758907</period>
+			<radius errorminus="0.012" errorplus="0.018">0.112</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

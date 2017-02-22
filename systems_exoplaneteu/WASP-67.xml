@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-67</name>
+	<rightascension>19 42 59</rightascension>
+	<declination>-19 03 02</declination>
+	<distance>225.0</distance>
+	<star>
+		<name>WASP-67</name>
+		<radius>0.87</radius>
+		<mass>0.87</mass>
+		<spectraltype>kov</spectraltype>
+		<temperature>5200.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>WASP-67 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0517</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.4">85.8</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">4.61442</period>
+			<mass errorminus="0.04" errorplus="0.04">0.42</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.4</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/04/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

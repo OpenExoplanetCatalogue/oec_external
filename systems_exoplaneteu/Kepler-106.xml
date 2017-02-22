@@ -1,0 +1,61 @@
+<system>
+	<name>Kepler-106</name>
+	<rightascension>20 03 27</rightascension>
+	<declination>+44 20 15</declination>
+	<star>
+		<name>Kepler-106</name>
+		<age>4.83</age>
+		<radius>1.04</radius>
+		<mass>1.0</mass>
+		<temperature>5858.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>Kepler-106 b</name>
+			<period>6.16486</period>
+			<mass errorminus="0.0088" errorplus="0.0088">0.00047</mass>
+			<radius errorminus="0.01" errorplus="0.01">0.073</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-106 c</name>
+			<period>13.5708</period>
+			<mass errorminus="0.01" errorplus="0.01">0.03285</mass>
+			<radius errorminus="0.029" errorplus="0.029">0.223</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-106 d</name>
+			<period>23.9802</period>
+			<mass errorminus="0.025" errorplus="0.0">0.025</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.085</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-106 e</name>
+			<period>43.8445</period>
+			<mass errorminus="0.018" errorplus="0.018">0.03514</mass>
+			<radius errorminus="0.029" errorplus="0.029">0.228</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

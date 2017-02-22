@@ -1,0 +1,27 @@
+<system>
+	<name>GJ 179</name>
+	<rightascension>04 52 06</rightascension>
+	<declination>+06 28 36</declination>
+	<distance>12.3</distance>
+	<star>
+		<name>GJ 179</name>
+		<radius>0.38</radius>
+		<mass>0.357</mass>
+		<spectraltype>M3.5</spectraltype>
+		<temperature>3370.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>GJ 179 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.41</semimajoraxis>
+			<periastron errorminus="24.0" errorplus="24.0">153.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.21</eccentricity>
+			<period errorminus="59.000000" errorplus="59.000000">2288.0</period>
+			<mass errorminus="0.07" errorplus="0.07">0.82</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

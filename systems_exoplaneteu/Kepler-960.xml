@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-960</name>
+	<rightascension>18 45 50</rightascension>
+	<declination>+46 44 47</declination>
+	<distance>298.0</distance>
+	<star>
+		<name>Kepler-960</name>
+		<radius>0.72</radius>
+		<mass>0.77</mass>
+		<temperature>4755.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-960 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">3.12686223</period>
+			<radius errorminus="0.022" errorplus="0.006">0.204</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

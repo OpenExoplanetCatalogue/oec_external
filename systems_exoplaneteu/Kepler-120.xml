@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-120</name>
+	<rightascension>19 11 34</rightascension>
+	<declination>+39 20 21</declination>
+	<star>
+		<name>Kepler-120</name>
+		<radius>0.53</radius>
+		<temperature>4096.0</temperature>
+		<metallicity>-0.449</metallicity>
+		<planet>
+			<name>Kepler-120 b</name>
+			<semimajoraxis>0.055</semimajoraxis>
+			<period errorminus="0.000008" errorplus="0.000008">6.312501</period>
+			<radius errorminus="0.015" errorplus="0.015">0.192</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-120 c</name>
+			<semimajoraxis>0.088</semimajoraxis>
+			<period errorminus="0.000044" errorplus="0.000044">12.794585</period>
+			<radius errorminus="0.008" errorplus="0.008">0.136</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

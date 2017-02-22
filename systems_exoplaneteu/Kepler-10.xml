@@ -1,0 +1,45 @@
+<system>
+	<name>Kepler-10</name>
+	<rightascension>19 02 43</rightascension>
+	<declination>+50 14 29</declination>
+	<distance>173.0</distance>
+	<star>
+		<name>Kepler-10</name>
+		<age>10.6</age>
+		<radius>1.065</radius>
+		<mass>0.91</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5708.0</temperature>
+		<metallicity>-0.15</metallicity>
+		<planet>
+			<name>Kepler-10 b</name>
+			<semimajoraxis errorminus="0.00013" errorplus="0.00013">0.01685</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.16">0.06</eccentricity>
+			<inclination errorminus="3.9" errorplus="3.9">84.8</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">0.83749026</period>
+			<mass errorminus="0.00154170468489444" errorplus="0.00154170468489444">0.0104772991851</mass>
+			<radius errorminus="0.0023" errorplus="0.0023">0.1314</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-10 c</name>
+			<semimajoraxis errorminus="0.0019" errorplus="0.0019">0.241</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.2">0.05</eccentricity>
+			<inclination errorminus="0.43" errorplus="0.25">89.59</inclination>
+			<period errorminus="0.000048" errorplus="0.000048">45.294301</period>
+			<mass errorminus="0.00597923646649" errorplus="0.00598311191399">0.0541183663676</mass>
+			<radius errorminus="0.0025" errorplus="0.0025">0.2072</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-89</name>
+	<rightascension>20 55 36</rightascension>
+	<declination>-18 01 44</declination>
+	<star>
+		<name>WASP-89</name>
+		<age>1.3</age>
+		<radius>0.88</radius>
+		<mass>0.92</mass>
+		<spectraltype>K3</spectraltype>
+		<temperature>4955.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>WASP-89 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0427</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">28.0</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.193</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">89.4</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">3.3564227</period>
+			<mass errorminus="0.4" errorplus="0.4">5.9</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.04</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/04/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

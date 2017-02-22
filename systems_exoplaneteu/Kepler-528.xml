@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-528</name>
+	<rightascension>19 42 44</rightascension>
+	<declination>+47 44 53</declination>
+	<distance>711.0</distance>
+	<star>
+		<name>Kepler-528</name>
+		<radius>1.06</radius>
+		<mass>1.01</mass>
+		<temperature>5807.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-528 b</name>
+			<period errorminus="0.000065" errorplus="0.000065">19.78297415</period>
+			<radius errorminus="0.017" errorplus="0.026">0.186</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

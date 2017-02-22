@@ -1,0 +1,20 @@
+<system>
+	<name>MOA-2010-BLG-353L</name>
+	<rightascension>18 05 13</rightascension>
+	<declination>-27 42 24</declination>
+	<distance>6430.0</distance>
+	<star>
+		<name>MOA-2010-BLG-353L</name>
+		<mass>0.18</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>MOA-2010-BLG-353L b</name>
+			<semimajoraxis errorminus="0.48" errorplus="0.56">1.72</semimajoraxis>
+			<mass errorminus="0.16" errorplus="0.48">0.27</mass>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/10/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

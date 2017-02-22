@@ -1,0 +1,41 @@
+<system>
+	<name>HD 74156</name>
+	<rightascension>08 42 25</rightascension>
+	<declination>+04 34 41</declination>
+	<distance>64.56</distance>
+	<star>
+		<name>HD 74156</name>
+		<age>3.7</age>
+		<radius>1.64</radius>
+		<mass>1.24</mass>
+		<spectraltype>G1V</spectraltype>
+		<temperature>5960.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>HD 74156 b</name>
+			<semimajoraxis errorminus="0.0033" errorplus="0.0033">0.2916</semimajoraxis>
+			<periastron errorminus="0.92" errorplus="0.92">175.35</periastron>
+			<eccentricity errorminus="0.0061" errorplus="0.0061">0.638</eccentricity>
+			<period errorminus="0.001500" errorplus="0.001500">51.6385</period>
+			<mass errorminus="0.02" errorplus="0.02">1.778</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>16/01/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 74156 c</name>
+			<semimajoraxis errorminus="0.044" errorplus="0.044">3.82</semimajoraxis>
+			<periastron errorminus="1.6" errorplus="1.6">268.9</periastron>
+			<eccentricity errorminus="0.008" errorplus="0.008">0.3829</eccentricity>
+			<period errorminus="5.500000" errorplus="5.500000">2448.9</period>
+			<mass errorminus="0.095" errorplus="0.095">7.997</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>16/01/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

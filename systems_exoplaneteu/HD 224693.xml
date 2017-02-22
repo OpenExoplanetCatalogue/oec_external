@@ -1,0 +1,28 @@
+<system>
+	<name>HD 224693</name>
+	<rightascension>23 59 54</rightascension>
+	<declination>-22 34 19</declination>
+	<distance>94.0</distance>
+	<star>
+		<name>HD 224693</name>
+		<age>2.0</age>
+		<radius>1.7</radius>
+		<mass>1.33</mass>
+		<spectraltype>G2IV</spectraltype>
+		<temperature>6037.0</temperature>
+		<metallicity>0.343</metallicity>
+		<planet>
+			<name>HD 224693 b</name>
+			<semimajoraxis>0.233</semimajoraxis>
+			<periastron errorminus="200.0" errorplus="200.0">6.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.05</eccentricity>
+			<period errorminus="0.020000" errorplus="0.020000">26.73</period>
+			<mass>0.71</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>06/04/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

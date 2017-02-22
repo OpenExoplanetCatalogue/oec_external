@@ -1,0 +1,58 @@
+<system>
+	<name>Kepler-132</name>
+	<rightascension>18 52 57</rightascension>
+	<declination>+41 20 35</declination>
+	<star>
+		<name>Kepler-132</name>
+		<radius>1.18</radius>
+		<temperature>6003.0</temperature>
+		<metallicity>-0.053</metallicity>
+		<planet>
+			<name>Kepler-132 b</name>
+			<semimajoraxis>0.067</semimajoraxis>
+			<period errorminus="0.000022" errorplus="0.000022">6.178196</period>
+			<radius errorminus="0.021" errorplus="0.021">0.108</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-132 c</name>
+			<semimajoraxis>0.068</semimajoraxis>
+			<period errorminus="0.000019" errorplus="0.000019">6.414914</period>
+			<radius errorminus="0.022" errorplus="0.022">0.114</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-132 d</name>
+			<semimajoraxis>0.136</semimajoraxis>
+			<period errorminus="0.000067" errorplus="0.000067">18.010199</period>
+			<radius errorminus="0.027" errorplus="0.027">0.138</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-132 e</name>
+			<period errorminus="0.000878" errorplus="0.000878">110.2869374</period>
+			<radius errorminus="0.011" errorplus="0.014">0.105</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

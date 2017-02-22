@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1270</name>
+	<rightascension>19 06 52</rightascension>
+	<declination>+48 38 43</declination>
+	<distance>1204.0</distance>
+	<star>
+		<name>Kepler-1270</name>
+		<radius>3.38</radius>
+		<mass>1.28</mass>
+		<temperature>5047.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-1270 b</name>
+			<period errorminus="0.000066" errorplus="0.000066">6.03356196</period>
+			<radius errorminus="0.058" errorplus="0.027">0.296</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

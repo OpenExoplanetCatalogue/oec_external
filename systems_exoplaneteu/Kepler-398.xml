@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-398</name>
+	<rightascension>19 25 52</rightascension>
+	<declination>+40 20 38</declination>
+	<star>
+		<name>Kepler-398</name>
+		<radius>0.61</radius>
+		<temperature>4493.0</temperature>
+		<metallicity>-0.046</metallicity>
+		<planet>
+			<name>Kepler-398 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<period errorminus="0.000011" errorplus="0.000011">4.081423</period>
+			<radius errorminus="0.009" errorplus="0.009">0.083</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-398 c</name>
+			<semimajoraxis>0.087</semimajoraxis>
+			<period errorminus="0.000047" errorplus="0.000047">11.419412</period>
+			<radius errorminus="0.01" errorplus="0.01">0.09</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-398 d</name>
+			<period errorminus="0.000015" errorplus="0.000015">6.83437001</period>
+			<radius errorminus="0.004" errorplus="0.003">0.079</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

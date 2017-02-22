@@ -1,0 +1,26 @@
+<system>
+	<name>Ross 458 (AB)</name>
+	<rightascension>13 00 47</rightascension>
+	<declination>+12 22 33</declination>
+	<distance>11.7</distance>
+	<star>
+		<name>Ross 458 (AB)</name>
+		<age>0.475</age>
+		<mass>0.6</mass>
+		<spectraltype>M0.5</spectraltype>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Ross 458 (AB) c</name>
+			<semimajoraxis>1168.0</semimajoraxis>
+			<mass errorminus="4.5" errorplus="4.5">11.3</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.07</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>670.0</temperature>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

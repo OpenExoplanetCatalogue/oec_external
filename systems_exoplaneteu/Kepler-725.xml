@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-725</name>
+	<rightascension>18 55 55</rightascension>
+	<declination>+44 48 42</declination>
+	<distance>778.0</distance>
+	<star>
+		<name>Kepler-725</name>
+		<radius>0.84</radius>
+		<mass>0.88</mass>
+		<temperature>5363.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-725 b</name>
+			<period errorminus="0.000011" errorplus="0.000011">39.64317811</period>
+			<radius errorminus="0.053" errorplus="0.076">0.948</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

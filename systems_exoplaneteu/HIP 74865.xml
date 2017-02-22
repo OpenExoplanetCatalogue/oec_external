@@ -1,0 +1,23 @@
+<system>
+	<name>HIP 74865</name>
+	<rightascension>15 17 56</rightascension>
+	<declination>-30 31 19</declination>
+	<distance>115.0</distance>
+	<star>
+		<name>HIP 74865</name>
+		<age>0.015</age>
+		<mass>1.42</mass>
+		<spectraltype>F3V</spectraltype>
+		<temperature>6640.0</temperature>
+		<planet>
+			<name>HIP 74865 b</name>
+			<semimajoraxis errorminus="6.0" errorplus="6.0">23.0</semimajoraxis>
+			<mass errorminus="10.0" errorplus="37.0">28.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/05/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

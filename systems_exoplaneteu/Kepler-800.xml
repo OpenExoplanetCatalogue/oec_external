@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-800</name>
+	<rightascension>19 06 18</rightascension>
+	<declination>+44 47 43</declination>
+	<distance>1049.0</distance>
+	<star>
+		<name>Kepler-800</name>
+		<radius>0.82</radius>
+		<mass>0.85</mass>
+		<temperature>5315.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-800 b</name>
+			<period errorminus="0.000043" errorplus="0.000043">14.13176026</period>
+			<radius errorminus="0.023" errorplus="0.03">0.254</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

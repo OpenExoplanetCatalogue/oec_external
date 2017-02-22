@@ -1,0 +1,19 @@
+<system>
+	<name>PSR J0636</name>
+	<rightascension>06 36 00</rightascension>
+	<declination>+51 29 00</declination>
+	<star>
+		<name>PSR J0636</name>
+		<mass>1.4</mass>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR 0636 b</name>
+			<period>0.067</period>
+			<mass>8.0</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/10/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

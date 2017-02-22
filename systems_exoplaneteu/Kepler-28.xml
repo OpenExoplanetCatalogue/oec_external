@@ -1,0 +1,38 @@
+<system>
+	<name>Kepler-28</name>
+	<rightascension>19 28 33</rightascension>
+	<declination>+42 25 46</declination>
+	<star>
+		<name>Kepler-28</name>
+		<radius>0.7</radius>
+		<mass>0.75</mass>
+		<temperature>4590.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>Kepler-28 b</name>
+			<semimajoraxis>0.062</semimajoraxis>
+			<period>5.9123</period>
+			<mass errorminus="inf" errorplus="nan">1.51</mass>
+			<radius>0.32</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/01/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-28 c</name>
+			<semimajoraxis>0.081</semimajoraxis>
+			<period>8.9858</period>
+			<mass errorminus="inf" errorplus="nan">1.36</mass>
+			<radius>0.3</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/01/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

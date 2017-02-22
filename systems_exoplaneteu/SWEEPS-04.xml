@@ -1,0 +1,25 @@
+<system>
+	<name>SWEEPS-04</name>
+	<rightascension>17 58 54</rightascension>
+	<declination>-29 48 39</declination>
+	<distance>8500.0</distance>
+	<star>
+		<name>SWEEPS-04</name>
+		<radius>1.18</radius>
+		<mass>1.24</mass>
+		<planet>
+			<name>SWEEPS-04</name>
+			<semimajoraxis>0.055</semimajoraxis>
+			<inclination errorminus="nan" errorplus="inf">87.0</inclination>
+			<period>4.2</period>
+			<mass errorminus="inf" errorplus="nan">3.8</mass>
+			<radius errorminus="0.1" errorplus="0.1">0.81</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>07/11/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

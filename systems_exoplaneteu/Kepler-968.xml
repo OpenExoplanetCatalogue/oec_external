@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-968</name>
+	<rightascension>19 02 25</rightascension>
+	<declination>+50 06 43</declination>
+	<distance>312.0</distance>
+	<star>
+		<name>Kepler-968</name>
+		<radius>0.7</radius>
+		<mass>0.76</mass>
+		<temperature>4598.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>Kepler-968 b</name>
+			<period errorminus="0.000004" errorplus="0.000004">3.69298373</period>
+			<radius errorminus="0.007" errorplus="0.007">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-968 c</name>
+			<period errorminus="0.000010" errorplus="0.000010">5.70940492</period>
+			<radius errorminus="0.006" errorplus="0.007">0.151</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

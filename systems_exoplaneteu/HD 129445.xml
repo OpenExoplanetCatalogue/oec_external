@@ -1,0 +1,25 @@
+<system>
+	<name>HD 129445</name>
+	<rightascension>14 46 03</rightascension>
+	<declination>-68 14 15</declination>
+	<distance>67.61</distance>
+	<star>
+		<name>HD 129445</name>
+		<mass>0.99</mass>
+		<spectraltype>G8V</spectraltype>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HD 129445 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">2.9</semimajoraxis>
+			<periastron errorminus="15.0" errorplus="15.0">163.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.7</eccentricity>
+			<period errorminus="55.000000" errorplus="55.000000">1840.0</period>
+			<mass errorminus="0.6" errorplus="0.6">1.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

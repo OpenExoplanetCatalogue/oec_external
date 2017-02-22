@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1242</name>
+	<rightascension>18 58 25</rightascension>
+	<declination>+41 11 47</declination>
+	<distance>682.0</distance>
+	<star>
+		<name>Kepler-1242</name>
+		<radius>0.74</radius>
+		<mass>0.77</mass>
+		<temperature>4895.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-1242 b</name>
+			<period errorminus="0.000057" errorplus="0.000057">13.62798432</period>
+			<radius errorminus="0.012" errorplus="0.012">0.202</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

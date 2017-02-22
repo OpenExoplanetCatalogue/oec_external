@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-112</name>
+	<rightascension>22 37 57</rightascension>
+	<declination>-35 50 46</declination>
+	<distance>450.0</distance>
+	<star>
+		<name>WASP-112</name>
+		<age>10.6</age>
+		<radius>1.002</radius>
+		<mass>0.807</mass>
+		<spectraltype>G6</spectraltype>
+		<temperature>5610.0</temperature>
+		<metallicity>-0.64</metallicity>
+		<planet>
+			<name>WASP-112 b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0382</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.28" errorplus="0.28">88.68</inclination>
+			<period errorminus="0.000004" errorplus="0.000004">3.0353992</period>
+			<mass errorminus="0.12" errorplus="0.12">0.88</mass>
+			<radius errorminus="0.049" errorplus="0.049">1.191</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

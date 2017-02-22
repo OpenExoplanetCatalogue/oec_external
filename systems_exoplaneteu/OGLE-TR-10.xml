@@ -1,0 +1,30 @@
+<system>
+	<name>OGLE-TR-10</name>
+	<rightascension>17 51 28</rightascension>
+	<declination>-29 07 26</declination>
+	<distance>1500.0</distance>
+	<star>
+		<name>OGLE-TR-10</name>
+		<age>1.1</age>
+		<radius>1.16</radius>
+		<mass>1.18</mass>
+		<spectraltype>G or K</spectraltype>
+		<temperature>6075.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>OGLE-TR-10 b</name>
+			<semimajoraxis errorminus="4e-05" errorplus="4e-05">0.04162</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.6" errorplus="0.6">84.5</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">3.10129</period>
+			<mass errorminus="0.15" errorplus="0.15">0.68</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.72</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>14/08/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

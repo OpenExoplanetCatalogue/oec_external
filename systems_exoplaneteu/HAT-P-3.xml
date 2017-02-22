@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-3</name>
+	<rightascension>13 44 23</rightascension>
+	<declination>+48 01 43</declination>
+	<distance>130.0</distance>
+	<star>
+		<name>HAT-P-3</name>
+		<age>1.6</age>
+		<radius>0.799</radius>
+		<mass>0.917</mass>
+		<spectraltype>K</spectraltype>
+		<temperature>5224.0</temperature>
+		<metallicity>0.41</metallicity>
+		<planet>
+			<name>HAT-P-3 b</name>
+			<semimajoraxis errorminus="0.00041" errorplus="0.00041">0.03866</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.0">0.0</eccentricity>
+			<inclination errorminus="0.55" errorplus="0.55">87.07</inclination>
+			<period errorminus="0.000054" errorplus="0.000054">2.899703</period>
+			<mass errorminus="0.018" errorplus="0.018">0.591</mass>
+			<radius errorminus="0.055" errorplus="0.055">0.827</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>13/05/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

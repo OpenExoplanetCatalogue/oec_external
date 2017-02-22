@@ -1,0 +1,24 @@
+<system>
+	<name>KOI-771</name>
+	<rightascension>19 46 48</rightascension>
+	<declination>+49 18 59</declination>
+	<star>
+		<name>KOI-771</name>
+		<radius>0.94</radius>
+		<mass>0.95</mass>
+		<temperature>5520.0</temperature>
+		<metallicity>0.48</metallicity>
+		<planet>
+			<name>KOI-771 b</name>
+			<inclination errorminus="0.013" errorplus="0.013">89.535</inclination>
+			<period errorminus="0.010000" errorplus="0.010000">670.6502</period>
+			<radius errorminus="0.098" errorplus="0.098">1.23</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

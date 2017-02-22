@@ -1,0 +1,30 @@
+<system>
+	<name>HATS-8</name>
+	<rightascension>19 39 46</rightascension>
+	<declination>-25 15 06</declination>
+	<distance>829.0</distance>
+	<star>
+		<name>HATS-8</name>
+		<age>5.1</age>
+		<radius>1.086</radius>
+		<mass>1.056</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5679.0</temperature>
+		<metallicity>0.21</metallicity>
+		<planet>
+			<name>HATS-8 b</name>
+			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.04667</semimajoraxis>
+			<eccentricity errorminus="0.38" errorplus="0.0">0.38</eccentricity>
+			<inclination errorminus="1.8" errorplus="1.2">87.8</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">3.583893</period>
+			<mass errorminus="0.0191" errorplus="0.0193">0.138</mass>
+			<radius errorminus="0.075" errorplus="0.125">0.873</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/06/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

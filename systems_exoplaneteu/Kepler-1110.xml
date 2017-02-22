@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1110</name>
+	<rightascension>19 27 14</rightascension>
+	<declination>+38 37 22</declination>
+	<distance>726.0</distance>
+	<star>
+		<name>Kepler-1110</name>
+		<radius>0.7</radius>
+		<mass>0.73</mass>
+		<temperature>4781.0</temperature>
+		<metallicity>-0.16</metallicity>
+		<planet>
+			<name>Kepler-1110 b</name>
+			<period errorminus="0.000030" errorplus="0.000030">9.69312032</period>
+			<radius errorminus="0.023" errorplus="0.034">0.237</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

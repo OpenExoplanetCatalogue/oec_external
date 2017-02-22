@@ -1,0 +1,25 @@
+<system>
+	<name>YBP1514</name>
+	<rightascension>08 51 01</rightascension>
+	<declination>+11 53 12</declination>
+	<star>
+		<name>YBP1514</name>
+		<radius>0.89</radius>
+		<mass>0.96</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5725.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>YBP1514 b</name>
+			<periastron errorminus="16.05" errorplus="16.05">327.49</periastron>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.39</eccentricity>
+			<period errorminus="0.001000" errorplus="0.001000">5.118</period>
+			<mass errorminus="0.11" errorplus="0.11">0.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/01/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

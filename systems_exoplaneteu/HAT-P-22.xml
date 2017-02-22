@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-22</name>
+	<rightascension>10 22 44</rightascension>
+	<declination>+50 07 42</declination>
+	<distance>82.0</distance>
+	<star>
+		<name>HAT-P-22</name>
+		<age>12.4</age>
+		<radius>1.04</radius>
+		<mass>0.916</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5302.0</temperature>
+		<metallicity>0.24</metallicity>
+		<planet>
+			<name>HAT-P-22 b</name>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0414</semimajoraxis>
+			<periastron errorminus="66.0" errorplus="66.0">156.0</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.016</eccentricity>
+			<inclination errorminus="3.7" errorplus="3.7">73.6</inclination>
+			<period errorminus="0.000009" errorplus="0.000009">3.21222</period>
+			<mass errorminus="0.061" errorplus="0.061">2.147</mass>
+			<radius errorminus="0.058" errorplus="0.058">1.08</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/08/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

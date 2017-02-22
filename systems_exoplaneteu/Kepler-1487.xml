@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1487</name>
+	<rightascension>19 41 60</rightascension>
+	<declination>+38 38 40</declination>
+	<distance>1094.0</distance>
+	<star>
+		<name>Kepler-1487</name>
+		<radius>1.63</radius>
+		<mass>1.38</mass>
+		<temperature>6541.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1487 b</name>
+			<period errorminus="0.000047" errorplus="0.000047">7.31946363</period>
+			<radius errorminus="0.04" errorplus="0.076">0.19</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

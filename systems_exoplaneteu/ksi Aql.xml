@@ -1,0 +1,26 @@
+<system>
+	<name>ksi Aql</name>
+	<rightascension>19 54 15</rightascension>
+	<declination>+08 27 41</declination>
+	<distance>62.7</distance>
+	<star>
+		<name>ksi Aql</name>
+		<radius>12.0</radius>
+		<mass>2.2</mass>
+		<spectraltype>G9IIIb</spectraltype>
+		<temperature>4780.0</temperature>
+		<metallicity>-0.205</metallicity>
+		<planet>
+			<name>ksi Aql b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.02">0.58</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.250000" errorplus="0.250000">136.75</period>
+			<mass errorminus="0.2" errorplus="0.2">2.02</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>16/02/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

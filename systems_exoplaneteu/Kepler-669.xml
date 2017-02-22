@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-669</name>
+	<rightascension>19 27 45</rightascension>
+	<declination>+49 15 14</declination>
+	<distance>1778.0</distance>
+	<star>
+		<name>Kepler-669</name>
+		<radius>1.2</radius>
+		<mass>1.15</mass>
+		<temperature>6038.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>Kepler-669 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">4.12554687</period>
+			<radius errorminus="0.049" errorplus="0.114">0.431</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

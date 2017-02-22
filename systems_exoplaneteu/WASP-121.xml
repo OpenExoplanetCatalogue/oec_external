@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-121</name>
+	<rightascension>07 10 24</rightascension>
+	<declination>-39 54 09</declination>
+	<distance>270.0</distance>
+	<star>
+		<name>WASP-121</name>
+		<radius>1.458</radius>
+		<mass>1.353</mass>
+		<spectraltype>F6V</spectraltype>
+		<temperature>6460.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>WASP-121 b</name>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.02544</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<longitude errorminus="5.0" errorplus="5.0">107.2</longitude>
+			<inclination errorminus="0.6" errorplus="0.6">87.6</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">1.2749255</period>
+			<mass errorminus="0.06449" errorplus="0.06467">1.184</mass>
+			<radius errorminus="0.044" errorplus="0.044">1.865</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/04/11</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

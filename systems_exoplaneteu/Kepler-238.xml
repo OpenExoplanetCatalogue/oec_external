@@ -1,0 +1,72 @@
+<system>
+	<name>Kepler-238</name>
+	<rightascension>19 11 35</rightascension>
+	<declination>+40 38 16</declination>
+	<star>
+		<name>Kepler-238</name>
+		<radius>0.9</radius>
+		<mass>1.43</mass>
+		<temperature>5614.0</temperature>
+		<metallicity>0.143</metallicity>
+		<planet>
+			<name>Kepler-238 b</name>
+			<semimajoraxis>0.034</semimajoraxis>
+			<period errorminus="0.000020" errorplus="0.000020">2.090876</period>
+			<radius errorminus="0.036" errorplus="0.036">0.154</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-238 c</name>
+			<semimajoraxis>0.069</semimajoraxis>
+			<period errorminus="0.000050" errorplus="0.000050">6.155557</period>
+			<radius errorminus="0.04" errorplus="0.04">0.213</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-238 d</name>
+			<semimajoraxis>0.115</semimajoraxis>
+			<period errorminus="0.000081" errorplus="0.000081">13.233549</period>
+			<radius errorminus="0.051" errorplus="0.051">0.274</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-238 e</name>
+			<period>23.654</period>
+			<mass errorminus="3.54" errorplus="0.048">0.626</mass>
+			<radius errorminus="0.724" errorplus="0.501">0.501</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-238 f</name>
+			<period>50.447</period>
+			<mass errorminus="0.294" errorplus="0.0047">0.056</mass>
+			<radius errorminus="0.258" errorplus="0.179">0.179</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1567</name>
+	<rightascension>19 06 47</rightascension>
+	<declination>+40 17 31</declination>
+	<distance>1226.0</distance>
+	<star>
+		<name>Kepler-1567</name>
+		<radius>0.93</radius>
+		<mass>0.95</mass>
+		<temperature>5655.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-1567 b</name>
+			<period errorminus="0.001785" errorplus="0.001785">153.979578</period>
+			<radius errorminus="0.021" errorplus="0.036">0.244</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

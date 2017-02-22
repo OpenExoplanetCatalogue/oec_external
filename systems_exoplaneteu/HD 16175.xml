@@ -1,0 +1,28 @@
+<system>
+	<name>HD 16175</name>
+	<rightascension>02 37 02</rightascension>
+	<declination>+42 03 45</declination>
+	<distance>59.8</distance>
+	<star>
+		<name>HD 16175</name>
+		<age>5.3</age>
+		<radius>1.87</radius>
+		<mass>1.35</mass>
+		<spectraltype>G0</spectraltype>
+		<temperature>6022.0</temperature>
+		<metallicity>0.37</metallicity>
+		<planet>
+			<name>HD 16175 b</name>
+			<semimajoraxis errorminus="0.076" errorplus="0.076">2.148</semimajoraxis>
+			<periastron errorminus="2.2" errorplus="2.2">221.5</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.637</eccentricity>
+			<period errorminus="2.800000" errorplus="2.800000">995.4</period>
+			<mass errorminus="0.37" errorplus="0.37">4.77</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/04/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

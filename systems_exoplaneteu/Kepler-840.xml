@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-840</name>
+	<rightascension>19 46 02</rightascension>
+	<declination>+49 27 26</declination>
+	<distance>778.0</distance>
+	<star>
+		<name>Kepler-840</name>
+		<radius>1.06</radius>
+		<mass>1.04</mass>
+		<temperature>5920.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-840 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">2.49577962</period>
+			<radius errorminus="0.168" errorplus="0.346">1.523</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1233</name>
+	<rightascension>19 49 30</rightascension>
+	<declination>+46 39 44</declination>
+	<distance>1281.0</distance>
+	<star>
+		<name>Kepler-1233</name>
+		<radius>1.25</radius>
+		<mass>1.16</mass>
+		<temperature>6198.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1233 b</name>
+			<period errorminus="0.000517" errorplus="0.000517">45.1263042</period>
+			<radius errorminus="0.035" errorplus="0.096">0.232</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

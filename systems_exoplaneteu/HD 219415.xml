@@ -1,0 +1,24 @@
+<system>
+	<name>HD 219415</name>
+	<rightascension>23 14 54</rightascension>
+	<declination>+56 43 49</declination>
+	<star>
+		<name>HD 219415</name>
+		<radius>2.9</radius>
+		<mass>1.0</mass>
+		<spectraltype>K0III</spectraltype>
+		<temperature>4820.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>HD 219415 b</name>
+			<semimajoraxis>3.2</semimajoraxis>
+			<period errorminus="32.700000" errorplus="32.700000">2093.3</period>
+			<mass>1.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

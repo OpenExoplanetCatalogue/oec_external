@@ -1,0 +1,41 @@
+<system>
+	<name>HD 47366</name>
+	<rightascension>06 37 41</rightascension>
+	<declination>-12 00 54</declination>
+	<distance>80.0</distance>
+	<star>
+		<name>HD 47366</name>
+		<age>1.61</age>
+		<radius>7.3</radius>
+		<mass>1.81</mass>
+		<spectraltype>K1III</spectraltype>
+		<temperature>4866.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>HD 47366 b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.214</semimajoraxis>
+			<periastron errorminus="71.0" errorplus="100.0">100.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.079">0.089</eccentricity>
+			<period errorminus="2.500000" errorplus="2.500000">363.3</period>
+			<mass errorminus="0.2" errorplus="0.2">1.75</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/01/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 47366 c</name>
+			<semimajoraxis errorminus="0.045" errorplus="0.045">1.853</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="17.0">132.0</periastron>
+			<eccentricity errorminus="0.064" errorplus="0.067">0.278</eccentricity>
+			<period errorminus="5.000000" errorplus="5.000000">684.7</period>
+			<mass errorminus="0.16" errorplus="0.16">1.86</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/01/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

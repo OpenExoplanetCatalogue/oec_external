@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1165</name>
+	<rightascension>19 07 53</rightascension>
+	<declination>+44 42 30</declination>
+	<distance>1081.0</distance>
+	<star>
+		<name>Kepler-1165</name>
+		<radius>1.18</radius>
+		<mass>1.13</mass>
+		<temperature>6080.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-1165 b</name>
+			<period errorminus="0.000059" errorplus="0.000059">9.478522</period>
+			<radius errorminus="0.017" errorplus="0.045">0.138</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

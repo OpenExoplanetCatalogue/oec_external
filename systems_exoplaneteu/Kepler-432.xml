@@ -1,0 +1,44 @@
+<system>
+	<name>Kepler-432</name>
+	<rightascension>19 33 08</rightascension>
+	<declination>+48 17 09</declination>
+	<distance>874.0</distance>
+	<star>
+		<name>Kepler-432</name>
+		<age>3.6</age>
+		<radius>4.15</radius>
+		<mass>1.35</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>5020.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>KOI-1299 c</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.04">1.188</semimajoraxis>
+			<periastron errorminus="9.0" errorplus="9.0">53.2</periastron>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.64</eccentricity>
+			<period errorminus="0.900000" errorplus="3.200000">411.0</period>
+			<mass errorminus="0.4" errorplus="0.4">2.63</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/11/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-432 b</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.011">0.301</semimajoraxis>
+			<periastron errorminus="1.8" errorplus="1.8">65.6</periastron>
+			<eccentricity errorminus="0.0084" errorplus="0.0107">0.5121</eccentricity>
+			<inclination errorminus="0.61" errorplus="0.33">88.17</inclination>
+			<period errorminus="0.000070" errorplus="0.000107">52.501134</period>
+			<mass errorminus="0.301" errorplus="0.192">5.41</mass>
+			<radius errorminus="0.039" errorplus="0.039">1.45</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/12/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

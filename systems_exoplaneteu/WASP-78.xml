@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-78</name>
+	<rightascension>04 15 02</rightascension>
+	<declination>-22 53 01</declination>
+	<distance>550.0</distance>
+	<star>
+		<name>WASP-78</name>
+		<radius>2.31</radius>
+		<mass>2.02</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>6100.0</temperature>
+		<metallicity>-0.35</metallicity>
+		<planet>
+			<name>WASP-78 b</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0415</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">89.0</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">2.17517656</period>
+			<mass errorminus="0.1" errorplus="0.1">1.16</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.75</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/06/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1626</name>
+	<rightascension>19 46 00</rightascension>
+	<declination>+40 43 16</declination>
+	<distance>1718.0</distance>
+	<star>
+		<name>Kepler-1626</name>
+		<radius>1.85</radius>
+		<mass>1.51</mass>
+		<temperature>6826.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1626 b</name>
+			<period errorminus="0.000029" errorplus="0.000029">4.13962966</period>
+			<radius errorminus="0.038" errorplus="0.059">0.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

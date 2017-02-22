@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1108</name>
+	<rightascension>19 44 10</rightascension>
+	<declination>+45 59 07</declination>
+	<distance>764.0</distance>
+	<star>
+		<name>Kepler-1108</name>
+		<radius>0.84</radius>
+		<mass>0.88</mass>
+		<temperature>5406.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-1108 b</name>
+			<period errorminus="0.000013" errorplus="0.000013">4.51005748</period>
+			<radius errorminus="0.01" errorplus="0.012">0.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1359</name>
+	<rightascension>19 18 09</rightascension>
+	<declination>+41 53 34</declination>
+	<distance>669.0</distance>
+	<star>
+		<name>Kepler-1359</name>
+		<radius>0.72</radius>
+		<mass>0.78</mass>
+		<temperature>4709.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>Kepler-1359 b</name>
+			<period errorminus="0.000505" errorplus="0.000505">59.4970952</period>
+			<radius errorminus="0.029" errorplus="0.04">0.252</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>HD 156668</name>
+	<rightascension>17 17 40</rightascension>
+	<declination>+29 13 38</declination>
+	<distance>24.5</distance>
+	<star>
+		<name>HD 156668</name>
+		<age>8.6</age>
+		<radius>0.72</radius>
+		<mass>0.772</mass>
+		<spectraltype>K3V</spectraltype>
+		<temperature>4850.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HD 156668 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.05</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.001100" errorplus="0.001100">4.646</period>
+			<mass errorminus="0.0018" errorplus="0.0018">0.0131</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

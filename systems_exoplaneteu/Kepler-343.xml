@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-343</name>
+	<rightascension>19 27 51</rightascension>
+	<declination>+42 25 59</declination>
+	<star>
+		<name>Kepler-343</name>
+		<radius>1.43</radius>
+		<mass>1.04</mass>
+		<temperature>5807.0</temperature>
+		<metallicity>-0.138</metallicity>
+		<planet>
+			<name>Kepler-343 b</name>
+			<semimajoraxis>0.088</semimajoraxis>
+			<period errorminus="0.000058" errorplus="0.000058">8.96855</period>
+			<radius errorminus="0.045" errorplus="0.045">0.215</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-343 c</name>
+			<semimajoraxis>0.167</semimajoraxis>
+			<period errorminus="0.000234" errorplus="0.000234">23.22182</period>
+			<radius errorminus="0.034" errorplus="0.034">0.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

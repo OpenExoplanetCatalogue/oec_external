@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-560</name>
+	<rightascension>20 00 49</rightascension>
+	<declination>+45 01 05</declination>
+	<distance>88.0</distance>
+	<star>
+		<name>Kepler-560</name>
+		<radius>0.33</radius>
+		<mass>0.34</mass>
+		<temperature>3556.0</temperature>
+		<metallicity>-0.39</metallicity>
+		<planet>
+			<name>Kepler-560 b</name>
+			<period errorminus="0.000015" errorplus="0.000015">18.47764449</period>
+			<radius errorminus="0.008" errorplus="0.008">0.153</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

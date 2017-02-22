@@ -1,0 +1,65 @@
+<system>
+	<name>GJ 676 A</name>
+	<rightascension>17 30 11</rightascension>
+	<declination>-51 21 47</declination>
+	<distance>16.45</distance>
+	<star>
+		<name>GJ 676 A</name>
+		<mass>0.71</mass>
+		<spectraltype>M0V</spectraltype>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>GJ 676 A b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.002">1.812</semimajoraxis>
+			<periastron errorminus="0.4" errorplus="0.4">87.4</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.323</eccentricity>
+			<inclination errorminus="11.0" errorplus="21.0">45.0</inclination>
+			<period errorminus="0.400000" errorplus="0.400000">1052.1</period>
+			<mass errorminus="1.5" errorplus="1.8">6.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/08/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 676 A c</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">6.6</semimajoraxis>
+			<periastron>356.0</periastron>
+			<eccentricity>0.2</eccentricity>
+			<period errorminus="92.000000" errorplus="95.000000">7337.0</period>
+			<mass errorminus="0.0" errorplus="32.2">6.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/08/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 676 A d</name>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0413</semimajoraxis>
+			<periastron errorminus="109.0" errorplus="109.0">315.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.15</eccentricity>
+			<period errorminus="0.000800" errorplus="0.000800">3.6</period>
+			<mass errorminus="0.002" errorplus="0.002">0.014</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 676 A e</name>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.187</semimajoraxis>
+			<periastron errorminus="126.0" errorplus="126.0">332.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.24</eccentricity>
+			<period errorminus="0.070000" errorplus="0.070000">35.37</period>
+			<mass errorminus="0.005" errorplus="0.005">0.036</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

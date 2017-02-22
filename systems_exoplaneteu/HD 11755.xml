@@ -1,0 +1,28 @@
+<system>
+	<name>HD 11755</name>
+	<rightascension>01 58 50</rightascension>
+	<declination>+73 09 09</declination>
+	<distance>231.5</distance>
+	<star>
+		<name>HD 11755</name>
+		<age>10.2</age>
+		<radius>27.3</radius>
+		<mass>0.9</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>4312.5</temperature>
+		<metallicity>-0.74</metallicity>
+		<planet>
+			<name>HD 11755 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.08</semimajoraxis>
+			<periastron errorminus="12.6" errorplus="12.6">155.3</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.19</eccentricity>
+			<period errorminus="3.200000" errorplus="3.200000">433.7</period>
+			<mass errorminus="1.0" errorplus="1.0">6.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/10/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-651</name>
+	<rightascension>19 09 20</rightascension>
+	<declination>+46 12 13</declination>
+	<distance>537.0</distance>
+	<star>
+		<name>Kepler-651</name>
+		<radius>0.87</radius>
+		<mass>0.92</mass>
+		<temperature>5522.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-651 b</name>
+			<period errorminus="0.000039" errorplus="0.000039">21.38521506</period>
+			<radius errorminus="0.012" errorplus="0.02">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

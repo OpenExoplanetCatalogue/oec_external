@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1584</name>
+	<rightascension>19 11 03</rightascension>
+	<declination>+43 16 28</declination>
+	<distance>1325.0</distance>
+	<star>
+		<name>Kepler-1584</name>
+		<radius>1.13</radius>
+		<mass>1.1</mass>
+		<temperature>6069.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-1584 b</name>
+			<period errorminus="0.000157" errorplus="0.000157">13.3997099</period>
+			<radius errorminus="0.019" errorplus="0.036">0.144</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

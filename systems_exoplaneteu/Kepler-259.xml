@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-259</name>
+	<rightascension>19 12 51</rightascension>
+	<declination>+46 36 54</declination>
+	<star>
+		<name>Kepler-259</name>
+		<radius>0.9</radius>
+		<temperature>5938.0</temperature>
+		<metallicity>-0.165</metallicity>
+		<planet>
+			<name>Kepler-259 b</name>
+			<semimajoraxis>0.079</semimajoraxis>
+			<period errorminus="0.000022" errorplus="0.000022">8.115317</period>
+			<radius errorminus="0.122" errorplus="0.122">0.25</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-259 c</name>
+			<semimajoraxis>0.217</semimajoraxis>
+			<period errorminus="0.000181" errorplus="0.000181">36.924931</period>
+			<radius errorminus="0.117" errorplus="0.117">0.241</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

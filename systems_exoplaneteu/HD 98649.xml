@@ -1,0 +1,22 @@
+<system>
+	<name>HD 98649</name>
+	<rightascension>11 20 52</rightascension>
+	<declination>-23 46 58</declination>
+	<distance>40.3</distance>
+	<star>
+		<name>HD 98649</name>
+		<spectraltype>G4V</spectraltype>
+		<planet>
+			<name>HD 98649 b</name>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">5.6</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.85</eccentricity>
+			<period errorminus="607.000000" errorplus="465.000000">4951.0</period>
+			<mass errorminus="0.5" errorplus="0.5">6.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/11/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

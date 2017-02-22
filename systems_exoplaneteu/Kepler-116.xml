@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-116</name>
+	<rightascension>19 38 58</rightascension>
+	<declination>+43 32 13</declination>
+	<star>
+		<name>Kepler-116</name>
+		<radius>1.45</radius>
+		<mass>1.16</mass>
+		<temperature>6142.0</temperature>
+		<metallicity>-0.064</metallicity>
+		<planet>
+			<name>Kepler-116 b</name>
+			<semimajoraxis>0.069</semimajoraxis>
+			<period errorminus="0.000009" errorplus="0.000009">5.968734</period>
+			<radius errorminus="0.058" errorplus="0.058">0.305</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-116 c</name>
+			<semimajoraxis>0.116</semimajoraxis>
+			<period errorminus="0.000056" errorplus="0.000056">13.07163</period>
+			<radius errorminus="0.039" errorplus="0.039">0.205</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

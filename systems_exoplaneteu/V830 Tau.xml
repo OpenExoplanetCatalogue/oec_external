@@ -1,0 +1,27 @@
+<system>
+	<name>V830 Tau</name>
+	<rightascension>04 33 10</rightascension>
+	<declination>+24 33 43</declination>
+	<distance>131.0</distance>
+	<star>
+		<name>V830 Tau</name>
+		<age>0.002</age>
+		<radius>2.0</radius>
+		<mass>1.0</mass>
+		<spectraltype>M0</spectraltype>
+		<temperature>4250.0</temperature>
+		<planet>
+			<name>V830 Tau b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.057</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>55.0</inclination>
+			<period errorminus="0.050000" errorplus="0.050000">4.93</period>
+			<mass errorminus="0.15" errorplus="0.15">0.77</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/08/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

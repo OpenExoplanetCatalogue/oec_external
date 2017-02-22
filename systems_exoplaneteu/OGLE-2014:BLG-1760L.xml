@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2014:BLG-1760L</name>
+	<rightascension>17 57 38</rightascension>
+	<declination>-28 02 13</declination>
+	<distance>6060.0</distance>
+	<star>
+		<name>OGLE-2014:BLG-1760L</name>
+		<mass>0.51</mass>
+		<planet>
+			<name>OGLE-2014:BLG-1760L b</name>
+			<semimajoraxis errorminus="0.34" errorplus="0.34">1.75</semimajoraxis>
+			<mass errorminus="0.26" errorplus="0.431">0.573</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/03/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

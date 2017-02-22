@@ -1,0 +1,25 @@
+<system>
+	<name>BD+24 4697</name>
+	<rightascension>23 01 39</rightascension>
+	<declination>+25 47 17</declination>
+	<distance>48.8</distance>
+	<star>
+		<name>BD+24 4697</name>
+		<mass>0.75</mass>
+		<temperature>5077.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>BD+24 4697 b</name>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">0.5</semimajoraxis>
+			<periastron errorminus="0.09" errorplus="0.09">66.35</periastron>
+			<eccentricity errorminus="0.00043" errorplus="0.00043">0.50048</eccentricity>
+			<period errorminus="0.016000" errorplus="0.016000">145.081</period>
+			<mass errorminus="3.0" errorplus="3.0">53.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

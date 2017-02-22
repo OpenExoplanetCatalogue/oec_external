@@ -1,0 +1,20 @@
+<system>
+	<name>MOA-2009-BLG-266L</name>
+	<rightascension>17 48 06</rightascension>
+	<declination>-35 59 41</declination>
+	<distance>3040.0</distance>
+	<star>
+		<name>MOA-2009-BLG-266L</name>
+		<mass>0.56</mass>
+		<planet>
+			<name>MOA-2009-BLG-266L b</name>
+			<semimajoraxis errorminus="0.5" errorplus="0.5">3.2</semimajoraxis>
+			<period errorminus="500.000000" errorplus="500.000000">2780.0</period>
+			<mass errorminus="0.005" errorplus="0.005">0.0327</mass>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>11/06/14</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

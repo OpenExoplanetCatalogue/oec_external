@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-43</name>
+	<rightascension>19 00 58</rightascension>
+	<declination>+46 40 06</declination>
+	<distance>1950.0</distance>
+	<star>
+		<name>Kepler-43</name>
+		<age>2.8</age>
+		<radius>1.42</radius>
+		<mass>1.32</mass>
+		<spectraltype>G0V/G0IV</spectraltype>
+		<temperature>6041.0</temperature>
+		<metallicity>0.33</metallicity>
+		<planet>
+			<name>Kepler-43 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.0449</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.025</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.4">84.35</inclination>
+			<period errorminus="0.000021" errorplus="0.000021">3.024095</period>
+			<mass errorminus="0.19" errorplus="0.19">3.23</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

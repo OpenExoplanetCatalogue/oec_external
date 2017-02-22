@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-969</name>
+	<rightascension>19 13 29</rightascension>
+	<declination>+47 56 01</declination>
+	<distance>411.0</distance>
+	<star>
+		<name>Kepler-969</name>
+		<radius>0.82</radius>
+		<mass>0.92</mass>
+		<temperature>5214.0</temperature>
+		<metallicity>0.22</metallicity>
+		<planet>
+			<name>Kepler-969 b</name>
+			<period errorminus="0.000074" errorplus="0.000074">34.1731714</period>
+			<radius errorminus="0.004" errorplus="0.004">0.185</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-969 c</name>
+			<period errorminus="0.000003" errorplus="0.000003">1.6829346</period>
+			<radius errorminus="0.004" errorplus="0.002">0.088</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

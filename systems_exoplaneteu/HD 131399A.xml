@@ -1,0 +1,22 @@
+<system>
+	<name>HD 131399A</name>
+	<rightascension>14 54 25</rightascension>
+	<declination>-34 51 26</declination>
+	<distance>98.0</distance>
+	<star>
+		<name>HD 131399A</name>
+		<spectraltype>A1V</spectraltype>
+		<planet>
+			<name>HD 131399A b</name>
+			<semimajoraxis errorminus="25.0" errorplus="25.0">80.0</semimajoraxis>
+			<eccentricity errorminus="0.25" errorplus="0.25">0.35</eccentricity>
+			<mass errorminus="1.0" errorplus="1.0">4.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>850.0</temperature>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/07/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-7</name>
+	<rightascension>19 28 59</rightascension>
+	<declination>+47 58 10</declination>
+	<distance>320.0</distance>
+	<star>
+		<name>HAT-P-7</name>
+		<age>2.07</age>
+		<radius>2.0</radius>
+		<mass>1.51</mass>
+		<temperature>6259.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>HAT-P-7 b</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0379</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="2.0" errorplus="2.0">84.1</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">2.204735471</period>
+			<mass errorminus="0.028" errorplus="0.028">1.741</mass>
+			<radius errorminus="0.011" errorplus="0.011">1.431</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/03/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

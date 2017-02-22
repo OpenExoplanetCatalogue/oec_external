@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1564</name>
+	<rightascension>19 22 21</rightascension>
+	<declination>+46 38 34</declination>
+	<distance>872.0</distance>
+	<star>
+		<name>Kepler-1564</name>
+		<radius>0.9</radius>
+		<mass>0.93</mass>
+		<temperature>5528.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1564 b</name>
+			<period errorminus="0.000192" errorplus="0.000192">18.0540381</period>
+			<radius errorminus="0.012" errorplus="0.017">0.131</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

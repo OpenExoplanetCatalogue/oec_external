@@ -1,0 +1,25 @@
+<system>
+	<name>HD 86226</name>
+	<rightascension>09 56 30</rightascension>
+	<declination>-24 54 02</declination>
+	<distance>42.48</distance>
+	<star>
+		<name>HD 86226</name>
+		<mass>1.02</mass>
+		<spectraltype>G2V</spectraltype>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>HD 86226 b</name>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">2.6</semimajoraxis>
+			<periastron errorminus="50.0" errorplus="50.0">58.0</periastron>
+			<eccentricity errorminus="0.21" errorplus="0.21">0.73</eccentricity>
+			<period errorminus="280.000000" errorplus="280.000000">1534.0</period>
+			<mass errorminus="1.0" errorplus="1.0">1.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

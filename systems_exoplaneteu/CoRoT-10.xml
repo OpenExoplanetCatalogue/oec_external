@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-10</name>
+	<rightascension>19 24 15</rightascension>
+	<declination>+00 44 46</declination>
+	<distance>345.0</distance>
+	<star>
+		<name>CoRoT-10</name>
+		<age>3.0</age>
+		<radius>0.79</radius>
+		<mass>0.89</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5075.0</temperature>
+		<metallicity>0.26</metallicity>
+		<planet>
+			<name>CoRoT-10 b</name>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.1055</semimajoraxis>
+			<periastron errorminus="6.4" errorplus="6.4">218.9</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.53</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">88.55</inclination>
+			<period errorminus="0.000200" errorplus="0.000200">13.2406</period>
+			<mass errorminus="0.14" errorplus="0.14">2.75</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.97</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/08/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,40 @@
+<system>
+	<name>Kepler-103</name>
+	<rightascension>19 15 26</rightascension>
+	<declination>+40 03 52</declination>
+	<distance>473.56</distance>
+	<star>
+		<name>Kepler-103</name>
+		<age>6.67</age>
+		<radius>1.455</radius>
+		<mass>1.099</mass>
+		<temperature>5845.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-103 b</name>
+			<eccentricity errorminus="0.03" errorplus="0.2">0.03</eccentricity>
+			<period errorminus="0.000018" errorplus="0.000018">15.965316</period>
+			<mass errorminus="0.027" errorplus="0.027">0.031</mass>
+			<radius errorminus="0.0035" errorplus="0.0035">0.3101</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-103 c</name>
+			<eccentricity errorminus="0.02" errorplus="0.19">0.02</eccentricity>
+			<period errorminus="0.004700" errorplus="0.004700">179.6133</period>
+			<mass errorminus="0.079" errorplus="0.079">0.114</mass>
+			<radius errorminus="0.0046" errorplus="0.0046">0.4745</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

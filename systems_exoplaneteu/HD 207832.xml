@@ -1,0 +1,41 @@
+<system>
+	<name>HD 207832</name>
+	<rightascension>21 52 36</rightascension>
+	<declination>-26 58 24</declination>
+	<distance>54.4</distance>
+	<star>
+		<name>HD 207832</name>
+		<age>4.5</age>
+		<radius>0.901</radius>
+		<mass>0.94</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5710.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>HD 207832 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.57</semimajoraxis>
+			<periastron errorminus="83.4" errorplus="23.9">130.8</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.18">0.13</eccentricity>
+			<period errorminus="0.780000" errorplus="0.970000">161.97</period>
+			<mass errorminus="0.03" errorplus="0.06">0.56</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 207832 c</name>
+			<semimajoraxis errorminus="0.045" errorplus="0.087">2.112</semimajoraxis>
+			<periastron errorminus="76.5" errorplus="32.4">121.6</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.22">0.27</eccentricity>
+			<period errorminus="37.000000" errorplus="71.900000">1155.7</period>
+			<mass errorminus="0.05" errorplus="0.18">0.73</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

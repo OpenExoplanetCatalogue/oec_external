@@ -1,0 +1,40 @@
+<system>
+	<name>GJ 785</name>
+	<rightascension>20 15 17</rightascension>
+	<declination>-27 58 01</declination>
+	<distance>8.911</distance>
+	<star>
+		<name>GJ 785</name>
+		<radius>0.68</radius>
+		<mass>0.78</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5144.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>GJ 785 b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.32</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="20.0">173.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.13</eccentricity>
+			<period errorminus="0.100000" errorplus="0.100000">74.72</period>
+			<mass errorminus="0.003" errorplus="0.003">0.0532</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 785 c</name>
+			<semimajoraxis errorminus="0.025" errorplus="0.025">1.18</semimajoraxis>
+			<periastron errorminus="21.0" errorplus="21.0">110.0</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.32</eccentricity>
+			<period errorminus="9.200000" errorplus="9.200000">525.8</period>
+			<mass errorminus="0.02" errorplus="0.02">0.076</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

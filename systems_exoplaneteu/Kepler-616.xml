@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-616</name>
+	<rightascension>19 39 57</rightascension>
+	<declination>+46 50 18</declination>
+	<distance>1019.0</distance>
+	<star>
+		<name>Kepler-616</name>
+		<radius>0.97</radius>
+		<mass>0.98</mass>
+		<temperature>5753.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-616 b</name>
+			<period errorminus="0.000021" errorplus="0.000021">9.99761851</period>
+			<radius errorminus="0.018" errorplus="0.029">0.217</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-616 c</name>
+			<period errorminus="0.000452" errorplus="0.000452">90.4113556</period>
+			<radius errorminus="0.027" errorplus="0.051">0.304</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>HD 48265</name>
+	<rightascension>06 40 02</rightascension>
+	<declination>-48 27 29</declination>
+	<distance>87.4</distance>
+	<star>
+		<name>HD 48265</name>
+		<mass>0.93</mass>
+		<spectraltype>G5V</spectraltype>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>HD 48265 b</name>
+			<semimajoraxis>1.51</semimajoraxis>
+			<periastron errorminus="27.0" errorplus="27.0">309.0</periastron>
+			<eccentricity errorminus="0.13" errorplus="0.13">0.18</eccentricity>
+			<period errorminus="8.000000" errorplus="8.000000">700.0</period>
+			<mass errorminus="0.38" errorplus="0.38">1.16</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>09/05/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

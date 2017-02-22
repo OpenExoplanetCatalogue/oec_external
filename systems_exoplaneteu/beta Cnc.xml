@@ -1,0 +1,28 @@
+<system>
+	<name>beta Cnc</name>
+	<rightascension>08 16 31</rightascension>
+	<declination>+09 11 08</declination>
+	<distance>92.99</distance>
+	<star>
+		<name>beta Cnc</name>
+		<age>1.85</age>
+		<radius>48.96</radius>
+		<mass>1.7</mass>
+		<spectraltype>K4III</spectraltype>
+		<temperature>3990.0</temperature>
+		<metallicity>-0.29</metallicity>
+		<planet>
+			<name>beta Cnc b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.7</semimajoraxis>
+			<periastron errorminus="0.9" errorplus="0.9">58.9</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.08</eccentricity>
+			<period errorminus="4.000000" errorplus="4.000000">605.2</period>
+			<mass errorminus="0.8" errorplus="0.8">7.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

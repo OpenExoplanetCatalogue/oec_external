@@ -1,0 +1,26 @@
+<system>
+	<name>HD 220842</name>
+	<rightascension>23 26 37</rightascension>
+	<declination>+56 53 12</declination>
+	<distance>62.5</distance>
+	<star>
+		<name>HD 220842</name>
+		<mass>1.13</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>5920.0</temperature>
+		<metallicity>-0.17</metallicity>
+		<planet>
+			<name>HD 220842 b</name>
+			<semimajoraxis errorminus="0.018" errorplus="0.018">0.74</semimajoraxis>
+			<periastron errorminus="1.7" errorplus="1.7">225.1</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.404</eccentricity>
+			<period errorminus="0.190000" errorplus="0.190000">218.47</period>
+			<mass errorminus="0.15" errorplus="0.15">3.18</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

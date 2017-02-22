@@ -1,0 +1,72 @@
+<system>
+	<name>Kepler-169</name>
+	<rightascension>19 03 60</rightascension>
+	<declination>+40 55 10</declination>
+	<star>
+		<name>Kepler-169</name>
+		<radius>0.76</radius>
+		<mass>0.86</mass>
+		<temperature>4997.0</temperature>
+		<metallicity>0.238</metallicity>
+		<planet>
+			<name>Kepler-169 b</name>
+			<semimajoraxis>0.04</semimajoraxis>
+			<period errorminus="0.000013" errorplus="0.000013">3.250619</period>
+			<radius errorminus="0.007" errorplus="0.007">0.101</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-169 c</name>
+			<semimajoraxis>0.062</semimajoraxis>
+			<period errorminus="0.000029" errorplus="0.000029">6.195469</period>
+			<radius errorminus="0.007" errorplus="0.007">0.108</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-169 d</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<period errorminus="0.000041" errorplus="0.000041">8.348125</period>
+			<radius errorminus="0.008" errorplus="0.008">0.112</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-169 e</name>
+			<semimajoraxis>0.105</semimajoraxis>
+			<period errorminus="0.000034" errorplus="0.000034">13.767102</period>
+			<radius errorminus="0.026" errorplus="0.026">0.196</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-169 f</name>
+			<semimajoraxis>0.359</semimajoraxis>
+			<period errorminus="0.000406" errorplus="0.000406">87.090195</period>
+			<radius errorminus="0.021" errorplus="0.021">0.23</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

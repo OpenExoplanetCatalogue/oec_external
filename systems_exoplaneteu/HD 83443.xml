@@ -1,0 +1,30 @@
+<system>
+	<name>HD 83443</name>
+	<rightascension>09 37 11</rightascension>
+	<declination>-43 43 41</declination>
+	<distance>43.54</distance>
+	<star>
+		<name>HD 83443</name>
+		<age>2.94</age>
+		<radius>1.04</radius>
+		<mass>0.9</mass>
+		<spectraltype>K0 V</spectraltype>
+		<temperature>5460.0</temperature>
+		<metallicity>0.35</metallicity>
+		<planet>
+			<name>HD 83443 b</name>
+			<semimajoraxis errorminus="0.0033" errorplus="0.0033">0.0406</semimajoraxis>
+			<periastron errorminus="82.2" errorplus="82.2">117.3</periastron>
+			<eccentricity errorminus="0.0135" errorplus="0.007">0.007</eccentricity>
+			<period errorminus="0.000053" errorplus="0.000053">2.98572</period>
+			<mass errorminus="0.034" errorplus="0.034">0.4</mass>
+			<radius>1.04</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>15/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

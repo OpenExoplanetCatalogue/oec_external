@@ -1,0 +1,27 @@
+<system>
+	<name>1RXS1609</name>
+	<rightascension>16 09 30</rightascension>
+	<declination>-21 55 02</declination>
+	<distance>145.0</distance>
+	<star>
+		<name>1RXS1609</name>
+		<age>0.011</age>
+		<radius>1.35</radius>
+		<mass>0.73</mass>
+		<spectraltype>K7V</spectraltype>
+		<temperature>4060.0</temperature>
+		<planet>
+			<name>1RXS 1609 b</name>
+			<semimajoraxis errorminus="0.0" errorplus="0.0">330.0</semimajoraxis>
+			<mass errorminus="3.0" errorplus="2.0">14.0</mass>
+			<radius>1.7</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1800.0</temperature>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/03/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1239</name>
+	<rightascension>19 32 31</rightascension>
+	<declination>+42 19 12</declination>
+	<distance>2511.0</distance>
+	<star>
+		<name>Kepler-1239</name>
+		<radius>1.57</radius>
+		<mass>1.4</mass>
+		<temperature>6564.0</temperature>
+		<metallicity>0.22</metallicity>
+		<planet>
+			<name>Kepler-1239 b</name>
+			<period errorminus="0.000026" errorplus="0.000026">5.19104016</period>
+			<radius errorminus="0.028" errorplus="0.033">0.259</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

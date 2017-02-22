@@ -1,0 +1,46 @@
+<system>
+	<name>HD 134606</name>
+	<rightascension>15 15 15</rightascension>
+	<declination>-70 28 49</declination>
+	<distance>26.5</distance>
+	<star>
+		<name>HD 134606</name>
+		<spectraltype>G6IV</spectraltype>
+		<planet>
+			<name>HD 134606 b</name>
+			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.1023</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.15</eccentricity>
+			<period errorminus="0.009600" errorplus="0.009600">12.083</period>
+			<mass errorminus="0.003" errorplus="0.003">0.0292</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 134606 c</name>
+			<semimajoraxis errorminus="0.0049" errorplus="0.0049">0.2962</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.29</eccentricity>
+			<period errorminus="0.174600" errorplus="0.174600">59.519</period>
+			<mass errorminus="0.0048" errorplus="0.0048">0.0382</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 134606 d</name>
+			<semimajoraxis errorminus="0.0241" errorplus="0.0241">1.1567</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.46</eccentricity>
+			<period errorminus="8.323800" errorplus="8.323800">459.26</period>
+			<mass errorminus="0.013" errorplus="0.013">0.121</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

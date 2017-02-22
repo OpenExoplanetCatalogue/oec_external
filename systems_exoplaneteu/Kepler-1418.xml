@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1418</name>
+	<rightascension>18 51 59</rightascension>
+	<declination>+41 40 43</declination>
+	<distance>499.0</distance>
+	<star>
+		<name>Kepler-1418</name>
+		<radius>0.72</radius>
+		<mass>0.77</mass>
+		<temperature>4770.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-1418 b</name>
+			<period errorminus="0.000175" errorplus="0.000175">22.4764425</period>
+			<radius errorminus="0.012" errorplus="0.007">0.148</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

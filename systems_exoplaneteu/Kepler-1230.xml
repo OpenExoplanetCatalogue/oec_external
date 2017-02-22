@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1230</name>
+	<rightascension>18 53 03</rightascension>
+	<declination>+41 42 41</declination>
+	<distance>1433.0</distance>
+	<star>
+		<name>Kepler-1230</name>
+		<radius>1.08</radius>
+		<mass>1.06</mass>
+		<temperature>5961.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1230 b</name>
+			<period errorminus="0.000045" errorplus="0.000045">9.95661537</period>
+			<radius errorminus="0.026" errorplus="0.044">0.242</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

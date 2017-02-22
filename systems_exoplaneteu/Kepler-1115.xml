@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-1115</name>
+	<rightascension>19 39 58</rightascension>
+	<declination>+40 08 40</declination>
+	<distance>935.0</distance>
+	<star>
+		<name>Kepler-1115</name>
+		<radius>1.73</radius>
+		<mass>1.6</mass>
+		<temperature>8480.0</temperature>
+		<metallicity>-0.51</metallicity>
+		<planet>
+			<name>Kepler-1115 b</name>
+			<longitude errorminus="13.0" errorplus="13.0">1.0</longitude>
+			<period errorminus="0.000136" errorplus="0.000136">23.5540725</period>
+			<radius errorminus="0.018" errorplus="0.026">0.152</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>K2-28</name>
+	<rightascension>22 22 30</rightascension>
+	<declination>-07 02 40</declination>
+	<distance>53.0</distance>
+	<star>
+		<name>K2-28</name>
+		<radius>0.288</radius>
+		<mass>0.257</mass>
+		<spectraltype>M4</spectraltype>
+		<temperature>3214.0</temperature>
+		<metallicity>0.26</metallicity>
+		<planet>
+			<name>K2-28 b</name>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0214</semimajoraxis>
+			<inclination errorminus="1.2" errorplus="0.8">88.9</inclination>
+			<period errorminus="0.000041" errorplus="0.000041">2.260455</period>
+			<radius errorminus="0.021" errorplus="0.021">0.207</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,55 @@
+<system>
+	<name>Kepler-445</name>
+	<rightascension>19 54 57</rightascension>
+	<declination>+46 29 55</declination>
+	<distance>90.0</distance>
+	<star>
+		<name>Kepler-445</name>
+		<radius>0.21</radius>
+		<mass>0.18</mass>
+		<temperature>3157.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>Kepler-445 b</name>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.18" errorplus="0.28">89.74</inclination>
+			<period errorminus="0.000011" errorplus="0.000011">2.984151</period>
+			<mass errorminus="0.003" errorplus="0.003">0.02</mass>
+			<radius errorminus="0.021" errorplus="0.021">0.141</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-445 c</name>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.07" errorplus="0.1">89.91</inclination>
+			<period errorminus="0.000011" errorplus="0.000011">4.871229</period>
+			<mass errorminus="0.002" errorplus="0.002">0.027</mass>
+			<radius errorminus="0.0032" errorplus="0.0032">0.224</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-445 d</name>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.27" errorplus="0.27">89.61</inclination>
+			<period errorminus="0.000400" errorplus="0.000400">8.15275</period>
+			<mass errorminus="0.002" errorplus="0.002">0.011</mass>
+			<radius errorminus="0.017" errorplus="0.017">0.112</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

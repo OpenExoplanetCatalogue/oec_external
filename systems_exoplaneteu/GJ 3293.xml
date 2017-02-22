@@ -1,0 +1,40 @@
+<system>
+	<name>GJ 3293</name>
+	<rightascension>04 28 36</rightascension>
+	<declination>-25 49 51</declination>
+	<distance>17.9</distance>
+	<star>
+		<name>GJ 3293</name>
+		<radius>0.404</radius>
+		<mass>0.42</mass>
+		<spectraltype>M2.5</spectraltype>
+		<temperature>3466.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>GJ 3293 b</name>
+			<semimajoraxis>0.1434</semimajoraxis>
+			<periastron errorminus="24.2" errorplus="24.2">282.3</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
+			<period errorminus="0.020000" errorplus="0.020000">30.6</period>
+			<mass errorminus="0.0053" errorplus="0.0053">0.0812</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/12/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 3293 d</name>
+			<semimajoraxis>0.364</semimajoraxis>
+			<periastron errorminus="14.1" errorplus="14.1">322.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
+			<period errorminus="0.380000" errorplus="0.380000">123.98</period>
+			<mass errorminus="0.0053" errorplus="0.0053">0.0705</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

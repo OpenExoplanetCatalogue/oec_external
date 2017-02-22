@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1345</name>
+	<rightascension>19 29 55</rightascension>
+	<declination>+46 01 22</declination>
+	<distance>1164.0</distance>
+	<star>
+		<name>Kepler-1345</name>
+		<radius>1.55</radius>
+		<mass>1.32</mass>
+		<temperature>6449.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1345 b</name>
+			<period errorminus="0.000333" errorplus="0.000333">44.6169557</period>
+			<radius errorminus="0.041" errorplus="0.095">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

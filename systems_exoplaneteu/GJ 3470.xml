@@ -1,0 +1,29 @@
+<system>
+	<name>GJ 3470</name>
+	<rightascension>07 59 06</rightascension>
+	<declination>+15 23 30</declination>
+	<distance>29.28</distance>
+	<star>
+		<name>GJ 3470</name>
+		<age>1.0</age>
+		<radius>0.55</radius>
+		<mass>0.539</mass>
+		<spectraltype>M1.5</spectraltype>
+		<temperature>3600.0</temperature>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>GJ 3470 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.03557</semimajoraxis>
+			<inclination errorminus="0.5" errorplus="0.5">88.3</inclination>
+			<period errorminus="0.000050" errorplus="0.000050">3.33671</period>
+			<mass errorminus="0.00513931672341" errorplus="0.00514531263071">0.0437533292587</mass>
+			<radius errorminus="0.0526363683403842" errorplus="0.0526363683403842">0.373807429400356</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/11/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

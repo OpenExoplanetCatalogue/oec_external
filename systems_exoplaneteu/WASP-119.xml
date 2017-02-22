@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-119</name>
+	<rightascension>03 43 46</rightascension>
+	<declination>-65 48 22</declination>
+	<distance>333.0</distance>
+	<star>
+		<name>WASP-119</name>
+		<age>8.0</age>
+		<radius>1.2</radius>
+		<mass>1.02</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5650.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>WASP-119 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0363</semimajoraxis>
+			<eccentricity errorminus="0.058" errorplus="0.0">0.058</eccentricity>
+			<inclination errorminus="2.0" errorplus="2.0">85.0</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">2.49979</period>
+			<mass errorminus="0.0831" errorplus="0.0851">1.23</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.4</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

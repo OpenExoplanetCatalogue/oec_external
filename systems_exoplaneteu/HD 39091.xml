@@ -1,0 +1,28 @@
+<system>
+	<name>HD 39091</name>
+	<rightascension>05 37 09</rightascension>
+	<declination>-80 31 52</declination>
+	<distance>18.32</distance>
+	<star>
+		<name>HD 39091</name>
+		<age>3.83</age>
+		<radius>2.1</radius>
+		<mass>1.1</mass>
+		<spectraltype>G1 IV</spectraltype>
+		<temperature>5888.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>HD 39091 b</name>
+			<semimajoraxis>3.28</semimajoraxis>
+			<periastron errorminus="20.0" errorplus="20.0">330.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.61</eccentricity>
+			<period errorminus="150.000000" errorplus="150.000000">2049.0</period>
+			<mass>10.3</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>11/01/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

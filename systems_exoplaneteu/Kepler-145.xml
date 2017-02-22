@@ -1,0 +1,40 @@
+<system>
+	<name>Kepler-145</name>
+	<rightascension>19 25 33</rightascension>
+	<declination>+44 31 45</declination>
+	<distance>584.1</distance>
+	<star>
+		<name>Kepler-145</name>
+		<age>2.62</age>
+		<radius>1.887</radius>
+		<mass>1.418</mass>
+		<temperature>6144.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>Kepler-145 b</name>
+			<eccentricity errorminus="0.25" errorplus="0.18">0.43</eccentricity>
+			<period errorminus="0.000230" errorplus="0.000230">22.95102</period>
+			<mass errorminus="0.169" errorplus="0.064">0.108</mass>
+			<radius errorminus="0.025" errorplus="0.025">0.228</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-145 c</name>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.11</eccentricity>
+			<period errorminus="0.000150" errorplus="0.000150">42.88254</period>
+			<mass errorminus="0.349" errorplus="0.153">0.234</mass>
+			<radius errorminus="0.01" errorplus="0.01">0.35</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

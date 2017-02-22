@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-736</name>
+	<rightascension>19 01 34</rightascension>
+	<declination>+46 10 51</declination>
+	<distance>1007.0</distance>
+	<star>
+		<name>Kepler-736</name>
+		<radius>0.81</radius>
+		<mass>0.86</mass>
+		<temperature>5217.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-736 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">3.60147201</period>
+			<radius errorminus="0.047" errorplus="0.015">0.261</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

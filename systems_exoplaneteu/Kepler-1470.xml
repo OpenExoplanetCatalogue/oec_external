@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1470</name>
+	<rightascension>19 14 47</rightascension>
+	<declination>+39 52 59</declination>
+	<distance>569.0</distance>
+	<star>
+		<name>Kepler-1470</name>
+		<radius>0.76</radius>
+		<mass>0.8</mass>
+		<temperature>4961.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1470 b</name>
+			<period errorminus="0.000192" errorplus="0.000192">16.2950903</period>
+			<radius errorminus="0.007" errorplus="0.008">0.095</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

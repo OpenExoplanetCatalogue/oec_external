@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-57</name>
+	<rightascension>19 34 34</rightascension>
+	<declination>+44 39 25</declination>
+	<star>
+		<name>Kepler-57</name>
+		<radius>0.73</radius>
+		<mass>0.83</mass>
+		<temperature>5145.0</temperature>
+		<planet>
+			<name>Kepler-57 b</name>
+			<period errorminus="0.000018" errorplus="0.000018">5.7293196</period>
+			<mass errorminus="18.86" errorplus="0.0">18.86</mass>
+			<radius>0.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-57 c</name>
+			<period errorminus="0.000086" errorplus="0.000086">11.6092567</period>
+			<mass errorminus="6.95" errorplus="0.0">6.95</mass>
+			<radius>0.14</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

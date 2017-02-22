@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1385</name>
+	<rightascension>18 50 32</rightascension>
+	<declination>+46 28 52</declination>
+	<distance>527.0</distance>
+	<star>
+		<name>Kepler-1385</name>
+		<radius>1.29</radius>
+		<mass>1.15</mass>
+		<temperature>5732.0</temperature>
+		<metallicity>0.41</metallicity>
+		<planet>
+			<name>Kepler-1385 b</name>
+			<period errorminus="0.000019" errorplus="0.000019">2.88879862</period>
+			<radius errorminus="0.012" errorplus="0.018">0.076</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

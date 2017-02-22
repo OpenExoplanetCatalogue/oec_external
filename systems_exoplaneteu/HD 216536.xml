@@ -1,0 +1,27 @@
+<system>
+	<name>HD 216536</name>
+	<rightascension>22 35 48</rightascension>
+	<declination>+44 28 40</declination>
+	<star>
+		<name>HD 216536</name>
+		<age>3.8</age>
+		<radius>12.5</radius>
+		<mass>1.36</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>4639.0</temperature>
+		<metallicity>-0.17</metallicity>
+		<planet>
+			<name>HD 216536 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.609</semimajoraxis>
+			<periastron errorminus="21.0" errorplus="21.0">270.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.38</eccentricity>
+			<period errorminus="0.700000" errorplus="0.700000">148.6</period>
+			<mass errorminus="0.12" errorplus="0.2">1.47</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

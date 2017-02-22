@@ -1,0 +1,24 @@
+<system>
+	<name>PSR 1719-14</name>
+	<rightascension>17 19 10</rightascension>
+	<declination>-14 21 59</declination>
+	<distance>1200.0</distance>
+	<star>
+		<name>PSR 1719-14</name>
+		<age>12.5</age>
+		<mass>1.4</mass>
+		<planet>
+			<name>PSR 1719-14 b</name>
+			<semimajoraxis>0.0044</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.06</eccentricity>
+			<period>0.090706293</period>
+			<mass errorminus="0.0" errorplus="0.0">1.0</mass>
+			<radius errorminus="0.0" errorplus="0.0">0.4</radius>
+			<istransiting>1</istransiting>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/07/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,70 @@
+<system>
+	<name>Kepler-80</name>
+	<rightascension>19 44 27</rightascension>
+	<declination>+39 58 44</declination>
+	<star>
+		<name>Kepler-80</name>
+		<radius>0.738</radius>
+		<temperature>4250.0</temperature>
+		<metallicity>-0.56</metallicity>
+		<planet>
+			<name>Kepler-80 b</name>
+			<period>7.05</period>
+			<mass errorminus="0.0022" errorplus="0.0033">0.0218</mass>
+			<radius>0.21</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-80 c</name>
+			<period>9.52</period>
+			<mass errorminus="0.0027" errorplus="0.00387">0.0212</mass>
+			<radius>0.23</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-80 d</name>
+			<period>3.07</period>
+			<mass errorminus="0.0016" errorplus="0.0022">0.0212</mass>
+			<radius>0.125</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/11/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-80 e</name>
+			<period>4.64</period>
+			<mass errorminus="0.003" errorplus="0.0025">0.013</mass>
+			<radius>0.134</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-80 f</name>
+			<period>0.99</period>
+			<radius>0.116</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

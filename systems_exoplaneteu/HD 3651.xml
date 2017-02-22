@@ -1,0 +1,42 @@
+<system>
+	<name>HD 3651</name>
+	<rightascension>00 39 21</rightascension>
+	<declination>+21 15 01</declination>
+	<distance>11.0</distance>
+	<star>
+		<name>HD 3651</name>
+		<age>5.13</age>
+		<radius>0.947</radius>
+		<mass>0.79</mass>
+		<spectraltype>K0 V</spectraltype>
+		<temperature>5173.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HD 3651 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.295</semimajoraxis>
+			<periastron errorminus="4.5" errorplus="4.5">242.5</periastron>
+			<eccentricity errorminus="0.036" errorplus="0.036">0.596</eccentricity>
+			<inclination errorminus="56.0" errorplus="56.0">83.0</inclination>
+			<period errorminus="0.015000" errorplus="0.015000">62.218</period>
+			<mass errorminus="0.00972" errorplus="0.291">0.231</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>16/02/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 3651 c</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.186</semimajoraxis>
+			<periastron errorminus="66.0" errorplus="66.0">55.0</periastron>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.04</eccentricity>
+			<period errorminus="0.020000" errorplus="0.020000">31.0</period>
+			<mass errorminus="0.03" errorplus="0.03">0.09</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,91 @@
+<system>
+	<name>HD 40307</name>
+	<rightascension>05 54 04</rightascension>
+	<declination>-60 58 36</declination>
+	<distance>12.8</distance>
+	<star>
+		<name>HD 40307</name>
+		<mass>0.77</mass>
+		<spectraltype>K2.5V</spectraltype>
+		<temperature>4977.0</temperature>
+		<metallicity>-0.31</metallicity>
+		<planet>
+			<name>HD 40307 b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0475</semimajoraxis>
+			<periastron errorminus="60.0" errorplus="60.0">194.0</periastron>
+			<eccentricity errorminus="0.16" errorplus="0.14">0.2</eccentricity>
+			<period errorminus="0.000270" errorplus="0.000270">4.3115</period>
+			<mass errorminus="0.00094" errorplus="0.00094">0.012</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/10/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 40307 c</name>
+			<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.0812</semimajoraxis>
+			<periastron>234.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.11">0.06</eccentricity>
+			<period errorminus="0.001300" errorplus="0.001300">9.6207</period>
+			<mass errorminus="0.0014" errorplus="0.0014">0.0202</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>16/02/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 40307 d</name>
+			<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.134</semimajoraxis>
+			<periastron>17.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.11">0.07</eccentricity>
+			<period errorminus="0.005200" errorplus="0.005200">20.4184</period>
+			<mass errorminus="0.0018" errorplus="0.0018">0.0275</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/11/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 40307 e</name>
+			<semimajoraxis errorminus="0.0104" errorplus="0.0083">0.1886</semimajoraxis>
+			<periastron>302.0</periastron>
+			<eccentricity errorminus="0.15" errorplus="0.13">0.15</eccentricity>
+			<period errorminus="0.210000" errorplus="0.210000">34.62</period>
+			<mass errorminus="0.0044" errorplus="0.0044">0.011</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 40307 f</name>
+			<semimajoraxis errorminus="0.0054" errorplus="0.0054">0.2485</semimajoraxis>
+			<periastron>354.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.2">0.02</eccentricity>
+			<period errorminus="0.140000" errorplus="0.140000">51.56</period>
+			<mass errorminus="0.0019" errorplus="0.0019">0.0114</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/10/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 40307 g</name>
+			<semimajoraxis errorminus="0.034" errorplus="0.034">0.6</semimajoraxis>
+			<periastron>91.2</periastron>
+			<eccentricity errorminus="0.29" errorplus="0.31">0.29</eccentricity>
+			<period errorminus="5.700000" errorplus="9.000000">197.8</period>
+			<mass errorminus="0.0082" errorplus="0.0082">0.0223</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

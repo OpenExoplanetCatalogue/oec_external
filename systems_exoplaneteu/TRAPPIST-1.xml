@@ -1,0 +1,56 @@
+<system>
+	<name>TRAPPIST-1</name>
+	<rightascension>23 06 29</rightascension>
+	<declination>-05 57 31</declination>
+	<distance>12.1</distance>
+	<star>
+		<name>TRAPPIST-1</name>
+		<age>0.5</age>
+		<radius>0.117</radius>
+		<mass>0.08</mass>
+		<spectraltype>M8</spectraltype>
+		<temperature>2550.0</temperature>
+		<planet>
+			<name>TRAPPIST-1 b</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.01111</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.41" errorplus="0.41">89.41</inclination>
+			<period errorminus="0.000019" errorplus="0.000019">1.510848</period>
+			<radius errorminus="0.0039" errorplus="0.0039">0.0993</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>TRAPPIST-1 c</name>
+			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.01522</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.31" errorplus="0.31">89.5</inclination>
+			<period errorminus="0.000028" errorplus="0.000028">2.421848</period>
+			<radius errorminus="0.0045" errorplus="0.0045">0.09359</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>TRAPPIST-1 d</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">0.08</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.1">89.87</inclination>
+			<period errorminus="14.000000" errorplus="54.000000">18.202</period>
+			<radius errorminus="0.0061" errorplus="0.0061">0.1042</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

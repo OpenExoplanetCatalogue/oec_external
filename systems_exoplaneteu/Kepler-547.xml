@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-547</name>
+	<rightascension>19 04 28</rightascension>
+	<declination>+44 20 43</declination>
+	<distance>361.0</distance>
+	<star>
+		<name>Kepler-547</name>
+		<radius>0.73</radius>
+		<mass>0.78</mass>
+		<temperature>4828.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-547 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">6.01038429</period>
+			<radius errorminus="0.028" errorplus="0.012">0.357</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

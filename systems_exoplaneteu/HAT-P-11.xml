@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-11</name>
+	<rightascension>19 50 50</rightascension>
+	<declination>+48 04 51</declination>
+	<distance>38.0</distance>
+	<star>
+		<name>HAT-P-11</name>
+		<age>6.5</age>
+		<radius>0.75</radius>
+		<mass>0.81</mass>
+		<spectraltype>K4</spectraltype>
+		<temperature>4780.0</temperature>
+		<metallicity>0.31</metallicity>
+		<planet>
+			<name>HAT-P-11 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.053</semimajoraxis>
+			<periastron errorminus="0.094" errorplus="0.2">198.0</periastron>
+			<eccentricity errorminus="0.0009" errorplus="0.0003">0.265</eccentricity>
+			<inclination errorminus="0.09" errorplus="0.15">89.05</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">4.887802443</period>
+			<mass errorminus="0.00899852122203694" errorplus="0.00899852122203694">0.0824340056005</mass>
+			<radius errorminus="1.33821275441655" errorplus="1.33821275441655">0.421983088559</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/11/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-760</name>
+	<rightascension>19 10 22</rightascension>
+	<declination>+44 10 46</declination>
+	<distance>782.0</distance>
+	<star>
+		<name>Kepler-760</name>
+		<radius>0.85</radius>
+		<mass>0.89</mass>
+		<temperature>5322.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-760 b</name>
+			<period errorminus="0.000013" errorplus="0.000013">8.70419416</period>
+			<radius errorminus="0.021" errorplus="0.023">0.273</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-760 c</name>
+			<period errorminus="0.000007" errorplus="0.000007">2.46697439</period>
+			<radius errorminus="0.008" errorplus="0.011">0.132</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

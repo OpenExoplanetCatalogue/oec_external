@@ -1,0 +1,24 @@
+<system>
+	<name>NGC 4349 No 127</name>
+	<rightascension>12 24 08</rightascension>
+	<declination>-61 07 42</declination>
+	<distance>2176.0</distance>
+	<star>
+		<name>NGC 4349 No 127</name>
+		<age>0.21</age>
+		<mass>3.9</mass>
+		<planet>
+			<name>NGC 4349 No 127 b</name>
+			<semimajoraxis>2.38</semimajoraxis>
+			<periastron errorminus="19.0" errorplus="19.0">61.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.19</eccentricity>
+			<period errorminus="6.200000" errorplus="6.200000">677.8</period>
+			<mass>19.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>07/11/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

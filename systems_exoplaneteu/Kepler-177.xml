@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-177</name>
+	<rightascension>19 04 11</rightascension>
+	<declination>+45 03 12</declination>
+	<star>
+		<name>Kepler-177</name>
+		<radius>0.98</radius>
+		<mass>0.93</mass>
+		<temperature>5942.0</temperature>
+		<metallicity>0.091</metallicity>
+		<planet>
+			<name>Kepler-177 b</name>
+			<period>35.855</period>
+			<mass errorminus="0.00787" errorplus="0.00378">0.00535</mass>
+			<radius errorminus="0.013" errorplus="0.013">0.259</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-177 c</name>
+			<period>49.412</period>
+			<mass errorminus="0.033" errorplus="0.0107">0.0198</mass>
+			<radius errorminus="0.033" errorplus="0.033">0.635</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

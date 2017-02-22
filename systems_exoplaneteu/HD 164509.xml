@@ -1,0 +1,28 @@
+<system>
+	<name>HD 164509</name>
+	<rightascension>18 01 31</rightascension>
+	<declination>+00 06 16</declination>
+	<distance>52.0</distance>
+	<star>
+		<name>HD 164509</name>
+		<age>1.1</age>
+		<radius>1.06</radius>
+		<mass>1.13</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5922.0</temperature>
+		<metallicity>0.21</metallicity>
+		<planet>
+			<name>HD 164509 b</name>
+			<semimajoraxis errorminus="0.008" errorplus="0.008">0.875</semimajoraxis>
+			<periastron errorminus="110.0" errorplus="110.0">324.0</periastron>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.26</eccentricity>
+			<period errorminus="3.800000" errorplus="3.800000">282.4</period>
+			<mass errorminus="0.09" errorplus="0.09">0.48</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/09/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

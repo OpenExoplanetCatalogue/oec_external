@@ -1,0 +1,24 @@
+<system>
+	<name>HD 10442</name>
+	<rightascension>01 41 53</rightascension>
+	<declination>+02 42 16</declination>
+	<star>
+		<name>HD 10442</name>
+		<mass>1.56</mass>
+		<spectraltype>K2 IV</spectraltype>
+		<temperature>5034.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>HD 10442 b</name>
+			<semimajoraxis errorminus="0.014" errorplus="0.014">2.335</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.11</eccentricity>
+			<period errorminus="9.000000" errorplus="9.000000">1043.0</period>
+			<mass errorminus="0.15" errorplus="0.15">2.1</mass>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/08/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>CoRoT-8</name>
+	<rightascension>19 26 21</rightascension>
+	<declination>+01 25 36</declination>
+	<distance>380.0</distance>
+	<star>
+		<name>CoRoT-8</name>
+		<age>3.0</age>
+		<radius>0.77</radius>
+		<mass>0.88</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5080.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>CoRoT-8 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.063</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.1">88.4</inclination>
+			<period errorminus="0.000030" errorplus="0.000030">6.21229</period>
+			<mass errorminus="0.0339804297895101" errorplus="0.0339804297895101">0.215838655885</mass>
+			<radius errorminus="0.0196271203981094" errorplus="0.0196271203981094">0.569186491545</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/08/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

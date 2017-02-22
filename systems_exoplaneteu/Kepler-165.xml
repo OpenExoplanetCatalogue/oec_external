@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-165</name>
+	<rightascension>18 42 46</rightascension>
+	<declination>+47 48 35</declination>
+	<star>
+		<name>Kepler-165</name>
+		<radius>0.77</radius>
+		<temperature>5211.0</temperature>
+		<metallicity>-0.28</metallicity>
+		<planet>
+			<name>Kepler-165 b</name>
+			<semimajoraxis>0.072</semimajoraxis>
+			<period errorminus="0.000026" errorplus="0.000026">8.180848</period>
+			<radius errorminus="0.126" errorplus="0.126">0.207</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-165 c</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="0.000057" errorplus="0.000057">15.31299</period>
+			<radius errorminus="0.12" errorplus="0.12">0.199</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

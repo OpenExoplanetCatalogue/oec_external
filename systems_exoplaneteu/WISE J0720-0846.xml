@@ -1,0 +1,25 @@
+<system>
+	<name>WISE J0720-0846</name>
+	<rightascension>07 20 03</rightascension>
+	<declination>-08 13 09</declination>
+	<distance>6.8</distance>
+	<star>
+		<name>WISE J0720-0846</name>
+		<mass>0.081</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>WISE J0720-0846</name>
+			<semimajoraxis errorminus="0.3" errorplus="0.6">1.3</semimajoraxis>
+			<periastron>54.0</periastron>
+			<eccentricity errorminus="0.6" errorplus="0.0">0.8</eccentricity>
+			<inclination errorminus="1.6" errorplus="2.0">93.5</inclination>
+			<period errorminus="475.000000" errorplus="1096.000000">1388.0</period>
+			<mass errorminus="0.11" errorplus="0.09">62.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

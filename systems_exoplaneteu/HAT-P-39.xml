@@ -1,0 +1,28 @@
+<system>
+	<name>HAT-P-39</name>
+	<rightascension>07 35 02</rightascension>
+	<declination>+17 49 48</declination>
+	<distance>642.0</distance>
+	<star>
+		<name>HAT-P-39</name>
+		<age>2.0</age>
+		<radius>1.625</radius>
+		<mass>1.404</mass>
+		<temperature>6430.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HAT-P-39 b</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0509</semimajoraxis>
+			<inclination errorminus="1.0" errorplus="1.0">87.0</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">3.54387</period>
+			<mass errorminus="0.099" errorplus="0.099">0.599</mass>
+			<radius errorminus="0.081" errorplus="0.108">1.571</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>KIC 12557548</name>
+	<rightascension>19 23 52</rightascension>
+	<declination>+51 30 17</declination>
+	<distance>470.0</distance>
+	<star>
+		<name>KIC 12557548</name>
+		<radius>0.65</radius>
+		<mass>0.7</mass>
+		<spectraltype>K4V</spectraltype>
+		<temperature>4412.0</temperature>
+		<metallicity>-0.173</metallicity>
+		<planet>
+			<name>KIC 12557548 b</name>
+			<semimajoraxis>0.013</semimajoraxis>
+			<period errorminus="0.000000" errorplus="0.000000">0.653553</period>
+			<mass errorminus="0.0" errorplus="2.989">6.3e-05</mass>
+			<radius errorminus="0.0133821275441655" errorplus="0.0133821275441655">0.0758320560836</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/07/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-332</name>
+	<rightascension>19 06 39</rightascension>
+	<declination>+47 24 49</declination>
+	<star>
+		<name>Kepler-332</name>
+		<radius>0.72</radius>
+		<mass>0.8</mass>
+		<temperature>4955.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-332 b</name>
+			<semimajoraxis>0.07</semimajoraxis>
+			<period errorminus="0.000028" errorplus="0.000028">7.626324</period>
+			<radius errorminus="0.007" errorplus="0.007">0.104</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-332 c</name>
+			<semimajoraxis>0.114</semimajoraxis>
+			<period errorminus="0.000108" errorplus="0.000108">15.995622</period>
+			<radius errorminus="0.007" errorplus="0.007">0.097</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-332 d</name>
+			<semimajoraxis>0.189</semimajoraxis>
+			<period errorminus="0.000326" errorplus="0.000326">34.21154</period>
+			<radius errorminus="0.007" errorplus="0.007">0.105</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

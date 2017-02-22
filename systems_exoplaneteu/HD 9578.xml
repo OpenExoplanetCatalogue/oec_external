@@ -1,0 +1,22 @@
+<system>
+	<name>HD 9578</name>
+	<rightascension>01 33 17</rightascension>
+	<declination>-38 45 18</declination>
+	<distance>57.24</distance>
+	<star>
+		<name>HD 9578</name>
+		<mass>1.12</mass>
+		<spectraltype>G1V</spectraltype>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>HD 9578 b</name>
+			<period>494.0</period>
+			<mass>0.62</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

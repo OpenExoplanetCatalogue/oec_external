@@ -1,0 +1,28 @@
+<system>
+	<name>HD 68988</name>
+	<rightascension>08 18 22</rightascension>
+	<declination>+61 27 38</declination>
+	<distance>58.0</distance>
+	<star>
+		<name>HD 68988</name>
+		<age>6.78</age>
+		<radius>1.14</radius>
+		<mass>1.2</mass>
+		<spectraltype>G0</spectraltype>
+		<temperature>5767.0</temperature>
+		<metallicity>0.24</metallicity>
+		<planet>
+			<name>HD 68988 b</name>
+			<semimajoraxis errorminus="0.0041" errorplus="0.0041">0.0704</semimajoraxis>
+			<periastron errorminus="3.5" errorplus="3.5">31.4</periastron>
+			<eccentricity errorminus="0.0087" errorplus="0.0087">0.1249</eccentricity>
+			<period errorminus="0.000210" errorplus="0.000210">6.2771</period>
+			<mass errorminus="0.16" errorplus="0.16">1.86</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>16/01/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

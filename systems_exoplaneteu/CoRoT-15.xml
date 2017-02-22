@@ -1,0 +1,24 @@
+<system>
+	<name>CoRoT-15</name>
+	<rightascension>06 28 28</rightascension>
+	<declination>+06 11 10</declination>
+	<star>
+		<name>CoRoT-15</name>
+		<spectraltype>F7V</spectraltype>
+		<planet>
+			<name>CoRoT-15 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.014">0.045</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="3.2" errorplus="2.3">86.7</inclination>
+			<period errorminus="0.000030" errorplus="0.000030">3.06036</period>
+			<mass errorminus="4.1" errorplus="4.33">63.4</mass>
+			<radius errorminus="0.15" errorplus="0.3">1.12</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/09/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

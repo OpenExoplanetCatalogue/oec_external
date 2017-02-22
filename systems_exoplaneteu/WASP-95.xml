@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-95</name>
+	<rightascension>22 29 50</rightascension>
+	<declination>-48 59 49</declination>
+	<star>
+		<name>WASP-95</name>
+		<age>2.4</age>
+		<radius>1.13</radius>
+		<mass>1.11</mass>
+		<spectraltype>G2</spectraltype>
+		<temperature>5630.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>WASP-95 b</name>
+			<semimajoraxis errorminus="0.00083" errorplus="0.00083">0.03416</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="2.1" errorplus="1.2">88.4</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">2.184673</period>
+			<mass errorminus="0.04" errorplus="0.1">1.13</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.21</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 4747</name>
+	<rightascension>00 49 27</rightascension>
+	<declination>-23 47 15</declination>
+	<distance>18.69</distance>
+	<star>
+		<name>HD 4747</name>
+		<age>3.3</age>
+		<radius>0.79</radius>
+		<mass>0.82</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5340.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>HD 4747 b</name>
+			<semimajoraxis errorminus="3.3" errorplus="3.9">16.4</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.74</eccentricity>
+			<inclination errorminus="6.4" errorplus="4.7">66.8</inclination>
+			<period errorminus="285.000000" errorplus="314.000000">13835.67</period>
+			<mass errorminus="3.3" errorplus="3.3">60.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/08/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

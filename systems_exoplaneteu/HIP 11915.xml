@@ -1,0 +1,27 @@
+<system>
+	<name>HIP 11915</name>
+	<rightascension>02 33 49</rightascension>
+	<declination>-19 23 17</declination>
+	<distance>57.3</distance>
+	<star>
+		<name>HIP 11915</name>
+		<age>4.0</age>
+		<mass>1.0</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5760.0</temperature>
+		<metallicity>-0.059</metallicity>
+		<planet>
+			<name>HIP 11915</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">4.8</semimajoraxis>
+			<periastron errorminus="40.0" errorplus="40.0">155.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.1</eccentricity>
+			<period errorminus="150.000000" errorplus="150.000000">3830.0</period>
+			<mass errorminus="0.06" errorplus="0.06">0.99</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/07/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

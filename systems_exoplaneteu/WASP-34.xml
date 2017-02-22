@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-34</name>
+	<rightascension>11 01 36</rightascension>
+	<declination>-23 08 22</declination>
+	<distance>120.0</distance>
+	<star>
+		<name>WASP-34</name>
+		<radius>0.93</radius>
+		<mass>1.01</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5700.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>WASP-34 b</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0524</semimajoraxis>
+			<periastron errorminus="18.6" errorplus="18.6">319.8</periastron>
+			<eccentricity errorminus="0.012" errorplus="0.012">0.038</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">85.2</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">4.3176782</period>
+			<mass errorminus="0.01" errorplus="0.01">0.59</mass>
+			<radius errorminus="0.08" errorplus="0.08">1.22</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

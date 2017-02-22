@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-394</name>
+	<rightascension>19 45 12</rightascension>
+	<declination>+50 40 20</declination>
+	<star>
+		<name>Kepler-394</name>
+		<radius>1.13</radius>
+		<mass>1.11</mass>
+		<temperature>6402.0</temperature>
+		<metallicity>-0.129</metallicity>
+		<planet>
+			<name>Kepler-394 b</name>
+			<semimajoraxis>0.083</semimajoraxis>
+			<period errorminus="0.000090" errorplus="0.000090">8.005013</period>
+			<radius errorminus="0.073" errorplus="0.073">0.143</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-394 c</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="0.000180" errorplus="0.000180">12.130686</period>
+			<radius errorminus="0.077" errorplus="0.077">0.148</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

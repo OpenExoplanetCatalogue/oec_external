@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-786</name>
+	<rightascension>19 34 59</rightascension>
+	<declination>+38 56 21</declination>
+	<distance>512.0</distance>
+	<star>
+		<name>Kepler-786</name>
+		<radius>0.74</radius>
+		<mass>0.81</mass>
+		<temperature>4838.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>Kepler-786 b</name>
+			<period errorminus="0.000257" errorplus="0.000257">53.5293487</period>
+			<radius errorminus="0.006" errorplus="0.011">0.217</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

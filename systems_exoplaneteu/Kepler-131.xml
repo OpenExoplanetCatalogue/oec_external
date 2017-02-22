@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-131</name>
+	<rightascension>19 14 07</rightascension>
+	<declination>+40 56 32</declination>
+	<star>
+		<name>Kepler-131</name>
+		<age>3.66</age>
+		<radius>1.03</radius>
+		<mass>1.02</mass>
+		<temperature>5685.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>Kepler-131 b</name>
+			<period>16.092</period>
+			<mass errorminus="0.011" errorplus="0.011">0.05075</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.215</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-131 c</name>
+			<period>25.516</period>
+			<mass errorminus="0.019" errorplus="0.019">0.026</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.075</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

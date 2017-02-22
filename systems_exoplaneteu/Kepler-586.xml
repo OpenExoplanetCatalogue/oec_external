@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-586</name>
+	<rightascension>19 32 14</rightascension>
+	<declination>+45 33 04</declination>
+	<distance>707.0</distance>
+	<star>
+		<name>Kepler-586</name>
+		<radius>0.92</radius>
+		<mass>0.94</mass>
+		<temperature>5575.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-586 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">2.10472218</period>
+			<radius errorminus="0.018" errorplus="0.032">0.249</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

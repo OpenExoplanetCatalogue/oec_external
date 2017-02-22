@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-894</name>
+	<rightascension>19 14 56</rightascension>
+	<declination>+46 56 22</declination>
+	<distance>1090.0</distance>
+	<star>
+		<name>Kepler-894</name>
+		<radius>0.85</radius>
+		<mass>0.87</mass>
+		<temperature>5603.0</temperature>
+		<metallicity>-0.25</metallicity>
+		<planet>
+			<name>Kepler-894 b</name>
+			<period errorminus="0.000030" errorplus="0.000030">9.803224</period>
+			<radius errorminus="0.03" errorplus="0.027">0.248</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

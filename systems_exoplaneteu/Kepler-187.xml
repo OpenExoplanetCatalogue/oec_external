@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-187</name>
+	<rightascension>19 59 11</rightascension>
+	<declination>+44 05 22</declination>
+	<star>
+		<name>Kepler-187</name>
+		<radius>1.29</radius>
+		<mass>0.85</mass>
+		<temperature>6105.0</temperature>
+		<metallicity>-0.345</metallicity>
+		<planet>
+			<name>Kepler-187 b</name>
+			<semimajoraxis>0.059</semimajoraxis>
+			<period errorminus="0.000058" errorplus="0.000058">4.938864</period>
+			<radius errorminus="0.025" errorplus="0.025">0.126</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-187 c</name>
+			<semimajoraxis>0.099</semimajoraxis>
+			<period errorminus="0.000048" errorplus="0.000048">10.640263</period>
+			<radius errorminus="0.046" errorplus="0.046">0.238</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

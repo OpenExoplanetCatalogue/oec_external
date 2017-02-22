@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1053</name>
+	<rightascension>19 25 40</rightascension>
+	<declination>+39 07 39</declination>
+	<distance>171.0</distance>
+	<star>
+		<name>Kepler-1053</name>
+		<radius>0.69</radius>
+		<mass>0.74</mass>
+		<temperature>4529.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>Kepler-1053 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">2.41435165</period>
+			<radius errorminus="0.004" errorplus="0.004">0.087</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

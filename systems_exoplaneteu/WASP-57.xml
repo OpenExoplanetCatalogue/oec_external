@@ -1,0 +1,21 @@
+<system>
+	<name>WASP-57</name>
+	<rightascension>14 55 17</rightascension>
+	<declination>-02 56 32</declination>
+	<star>
+		<name>WASP-57</name>
+		<spectraltype>G6</spectraltype>
+		<planet>
+			<name>WASP-57 b</name>
+			<period>2.8</period>
+			<mass>0.8</mass>
+			<radius>1.1</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/10/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

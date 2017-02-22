@@ -1,0 +1,28 @@
+<system>
+	<name>HD 145377</name>
+	<rightascension>16 11 36</rightascension>
+	<declination>-27 55 19</declination>
+	<distance>57.7</distance>
+	<star>
+		<name>HD 145377</name>
+		<age>1.3</age>
+		<radius>1.14</radius>
+		<mass>1.12</mass>
+		<spectraltype>G3V</spectraltype>
+		<temperature>6046.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>HD 145377 b</name>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.45</semimajoraxis>
+			<periastron errorminus="2.8" errorplus="2.8">138.1</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.307</eccentricity>
+			<period errorminus="0.130000" errorplus="0.130000">103.95</period>
+			<mass errorminus="0.1" errorplus="0.1">5.76</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/10/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>HD 88133</name>
+	<rightascension>10 10 07</rightascension>
+	<declination>+18 11 12</declination>
+	<distance>74.5</distance>
+	<star>
+		<name>HD 88133</name>
+		<age>9.56</age>
+		<radius>1.93</radius>
+		<mass>1.2</mass>
+		<spectraltype>G5 IV</spectraltype>
+		<temperature>5494.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>HD 88133 b</name>
+			<semimajoraxis>0.047</semimajoraxis>
+			<periastron errorminus="60.4" errorplus="60.4">357.2</periastron>
+			<eccentricity errorminus="0.0508" errorplus="0.0761">0.0761</eccentricity>
+			<period errorminus="0.000840" errorplus="0.000840">3.41566</period>
+			<mass>0.3</mass>
+			<radius>1.0</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>15/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

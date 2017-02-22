@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-932</name>
+	<rightascension>19 47 48</rightascension>
+	<declination>+43 16 19</declination>
+	<distance>478.0</distance>
+	<star>
+		<name>Kepler-932</name>
+		<radius>0.84</radius>
+		<mass>0.87</mass>
+		<temperature>5331.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-932 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">1.9214374</period>
+			<radius errorminus="0.009" errorplus="0.012">0.122</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1611</name>
+	<rightascension>19 46 03</rightascension>
+	<declination>+49 43 40</declination>
+	<distance>686.0</distance>
+	<star>
+		<name>Kepler-1611</name>
+		<radius>0.93</radius>
+		<mass>0.94</mass>
+		<temperature>5605.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1611 b</name>
+			<period errorminus="0.000058" errorplus="0.000058">5.1762429</period>
+			<radius errorminus="0.006" errorplus="0.014">0.072</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

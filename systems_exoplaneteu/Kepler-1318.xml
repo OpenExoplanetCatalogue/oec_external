@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1318</name>
+	<rightascension>19 21 30</rightascension>
+	<declination>+41 09 03</declination>
+	<distance>475.0</distance>
+	<star>
+		<name>Kepler-1318</name>
+		<radius>0.7</radius>
+		<mass>0.73</mass>
+		<temperature>4598.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1318 b</name>
+			<period errorminus="0.001051" errorplus="0.001051">213.257663</period>
+			<radius errorminus="0.013" errorplus="0.015">0.277</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

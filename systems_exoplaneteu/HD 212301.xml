@@ -1,0 +1,29 @@
+<system>
+	<name>HD 212301</name>
+	<rightascension>22 27 30</rightascension>
+	<declination>-77 16 56</declination>
+	<distance>52.7</distance>
+	<star>
+		<name>HD 212301</name>
+		<age>5.9</age>
+		<mass>1.05</mass>
+		<spectraltype>F8 V</spectraltype>
+		<temperature>5998.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 212301 b</name>
+			<semimajoraxis>0.036</semimajoraxis>
+			<periastron errorminus="85.6" errorplus="85.6">172.8</periastron>
+			<eccentricity errorminus="0.0147" errorplus="0.0365">0.0147</eccentricity>
+			<period errorminus="0.000028" errorplus="0.000028">2.245715</period>
+			<mass>0.4</mass>
+			<radius>1.07</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1220</name>
+	<rightascension>19 48 17</rightascension>
+	<declination>+42 58 40</declination>
+	<distance>958.0</distance>
+	<star>
+		<name>Kepler-1220</name>
+		<radius>0.99</radius>
+		<mass>1.0</mass>
+		<temperature>5842.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-1220 b</name>
+			<period errorminus="0.000042" errorplus="0.000042">7.42693741</period>
+			<radius errorminus="0.017" errorplus="0.029">0.136</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

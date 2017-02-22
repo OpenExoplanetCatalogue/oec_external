@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-680</name>
+	<rightascension>19 26 29</rightascension>
+	<declination>+50 37 06</declination>
+	<distance>1342.0</distance>
+	<star>
+		<name>Kepler-680</name>
+		<radius>1.11</radius>
+		<mass>1.08</mass>
+		<temperature>5890.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>Kepler-680 b</name>
+			<period errorminus="0.000009" errorplus="0.000009">3.68992629</period>
+			<radius errorminus="0.022" errorplus="0.073">0.216</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

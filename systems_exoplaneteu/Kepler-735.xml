@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-735</name>
+	<rightascension>18 58 45</rightascension>
+	<declination>+46 10 20</declination>
+	<distance>790.0</distance>
+	<star>
+		<name>Kepler-735</name>
+		<radius>0.8</radius>
+		<mass>0.85</mass>
+		<temperature>5107.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-735 b</name>
+			<period errorminus="0.000015" errorplus="0.000015">11.51516988</period>
+			<radius errorminus="0.011" errorplus="0.014">0.263</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

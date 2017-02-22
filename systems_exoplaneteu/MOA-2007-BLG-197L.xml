@@ -1,0 +1,19 @@
+<system>
+	<name>MOA-2007-BLG-197L</name>
+	<rightascension>18 07 05</rightascension>
+	<declination>-31 03 13</declination>
+	<distance>4170.0</distance>
+	<star>
+		<name>MOA-2007-BLG-197L</name>
+		<mass>0.82</mass>
+		<planet>
+			<name>MOA-2007-BLG-197L b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">4.29</semimajoraxis>
+			<mass errorminus="2.0" errorplus="2.0">41.0</mass>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

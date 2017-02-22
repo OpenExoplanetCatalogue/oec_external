@@ -1,0 +1,31 @@
+<system>
+	<name>HD 209458</name>
+	<rightascension>22 03 10</rightascension>
+	<declination>+18 53 04</declination>
+	<distance>47.0</distance>
+	<star>
+		<name>HD 209458</name>
+		<age>4.0</age>
+		<radius>1.203</radius>
+		<mass>1.148</mass>
+		<spectraltype>G0 V</spectraltype>
+		<temperature>6092.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>HD 209458 b</name>
+			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.04747</semimajoraxis>
+			<periastron errorminus="68.0" errorplus="68.0">43.8</periastron>
+			<eccentricity errorminus="0.0082" errorplus="0.0078">0.0082</eccentricity>
+			<inclination errorminus="0.046" errorplus="0.046">86.59</inclination>
+			<period errorminus="0.000028" errorplus="0.000028">3.52472</period>
+			<mass errorminus="0.017" errorplus="0.017">0.69</mass>
+			<radius errorminus="0.018" errorplus="0.018">1.38</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>17/01/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

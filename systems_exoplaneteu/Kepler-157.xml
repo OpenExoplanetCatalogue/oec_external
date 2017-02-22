@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-157</name>
+	<rightascension>19 24 23</rightascension>
+	<declination>+38 52 32</declination>
+	<star>
+		<name>Kepler-157</name>
+		<radius>1.04</radius>
+		<temperature>5774.0</temperature>
+		<metallicity>-0.108</metallicity>
+		<planet>
+			<name>Kepler-157 b</name>
+			<semimajoraxis>0.028</semimajoraxis>
+			<period errorminus="0.000006" errorplus="0.000006">1.732342</period>
+			<radius errorminus="0.023" errorplus="0.023">0.118</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-157 c</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="0.000049" errorplus="0.000049">13.5405</period>
+			<radius errorminus="0.038" errorplus="0.038">0.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-157 d</name>
+			<period errorminus="0.000024" errorplus="0.000024">7.02573474</period>
+			<radius errorminus="0.009" errorplus="0.014">0.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

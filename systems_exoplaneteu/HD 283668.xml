@@ -1,0 +1,25 @@
+<system>
+	<name>HD 283668</name>
+	<rightascension>04 27 53</rightascension>
+	<declination>+24 26 41</declination>
+	<distance>42.3</distance>
+	<star>
+		<name>HD 283668</name>
+		<mass>0.68</mass>
+		<temperature>4845.0</temperature>
+		<metallicity>-0.75</metallicity>
+		<planet>
+			<name>HD 283668 b</name>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">3.3</semimajoraxis>
+			<periastron errorminus="1.2" errorplus="1.2">265.4</periastron>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.577</eccentricity>
+			<period errorminus="8.000000" errorplus="8.000000">2558.0</period>
+			<mass errorminus="4.0" errorplus="4.0">53.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

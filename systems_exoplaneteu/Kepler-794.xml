@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-794</name>
+	<rightascension>19 12 32</rightascension>
+	<declination>+38 59 49</declination>
+	<distance>763.0</distance>
+	<star>
+		<name>Kepler-794</name>
+		<radius>1.38</radius>
+		<mass>1.19</mass>
+		<temperature>5839.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>Kepler-794 b</name>
+			<period errorminus="0.000036" errorplus="0.000036">11.13125132</period>
+			<radius errorminus="0.03" errorplus="0.046">0.188</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

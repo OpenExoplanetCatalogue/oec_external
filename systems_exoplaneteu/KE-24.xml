@@ -1,0 +1,43 @@
+<system>
+	<name>KE-24</name>
+	<rightascension>16 10 18</rightascension>
+	<declination>-24 00 35</declination>
+	<distance>181.0</distance>
+	<star>
+		<name>KE-24</name>
+		<age>5.0</age>
+		<radius>1.21</radius>
+		<mass>1.12</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5743.0</temperature>
+		<metallicity>0.42</metallicity>
+		<planet>
+			<name>K2-24 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.154</semimajoraxis>
+			<inclination errorminus="0.61" errorplus="0.89">89.25</inclination>
+			<period errorminus="0.000300" errorplus="0.000300">20.8851</period>
+			<mass errorminus="0.017" errorplus="0.017">0.0661</mass>
+			<radius errorminus="0.054" errorplus="0.054">0.52</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-24 c</name>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.247</semimajoraxis>
+			<inclination errorminus="0.2" errorplus="0.2">89.76</inclination>
+			<period errorminus="0.000630" errorplus="0.000630">42.36342</period>
+			<mass errorminus="0.022" errorplus="0.022">0.085</mass>
+			<radius errorminus="0.073" errorplus="0.073">0.723</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

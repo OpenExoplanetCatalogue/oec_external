@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-535</name>
+	<rightascension>19 46 16</rightascension>
+	<declination>+49 41 47</declination>
+	<distance>678.0</distance>
+	<star>
+		<name>Kepler-535</name>
+		<radius>1.27</radius>
+		<mass>1.18</mass>
+		<temperature>6123.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>Kepler-535 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">4.90332155</period>
+			<radius errorminus="0.019" errorplus="0.029">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

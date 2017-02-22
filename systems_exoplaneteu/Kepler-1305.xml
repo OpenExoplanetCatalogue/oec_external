@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1305</name>
+	<rightascension>19 49 21</rightascension>
+	<declination>+46 20 50</declination>
+	<distance>1343.0</distance>
+	<star>
+		<name>Kepler-1305</name>
+		<radius>0.96</radius>
+		<mass>0.97</mass>
+		<temperature>5701.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1305 b</name>
+			<period errorminus="0.000139" errorplus="0.000139">13.5630972</period>
+			<radius errorminus="0.017" errorplus="0.031">0.168</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

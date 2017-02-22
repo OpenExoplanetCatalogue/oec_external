@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-490</name>
+	<rightascension>19 40 06</rightascension>
+	<declination>+46 57 22</declination>
+	<distance>1249.0</distance>
+	<star>
+		<name>Kepler-490</name>
+		<radius>1.12</radius>
+		<mass>1.08</mass>
+		<temperature>6045.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-490 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">3.26869515</period>
+			<radius errorminus="0.123" errorplus="0.294">1.039</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2011-BLG-0420L</name>
+	<rightascension>17 50 56</rightascension>
+	<declination>-29 10 30</declination>
+	<distance>1990.0</distance>
+	<star>
+		<name>OGLE-2011-BLG-0420L</name>
+		<mass>0.025</mass>
+		<planet>
+			<name>OGLE-2011-BLG-0420L b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.19</semimajoraxis>
+			<mass errorminus="0.5" errorplus="0.5">9.4</mass>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

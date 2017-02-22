@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1218</name>
+	<rightascension>19 26 19</rightascension>
+	<declination>+44 31 54</declination>
+	<distance>667.0</distance>
+	<star>
+		<name>Kepler-1218</name>
+		<radius>1.1</radius>
+		<mass>1.06</mass>
+		<temperature>5986.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-1218 b</name>
+			<period errorminus="0.000234" errorplus="0.000234">22.9221266</period>
+			<radius errorminus="0.012" errorplus="0.013">0.128</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

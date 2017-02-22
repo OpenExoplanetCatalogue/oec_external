@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-110</name>
+	<rightascension>20 23 30</rightascension>
+	<declination>-44 56 30</declination>
+	<distance>320.0</distance>
+	<star>
+		<name>WASP-110</name>
+		<age>8.6</age>
+		<radius>0.881</radius>
+		<mass>0.892</mass>
+		<spectraltype>G9</spectraltype>
+		<temperature>5400.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>WASP-110 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0457</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.35" errorplus="0.35">88.06</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">3.7783977</period>
+			<mass errorminus="0.0641" errorplus="0.0642">0.515</mass>
+			<radius errorminus="0.056" errorplus="0.056">1.238</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-133</name>
+	<rightascension>19 49 07</rightascension>
+	<declination>+48 19 13</declination>
+	<star>
+		<name>Kepler-133</name>
+		<radius>1.43</radius>
+		<temperature>5736.0</temperature>
+		<metallicity>-0.16</metallicity>
+		<planet>
+			<name>Kepler-133 b</name>
+			<semimajoraxis>0.083</semimajoraxis>
+			<period errorminus="0.000038" errorplus="0.000038">8.129976</period>
+			<radius errorminus="0.027" errorplus="0.027">0.157</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-133 c</name>
+			<semimajoraxis>0.204</semimajoraxis>
+			<period errorminus="0.000158" errorplus="0.000158">31.517586</period>
+			<radius errorminus="0.043" errorplus="0.043">0.253</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

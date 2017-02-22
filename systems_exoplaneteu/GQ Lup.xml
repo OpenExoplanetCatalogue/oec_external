@@ -1,0 +1,24 @@
+<system>
+	<name>GQ Lup</name>
+	<rightascension>15 49 12</rightascension>
+	<declination>-35 20 57</declination>
+	<distance>140.0</distance>
+	<star>
+		<name>GQ Lup</name>
+		<age>0.001</age>
+		<mass>0.7</mass>
+		<spectraltype>K7eV</spectraltype>
+		<planet>
+			<name>GQ Lup b</name>
+			<semimajoraxis errorminus="37.0" errorplus="37.0">103.0</semimajoraxis>
+			<mass errorminus="20.5" errorplus="20.5">21.5</mass>
+			<radius>1.8</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

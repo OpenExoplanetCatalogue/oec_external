@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-50</name>
+	<rightascension>19 12 24</rightascension>
+	<declination>+50 02 01</declination>
+	<star>
+		<name>Kepler-50</name>
+		<age>3.8</age>
+		<radius>1.58</radius>
+		<mass>1.24</mass>
+		<temperature>6225.0</temperature>
+		<planet>
+			<name>Kepler-50 b</name>
+			<period errorminus="0.000052" errorplus="0.000052">7.8125124</period>
+			<mass errorminus="0.1" errorplus="0.0">0.1</mass>
+			<radius>0.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-50 c</name>
+			<period errorminus="0.000056" errorplus="0.000056">9.3761368</period>
+			<mass errorminus="0.11" errorplus="0.0">0.11</mass>
+			<radius>0.25</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1386</name>
+	<rightascension>18 43 18</rightascension>
+	<declination>+42 38 10</declination>
+	<distance>838.0</distance>
+	<star>
+		<name>Kepler-1386</name>
+		<radius>1.03</radius>
+		<mass>1.02</mass>
+		<temperature>5733.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>Kepler-1386 b</name>
+			<period errorminus="0.000070" errorplus="0.000070">6.73972381</period>
+			<radius errorminus="0.012" errorplus="0.034">0.111</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

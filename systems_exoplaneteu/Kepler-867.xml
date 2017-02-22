@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-867</name>
+	<rightascension>19 09 08</rightascension>
+	<declination>+51 14 60</declination>
+	<distance>824.0</distance>
+	<star>
+		<name>Kepler-867</name>
+		<radius>0.91</radius>
+		<mass>0.92</mass>
+		<temperature>5541.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-867 b</name>
+			<period errorminus="0.000605" errorplus="0.000605">150.242127</period>
+			<radius errorminus="0.027" errorplus="0.037">0.414</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

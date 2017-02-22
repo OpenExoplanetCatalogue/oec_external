@@ -1,0 +1,18 @@
+<system>
+	<name>V2051 Oph</name>
+	<rightascension>17 08 19</rightascension>
+	<declination>-25 11 28</declination>
+	<star>
+		<name>V2051 Oph</name>
+		<planet>
+			<name>V2051 Oph b</name>
+			<semimajoraxis>9.0</semimajoraxis>
+			<eccentricity>0.37</eccentricity>
+			<mass errorminus="0.7" errorplus="0.7">7.3</mass>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/09/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

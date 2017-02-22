@@ -1,0 +1,25 @@
+<system>
+	<name>K2-17</name>
+	<rightascension>11 53 19</rightascension>
+	<declination>+06 24 44</declination>
+	<distance>134.0</distance>
+	<star>
+		<name>K2-17</name>
+		<radius>0.66</radius>
+		<mass>0.71</mass>
+		<temperature>4320.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>K2-17 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.119</semimajoraxis>
+			<period errorminus="0.001520" errorplus="0.001520">17.96753</period>
+			<radius errorminus="0.018" errorplus="0.018">0.199</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

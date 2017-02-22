@@ -1,0 +1,24 @@
+<system>
+	<name>WASP-42</name>
+	<rightascension>12 51 56</rightascension>
+	<declination>-42 55 35</declination>
+	<star>
+		<name>WASP-42</name>
+		<planet>
+			<name>WASP-42 b</name>
+			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.0458</semimajoraxis>
+			<periastron errorminus="26.0" errorplus="26.0">167.0</periastron>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.06</eccentricity>
+			<inclination errorminus="0.27" errorplus="0.27">88.25</inclination>
+			<period errorminus="0.000007" errorplus="0.000007">4.9816872</period>
+			<mass errorminus="0.035" errorplus="0.035">0.5</mass>
+			<radius errorminus="0.057" errorplus="0.057">1.08</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/08/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

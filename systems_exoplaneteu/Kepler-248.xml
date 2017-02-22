@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-248</name>
+	<rightascension>19 32 15</rightascension>
+	<declination>+43 34 53</declination>
+	<star>
+		<name>Kepler-248</name>
+		<radius>0.83</radius>
+		<temperature>5190.0</temperature>
+		<metallicity>0.171</metallicity>
+		<planet>
+			<name>Kepler-248 b</name>
+			<semimajoraxis>0.066</semimajoraxis>
+			<period errorminus="0.000010" errorplus="0.000010">6.308205</period>
+			<radius errorminus="0.032" errorplus="0.032">0.269</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-248 c</name>
+			<semimajoraxis>0.123</semimajoraxis>
+			<period errorminus="0.000024" errorplus="0.000024">16.239494</period>
+			<radius errorminus="0.044" errorplus="0.044">0.363</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

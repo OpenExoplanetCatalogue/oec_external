@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1530</name>
+	<rightascension>19 12 39</rightascension>
+	<declination>+48 09 55</declination>
+	<distance>552.0</distance>
+	<star>
+		<name>Kepler-1530</name>
+		<radius>0.88</radius>
+		<mass>0.92</mass>
+		<temperature>5477.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1530 b</name>
+			<period errorminus="0.000171" errorplus="0.000171">2.5904434</period>
+			<radius errorminus="0.01" errorplus="0.019">0.146</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1530 c</name>
+			<period errorminus="0.000633" errorplus="0.000633">5.3227406</period>
+			<radius errorminus="0.01" errorplus="0.021">0.147</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

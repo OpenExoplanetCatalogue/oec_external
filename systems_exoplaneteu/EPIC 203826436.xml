@@ -1,0 +1,46 @@
+<system>
+	<name>EPIC 203826436</name>
+	<rightascension>16 13 48</rightascension>
+	<declination>-24 12 47</declination>
+	<star>
+		<name>EPIC 203826436</name>
+		<radius>0.85</radius>
+		<mass>0.9</mass>
+		<spectraltype>G3V</spectraltype>
+		<temperature>5413.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>EPIC 203826436 b</name>
+			<period errorminus="0.000750" errorplus="0.000750">4.44117</period>
+			<radius errorminus="0.015" errorplus="0.015">0.144</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>EPIC 203826436 c</name>
+			<period errorminus="0.000360" errorplus="0.000360">6.42904</period>
+			<radius errorminus="0.024" errorplus="0.024">0.245</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>EPIC 203826436 d</name>
+			<period errorminus="0.001350" errorplus="0.001350">14.09189</period>
+			<radius errorminus="0.032" errorplus="0.032">0.244</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

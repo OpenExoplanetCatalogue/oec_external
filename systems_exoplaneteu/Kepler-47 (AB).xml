@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-47 (AB)</name>
+	<rightascension>19 41 11</rightascension>
+	<declination>+46 55 12</declination>
+	<star>
+		<name>Kepler-47 (AB)</name>
+		<radius>0.964</radius>
+		<mass>1.043</mass>
+		<temperature>5636.0</temperature>
+		<planet>
+			<name>Kepler-47 (AB) b</name>
+			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.2956</semimajoraxis>
+			<inclination errorminus="0.5" errorplus="0.5">89.59</inclination>
+			<period errorminus="0.040000" errorplus="0.040000">49.514</period>
+			<radius errorminus="0.011" errorplus="0.011">0.27</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-47 (AB) c</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.016">0.989</semimajoraxis>
+			<inclination>89.826</inclination>
+			<period errorminus="0.072000" errorplus="0.072000">303.148</period>
+			<radius errorminus="0.018" errorplus="0.018">0.41</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

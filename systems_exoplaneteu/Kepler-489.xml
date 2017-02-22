@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-489</name>
+	<rightascension>19 23 20</rightascension>
+	<declination>+38 11 04</declination>
+	<distance>379.0</distance>
+	<star>
+		<name>Kepler-489</name>
+		<radius>0.76</radius>
+		<mass>0.82</mass>
+		<temperature>5014.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-489 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">17.27629612</period>
+			<radius errorminus="0.018" errorplus="0.015">0.689</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>Qatar-1</name>
+	<rightascension>20 13 32</rightascension>
+	<declination>+65 09 43</declination>
+	<star>
+		<name>Qatar-1</name>
+		<age>4.5</age>
+		<radius>0.823</radius>
+		<mass>0.8</mass>
+		<spectraltype>K</spectraltype>
+		<temperature>4910.0</temperature>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>Qatar-1 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.02343</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<longitude errorminus="7.1" errorplus="7.1">351.6</longitude>
+			<inclination errorminus="0.25" errorplus="0.25">83.82</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">1.42002504</period>
+			<mass errorminus="0.05" errorplus="0.05">1.33</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/08/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

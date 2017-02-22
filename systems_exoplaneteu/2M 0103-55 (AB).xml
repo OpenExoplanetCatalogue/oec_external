@@ -1,0 +1,22 @@
+<system>
+	<name>2M 0103-55 (AB)</name>
+	<rightascension>01 03 36</rightascension>
+	<declination>-55 44 04</declination>
+	<distance>47.2</distance>
+	<star>
+		<name>2M 0103-55 (AB)</name>
+		<age>0.03</age>
+		<mass>0.4</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>2M 0103-55 (AB) b</name>
+			<semimajoraxis>84.0</semimajoraxis>
+			<mass errorminus="1.0" errorplus="1.0">13.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-742</name>
+	<rightascension>18 55 28</rightascension>
+	<declination>+46 47 23</declination>
+	<distance>499.0</distance>
+	<star>
+		<name>Kepler-742</name>
+		<radius>0.71</radius>
+		<mass>0.76</mass>
+		<temperature>4642.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-742 b</name>
+			<period errorminus="0.000006" errorplus="0.000006">8.36086824</period>
+			<radius errorminus="0.015" errorplus="0.01">0.289</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

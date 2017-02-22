@@ -1,0 +1,26 @@
+<system>
+	<name>HIP 109600</name>
+	<rightascension>22 12 06</rightascension>
+	<declination>+29 03 57</declination>
+	<distance>58.6</distance>
+	<star>
+		<name>HIP 109600</name>
+		<mass>0.87</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5530.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>HIP 109600 b</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.016">0.706</semimajoraxis>
+			<periastron errorminus="1.6" errorplus="1.6">228.7</periastron>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.163</eccentricity>
+			<period errorminus="0.150000" errorplus="0.150000">232.08</period>
+			<mass errorminus="0.12" errorplus="0.12">2.68</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

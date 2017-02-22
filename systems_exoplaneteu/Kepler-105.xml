@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-105</name>
+	<rightascension>19 11 33</rightascension>
+	<declination>+46 16 34</declination>
+	<star>
+		<name>Kepler-105</name>
+		<radius>1.16</radius>
+		<mass>1.28</mass>
+		<temperature>5873.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>Kepler-105 c</name>
+			<semimajoraxis>0.072</semimajoraxis>
+			<period errorminus="0.000017" errorplus="0.000017">7.125939</period>
+			<mass errorminus="0.003" errorplus="0.003">0.014</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.117</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/03/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

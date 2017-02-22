@@ -1,0 +1,27 @@
+<system>
+	<name>BD+15 2375</name>
+	<rightascension>11 45 56</rightascension>
+	<declination>+14 36 59</declination>
+	<distance>774.0</distance>
+	<star>
+		<name>BD+15 2375</name>
+		<age>7.4</age>
+		<radius>8.95</radius>
+		<mass>1.08</mass>
+		<temperature>4649.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>BD+15 2375 b</name>
+			<semimajoraxis errorminus="0.027" errorplus="0.027">0.576</semimajoraxis>
+			<periastron errorminus="17.0" errorplus="240.0">55.0</periastron>
+			<eccentricity errorminus="0.001" errorplus="0.25">0.001</eccentricity>
+			<period errorminus="0.440000" errorplus="0.440000">153.22</period>
+			<mass errorminus="0.27" errorplus="0.27">1.06</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/03/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

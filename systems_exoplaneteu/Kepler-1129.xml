@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1129</name>
+	<rightascension>19 26 25</rightascension>
+	<declination>+41 18 34</declination>
+	<distance>1258.0</distance>
+	<star>
+		<name>Kepler-1129</name>
+		<radius>1.0</radius>
+		<mass>1.0</mass>
+		<temperature>5831.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-1129 b</name>
+			<period errorminus="0.000130" errorplus="0.000130">24.3397804</period>
+			<radius errorminus="0.029" errorplus="0.045">0.264</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1129 c</name>
+			<period errorminus="0.000759" errorplus="0.000759">76.5369586</period>
+			<radius errorminus="0.024" errorplus="0.041">0.244</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

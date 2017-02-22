@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-526</name>
+	<rightascension>19 50 36</rightascension>
+	<declination>+47 23 47</declination>
+	<distance>504.0</distance>
+	<star>
+		<name>Kepler-526</name>
+		<radius>1.14</radius>
+		<mass>1.15</mass>
+		<temperature>5894.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>Kepler-526 b</name>
+			<period errorminus="0.000009" errorplus="0.000009">5.45849832</period>
+			<radius errorminus="0.015" errorplus="0.014">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

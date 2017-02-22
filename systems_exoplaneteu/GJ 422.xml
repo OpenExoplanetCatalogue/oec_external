@@ -1,0 +1,24 @@
+<system>
+	<name>GJ 422</name>
+	<rightascension>11 16 00</rightascension>
+	<declination>-56 32 52</declination>
+	<star>
+		<name>GJ 422</name>
+		<mass>0.35</mass>
+		<spectraltype>M3.5V</spectraltype>
+		<temperature>3323.0</temperature>
+		<planet>
+			<name>GJ 422 b</name>
+			<semimajoraxis errorminus="0.011" errorplus="0.014">0.119</semimajoraxis>
+			<periastron>246.37</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.21">0.05</eccentricity>
+			<period errorminus="0.098000" errorplus="0.082000">26.161</period>
+			<mass errorminus="0.012581664" errorplus="0.01761433">0.0311487273071</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1357</name>
+	<rightascension>19 26 12</rightascension>
+	<declination>+50 21 12</declination>
+	<distance>1026.0</distance>
+	<star>
+		<name>Kepler-1357</name>
+		<radius>0.9</radius>
+		<mass>0.93</mass>
+		<temperature>5597.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-1357 b</name>
+			<period errorminus="0.000015" errorplus="0.000015">3.0091324</period>
+			<radius errorminus="0.01" errorplus="0.018">0.114</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

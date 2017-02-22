@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1641</name>
+	<rightascension>19 45 26</rightascension>
+	<declination>+41 34 28</declination>
+	<distance>961.0</distance>
+	<star>
+		<name>Kepler-1641</name>
+		<radius>1.19</radius>
+		<mass>1.12</mass>
+		<temperature>6152.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-1641 b</name>
+			<period errorminus="0.001110" errorplus="0.001110">19.672266</period>
+			<radius errorminus="0.052" errorplus="0.101">0.277</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1641 c</name>
+			<period errorminus="0.003099" errorplus="0.003099">32.657212</period>
+			<radius errorminus="0.044" errorplus="0.087">0.263</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

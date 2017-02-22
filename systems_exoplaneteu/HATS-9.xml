@@ -1,0 +1,29 @@
+<system>
+	<name>HATS-9</name>
+	<rightascension>19 23 14</rightascension>
+	<declination>-20 51 01</declination>
+	<distance>622.0</distance>
+	<star>
+		<name>HATS-9</name>
+		<age>10.8</age>
+		<radius>1.5</radius>
+		<mass>1.03</mass>
+		<temperature>5336.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>HATS-9 b</name>
+			<semimajoraxis errorminus="0.00038" errorplus="0.00038">0.03048</semimajoraxis>
+			<eccentricity errorminus="0.129" errorplus="0.0">0.129</eccentricity>
+			<inclination errorminus="2.5" errorplus="1.6">86.5</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">1.9153073</period>
+			<mass errorminus="0.0301" errorplus="0.0322">0.839</mass>
+			<radius errorminus="0.098" errorplus="0.098">1.065</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

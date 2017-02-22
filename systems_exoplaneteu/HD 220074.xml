@@ -1,0 +1,28 @@
+<system>
+	<name>HD 220074</name>
+	<rightascension>23 20 14</rightascension>
+	<declination>+61 58 12</declination>
+	<distance>290.2</distance>
+	<star>
+		<name>HD 220074</name>
+		<age>4.5</age>
+		<radius>49.67</radius>
+		<mass>1.2</mass>
+		<spectraltype>M2III</spectraltype>
+		<temperature>3935.0</temperature>
+		<metallicity>-0.25</metallicity>
+		<planet>
+			<name>HD 220074 b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.6</semimajoraxis>
+			<periastron errorminus="8.5" errorplus="8.5">323.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.14</eccentricity>
+			<period errorminus="3.700000" errorplus="3.700000">672.1</period>
+			<mass errorminus="1.8" errorplus="1.8">11.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/11/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

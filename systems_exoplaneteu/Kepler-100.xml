@@ -1,0 +1,53 @@
+<system>
+	<name>Kepler-100</name>
+	<rightascension>19 25 33</rightascension>
+	<declination>+41 59 24</declination>
+	<distance>310.34</distance>
+	<star>
+		<name>Kepler-100</name>
+		<age>6.5</age>
+		<radius>1.5131</radius>
+		<mass>1.109</mass>
+		<temperature>5825.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-100 b</name>
+			<eccentricity errorminus="0.13" errorplus="0.27">0.13</eccentricity>
+			<period errorminus="0.000047" errorplus="0.000047">6.887037</period>
+			<mass errorminus="0.01" errorplus="0.01">0.0231</mass>
+			<radius errorminus="0.0027" errorplus="0.0027">0.1164</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-100 c</name>
+			<eccentricity errorminus="0.01" errorplus="0.15">0.02</eccentricity>
+			<period errorminus="0.000026" errorplus="0.000026">12.815909</period>
+			<mass errorminus="0.013" errorplus="0.013">0.0027</mass>
+			<radius errorminus="0.002" errorplus="0.002">0.1981</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-100 d</name>
+			<eccentricity errorminus="0.16" errorplus="0.12">0.38</eccentricity>
+			<period errorminus="0.000430" errorplus="0.000430">35.33313</period>
+			<mass errorminus="0.0094" errorplus="0.0">0.0094</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.1351</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

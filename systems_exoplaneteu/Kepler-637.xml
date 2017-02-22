@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-637</name>
+	<rightascension>19 29 40</rightascension>
+	<declination>+41 25 01</declination>
+	<distance>1575.0</distance>
+	<star>
+		<name>Kepler-637</name>
+		<radius>2.56</radius>
+		<mass>1.64</mass>
+		<temperature>6096.0</temperature>
+		<metallicity>0.38</metallicity>
+		<planet>
+			<name>Kepler-637 b</name>
+			<period errorminus="0.000054" errorplus="0.000054">23.20584623</period>
+			<radius errorminus="0.05" errorplus="0.045">0.424</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

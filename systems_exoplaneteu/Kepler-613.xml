@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-613</name>
+	<rightascension>18 51 09</rightascension>
+	<declination>+46 14 42</declination>
+	<distance>864.0</distance>
+	<star>
+		<name>Kepler-613</name>
+		<radius>0.96</radius>
+		<mass>0.98</mass>
+		<temperature>5723.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-613 b</name>
+			<period errorminus="0.000043" errorplus="0.000043">15.77979614</period>
+			<radius errorminus="0.015" errorplus="0.036">0.204</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

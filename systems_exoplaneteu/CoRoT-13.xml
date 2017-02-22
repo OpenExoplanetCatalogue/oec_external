@@ -1,0 +1,30 @@
+<system>
+	<name>CoRoT-13</name>
+	<rightascension>06 50 53</rightascension>
+	<declination>-05 54 49</declination>
+	<distance>1310.0</distance>
+	<star>
+		<name>CoRoT-13</name>
+		<age>1.64</age>
+		<radius>1.01</radius>
+		<mass>1.09</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>5945.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>CoRoT-13 b</name>
+			<semimajoraxis errorminus="0.0031" errorplus="0.0031">0.051</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.036" errorplus="0.036">88.02</inclination>
+			<period errorminus="0.000030" errorplus="0.000030">4.03519</period>
+			<mass errorminus="0.066" errorplus="0.066">1.308</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.885</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/08/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

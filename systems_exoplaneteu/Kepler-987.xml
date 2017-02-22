@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-987</name>
+	<rightascension>19 17 39</rightascension>
+	<declination>+46 07 51</declination>
+	<distance>936.0</distance>
+	<star>
+		<name>Kepler-987</name>
+		<radius>0.91</radius>
+		<mass>0.97</mass>
+		<temperature>5637.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-987 b</name>
+			<period errorminus="0.000478" errorplus="0.000478">105.3033148</period>
+			<radius errorminus="0.011" errorplus="0.014">0.291</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

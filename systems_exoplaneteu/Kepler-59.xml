@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-59</name>
+	<rightascension>19 08 09</rightascension>
+	<declination>+46 38 24</declination>
+	<star>
+		<name>Kepler-59</name>
+		<radius>0.94</radius>
+		<mass>1.04</mass>
+		<temperature>6074.0</temperature>
+		<planet>
+			<name>Kepler-59 b</name>
+			<period errorminus="0.000360" errorplus="0.000360">11.8681707</period>
+			<mass errorminus="2.05" errorplus="0.0">2.05</mass>
+			<radius>0.098</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-59 c</name>
+			<period errorminus="0.000300" errorplus="0.000300">17.9801235</period>
+			<mass errorminus="1.37" errorplus="0.0">1.37</mass>
+			<radius>0.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/07/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

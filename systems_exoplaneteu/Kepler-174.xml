@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-174</name>
+	<rightascension>19 09 45</rightascension>
+	<declination>+43 49 56</declination>
+	<star>
+		<name>Kepler-174</name>
+		<radius>0.62</radius>
+		<temperature>4880.0</temperature>
+		<metallicity>-0.556</metallicity>
+		<planet>
+			<name>Kepler-174 b</name>
+			<semimajoraxis>0.1</semimajoraxis>
+			<period errorminus="0.000024" errorplus="0.000024">13.98179</period>
+			<radius errorminus="0.01" errorplus="0.01">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-174 c</name>
+			<semimajoraxis>0.214</semimajoraxis>
+			<period errorminus="0.000265" errorplus="0.000265">44.000529</period>
+			<radius errorminus="0.008" errorplus="0.008">0.133</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-174 d</name>
+			<semimajoraxis>0.677</semimajoraxis>
+			<period errorminus="0.002001" errorplus="0.002001">247.35373</period>
+			<radius errorminus="0.012" errorplus="0.012">0.195</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

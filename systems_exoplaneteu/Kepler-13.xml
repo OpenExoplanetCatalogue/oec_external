@@ -1,0 +1,27 @@
+<system>
+	<name>Kepler-13</name>
+	<rightascension>19 07 53</rightascension>
+	<declination>+46 52 06</declination>
+	<star>
+		<name>Kepler-13</name>
+		<radius>2.55</radius>
+		<mass>2.05</mass>
+		<temperature>8500.0</temperature>
+		<metallicity>-0.14</metallicity>
+		<planet>
+			<name>Kepler-13 A b</name>
+			<longitude errorminus="0.9" errorplus="0.9" />
+			<inclination errorminus="0.2" errorplus="0.2">81.8</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">1.7633587</period>
+			<mass errorminus="1.5" errorplus="1.5">6.6</mass>
+			<radius errorminus="0.038" errorplus="0.038">1.406</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<temperature>2750.0</temperature>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

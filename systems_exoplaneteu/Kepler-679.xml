@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-679</name>
+	<rightascension>19 44 05</rightascension>
+	<declination>+50 34 04</declination>
+	<distance>968.0</distance>
+	<star>
+		<name>Kepler-679</name>
+		<radius>0.84</radius>
+		<mass>0.87</mass>
+		<temperature>5403.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-679 b</name>
+			<period errorminus="0.000038" errorplus="0.000038">12.39358604</period>
+			<radius errorminus="0.035" errorplus="0.029">0.269</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

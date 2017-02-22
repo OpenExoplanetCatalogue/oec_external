@@ -1,0 +1,59 @@
+<system>
+	<name>Kepler-48</name>
+	<rightascension>19 56 33</rightascension>
+	<declination>+40 56 56</declination>
+	<star>
+		<name>Kepler-48</name>
+		<age>3.14</age>
+		<radius>0.89</radius>
+		<mass>0.88</mass>
+		<temperature>5194.0</temperature>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>Kepler-48 b</name>
+			<period>4.778</period>
+			<mass errorminus="0.0066" errorplus="0.0066">0.0124</mass>
+			<radius errorminus="0.009" errorplus="0.009">0.168</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-48 c</name>
+			<period errorminus="0.000020" errorplus="0.000020">9.673928</period>
+			<mass errorminus="0.0072" errorplus="0.0072">0.04597</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.242</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-48 d</name>
+			<period>42.8961</period>
+			<mass errorminus="0.014" errorplus="0.014">0.025</mass>
+			<radius errorminus="0.0098" errorplus="0.0098">0.182</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-48 e</name>
+			<period errorminus="8.000000" errorplus="8.000000">982.0</period>
+			<mass errorminus="0.079" errorplus="0.079">2.067</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

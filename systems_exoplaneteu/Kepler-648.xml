@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-648</name>
+	<rightascension>18 55 36</rightascension>
+	<declination>+45 01 01</declination>
+	<distance>665.0</distance>
+	<star>
+		<name>Kepler-648</name>
+		<radius>0.98</radius>
+		<mass>1.05</mass>
+		<temperature>5741.0</temperature>
+		<metallicity>0.21</metallicity>
+		<planet>
+			<name>Kepler-648 b</name>
+			<period errorminus="0.000021" errorplus="0.000021">17.4211749</period>
+			<radius errorminus="0.021" errorplus="0.011">0.287</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

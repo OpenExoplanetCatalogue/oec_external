@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-874</name>
+	<rightascension>19 39 50</rightascension>
+	<declination>+43 00 52</declination>
+	<distance>1072.0</distance>
+	<star>
+		<name>Kepler-874</name>
+		<radius>1.13</radius>
+		<mass>1.09</mass>
+		<temperature>6020.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-874 b</name>
+			<period errorminus="0.000101" errorplus="0.000101">40.0686727</period>
+			<radius errorminus="0.053" errorplus="0.095">0.352</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

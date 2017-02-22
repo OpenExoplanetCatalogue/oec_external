@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-563</name>
+	<rightascension>19 29 47</rightascension>
+	<declination>+46 17 23</declination>
+	<distance>557.0</distance>
+	<star>
+		<name>Kepler-563</name>
+		<radius>0.77</radius>
+		<mass>0.8</mass>
+		<temperature>5066.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-563 b</name>
+			<period errorminus="0.000025" errorplus="0.000025">22.18432708</period>
+			<radius errorminus="0.018" errorplus="0.015">0.276</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

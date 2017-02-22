@@ -1,0 +1,21 @@
+<system>
+	<name>CHXR 73</name>
+	<rightascension>11 06 29</rightascension>
+	<declination>-77 22 27</declination>
+	<star>
+		<name>CHXR 73</name>
+		<age>0.002</age>
+		<mass>0.35</mass>
+		<spectraltype>M3.25</spectraltype>
+		<planet>
+			<name>CHXR 73 b</name>
+			<semimajoraxis>200.0</semimajoraxis>
+			<mass errorminus="5.0" errorplus="8.0">12.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

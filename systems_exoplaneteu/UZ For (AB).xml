@@ -1,0 +1,21 @@
+<system>
+	<name>UZ For (AB)</name>
+	<rightascension>03 35 29</rightascension>
+	<declination>-25 15 38</declination>
+	<star>
+		<name>UZ For (AB)</name>
+		<mass>0.84</mass>
+		<spectraltype>Catac. var.</spectraltype>
+		<planet>
+			<name>UZ For (AB) d</name>
+			<semimajoraxis errorminus="0.5" errorplus="0.5">2.8</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.05</eccentricity>
+			<period errorminus="90.000000" errorplus="90.000000">1900.0</period>
+			<mass errorminus="1.2" errorplus="1.2">7.7</mass>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

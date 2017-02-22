@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-561</name>
+	<rightascension>19 34 59</rightascension>
+	<declination>+45 06 26</declination>
+	<distance>667.0</distance>
+	<star>
+		<name>Kepler-561</name>
+		<radius>0.94</radius>
+		<mass>0.96</mass>
+		<temperature>5646.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-561 b</name>
+			<period errorminus="0.000032" errorplus="0.000032">58.3620495</period>
+			<radius errorminus="0.054" errorplus="0.108">0.621</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-561 c</name>
+			<period errorminus="0.000004" errorplus="0.000004">5.35016198</period>
+			<radius errorminus="0.022" errorplus="0.038">0.239</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

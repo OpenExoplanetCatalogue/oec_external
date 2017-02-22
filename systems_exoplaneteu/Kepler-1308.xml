@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1308</name>
+	<rightascension>19 03 43</rightascension>
+	<declination>+38 31 15</declination>
+	<distance>73.0</distance>
+	<star>
+		<name>Kepler-1308</name>
+		<radius>0.34</radius>
+		<mass>0.35</mass>
+		<temperature>3468.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>Kepler-1308 b</name>
+			<period errorminus="0.000004" errorplus="0.000004">2.10433812</period>
+			<radius errorminus="0.004" errorplus="0.005">0.046</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

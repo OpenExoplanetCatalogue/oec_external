@@ -1,0 +1,26 @@
+<system>
+	<name>HD 39392</name>
+	<rightascension>05 53 19</rightascension>
+	<declination>+22 04 20</declination>
+	<distance>94.2</distance>
+	<star>
+		<name>HD 39392</name>
+		<mass>1.08</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>5951.0</temperature>
+		<metallicity>0.32</metallicity>
+		<planet>
+			<name>HD 39392 b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.08</semimajoraxis>
+			<periastron errorminus="1.3" errorplus="1.3">328.1</periastron>
+			<eccentricity errorminus="0.008" errorplus="0.008">0.394</eccentricity>
+			<period errorminus="1.400000" errorplus="1.400000">394.3</period>
+			<mass errorminus="0.8" errorplus="0.8">13.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

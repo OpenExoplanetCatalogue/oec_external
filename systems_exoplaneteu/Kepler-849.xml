@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-849</name>
+	<rightascension>19 23 24</rightascension>
+	<declination>+48 31 17</declination>
+	<distance>747.0</distance>
+	<star>
+		<name>Kepler-849</name>
+		<radius>1.64</radius>
+		<mass>1.23</mass>
+		<temperature>6059.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>Kepler-849 b</name>
+			<period errorminus="0.000888" errorplus="0.000888">394.6244904</period>
+			<radius errorminus="0.122" errorplus="0.133">0.637</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

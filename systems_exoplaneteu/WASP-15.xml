@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-15</name>
+	<rightascension>13 55 43</rightascension>
+	<declination>-32 50 25</declination>
+	<distance>308.0</distance>
+	<star>
+		<name>WASP-15</name>
+		<age>3.9</age>
+		<radius>1.477</radius>
+		<mass>1.18</mass>
+		<spectraltype>F7</spectraltype>
+		<temperature>6300.0</temperature>
+		<metallicity>-0.17</metallicity>
+		<planet>
+			<name>WASP-15 b</name>
+			<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.0499</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">85.5</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">3.7520656</period>
+			<mass errorminus="0.05" errorplus="0.05">0.542</mass>
+			<radius errorminus="0.077" errorplus="0.077">1.428</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>13/06/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

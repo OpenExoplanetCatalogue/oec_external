@@ -1,0 +1,38 @@
+<system>
+	<name>KOI-1781</name>
+	<rightascension>19 10 25</rightascension>
+	<declination>+49 31 24</declination>
+	<star>
+		<name>KOI-1781</name>
+		<radius>0.79</radius>
+		<mass>0.83</mass>
+		<temperature>4974.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>Kepler-411 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.038</semimajoraxis>
+			<periastron errorminus="250.0" errorplus="0.0">360.0</periastron>
+			<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+			<inclination errorminus="1.83" errorplus="1.73">88.27</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">3.00516</period>
+			<radius errorminus="0.02" errorplus="0.02">0.168</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/06/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-411 c</name>
+			<period errorminus="0.000003" errorplus="0.000003">7.83442788</period>
+			<radius errorminus="0.006" errorplus="0.011">0.292</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/06/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

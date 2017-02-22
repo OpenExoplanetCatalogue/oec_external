@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-926</name>
+	<rightascension>19 18 43</rightascension>
+	<declination>+40 42 02</declination>
+	<distance>771.0</distance>
+	<star>
+		<name>Kepler-926</name>
+		<radius>1.01</radius>
+		<mass>1.01</mass>
+		<temperature>5806.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-926 b</name>
+			<period errorminus="0.000190" errorplus="0.000190">52.0688601</period>
+			<radius errorminus="0.021" errorplus="0.051">0.206</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

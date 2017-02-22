@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-647</name>
+	<rightascension>18 59 09</rightascension>
+	<declination>+44 35 30</declination>
+	<distance>789.0</distance>
+	<star>
+		<name>Kepler-647</name>
+		<radius>1.07</radius>
+		<mass>1.03</mass>
+		<temperature>6020.0</temperature>
+		<metallicity>-0.14</metallicity>
+		<planet>
+			<name>Kepler-647 b</name>
+			<period errorminus="0.000156" errorplus="0.000156">16.2254649</period>
+			<radius errorminus="0.01" errorplus="0.012">0.104</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

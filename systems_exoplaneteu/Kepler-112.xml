@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-112</name>
+	<rightascension>19 47 55</rightascension>
+	<declination>+43 12 35</declination>
+	<star>
+		<name>Kepler-112</name>
+		<radius>0.84</radius>
+		<temperature>5544.0</temperature>
+		<metallicity>-0.588</metallicity>
+		<planet>
+			<name>Kepler-112 b</name>
+			<semimajoraxis>0.076</semimajoraxis>
+			<period errorminus="0.000010" errorplus="0.000010">8.408878</period>
+			<radius errorminus="0.051" errorplus="0.051">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-112 c</name>
+			<semimajoraxis>0.172</semimajoraxis>
+			<period errorminus="0.000060" errorplus="0.000060">28.574263</period>
+			<radius errorminus="0.052" errorplus="0.052">0.214</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

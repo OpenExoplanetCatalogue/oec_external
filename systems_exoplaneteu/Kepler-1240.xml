@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1240</name>
+	<rightascension>18 51 60</rightascension>
+	<declination>+40 33 27</declination>
+	<distance>614.0</distance>
+	<star>
+		<name>Kepler-1240</name>
+		<radius>0.96</radius>
+		<mass>0.98</mass>
+		<temperature>5682.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1240 b</name>
+			<period errorminus="0.000025" errorplus="0.000025">4.8663815</period>
+			<radius errorminus="0.009" errorplus="0.018">0.103</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

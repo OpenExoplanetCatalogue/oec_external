@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1074</name>
+	<rightascension>18 57 54</rightascension>
+	<declination>+46 15 09</declination>
+	<distance>245.0</distance>
+	<star>
+		<name>Kepler-1074</name>
+		<radius>0.57</radius>
+		<mass>0.6</mass>
+		<temperature>4002.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-1074 b</name>
+			<period errorminus="0.000014" errorplus="0.000014">5.94566534</period>
+			<radius errorminus="0.008" errorplus="0.021">0.112</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-955</name>
+	<rightascension>19 13 53</rightascension>
+	<declination>+40 16 11</declination>
+	<distance>637.0</distance>
+	<star>
+		<name>Kepler-955</name>
+		<radius>0.84</radius>
+		<mass>0.89</mass>
+		<temperature>5350.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-955 b</name>
+			<period errorminus="0.000017" errorplus="0.000017">14.53244172</period>
+			<radius errorminus="0.015" errorplus="0.024">0.279</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

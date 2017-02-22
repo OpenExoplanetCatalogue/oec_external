@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-495</name>
+	<rightascension>19 03 43</rightascension>
+	<declination>+39 05 53</declination>
+	<distance>630.0</distance>
+	<star>
+		<name>Kepler-495</name>
+		<radius>0.83</radius>
+		<mass>0.86</mass>
+		<temperature>5346.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>Kepler-495 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">3.41303622</period>
+			<radius errorminus="0.03" errorplus="0.037">0.467</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

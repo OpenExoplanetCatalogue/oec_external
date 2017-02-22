@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-986</name>
+	<rightascension>19 32 23</rightascension>
+	<declination>+42 53 47</declination>
+	<distance>563.0</distance>
+	<star>
+		<name>Kepler-986</name>
+		<radius>0.98</radius>
+		<mass>0.96</mass>
+		<temperature>5642.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-986 b</name>
+			<period errorminus="0.000145" errorplus="0.000145">56.4349938</period>
+			<radius errorminus="0.017" errorplus="0.026">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

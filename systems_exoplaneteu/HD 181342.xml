@@ -1,0 +1,28 @@
+<system>
+	<name>HD 181342</name>
+	<rightascension>19 21 04</rightascension>
+	<declination>-23 22 50</declination>
+	<distance>110.6</distance>
+	<star>
+		<name>HD 181342</name>
+		<age>1.8</age>
+		<radius>4.6</radius>
+		<mass>1.84</mass>
+		<spectraltype>K0III</spectraltype>
+		<temperature>5014.0</temperature>
+		<metallicity>0.26</metallicity>
+		<planet>
+			<name>HD 181342 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.65</semimajoraxis>
+			<periastron errorminus="36.0" errorplus="36.0">312.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.1</eccentricity>
+			<period errorminus="6.000000" errorplus="6.000000">562.0</period>
+			<mass errorminus="0.2" errorplus="0.2">2.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/03/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

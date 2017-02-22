@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-580</name>
+	<rightascension>18 53 60</rightascension>
+	<declination>+40 33 10</declination>
+	<distance>333.0</distance>
+	<star>
+		<name>Kepler-580</name>
+		<radius>0.64</radius>
+		<mass>0.67</mass>
+		<temperature>4298.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-580 b</name>
+			<period errorminus="0.000010" errorplus="0.000010">8.22241966</period>
+			<radius errorminus="0.012" errorplus="0.026">0.229</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

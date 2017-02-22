@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1560</name>
+	<rightascension>19 31 08</rightascension>
+	<declination>+43 12 58</declination>
+	<distance>529.0</distance>
+	<star>
+		<name>Kepler-1560</name>
+		<radius>1.02</radius>
+		<mass>1.02</mass>
+		<temperature>5815.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1560 b</name>
+			<period errorminus="0.000013" errorplus="0.000013">3.03195744</period>
+			<radius errorminus="0.008" errorplus="0.016">0.079</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

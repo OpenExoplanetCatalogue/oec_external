@@ -1,0 +1,56 @@
+<system>
+	<name>Kepler-68</name>
+	<rightascension>19 24 08</rightascension>
+	<declination>+49 02 25</declination>
+	<distance>135.0</distance>
+	<star>
+		<name>Kepler-68</name>
+		<age>6.3</age>
+		<radius>1.243</radius>
+		<mass>1.079</mass>
+		<temperature>5793.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>Kepler-68 b</name>
+			<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.0617</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.13">0.02</eccentricity>
+			<inclination errorminus="0.9" errorplus="0.9">87.6</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">5.3987533</period>
+			<mass errorminus="0.0053" errorplus="0.0053">0.0188</mass>
+			<radius errorminus="0.05" errorplus="0.08">0.206</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/11/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-68 c</name>
+			<semimajoraxis errorminus="0.00082" errorplus="0.00082">0.09059</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.41">0.42</eccentricity>
+			<inclination errorminus="0.41" errorplus="0.41">86.93</inclination>
+			<period errorminus="0.000045" errorplus="0.000045">9.604979</period>
+			<mass errorminus="0.011" errorplus="0.011">0.00686</mass>
+			<radius errorminus="0.0022" errorplus="0.0022">0.0827</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/11/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-68 d</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.4</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.18</eccentricity>
+			<period errorminus="16.000000" errorplus="16.000000">625.0</period>
+			<mass errorminus="0.05" errorplus="0.05">0.84</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/11/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

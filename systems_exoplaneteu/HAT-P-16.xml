@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-16</name>
+	<rightascension>00 38 18</rightascension>
+	<declination>+42 27 47</declination>
+	<distance>235.0</distance>
+	<star>
+		<name>HAT-P-16</name>
+		<age>2.0</age>
+		<radius>1.237</radius>
+		<mass>1.218</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>6158.0</temperature>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>HAT-P-16 b</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0413</semimajoraxis>
+			<periastron errorminus="8.0" errorplus="8.0">214.0</periastron>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.036</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">86.6</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">2.77596</period>
+			<mass errorminus="0.094" errorplus="0.094">4.193</mass>
+			<radius errorminus="0.066" errorplus="0.066">1.289</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>13/07/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>PZ Tel</name>
+	<rightascension>18 53 06</rightascension>
+	<declination>-50 49 10</declination>
+	<distance>51.49</distance>
+	<star>
+		<name>PZ Tel</name>
+		<age>0.023</age>
+		<radius>1.23</radius>
+		<mass>1.13</mass>
+		<spectraltype>G6.5</spectraltype>
+		<temperature>5338.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>PZ Tel b</name>
+			<semimajoraxis>20.0</semimajoraxis>
+			<eccentricity>0.62</eccentricity>
+			<mass errorminus="9.0" errorplus="9.0">62.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>2987.0</temperature>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/03/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

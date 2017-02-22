@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1190</name>
+	<rightascension>18 59 60</rightascension>
+	<declination>+49 28 48</declination>
+	<distance>384.0</distance>
+	<star>
+		<name>Kepler-1190</name>
+		<radius>0.72</radius>
+		<mass>0.76</mass>
+		<temperature>4730.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-1190 b</name>
+			<period errorminus="0.000053" errorplus="0.000053">10.45843441</period>
+			<radius errorminus="0.01" errorplus="0.004">0.119</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,40 @@
+<system>
+	<name>HD 85390</name>
+	<rightascension>09 50 02</rightascension>
+	<declination>-49 12 35</declination>
+	<distance>33.96</distance>
+	<star>
+		<name>HD 85390</name>
+		<age>7.2</age>
+		<mass>0.76</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5186.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>HD 85390 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.52</semimajoraxis>
+			<periastron errorminus="23.0" errorplus="23.0">266.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.41</eccentricity>
+			<period errorminus="25.000000" errorplus="25.000000">788.0</period>
+			<mass errorminus="0.01" errorplus="0.01">0.132</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>13/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 85390 c</name>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">4.23</semimajoraxis>
+			<periastron errorminus="49.0" errorplus="49.0">360.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.0</eccentricity>
+			<period errorminus="840.000000" errorplus="840.000000">3700.0</period>
+			<mass errorminus="0.02" errorplus="0.02">0.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

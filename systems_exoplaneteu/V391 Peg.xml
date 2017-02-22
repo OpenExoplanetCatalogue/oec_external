@@ -1,0 +1,25 @@
+<system>
+	<name>V391 Peg</name>
+	<rightascension>22 04 12</rightascension>
+	<declination>+26 25 08</declination>
+	<distance>1400.0</distance>
+	<star>
+		<name>V391 Peg</name>
+		<age>10.0</age>
+		<radius>0.23</radius>
+		<mass>0.5</mass>
+		<spectraltype>sdB</spectraltype>
+		<temperature>29300.0</temperature>
+		<planet>
+			<name>V391 Peg b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.7</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="44.000000" errorplus="44.000000">1170.0</period>
+			<mass errorminus="0.7" errorplus="0.7">3.2</mass>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/08/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

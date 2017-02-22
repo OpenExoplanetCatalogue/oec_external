@@ -1,0 +1,74 @@
+<system>
+	<name>WASP-47</name>
+	<rightascension>22 04 49</rightascension>
+	<declination>-12 58 52</declination>
+	<distance>200.0</distance>
+	<star>
+		<name>WASP-47</name>
+		<radius>1.16</radius>
+		<mass>1.11</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5400.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>WASP-47 b</name>
+			<semimajoraxis errorminus="0.011" errorplus="0.011">0.052</semimajoraxis>
+			<periastron errorminus="82.0" errorplus="82.0">51.0</periastron>
+			<eccentricity errorminus="0.0028" errorplus="0.0028">0.0028</eccentricity>
+			<inclination errorminus="0.17" errorplus="0.17">89.02</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">4.15912</period>
+			<mass errorminus="0.038" errorplus="0.038">1.13</mass>
+			<radius errorminus="0.079" errorplus="0.079">1.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>WASP-47 c</name>
+			<semimajoraxis errorminus="0.3" errorplus="0.3">1.41</semimajoraxis>
+			<periastron errorminus="8.0" errorplus="8.0">138.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.28</eccentricity>
+			<inclination errorminus="45.0" errorplus="45.0">87.0</inclination>
+			<period errorminus="2.000000" errorplus="2.000000">596.0</period>
+			<mass errorminus="0.0518" errorplus="0.721">1.31</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>WASP-47 d</name>
+			<semimajoraxis errorminus="0.019" errorplus="0.019">0.088</semimajoraxis>
+			<periastron errorminus="106.0" errorplus="106.0">76.0</periastron>
+			<eccentricity errorminus="0.007" errorplus="0.007">0.007</eccentricity>
+			<inclination errorminus="0.13" errorplus="0.13">89.22</inclination>
+			<period errorminus="0.000300" errorplus="0.000300">9.0304</period>
+			<mass errorminus="0.0063" errorplus="0.0063">0.0428</mass>
+			<radius errorminus="0.023" errorplus="0.023">0.331</radius>
+			<istransiting>1</istransiting>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>WASP-47 e</name>
+			<semimajoraxis errorminus="0.0038" errorplus="0.0038">0.0173</semimajoraxis>
+			<periastron errorminus="146.0" errorplus="146.0">81.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.03</eccentricity>
+			<inclination errorminus="2.1" errorplus="2.1">86.2</inclination>
+			<period errorminus="0.000010" errorplus="0.000010">0.78961</period>
+			<mass errorminus="0.0031" errorplus="0.0031">0.029</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.167</radius>
+			<istransiting>1</istransiting>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-583</name>
+	<rightascension>18 48 27</rightascension>
+	<declination>+42 21 16</declination>
+	<distance>805.0</distance>
+	<star>
+		<name>Kepler-583</name>
+		<radius>0.91</radius>
+		<mass>0.94</mass>
+		<temperature>5523.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-583 b</name>
+			<period errorminus="0.000014" errorplus="0.000014">6.5100253</period>
+			<radius errorminus="0.013" errorplus="0.026">0.203</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

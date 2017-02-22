@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-601</name>
+	<rightascension>18 48 01</rightascension>
+	<declination>+42 10 36</declination>
+	<distance>429.0</distance>
+	<star>
+		<name>Kepler-601</name>
+		<radius>0.79</radius>
+		<mass>0.85</mass>
+		<temperature>5160.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-601 b</name>
+			<period errorminus="0.000007" errorplus="0.000007">5.37886844</period>
+			<radius errorminus="0.016" errorplus="0.024">0.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

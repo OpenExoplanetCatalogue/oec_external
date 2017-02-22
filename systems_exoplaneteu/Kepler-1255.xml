@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1255</name>
+	<rightascension>19 40 57</rightascension>
+	<declination>+42 43 35</declination>
+	<distance>1344.0</distance>
+	<star>
+		<name>Kepler-1255</name>
+		<radius>1.12</radius>
+		<mass>1.08</mass>
+		<temperature>6018.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1255 b</name>
+			<period errorminus="0.000316" errorplus="0.000316">36.2919336</period>
+			<radius errorminus="0.026" errorplus="0.057">0.207</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

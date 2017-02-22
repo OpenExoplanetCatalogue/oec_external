@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-793</name>
+	<rightascension>19 40 52</rightascension>
+	<declination>+38 46 28</declination>
+	<distance>794.0</distance>
+	<star>
+		<name>Kepler-793</name>
+		<radius>0.97</radius>
+		<mass>0.98</mass>
+		<temperature>5745.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-793 b</name>
+			<period errorminus="0.000023" errorplus="0.000023">4.24153639</period>
+			<radius errorminus="0.014" errorplus="0.025">0.122</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,40 @@
+<system>
+	<name>HD 102272</name>
+	<rightascension>11 46 24</rightascension>
+	<declination>+14 07 26</declination>
+	<distance>360.0</distance>
+	<star>
+		<name>HD 102272</name>
+		<radius>10.1</radius>
+		<mass>1.9</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>4908.0</temperature>
+		<metallicity>0.26</metallicity>
+		<planet>
+			<name>HD 102272 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.614</semimajoraxis>
+			<periastron errorminus="58.0" errorplus="58.0">118.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.05</eccentricity>
+			<period errorminus="0.300000" errorplus="0.300000">127.58</period>
+			<mass errorminus="0.2" errorplus="0.2">5.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/06/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 102272 c</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.57</semimajoraxis>
+			<periastron errorminus="10.0" errorplus="10.0">320.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.68</eccentricity>
+			<period errorminus="26.000000" errorplus="26.000000">520.0</period>
+			<mass errorminus="0.4" errorplus="0.4">2.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/06/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

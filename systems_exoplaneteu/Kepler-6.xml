@@ -1,0 +1,28 @@
+<system>
+	<name>Kepler-6</name>
+	<rightascension>19 47 21</rightascension>
+	<declination>+48 14 24</declination>
+	<star>
+		<name>Kepler-6</name>
+		<age>3.8</age>
+		<radius>1.391</radius>
+		<mass>1.209</mass>
+		<temperature>5647.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>Kepler-6 b</name>
+			<semimajoraxis errorminus="0.00046" errorplus="0.00046">0.04567</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.3" errorplus="0.3">86.8</inclination>
+			<period errorminus="0.000017" errorplus="0.000017">3.234723</period>
+			<mass errorminus="0.03" errorplus="0.025">0.669</mass>
+			<radius errorminus="0.029" errorplus="0.029">1.323</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

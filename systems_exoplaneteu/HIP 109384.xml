@@ -1,0 +1,26 @@
+<system>
+	<name>HIP 109384</name>
+	<rightascension>22 08 32</rightascension>
+	<declination>+71 18 52</declination>
+	<distance>56.2</distance>
+	<star>
+		<name>HIP 109384</name>
+		<mass>0.78</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5180.0</temperature>
+		<metallicity>-0.26</metallicity>
+		<planet>
+			<name>HIP 109384 b</name>
+			<semimajoraxis errorminus="0.029" errorplus="0.029">1.134</semimajoraxis>
+			<periastron errorminus="0.37" errorplus="0.37">104.49</periastron>
+			<eccentricity errorminus="0.003" errorplus="0.003">0.549</eccentricity>
+			<period errorminus="0.320000" errorplus="0.320000">499.48</period>
+			<mass errorminus="0.08" errorplus="0.08">1.56</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

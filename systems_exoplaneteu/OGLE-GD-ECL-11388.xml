@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-GD-ECL-11388</name>
+	<rightascension>13 34 50</rightascension>
+	<declination>-64 51 28</declination>
+	<star>
+		<name>OGLE-GD-ECL-11388</name>
+		<mass>0.61</mass>
+		<spectraltype>sdB2VII</spectraltype>
+		<planet>
+			<name>OGLE-GD-ECL-11388 b</name>
+			<period errorminus="365.000000" errorplus="365.000000">3250.0</period>
+			<mass>12.5</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

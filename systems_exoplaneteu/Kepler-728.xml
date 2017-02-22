@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-728</name>
+	<rightascension>19 24 22</rightascension>
+	<declination>+45 06 56</declination>
+	<distance>1236.0</distance>
+	<star>
+		<name>Kepler-728</name>
+		<radius>0.93</radius>
+		<mass>0.95</mass>
+		<temperature>5660.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-728 b</name>
+			<period errorminus="0.000007" errorplus="0.000007">5.74347727</period>
+			<radius errorminus="0.023" errorplus="0.04">0.298</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

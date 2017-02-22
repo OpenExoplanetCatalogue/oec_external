@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1482</name>
+	<rightascension>19 01 15</rightascension>
+	<declination>+48 43 31</declination>
+	<distance>442.0</distance>
+	<star>
+		<name>Kepler-1482</name>
+		<radius>0.84</radius>
+		<mass>0.88</mass>
+		<temperature>5381.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-1482 b</name>
+			<period errorminus="0.000084" errorplus="0.000084">12.25383217</period>
+			<radius errorminus="0.01" errorplus="0.009">0.09</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

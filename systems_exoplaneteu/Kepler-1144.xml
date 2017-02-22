@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1144</name>
+	<rightascension>19 20 10</rightascension>
+	<declination>+47 15 29</declination>
+	<distance>1012.0</distance>
+	<star>
+		<name>Kepler-1144</name>
+		<radius>0.96</radius>
+		<mass>0.98</mass>
+		<temperature>5753.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-1144 b</name>
+			<period errorminus="0.000091" errorplus="0.000091">17.14647302</period>
+			<radius errorminus="0.014" errorplus="0.027">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

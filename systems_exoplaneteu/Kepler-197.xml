@@ -1,0 +1,64 @@
+<system>
+	<name>Kepler-197</name>
+	<rightascension>19 40 54</rightascension>
+	<declination>+50 33 32</declination>
+	<star>
+		<name>Kepler-197</name>
+		<radius>1.12</radius>
+		<temperature>6004.0</temperature>
+		<metallicity>-0.533</metallicity>
+		<planet>
+			<name>Kepler-197 b</name>
+			<semimajoraxis>0.06</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.23">0.02</eccentricity>
+			<period errorminus="0.000039" errorplus="0.000039">5.599293</period>
+			<radius errorminus="0.00339" errorplus="0.00339">0.09492</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-197 c</name>
+			<semimajoraxis>0.09</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.21">0.08</eccentricity>
+			<period errorminus="0.000054" errorplus="0.000054">10.349711</period>
+			<mass errorminus="0.0091" errorplus="0.01">0.017</mass>
+			<radius errorminus="0.0043" errorplus="0.0043">0.1078</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-197 d</name>
+			<semimajoraxis>0.119</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.2">0.03</eccentricity>
+			<period errorminus="0.000130" errorplus="0.000130">15.67787</period>
+			<radius errorminus="0.0044" errorplus="0.0044">0.111</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-197 e</name>
+			<semimajoraxis>0.164</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.25">0.38</eccentricity>
+			<period errorminus="0.001400" errorplus="0.001400">25.2097</period>
+			<radius errorminus="0.00428" errorplus="0.00428">0.0877</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

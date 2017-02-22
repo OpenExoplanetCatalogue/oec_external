@@ -1,0 +1,52 @@
+<system>
+	<name>Kepler-92</name>
+	<rightascension>19 16 21</rightascension>
+	<declination>+41 33 47</declination>
+	<distance>448.57</distance>
+	<star>
+		<name>Kepler-92</name>
+		<age>5.52</age>
+		<radius>1.716</radius>
+		<mass>1.209</mass>
+		<temperature>5871.0</temperature>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>Kepler-92 b</name>
+			<eccentricity errorminus="0.17" errorplus="0.1">0.17</eccentricity>
+			<period errorminus="0.000075" errorplus="0.000075">13.748933</period>
+			<mass errorminus="0.28" errorplus="0.126">0.189</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.326</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-92 c</name>
+			<eccentricity errorminus="0.04" errorplus="0.22">0.04</eccentricity>
+			<period errorminus="0.000190" errorplus="0.000190">26.72311</period>
+			<mass errorminus="0.0277" errorplus="0.011">0.0179</mass>
+			<radius errorminus="0.0047" errorplus="0.0047">0.219</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-92 d</name>
+			<eccentricity errorminus="0.04" errorplus="0.34">0.07</eccentricity>
+			<period errorminus="0.002400" errorplus="0.002400">49.3568</period>
+			<radius errorminus="0.005" errorplus="0.005">0.1844</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-787</name>
+	<rightascension>19 26 46</rightascension>
+	<declination>+38 34 22</declination>
+	<distance>468.0</distance>
+	<star>
+		<name>Kepler-787</name>
+		<radius>0.62</radius>
+		<mass>0.65</mass>
+		<temperature>4248.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-787 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">0.9283105</period>
+			<radius errorminus="0.006" errorplus="0.005">0.114</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

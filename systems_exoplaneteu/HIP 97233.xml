@@ -1,0 +1,27 @@
+<system>
+	<name>HIP 97233</name>
+	<rightascension>19 45 41</rightascension>
+	<declination>+00 18 12</declination>
+	<distance>106.5</distance>
+	<star>
+		<name>HIP 97233</name>
+		<radius>5.34</radius>
+		<mass>1.93</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5020.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HIP 97233 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.55</semimajoraxis>
+			<periastron errorminus="2.4" errorplus="2.4">249.3</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.61</eccentricity>
+			<period errorminus="6.700000" errorplus="6.700000">1058.8</period>
+			<mass errorminus="0.4" errorplus="0.4">20.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

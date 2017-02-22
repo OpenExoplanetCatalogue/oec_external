@@ -1,0 +1,23 @@
+<system>
+	<name>HW Vir (AB)</name>
+	<rightascension>12 44 20</rightascension>
+	<declination>-08 19 43</declination>
+	<distance>181.0</distance>
+	<star>
+		<name>HW Vir (AB)</name>
+		<mass>0.627</mass>
+		<spectraltype>sdB+M</spectraltype>
+		<planet>
+			<name>HW Vir (AB) b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">4.69</semimajoraxis>
+			<periastron errorminus="10.0" errorplus="10.0">342.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.4</eccentricity>
+			<period errorminus="73.000000" errorplus="73.000000">4640.0</period>
+			<mass errorminus="1.0" errorplus="1.0">14.3</mass>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>12/06/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-129</name>
+	<rightascension>19 01 15</rightascension>
+	<declination>+47 50 55</declination>
+	<star>
+		<name>Kepler-129</name>
+		<radius>1.64</radius>
+		<mass>1.18</mass>
+		<temperature>5770.0</temperature>
+		<planet>
+			<name>Kepler-129 b</name>
+			<semimajoraxis>0.131</semimajoraxis>
+			<eccentricity errorminus="0.01" errorplus="0.24">0.01</eccentricity>
+			<period errorminus="0.000053" errorplus="0.000053">15.791619</period>
+			<radius errorminus="0.0036" errorplus="0.0036">0.2149</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-129 c</name>
+			<semimajoraxis>0.393</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.15">0.2</eccentricity>
+			<period errorminus="0.000680" errorplus="0.000680">82.20017</period>
+			<radius errorminus="0.0059" errorplus="0.0059">0.225</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

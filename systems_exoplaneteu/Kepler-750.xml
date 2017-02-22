@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-750</name>
+	<rightascension>19 16 23</rightascension>
+	<declination>+44 00 16</declination>
+	<distance>1181.0</distance>
+	<star>
+		<name>Kepler-750</name>
+		<radius>1.23</radius>
+		<mass>1.15</mass>
+		<temperature>6160.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-750 b</name>
+			<period errorminus="0.000024" errorplus="0.000024">9.42887179</period>
+			<radius errorminus="0.036" errorplus="0.095">0.274</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-750 c</name>
+			<period errorminus="0.000019" errorplus="0.000019">4.08899022</period>
+			<radius errorminus="0.02" errorplus="0.058">0.145</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-852</name>
+	<rightascension>19 49 34</rightascension>
+	<declination>+48 33 38</declination>
+	<distance>854.0</distance>
+	<star>
+		<name>Kepler-852</name>
+		<radius>1.16</radius>
+		<mass>1.19</mass>
+		<temperature>6100.0</temperature>
+		<metallicity>0.22</metallicity>
+		<planet>
+			<name>Kepler-852 b</name>
+			<period errorminus="0.000240" errorplus="0.000240">44.9309804</period>
+			<radius errorminus="0.015" errorplus="0.04">0.227</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

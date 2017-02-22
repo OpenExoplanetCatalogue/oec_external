@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-877</name>
+	<rightascension>19 19 26</rightascension>
+	<declination>+46 31 22</declination>
+	<distance>572.0</distance>
+	<star>
+		<name>Kepler-877</name>
+		<radius>0.81</radius>
+		<mass>0.85</mass>
+		<temperature>5261.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-877 b</name>
+			<period errorminus="0.000048" errorplus="0.000048">18.45847097</period>
+			<radius errorminus="0.024" errorplus="0.012">0.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

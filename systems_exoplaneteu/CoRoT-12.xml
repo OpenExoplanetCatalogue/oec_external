@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-12</name>
+	<rightascension>06 43 04</rightascension>
+	<declination>-01 42 13</declination>
+	<distance>1150.0</distance>
+	<star>
+		<name>CoRoT-12</name>
+		<age>6.3</age>
+		<radius>1.116</radius>
+		<mass>1.078</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5675.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>CoRoT-12 b</name>
+			<semimajoraxis errorminus="0.00092" errorplus="0.00092">0.04016</semimajoraxis>
+			<periastron errorminus="27.0" errorplus="27.0">105.0</periastron>
+			<eccentricity errorminus="0.042" errorplus="0.042">0.07</eccentricity>
+			<inclination errorminus="0.77" errorplus="0.77">85.48</inclination>
+			<period errorminus="0.000013" errorplus="0.000013">2.828042</period>
+			<mass errorminus="0.065" errorplus="0.07">0.917</mass>
+			<radius errorminus="0.13" errorplus="0.13">1.44</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/08/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

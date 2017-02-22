@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-53</name>
+	<rightascension>19 21 51</rightascension>
+	<declination>+40 33 45</declination>
+	<star>
+		<name>Kepler-53</name>
+		<radius>0.89</radius>
+		<mass>0.98</mass>
+		<temperature>5858.0</temperature>
+		<planet>
+			<name>Kepler-53 b</name>
+			<period errorminus="0.000160" errorplus="0.000160">18.6489525</period>
+			<mass errorminus="18.41" errorplus="0.0">18.41</mass>
+			<radius>0.26</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-53 c</name>
+			<period errorminus="0.000410" errorplus="0.000410">38.5583038</period>
+			<mass errorminus="15.74" errorplus="0.0">15.75</mass>
+			<radius>0.28</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-53 d</name>
+			<semimajoraxis>0.091</semimajoraxis>
+			<period errorminus="0.000077" errorplus="0.000077">9.751962</period>
+			<radius errorminus="0.094" errorplus="0.094">0.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

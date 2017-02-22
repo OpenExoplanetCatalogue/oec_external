@@ -1,0 +1,53 @@
+<system>
+	<name>Kepler-23</name>
+	<rightascension>19 36 52</rightascension>
+	<declination>+49 28 45</declination>
+	<star>
+		<name>Kepler-23</name>
+		<radius>1.52</radius>
+		<mass>1.11</mass>
+		<temperature>5760.0</temperature>
+		<planet>
+			<name>Kepler-23 b</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.26">0.06</eccentricity>
+			<period errorminus="0.000073" errorplus="0.000073">7.106995</period>
+			<mass errorminus="0.0091" errorplus="0.01">0.0478</mass>
+			<radius errorminus="0.0068" errorplus="0.0068">0.1511</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-23 c</name>
+			<semimajoraxis>0.099</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.39">0.02</eccentricity>
+			<period errorminus="0.000039" errorplus="0.000039">10.742434</period>
+			<mass errorminus="0.033" errorplus="0.036">0.189</mass>
+			<radius errorminus="0.0089" errorplus="0.0089">0.278</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-23 d</name>
+			<semimajoraxis>0.124</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.24">0.08</eccentricity>
+			<period errorminus="0.000170" errorplus="0.000170">15.27429</period>
+			<mass errorminus="0.037" errorplus="0.043">0.055</mass>
+			<radius errorminus="0.0079" errorplus="0.0079">0.1994</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

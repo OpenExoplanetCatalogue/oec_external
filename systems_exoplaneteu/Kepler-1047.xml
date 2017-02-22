@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1047</name>
+	<rightascension>19 14 35</rightascension>
+	<declination>+50 47 20</declination>
+	<distance>566.0</distance>
+	<star>
+		<name>Kepler-1047</name>
+		<radius>1.13</radius>
+		<mass>1.08</mass>
+		<temperature>5754.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>Kepler-1047 b</name>
+			<period errorminus="0.000276" errorplus="0.000276">56.1886887</period>
+			<radius errorminus="0.015" errorplus="0.023">0.186</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1047 c</name>
+			<period errorminus="0.000020" errorplus="0.000020">3.18897601</period>
+			<radius errorminus="0.008" errorplus="0.012">0.088</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

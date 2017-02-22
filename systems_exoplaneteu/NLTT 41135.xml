@@ -1,0 +1,28 @@
+<system>
+	<name>NLTT 41135</name>
+	<rightascension>15 46 04</rightascension>
+	<declination>+04 41 30</declination>
+	<distance>22.7</distance>
+	<star>
+		<name>NLTT 41135</name>
+		<radius>0.21</radius>
+		<mass>0.188</mass>
+		<spectraltype>M5.1</spectraltype>
+		<temperature>3230.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>NLTT 41135</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.024</semimajoraxis>
+			<inclination errorminus="0.5" errorplus="0.5">87.42</inclination>
+			<period errorminus="0.000025" errorplus="0.000025">2.889475</period>
+			<mass errorminus="2.81" errorplus="2.82">33.7</mass>
+			<radius errorminus="0.17" errorplus="0.27">1.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/10/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

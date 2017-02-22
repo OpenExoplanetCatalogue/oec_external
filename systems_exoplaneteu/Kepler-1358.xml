@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1358</name>
+	<rightascension>19 04 41</rightascension>
+	<declination>+43 00 32</declination>
+	<distance>558.0</distance>
+	<star>
+		<name>Kepler-1358</name>
+		<radius>0.79</radius>
+		<mass>0.82</mass>
+		<temperature>5181.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-1358 b</name>
+			<period errorminus="0.000029" errorplus="0.000029">7.06317341</period>
+			<radius errorminus="0.009" errorplus="0.006">0.1</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

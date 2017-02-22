@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-61</name>
+	<rightascension>05 01 12</rightascension>
+	<declination>-26 56 45</declination>
+	<distance>480.0</distance>
+	<star>
+		<name>WASP-61</name>
+		<radius>1.36</radius>
+		<mass>1.22</mass>
+		<spectraltype>F7</spectraltype>
+		<temperature>6250.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>WASP-61 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0514</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.66" errorplus="0.66">89.35</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">3.8559</period>
+			<mass errorminus="0.17" errorplus="0.17">2.06</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.24</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/04/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

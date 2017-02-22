@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1364</name>
+	<rightascension>19 40 37</rightascension>
+	<declination>+49 35 15</declination>
+	<distance>1149.0</distance>
+	<star>
+		<name>Kepler-1364</name>
+		<radius>1.79</radius>
+		<mass>1.49</mass>
+		<temperature>6805.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1364 b</name>
+			<period errorminus="0.000081" errorplus="0.000081">13.32196237</period>
+			<radius errorminus="0.035" errorplus="0.071">0.192</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

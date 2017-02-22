@@ -1,0 +1,28 @@
+<system>
+	<name>HD 20868</name>
+	<rightascension>03 20 43</rightascension>
+	<declination>-33 16 12</declination>
+	<distance>48.9</distance>
+	<star>
+		<name>HD 20868</name>
+		<age>4.5</age>
+		<radius>0.79</radius>
+		<mass>0.78</mass>
+		<spectraltype>K3/4IV</spectraltype>
+		<temperature>4795.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>HD 20868 b</name>
+			<semimajoraxis errorminus="0.012" errorplus="0.012">0.947</semimajoraxis>
+			<periastron errorminus="0.4" errorplus="0.4">356.2</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.75</eccentricity>
+			<period errorminus="0.090000" errorplus="0.090000">380.85</period>
+			<mass errorminus="0.05" errorplus="0.05">1.99</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

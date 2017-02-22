@@ -1,0 +1,23 @@
+<system>
+	<name>ROXs 12</name>
+	<rightascension>16 26 25</rightascension>
+	<declination>-24 27 24</declination>
+	<distance>120.0</distance>
+	<star>
+		<name>ROXs 12</name>
+		<age>0.0076</age>
+		<mass>0.87</mass>
+		<spectraltype>M0</spectraltype>
+		<temperature>3850.0</temperature>
+		<planet>
+			<name>ROXs 12 b</name>
+			<semimajoraxis errorminus="20.0" errorplus="20.0">210.0</semimajoraxis>
+			<mass errorminus="4.0" errorplus="4.0">16.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

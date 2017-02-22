@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-827</name>
+	<rightascension>19 39 52</rightascension>
+	<declination>+42 42 31</declination>
+	<distance>1352.0</distance>
+	<star>
+		<name>Kepler-827</name>
+		<radius>0.91</radius>
+		<mass>0.93</mass>
+		<temperature>5602.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-827 b</name>
+			<period errorminus="0.000093" errorplus="0.000093">51.92927591</period>
+			<radius errorminus="0.041" errorplus="0.062">0.502</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

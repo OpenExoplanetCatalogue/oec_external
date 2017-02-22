@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1384</name>
+	<rightascension>19 44 52</rightascension>
+	<declination>+39 31 37</declination>
+	<distance>618.0</distance>
+	<star>
+		<name>Kepler-1384</name>
+		<radius>0.74</radius>
+		<mass>0.78</mass>
+		<temperature>4919.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-1384 b</name>
+			<period errorminus="0.000088" errorplus="0.000088">15.36262753</period>
+			<radius errorminus="0.018" errorplus="0.038">0.173</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

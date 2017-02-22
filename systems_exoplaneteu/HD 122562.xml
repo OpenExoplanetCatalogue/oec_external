@@ -1,0 +1,26 @@
+<system>
+	<name>HD 122562</name>
+	<rightascension>14 02 21</rightascension>
+	<declination>+20 52 53</declination>
+	<distance>53.8</distance>
+	<star>
+		<name>HD 122562</name>
+		<mass>1.13</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>4958.0</temperature>
+		<metallicity>0.31</metallicity>
+		<planet>
+			<name>HD 122562 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">4.1</semimajoraxis>
+			<periastron errorminus="1.3" errorplus="1.3">306.1</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.71</eccentricity>
+			<period errorminus="81.000000" errorplus="104.000000">2777.0</period>
+			<mass errorminus="2.0" errorplus="2.0">24.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

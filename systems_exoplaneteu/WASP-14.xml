@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-14</name>
+	<rightascension>14 33 06</rightascension>
+	<declination>+21 53 41</declination>
+	<distance>160.0</distance>
+	<star>
+		<name>WASP-14</name>
+		<age>0.75</age>
+		<radius>1.306</radius>
+		<mass>1.211</mass>
+		<spectraltype>F5V</spectraltype>
+		<temperature>6475.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>WASP-14 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.036</semimajoraxis>
+			<periastron errorminus="0.5" errorplus="0.5">252.9</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.087</eccentricity>
+			<inclination errorminus="0.67" errorplus="0.67">84.79</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">2.2437661</period>
+			<mass errorminus="0.496" errorplus="0.508">7.341</mass>
+			<radius errorminus="0.082" errorplus="0.075">1.281</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

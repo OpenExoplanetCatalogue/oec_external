@@ -1,0 +1,35 @@
+<system>
+	<name>K2-8</name>
+	<rightascension>11 19 10</rightascension>
+	<declination>+00 42 56</declination>
+	<star>
+		<name>K2-8</name>
+		<radius>0.74</radius>
+		<mass>0.79</mass>
+		<temperature>4890.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>EPIC 201445392 c</name>
+			<period errorminus="0.000410" errorplus="0.000410">2.50856</period>
+			<radius errorminus="0.029" errorplus="0.029">0.215</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-8 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0856</semimajoraxis>
+			<period errorminus="0.000860" errorplus="0.000860">10.35239</period>
+			<radius errorminus="0.063" errorplus="0.063">0.319</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

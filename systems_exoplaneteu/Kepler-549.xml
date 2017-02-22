@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-549</name>
+	<rightascension>18 52 05</rightascension>
+	<declination>+47 15 40</declination>
+	<distance>648.0</distance>
+	<star>
+		<name>Kepler-549</name>
+		<radius>0.84</radius>
+		<mass>0.88</mass>
+		<temperature>5360.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-549 b</name>
+			<period errorminus="0.000154" errorplus="0.000154">42.9495649</period>
+			<radius errorminus="0.015" errorplus="0.021">0.229</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-549 c</name>
+			<period errorminus="0.001777" errorplus="0.001777">117.040498</period>
+			<radius errorminus="0.053" errorplus="0.022">0.261</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

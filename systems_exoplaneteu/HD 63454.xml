@@ -1,0 +1,29 @@
+<system>
+	<name>HD 63454</name>
+	<rightascension>07 39 21</rightascension>
+	<declination>-78 43 16</declination>
+	<distance>35.8</distance>
+	<star>
+		<name>HD 63454</name>
+		<age>1.0</age>
+		<mass>0.8</mass>
+		<spectraltype>K4 V</spectraltype>
+		<temperature>4841.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>HD 63454 b</name>
+			<semimajoraxis>0.036</semimajoraxis>
+			<periastron errorminus="76.2" errorplus="76.2">137.1</periastron>
+			<eccentricity errorminus="0.0203" errorplus="0.0177">0.0177</eccentricity>
+			<period errorminus="0.000382" errorplus="0.000382">2.81747</period>
+			<mass>0.39</mass>
+			<radius>1.06</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>15/02/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

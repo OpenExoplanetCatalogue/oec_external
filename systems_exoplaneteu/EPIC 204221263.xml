@@ -1,0 +1,35 @@
+<system>
+	<name>EPIC 204221263</name>
+	<rightascension>16 00 08</rightascension>
+	<declination>-23 48 39</declination>
+	<star>
+		<name>EPIC 204221263</name>
+		<radius>1.1</radius>
+		<mass>1.07</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5757.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>EPIC 204221263 b</name>
+			<period errorminus="0.000500" errorplus="0.000500">4.01593</period>
+			<radius errorminus="0.014" errorplus="0.014">0.138</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/06/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>EPIC 204221263 c</name>
+			<period errorminus="0.000900" errorplus="0.000900">10.56103</period>
+			<radius errorminus="0.026" errorplus="0.026">0.216</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/06/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-267</name>
+	<rightascension>19 59 19</rightascension>
+	<declination>+47 09 27</declination>
+	<star>
+		<name>Kepler-267</name>
+		<radius>0.56</radius>
+		<mass>0.56</mass>
+		<temperature>4258.0</temperature>
+		<metallicity>0.028</metallicity>
+		<planet>
+			<name>Kepler-267 b</name>
+			<semimajoraxis>0.037</semimajoraxis>
+			<period errorminus="0.000007" errorplus="0.000007">3.353728</period>
+			<radius errorminus="0.008" errorplus="0.008">0.177</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-267 c</name>
+			<semimajoraxis>0.06</semimajoraxis>
+			<period errorminus="0.000016" errorplus="0.000016">6.87745</period>
+			<radius errorminus="0.01" errorplus="0.01">0.19</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-267 d</name>
+			<semimajoraxis>0.154</semimajoraxis>
+			<period errorminus="0.000180" errorplus="0.000180">28.464515</period>
+			<radius errorminus="0.011" errorplus="0.011">0.203</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

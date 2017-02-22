@@ -1,0 +1,41 @@
+<system>
+	<name>HD 73526</name>
+	<rightascension>08 37 16</rightascension>
+	<declination>-41 40 52</declination>
+	<distance>99.0</distance>
+	<star>
+		<name>HD 73526</name>
+		<age>5.59</age>
+		<radius>1.49</radius>
+		<mass>1.08</mass>
+		<spectraltype>G6 V</spectraltype>
+		<temperature>5590.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HD 73526 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.65</semimajoraxis>
+			<periastron errorminus="5.0" errorplus="5.0">196.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.29</eccentricity>
+			<period errorminus="0.100000" errorplus="0.100000">188.9</period>
+			<mass errorminus="0.12" errorplus="0.12">2.25</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>16/01/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 73526 c</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.03</semimajoraxis>
+			<periastron errorminus="10.0" errorplus="10.0">272.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.28</eccentricity>
+			<period errorminus="0.500000" errorplus="0.500000">379.1</period>
+			<mass errorminus="0.13" errorplus="0.13">2.25</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/01/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

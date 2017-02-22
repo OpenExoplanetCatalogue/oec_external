@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-6</name>
+	<rightascension>23 39 06</rightascension>
+	<declination>+42 27 58</declination>
+	<distance>200.0</distance>
+	<star>
+		<name>HAT-P-6</name>
+		<age>2.3</age>
+		<radius>1.46</radius>
+		<mass>1.29</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6570.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>HAT-P-6 b</name>
+			<semimajoraxis errorminus="0.00087" errorplus="0.00087">0.05235</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.35" errorplus="0.35">85.51</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">3.853003</period>
+			<mass errorminus="0.119" errorplus="0.119">1.057</mass>
+			<radius errorminus="0.061" errorplus="0.061">1.33</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>13/05/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

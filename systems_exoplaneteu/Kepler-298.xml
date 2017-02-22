@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-298</name>
+	<rightascension>18 52 10</rightascension>
+	<declination>+48 49 31</declination>
+	<star>
+		<name>Kepler-298</name>
+		<radius>0.58</radius>
+		<mass>0.65</mass>
+		<temperature>4465.0</temperature>
+		<metallicity>-0.121</metallicity>
+		<planet>
+			<name>Kepler-298 b</name>
+			<semimajoraxis>0.08</semimajoraxis>
+			<period errorminus="0.000027" errorplus="0.000027">10.475464</period>
+			<radius errorminus="0.009" errorplus="0.009">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-298 c</name>
+			<semimajoraxis>0.136</semimajoraxis>
+			<period errorminus="0.000380" errorplus="0.000380">22.92881</period>
+			<radius errorminus="0.02" errorplus="0.02">0.172</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-298 d</name>
+			<semimajoraxis>0.305</semimajoraxis>
+			<period errorminus="0.000615" errorplus="0.000615">77.473633</period>
+			<radius errorminus="0.018" errorplus="0.018">0.223</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>HD 2952</name>
+	<rightascension>00 33 10</rightascension>
+	<declination>+54 53 42</declination>
+	<distance>115.2</distance>
+	<star>
+		<name>HD 2952</name>
+		<radius>12.02</radius>
+		<mass>2.54</mass>
+		<spectraltype>K0III</spectraltype>
+		<temperature>4844.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>HD 2952 b</name>
+			<semimajoraxis>1.2</semimajoraxis>
+			<periastron errorminus="48.0" errorplus="56.0">64.0</periastron>
+			<eccentricity errorminus="0.085" errorplus="0.099">0.129</eccentricity>
+			<period errorminus="1.900000" errorplus="1.700000">311.6</period>
+			<mass>1.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

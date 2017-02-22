@@ -1,0 +1,28 @@
+<system>
+	<name>KELT-10</name>
+	<rightascension>18 58 11</rightascension>
+	<declination>-47 59 48</declination>
+	<distance>183.0</distance>
+	<star>
+		<name>KELT-10</name>
+		<age>4.5</age>
+		<radius>1.209</radius>
+		<mass>1.112</mass>
+		<temperature>5948.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>KELT-10 b</name>
+			<semimajoraxis errorminus="0.00097" errorplus="0.00086">0.0525</semimajoraxis>
+			<inclination errorminus="0.74" errorplus="0.86">88.61</inclination>
+			<period errorminus="0.000057" errorplus="0.000057">4.166285</period>
+			<mass errorminus="0.0392" errorplus="0.0393">0.679</mass>
+			<radius errorminus="0.049" errorplus="0.069">1.399</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/09/11</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

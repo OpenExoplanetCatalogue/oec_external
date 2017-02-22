@@ -1,0 +1,25 @@
+<system>
+	<name>K2-7</name>
+	<rightascension>11 08 23</rightascension>
+	<declination>-01 56 03</declination>
+	<distance>433.0</distance>
+	<star>
+		<name>K2-7</name>
+		<radius>0.96</radius>
+		<mass>0.97</mass>
+		<temperature>5772.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>K2-7 b</name>
+			<semimajoraxis errorminus="0.0043" errorplus="0.0043">0.1814</semimajoraxis>
+			<period errorminus="0.009470" errorplus="0.009470">28.67992</period>
+			<radius errorminus="0.05" errorplus="0.05">0.238</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

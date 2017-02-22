@@ -1,0 +1,31 @@
+<system>
+	<name>HD 80606</name>
+	<rightascension>09 22 37</rightascension>
+	<declination>+50 36 13</declination>
+	<distance>58.4</distance>
+	<star>
+		<name>HD 80606</name>
+		<age>7.63</age>
+		<radius>0.98</radius>
+		<mass>0.98</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5645.0</temperature>
+		<metallicity>0.43</metallicity>
+		<planet>
+			<name>HD 80606 b</name>
+			<semimajoraxis errorminus="0.006" errorplus="0.006">0.449</semimajoraxis>
+			<periastron errorminus="0.109" errorplus="0.109">300.651</periastron>
+			<eccentricity errorminus="0.00043" errorplus="0.00043">0.93366</eccentricity>
+			<inclination errorminus="0.023" errorplus="0.023">89.285</inclination>
+			<period errorminus="0.000900" errorplus="0.000900">111.43637</period>
+			<mass errorminus="0.11" errorplus="0.11">3.94</mass>
+			<radius errorminus="0.036" errorplus="0.036">0.921</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>14/08/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,51 @@
+<system>
+	<name>GJ 163</name>
+	<rightascension>04 09 16</rightascension>
+	<declination>-53 37 35</declination>
+	<distance>15.0</distance>
+	<star>
+		<name>GJ 163</name>
+		<age>3.0</age>
+		<mass>0.4</mass>
+		<spectraltype>M3.5</spectraltype>
+		<planet>
+			<name>GJ 163 b</name>
+			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.06069</semimajoraxis>
+			<periastron errorminus="15.7" errorplus="15.7">74.73</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.0106</eccentricity>
+			<period errorminus="0.001550" errorplus="0.001550">8.633</period>
+			<mass errorminus="0.0019" errorplus="0.0019">0.0334</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 163 c</name>
+			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.1254</semimajoraxis>
+			<periastron errorminus="80.0" errorplus="80.0">235.4</periastron>
+			<eccentricity errorminus="0.086" errorplus="0.086">0.094</eccentricity>
+			<period errorminus="0.023500" errorplus="0.023500">25.645</period>
+			<mass errorminus="0.0028" errorplus="0.0028">0.02285</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 163 d</name>
+			<semimajoraxis errorminus="0.0086" errorplus="0.0086">1.02689</semimajoraxis>
+			<periastron errorminus="20.5" errorplus="20.5">126.915</periastron>
+			<eccentricity errorminus="0.077" errorplus="0.077">0.399</eccentricity>
+			<period errorminus="7.560000" errorplus="7.560000">600.895</period>
+			<mass errorminus="0.0092" errorplus="0.0092">0.06945</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,21 @@
+<system>
+	<name>HD 176051</name>
+	<rightascension>18 57 02</rightascension>
+	<declination>+32 54 05</declination>
+	<distance>14.99</distance>
+	<star>
+		<name>HD 176051</name>
+		<mass>0.9</mass>
+		<planet>
+			<name>HD 176051 b</name>
+			<semimajoraxis>1.76</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="40.000000" errorplus="40.000000">1016.0</period>
+			<mass errorminus="0.3" errorplus="0.3">1.5</mass>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/10/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

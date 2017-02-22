@@ -1,0 +1,37 @@
+<system>
+	<name>GJ 682</name>
+	<rightascension>17 37 04</rightascension>
+	<declination>-43 19 09</declination>
+	<star>
+		<name>GJ 682</name>
+		<mass>0.27</mass>
+		<spectraltype>M3.5V</spectraltype>
+		<temperature>3028.0</temperature>
+		<planet>
+			<name>GJ 682 b</name>
+			<semimajoraxis errorminus="0.004" errorplus="0.014">0.08</semimajoraxis>
+			<periastron>85.94</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.19">0.08</eccentricity>
+			<period errorminus="0.040000" errorplus="0.062000">17.478</period>
+			<mass errorminus="0.0075489989" errorplus="0.01163804">0.0138438788031</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 682 c</name>
+			<semimajoraxis errorminus="0.009" errorplus="0.03">0.176</semimajoraxis>
+			<periastron>320.85</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.19">0.1</eccentricity>
+			<period errorminus="0.480000" errorplus="0.450000">57.32</period>
+			<mass errorminus="0.014468914" errorplus="0.018243414">0.027365121</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

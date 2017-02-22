@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1011</name>
+	<rightascension>19 49 36</rightascension>
+	<declination>+46 49 26</declination>
+	<distance>860.0</distance>
+	<star>
+		<name>Kepler-1011</name>
+		<radius>0.88</radius>
+		<mass>0.91</mass>
+		<temperature>5416.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-1011 b</name>
+			<period errorminus="0.000009" errorplus="0.000009">5.75322197</period>
+			<radius errorminus="0.039" errorplus="0.026">0.256</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

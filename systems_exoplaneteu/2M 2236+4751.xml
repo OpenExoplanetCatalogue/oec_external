@@ -1,0 +1,23 @@
+<system>
+	<name>2M 2236+4751</name>
+	<rightascension>22 36 25</rightascension>
+	<declination>+47 51 43</declination>
+	<distance>63.0</distance>
+	<star>
+		<name>2M 2236+4751</name>
+		<age>0.12</age>
+		<mass>0.6</mass>
+		<spectraltype>K7</spectraltype>
+		<planet>
+			<name>2M 2236+4751 b</name>
+			<semimajoraxis errorminus="20.0" errorplus="20.0">230.0</semimajoraxis>
+			<mass errorminus="1.5" errorplus="1.5">12.5</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1200.0</temperature>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/11/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

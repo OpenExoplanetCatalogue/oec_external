@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-95</name>
+	<rightascension>18 57 56</rightascension>
+	<declination>+44 23 53</declination>
+	<star>
+		<name>Kepler-95</name>
+		<age>5.63</age>
+		<radius>1.41</radius>
+		<mass>1.08</mass>
+		<temperature>5699.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>Kepler-95 b</name>
+			<period>11.5231</period>
+			<mass errorminus="0.009" errorplus="0.009">0.041</mass>
+			<radius errorminus="0.008" errorplus="0.008">0.305</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 217786</name>
+	<rightascension>23 03 08</rightascension>
+	<declination>+00 25 47</declination>
+	<distance>54.8</distance>
+	<star>
+		<name>HD 217786</name>
+		<age>7.6</age>
+		<radius>1.27</radius>
+		<mass>1.02</mass>
+		<spectraltype>F8V</spectraltype>
+		<temperature>5966.0</temperature>
+		<metallicity>-0.135</metallicity>
+		<planet>
+			<name>HD 217786 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.38</semimajoraxis>
+			<periastron errorminus="2.0" errorplus="2.0">100.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.4</eccentricity>
+			<period errorminus="4.000000" errorplus="4.000000">1319.0</period>
+			<mass errorminus="0.8" errorplus="0.8">13.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-406</name>
+	<rightascension>19 27 24</rightascension>
+	<declination>+44 58 06</declination>
+	<star>
+		<name>Kepler-406</name>
+		<age>5.84</age>
+		<radius>1.07</radius>
+		<mass>1.07</mass>
+		<temperature>5538.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>Kepler-406 b</name>
+			<period>2.42629</period>
+			<mass errorminus="0.0044" errorplus="0.0044">0.02</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.128</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-406 c</name>
+			<period>4.62332</period>
+			<mass errorminus="0.0057" errorplus="0.0057">0.00853</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.076</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

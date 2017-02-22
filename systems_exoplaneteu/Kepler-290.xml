@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-290</name>
+	<rightascension>19 05 38</rightascension>
+	<declination>+42 40 54</declination>
+	<star>
+		<name>Kepler-290</name>
+		<radius>0.74</radius>
+		<temperature>5147.0</temperature>
+		<metallicity>-0.061</metallicity>
+		<planet>
+			<name>Kepler-290 b</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="0.000066" errorplus="0.000066">14.589347</period>
+			<radius errorminus="0.109" errorplus="0.109">0.201</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-290 c</name>
+			<semimajoraxis>0.205</semimajoraxis>
+			<period errorminus="0.000183" errorplus="0.000183">36.77031</period>
+			<radius errorminus="0.124" errorplus="0.124">0.241</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

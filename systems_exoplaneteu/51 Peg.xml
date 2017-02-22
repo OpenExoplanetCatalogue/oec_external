@@ -1,0 +1,31 @@
+<system>
+	<name>51 Peg</name>
+	<rightascension>22 57 27</rightascension>
+	<declination>+20 46 07</declination>
+	<distance>14.7</distance>
+	<star>
+		<name>51 Peg</name>
+		<age>4.0</age>
+		<radius>1.266</radius>
+		<mass>1.11</mass>
+		<spectraltype>G2 IV</spectraltype>
+		<temperature>5793.0</temperature>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>51 Peg b</name>
+			<semimajoraxis>0.052</semimajoraxis>
+			<periastron errorminus="72.3" errorplus="72.3">54.1</periastron>
+			<eccentricity errorminus="0.0066" errorplus="0.0069">0.0069</eccentricity>
+			<inclination errorminus="10.0" errorplus="19.0">80.0</inclination>
+			<period errorminus="0.000037" errorplus="0.000037">4.2308</period>
+			<mass errorminus="0.067" errorplus="0.033">0.47</mass>
+			<radius errorminus="0.3" errorplus="0.3">1.9</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1995</discoveryyear>
+			<lastupdate>17/01/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

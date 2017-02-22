@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-79</name>
+	<rightascension>04 25 29</rightascension>
+	<declination>-30 23 58</declination>
+	<distance>240.0</distance>
+	<star>
+		<name>WASP-79</name>
+		<radius>1.64</radius>
+		<mass>1.56</mass>
+		<spectraltype>F3</spectraltype>
+		<temperature>6600.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>WASP-79 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0539</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<longitude errorminus="19.0" errorplus="13.0">254.0</longitude>
+			<inclination errorminus="0.6" errorplus="0.6">85.4</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">3.6623817</period>
+			<mass errorminus="0.09" errorplus="0.09">0.9</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.7</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/03/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

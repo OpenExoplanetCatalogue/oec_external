@@ -1,0 +1,30 @@
+<system>
+	<name>KOI-415</name>
+	<rightascension>19 33 13</rightascension>
+	<declination>+41 36 23</declination>
+	<star>
+		<name>KOI-415</name>
+		<age>10.5</age>
+		<radius>1.25</radius>
+		<mass>0.94</mass>
+		<spectraltype>G0IV</spectraltype>
+		<temperature>5810.0</temperature>
+		<metallicity>-0.24</metallicity>
+		<planet>
+			<name>KOI-415 b</name>
+			<semimajoraxis errorminus="0.013" errorplus="0.013">0.593</semimajoraxis>
+			<periastron errorminus="0.6" errorplus="0.6">44.9</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.698</eccentricity>
+			<inclination errorminus="0.38" errorplus="0.4">89.31</inclination>
+			<period errorminus="0.000220" errorplus="0.000220">166.78805</period>
+			<mass errorminus="2.69" errorplus="2.69">62.14</mass>
+			<radius errorminus="0.07" errorplus="0.12">0.79</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/08/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

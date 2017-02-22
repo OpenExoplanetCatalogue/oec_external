@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-467</name>
+	<rightascension>19 09 27</rightascension>
+	<declination>+38 38 59</declination>
+	<distance>458.0</distance>
+	<star>
+		<name>Kepler-467</name>
+		<radius>1.37</radius>
+		<mass>1.05</mass>
+		<temperature>5809.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>Kepler-467 b</name>
+			<period errorminus="0.000065" errorplus="0.000065">24.99324193</period>
+			<radius errorminus="0.007" errorplus="0.027">0.201</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

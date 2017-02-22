@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-33</name>
+	<rightascension>07 32 44</rightascension>
+	<declination>+33 50 06</declination>
+	<distance>419.0</distance>
+	<star>
+		<name>HAT-P-33</name>
+		<age>2.4</age>
+		<radius>1.777</radius>
+		<mass>1.403</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6401.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HAT-P-33 b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0503</semimajoraxis>
+			<periastron errorminus="119.0" errorplus="119.0">96.0</periastron>
+			<eccentricity errorminus="0.081" errorplus="0.081">0.148</eccentricity>
+			<inclination errorminus="1.2" errorplus="1.2">86.7</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">3.474474</period>
+			<mass errorminus="0.117" errorplus="0.117">0.763</mass>
+			<radius errorminus="0.29" errorplus="0.29">1.827</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>13/05/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

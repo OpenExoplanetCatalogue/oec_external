@@ -1,0 +1,28 @@
+<system>
+	<name>HD 206610</name>
+	<rightascension>21 43 25</rightascension>
+	<declination>-07 35 30</declination>
+	<distance>194.0</distance>
+	<star>
+		<name>HD 206610</name>
+		<age>3.0</age>
+		<radius>6.1</radius>
+		<mass>1.56</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>4874.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>HD 206610 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.68</semimajoraxis>
+			<periastron errorminus="10.0" errorplus="10.0">296.0</periastron>
+			<eccentricity errorminus="0.058" errorplus="0.058">0.229</eccentricity>
+			<period errorminus="13.000000" errorplus="13.000000">610.0</period>
+			<mass errorminus="0.1" errorplus="0.1">2.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/03/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

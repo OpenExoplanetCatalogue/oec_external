@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-684</name>
+	<rightascension>19 23 29</rightascension>
+	<declination>+38 16 25</declination>
+	<distance>1066.0</distance>
+	<star>
+		<name>Kepler-684</name>
+		<radius>0.86</radius>
+		<mass>0.89</mass>
+		<temperature>5493.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>Kepler-684 b</name>
+			<period errorminus="0.000009" errorplus="0.000009">6.77030201</period>
+			<radius errorminus="0.027" errorplus="0.027">0.3</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

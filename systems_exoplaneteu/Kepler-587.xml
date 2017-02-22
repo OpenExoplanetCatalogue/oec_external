@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-587</name>
+	<rightascension>19 14 41</rightascension>
+	<declination>+47 23 57</declination>
+	<distance>852.0</distance>
+	<star>
+		<name>Kepler-587</name>
+		<radius>0.89</radius>
+		<mass>0.92</mass>
+		<temperature>5549.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-587 b</name>
+			<period errorminus="0.000029" errorplus="0.000029">10.94027841</period>
+			<radius errorminus="0.015" errorplus="0.057">0.199</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

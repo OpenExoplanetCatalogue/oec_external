@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1551</name>
+	<rightascension>19 43 09</rightascension>
+	<declination>+39 54 29</declination>
+	<distance>1560.0</distance>
+	<star>
+		<name>Kepler-1551</name>
+		<radius>1.22</radius>
+		<mass>1.14</mass>
+		<temperature>6136.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1551 b</name>
+			<period errorminus="0.000209" errorplus="0.000209">24.4973698</period>
+			<radius errorminus="0.037" errorplus="0.081">0.237</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

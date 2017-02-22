@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-887</name>
+	<rightascension>19 20 22</rightascension>
+	<declination>+39 49 01</declination>
+	<distance>831.0</distance>
+	<star>
+		<name>Kepler-887</name>
+		<radius>1.29</radius>
+		<mass>1.19</mass>
+		<temperature>6194.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-887 b</name>
+			<period errorminus="0.000092" errorplus="0.000092">20.42228798</period>
+			<radius errorminus="0.015" errorplus="0.024">0.164</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-887 c</name>
+			<period errorminus="0.000050" errorplus="0.000050">7.63846023</period>
+			<radius errorminus="0.01" errorplus="0.015">0.101</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

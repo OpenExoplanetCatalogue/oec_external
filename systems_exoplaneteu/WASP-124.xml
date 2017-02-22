@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-124</name>
+	<rightascension>22 10 51</rightascension>
+	<declination>-30 15 02</declination>
+	<distance>433.0</distance>
+	<star>
+		<name>WASP-124</name>
+		<age>2.1</age>
+		<radius>1.02</radius>
+		<mass>1.07</mass>
+		<spectraltype>F9</spectraltype>
+		<temperature>6050.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>WASP-124 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0499</semimajoraxis>
+			<eccentricity errorminus="0.017" errorplus="0.0">0.017</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">86.3</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">3.37265</period>
+			<mass errorminus="0.07" errorplus="0.07">0.6</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.24</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

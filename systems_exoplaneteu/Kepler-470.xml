@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-470</name>
+	<rightascension>19 48 02</rightascension>
+	<declination>+50 22 20</declination>
+	<distance>989.0</distance>
+	<star>
+		<name>Kepler-470</name>
+		<radius>1.66</radius>
+		<mass>1.4</mass>
+		<temperature>6613.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-470 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">24.66919569</period>
+			<radius errorminus="0.238" errorplus="0.52">1.288</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

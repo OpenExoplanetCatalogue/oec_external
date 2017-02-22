@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-885</name>
+	<rightascension>19 14 39</rightascension>
+	<declination>+49 44 14</declination>
+	<distance>632.0</distance>
+	<star>
+		<name>Kepler-885</name>
+		<radius>1.35</radius>
+		<mass>1.21</mass>
+		<temperature>6187.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>Kepler-885 b</name>
+			<period errorminus="0.000053" errorplus="0.000053">18.11472949</period>
+			<radius errorminus="0.035" errorplus="0.036">0.223</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

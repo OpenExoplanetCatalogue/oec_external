@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1420</name>
+	<rightascension>19 44 49</rightascension>
+	<declination>+42 46 40</declination>
+	<distance>923.0</distance>
+	<star>
+		<name>Kepler-1420</name>
+		<radius>0.79</radius>
+		<mass>0.82</mass>
+		<temperature>5187.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>Kepler-1420 b</name>
+			<period errorminus="0.000045" errorplus="0.000045">6.69960006</period>
+			<radius errorminus="0.011" errorplus="0.012">0.114</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

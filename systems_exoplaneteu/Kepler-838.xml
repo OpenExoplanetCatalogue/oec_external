@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-838</name>
+	<rightascension>19 01 45</rightascension>
+	<declination>+45 58 34</declination>
+	<distance>1210.0</distance>
+	<star>
+		<name>Kepler-838</name>
+		<radius>0.96</radius>
+		<mass>0.98</mass>
+		<temperature>5770.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-838 b</name>
+			<period errorminus="0.000047" errorplus="0.000047">15.74957994</period>
+			<radius errorminus="0.022" errorplus="0.045">0.244</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

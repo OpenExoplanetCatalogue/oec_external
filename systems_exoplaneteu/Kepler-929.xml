@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-929</name>
+	<rightascension>19 53 55</rightascension>
+	<declination>+41 36 55</declination>
+	<distance>820.0</distance>
+	<star>
+		<name>Kepler-929</name>
+		<radius>1.02</radius>
+		<mass>1.01</mass>
+		<temperature>5869.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-929 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">0.92103214</period>
+			<radius errorminus="0.013" errorplus="0.024">0.099</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

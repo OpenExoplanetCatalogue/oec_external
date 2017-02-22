@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1105</name>
+	<rightascension>18 44 27</rightascension>
+	<declination>+42 27 18</declination>
+	<distance>369.0</distance>
+	<star>
+		<name>Kepler-1105</name>
+		<radius>0.68</radius>
+		<mass>0.71</mass>
+		<temperature>4299.0</temperature>
+		<metallicity>0.28</metallicity>
+		<planet>
+			<name>Kepler-1105 b</name>
+			<period errorminus="0.000010" errorplus="0.000010">4.42157218</period>
+			<radius errorminus="0.022" errorplus="0.005">0.179</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

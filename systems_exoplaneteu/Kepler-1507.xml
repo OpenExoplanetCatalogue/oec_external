@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1507</name>
+	<rightascension>19 14 15</rightascension>
+	<declination>+46 32 10</declination>
+	<distance>342.0</distance>
+	<star>
+		<name>Kepler-1507</name>
+		<radius>0.85</radius>
+		<mass>0.89</mass>
+		<temperature>5410.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-1507 b</name>
+			<period errorminus="0.000145" errorplus="0.000145">16.0506213</period>
+			<radius errorminus="0.008" errorplus="0.008">0.075</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

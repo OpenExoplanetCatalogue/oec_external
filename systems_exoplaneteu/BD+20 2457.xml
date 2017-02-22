@@ -1,0 +1,39 @@
+<system>
+	<name>BD+20 2457</name>
+	<rightascension>10 16 45</rightascension>
+	<declination>+19 53 29</declination>
+	<distance>200.0</distance>
+	<star>
+		<name>BD+20 2457</name>
+		<mass>2.8</mass>
+		<spectraltype>K2II</spectraltype>
+		<temperature>4127.0</temperature>
+		<metallicity>-1.0</metallicity>
+		<planet>
+			<name>BD+20 2457 b</name>
+			<semimajoraxis>1.45</semimajoraxis>
+			<periastron errorminus="21.99" errorplus="21.99">207.64</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.15</eccentricity>
+			<period errorminus="2.010000" errorplus="2.010000">379.63</period>
+			<mass>21.42</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>BD+20 2457 c</name>
+			<semimajoraxis>2.01</semimajoraxis>
+			<periastron errorminus="16.54" errorplus="16.54">126.02</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.18</eccentricity>
+			<period errorminus="10.200000" errorplus="10.200000">621.99</period>
+			<mass>12.47</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

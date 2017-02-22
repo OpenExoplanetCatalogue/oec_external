@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1555</name>
+	<rightascension>19 10 33</rightascension>
+	<declination>+45 42 58</declination>
+	<distance>1382.0</distance>
+	<star>
+		<name>Kepler-1555</name>
+		<radius>1.06</radius>
+		<mass>1.04</mass>
+		<temperature>5866.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1555 b</name>
+			<period errorminus="0.000081" errorplus="0.000081">8.10501635</period>
+			<radius errorminus="0.015" errorplus="0.041">0.144</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

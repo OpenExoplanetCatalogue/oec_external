@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-646</name>
+	<rightascension>19 21 53</rightascension>
+	<declination>+44 23 14</declination>
+	<distance>513.0</distance>
+	<star>
+		<name>Kepler-646</name>
+		<radius>0.91</radius>
+		<mass>0.93</mass>
+		<temperature>5634.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>Kepler-646 b</name>
+			<period errorminus="0.000043" errorplus="0.000043">15.87364565</period>
+			<radius errorminus="0.017" errorplus="0.033">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

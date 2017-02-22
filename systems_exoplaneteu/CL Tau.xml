@@ -1,0 +1,22 @@
+<system>
+	<name>CL Tau</name>
+	<rightascension>04 38 45</rightascension>
+	<declination>+08 05 46</declination>
+	<star>
+		<name>CL Tau</name>
+		<age>0.002</age>
+		<mass>0.8</mass>
+		<spectraltype>T Tau</spectraltype>
+		<planet>
+			<name>CL Tau b</name>
+			<inclination errorminus="1.1" errorplus="1.1">45.7</inclination>
+			<period errorminus="0.032700" errorplus="0.032700">8.9965</period>
+			<mass errorminus="2.39" errorplus="2.39">12.31</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

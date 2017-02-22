@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-485</name>
+	<rightascension>19 39 59</rightascension>
+	<declination>+50 28 12</declination>
+	<distance>1173.0</distance>
+	<star>
+		<name>Kepler-485</name>
+		<radius>1.09</radius>
+		<mass>1.07</mass>
+		<temperature>5958.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-485 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">3.2432598</period>
+			<radius errorminus="0.145" errorplus="0.302">1.286</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

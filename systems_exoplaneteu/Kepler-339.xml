@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-339</name>
+	<rightascension>19 33 24</rightascension>
+	<declination>+48 26 41</declination>
+	<star>
+		<name>Kepler-339</name>
+		<radius>0.8</radius>
+		<mass>0.84</mass>
+		<temperature>5631.0</temperature>
+		<metallicity>-0.237</metallicity>
+		<planet>
+			<name>Kepler-339 b</name>
+			<semimajoraxis>0.055</semimajoraxis>
+			<period errorminus="0.000019" errorplus="0.000019">4.977656</period>
+			<radius errorminus="0.059" errorplus="0.059">0.127</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-339 c</name>
+			<semimajoraxis>0.069</semimajoraxis>
+			<period errorminus="0.000053" errorplus="0.000053">6.988055</period>
+			<radius errorminus="0.046" errorplus="0.046">0.103</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-339 d</name>
+			<semimajoraxis>0.091</semimajoraxis>
+			<period errorminus="0.000081" errorplus="0.000081">10.558345</period>
+			<radius errorminus="0.047" errorplus="0.047">0.104</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

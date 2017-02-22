@@ -1,0 +1,39 @@
+<system>
+	<name>Pr 0211</name>
+	<rightascension>08 42 11</rightascension>
+	<declination>+19 16 37</declination>
+	<distance>170.0</distance>
+	<star>
+		<name>Pr 0211</name>
+		<age>0.79</age>
+		<radius>0.827</radius>
+		<mass>0.935</mass>
+		<spectraltype>G9</spectraltype>
+		<planet>
+			<name>Pr 0211 b</name>
+			<semimajoraxis errorminus="0.00015" errorplus="0.00015">0.03184</semimajoraxis>
+			<periastron errorminus="35.0" errorplus="35.0">329.0</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.017</eccentricity>
+			<period errorminus="0.000020" errorplus="0.000020">2.14609</period>
+			<mass errorminus="0.02" errorplus="0.02">1.88</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/03/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Pr 0211 c</name>
+			<semimajoraxis errorminus="1.4" errorplus="2.9">5.8</semimajoraxis>
+			<periastron errorminus="6.0" errorplus="6.0">103.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.7</eccentricity>
+			<period errorminus="1800.000000" errorplus="4450.000000">5300.0</period>
+			<mass errorminus="0.25" errorplus="0.25">7.95</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/03/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

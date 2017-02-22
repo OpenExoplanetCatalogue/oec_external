@@ -1,0 +1,24 @@
+<system>
+	<name>CFBDS 1458</name>
+	<rightascension>14 58 29</rightascension>
+	<declination>+10 13 43</declination>
+	<distance>23.1</distance>
+	<star>
+		<name>CFBDS 1458</name>
+		<age>3.0</age>
+		<mass>0.024</mass>
+		<spectraltype>T9.5</spectraltype>
+		<temperature>540.0</temperature>
+		<planet>
+			<name>CFBDS 1458 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">2.6</semimajoraxis>
+			<period errorminus="8800.000000" errorplus="8800.000000">14600.0</period>
+			<mass errorminus="4.5" errorplus="4.5">6.5</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

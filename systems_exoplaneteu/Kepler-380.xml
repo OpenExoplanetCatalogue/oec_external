@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-380</name>
+	<rightascension>18 49 35</rightascension>
+	<declination>+48 45 33</declination>
+	<star>
+		<name>Kepler-380</name>
+		<radius>1.22</radius>
+		<mass>1.05</mass>
+		<temperature>6045.0</temperature>
+		<metallicity>-0.144</metallicity>
+		<planet>
+			<name>Kepler-380 b</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<period errorminus="0.000038" errorplus="0.000038">3.930821</period>
+			<radius errorminus="0.021" errorplus="0.021">0.106</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-380 c</name>
+			<semimajoraxis>0.078</semimajoraxis>
+			<period errorminus="0.000073" errorplus="0.000073">7.630004</period>
+			<radius errorminus="0.025" errorplus="0.025">0.113</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

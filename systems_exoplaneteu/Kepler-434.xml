@@ -1,0 +1,29 @@
+<system>
+	<name>Kepler-434</name>
+	<rightascension>19 34 21</rightascension>
+	<declination>+42 55 44</declination>
+	<distance>1240.0</distance>
+	<star>
+		<name>Kepler-434</name>
+		<age>4.0</age>
+		<radius>1.38</radius>
+		<mass>1.198</mass>
+		<temperature>5977.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>Kepler-434 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.1143</semimajoraxis>
+			<eccentricity errorminus="0.072" errorplus="0.072">0.131</eccentricity>
+			<inclination errorminus="0.74" errorplus="0.38">86.46</inclination>
+			<period errorminus="0.000050" errorplus="0.000050">12.877099</period>
+			<mass errorminus="0.35" errorplus="0.35">2.86</mass>
+			<radius errorminus="0.18" errorplus="0.26">1.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

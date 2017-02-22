@@ -1,0 +1,27 @@
+<system>
+	<name>HD 171238</name>
+	<rightascension>18 34 44</rightascension>
+	<declination>-28 55 40</declination>
+	<distance>50.28</distance>
+	<star>
+		<name>HD 171238</name>
+		<age>4.92</age>
+		<mass>0.943</mass>
+		<spectraltype>KOV</spectraltype>
+		<temperature>5467.0</temperature>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>HD 171238 b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.54</semimajoraxis>
+			<periastron errorminus="9.8" errorplus="9.8">47.0</periastron>
+			<eccentricity errorminus="0.065" errorplus="0.065">0.4</eccentricity>
+			<period errorminus="45.000000" errorplus="45.000000">1523.0</period>
+			<mass errorminus="0.15" errorplus="0.15">2.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>14/12/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

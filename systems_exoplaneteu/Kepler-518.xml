@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-518</name>
+	<rightascension>19 08 22</rightascension>
+	<declination>+41 22 26</declination>
+	<distance>324.0</distance>
+	<star>
+		<name>Kepler-518</name>
+		<radius>0.88</radius>
+		<mass>0.96</mass>
+		<temperature>5842.0</temperature>
+		<metallicity>-0.23</metallicity>
+		<planet>
+			<name>Kepler-518 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">8.51203588</period>
+			<radius errorminus="0.004" errorplus="0.004">0.188</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

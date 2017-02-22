@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1329</name>
+	<rightascension>18 46 35</rightascension>
+	<declination>+48 16 16</declination>
+	<distance>624.0</distance>
+	<star>
+		<name>Kepler-1329</name>
+		<radius>0.69</radius>
+		<mass>0.72</mass>
+		<temperature>4500.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1329 b</name>
+			<period errorminus="0.000031" errorplus="0.000031">9.33646594</period>
+			<radius errorminus="0.014" errorplus="0.005">0.194</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

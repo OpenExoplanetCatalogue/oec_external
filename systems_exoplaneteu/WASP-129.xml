@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-129</name>
+	<rightascension>11 45 12</rightascension>
+	<declination>-42 56 10</declination>
+	<distance>246.0</distance>
+	<star>
+		<name>WASP-129</name>
+		<age>1.0</age>
+		<radius>0.9</radius>
+		<mass>1.0</mass>
+		<spectraltype>G1</spectraltype>
+		<temperature>5900.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>WASP-129 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0628</semimajoraxis>
+			<eccentricity errorminus="0.096" errorplus="0.0">0.096</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">87.7</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">5.748145</period>
+			<mass errorminus="0.1" errorplus="0.1">1.0</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.93</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

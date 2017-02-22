@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1390</name>
+	<rightascension>19 54 39</rightascension>
+	<declination>+48 14 56</declination>
+	<distance>760.0</distance>
+	<star>
+		<name>Kepler-1390</name>
+		<radius>0.98</radius>
+		<mass>0.98</mass>
+		<temperature>5753.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1390 b</name>
+			<period errorminus="0.000046" errorplus="0.000046">6.48021673</period>
+			<radius errorminus="0.012" errorplus="0.022">0.105</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

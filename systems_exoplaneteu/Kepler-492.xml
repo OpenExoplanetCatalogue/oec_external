@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-492</name>
+	<rightascension>19 41 59</rightascension>
+	<declination>+42 32 16</declination>
+	<distance>642.0</distance>
+	<star>
+		<name>Kepler-492</name>
+		<radius>0.91</radius>
+		<mass>0.94</mass>
+		<temperature>5527.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-492 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">11.72012266</period>
+			<radius errorminus="0.054" errorplus="0.107">0.856</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/11</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>LKCA 15</name>
+	<rightascension>04 39 18</rightascension>
+	<declination>+22 21 03</declination>
+	<distance>145.0</distance>
+	<star>
+		<name>LKCA 15</name>
+		<age>0.002</age>
+		<mass>0.97</mass>
+		<spectraltype>K5V</spectraltype>
+		<planet>
+			<name>LKCA 15 b</name>
+			<semimajoraxis errorminus="2.1" errorplus="2.1">15.7</semimajoraxis>
+			<period errorminus="0.000000" errorplus="0.000000">40000.0</period>
+			<mass errorminus="1.0" errorplus="1.0">6.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/09/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

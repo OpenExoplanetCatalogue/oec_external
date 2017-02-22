@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1126</name>
+	<rightascension>19 02 46</rightascension>
+	<declination>+45 41 22</declination>
+	<distance>668.0</distance>
+	<star>
+		<name>Kepler-1126</name>
+		<radius>0.93</radius>
+		<mass>0.92</mass>
+		<temperature>5798.0</temperature>
+		<metallicity>-0.26</metallicity>
+		<planet>
+			<name>Kepler-1126 b</name>
+			<period errorminus="0.001003" errorplus="0.001003">108.593329</period>
+			<radius errorminus="0.012" errorplus="0.019">0.154</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

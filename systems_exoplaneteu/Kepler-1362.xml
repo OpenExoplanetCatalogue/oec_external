@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1362</name>
+	<rightascension>19 14 09</rightascension>
+	<declination>+40 52 38</declination>
+	<distance>767.0</distance>
+	<star>
+		<name>Kepler-1362</name>
+		<radius>0.74</radius>
+		<mass>0.8</mass>
+		<temperature>4857.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>Kepler-1362 b</name>
+			<period errorminus="0.001278" errorplus="0.001278">136.205626</period>
+			<radius errorminus="0.017" errorplus="0.011">0.232</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

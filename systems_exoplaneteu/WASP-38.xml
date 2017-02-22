@@ -1,0 +1,31 @@
+<system>
+	<name>WASP-38</name>
+	<rightascension>16 15 50</rightascension>
+	<declination>+10 01 57</declination>
+	<distance>110.0</distance>
+	<star>
+		<name>WASP-38</name>
+		<age>5.0</age>
+		<radius>1.365</radius>
+		<mass>1.216</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>6150.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>WASP-38 b</name>
+			<semimajoraxis errorminus="0.00085" errorplus="0.00085">0.07551</semimajoraxis>
+			<periastron errorminus="-16.0" errorplus="-16.0">341.0</periastron>
+			<eccentricity errorminus="0.0044" errorplus="0.0044">0.0321</eccentricity>
+			<inclination errorminus="0.55" errorplus="0.55">88.69</inclination>
+			<period errorminus="0.000042" errorplus="0.000042">6.871815</period>
+			<mass errorminus="0.065" errorplus="0.065">2.712</mass>
+			<radius errorminus="0.044" errorplus="0.044">1.079</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/04/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

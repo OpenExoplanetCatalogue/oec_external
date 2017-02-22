@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-58</name>
+	<rightascension>19 45 26</rightascension>
+	<declination>+39 06 55</declination>
+	<star>
+		<name>Kepler-58</name>
+		<radius>1.03</radius>
+		<mass>0.95</mass>
+		<temperature>5843.0</temperature>
+		<planet>
+			<name>Kepler-58 b</name>
+			<period errorminus="0.000150" errorplus="0.000150">10.2184954</period>
+			<mass errorminus="1.39" errorplus="0.0">1.39</mass>
+			<radius>0.25</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-58 c</name>
+			<period errorminus="0.002700" errorplus="0.002700">15.5741568</period>
+			<mass errorminus="2.19" errorplus="0.0">2.19</mass>
+			<radius>0.26</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-58 d</name>
+			<semimajoraxis>0.236</semimajoraxis>
+			<period errorminus="0.000612" errorplus="0.000612">40.101371</period>
+			<radius errorminus="0.125" errorplus="0.125">0.262</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

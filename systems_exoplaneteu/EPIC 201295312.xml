@@ -1,0 +1,26 @@
+<system>
+	<name>EPIC 201295312</name>
+	<rightascension>11 36 03</rightascension>
+	<declination>-02 28 45</declination>
+	<star>
+		<name>EPIC 201295312</name>
+		<radius>1.52</radius>
+		<mass>1.13</mass>
+		<temperature>5830.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>EPIC 201295312 b</name>
+			<eccentricity errorminus="0.09" errorplus="0.22">0.12</eccentricity>
+			<inclination>86.6</inclination>
+			<period errorminus="0.000750" errorplus="0.000750">5.65639</period>
+			<mass>0.0379</mass>
+			<radius errorminus="0.021" errorplus="0.021">0.245</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

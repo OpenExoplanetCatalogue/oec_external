@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1506</name>
+	<rightascension>19 20 36</rightascension>
+	<declination>+41 27 53</declination>
+	<distance>1318.0</distance>
+	<star>
+		<name>Kepler-1506</name>
+		<radius>0.93</radius>
+		<mass>0.95</mass>
+		<temperature>5676.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-1506 b</name>
+			<period errorminus="0.000281" errorplus="0.000281">14.0329154</period>
+			<radius errorminus="0.012" errorplus="0.017">0.118</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

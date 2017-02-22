@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-972</name>
+	<rightascension>19 43 19</rightascension>
+	<declination>+43 25 32</declination>
+	<distance>1304.0</distance>
+	<star>
+		<name>Kepler-972</name>
+		<radius>1.22</radius>
+		<mass>1.15</mass>
+		<temperature>6146.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-972 b</name>
+			<period errorminus="0.000016" errorplus="0.000016">7.03932553</period>
+			<radius errorminus="0.098" errorplus="0.136">0.415</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,22 @@
+<system>
+	<name>HD 1160</name>
+	<rightascension>00 15 57</rightascension>
+	<declination>+04 15 04</declination>
+	<distance>103.5</distance>
+	<star>
+		<name>HD 1160</name>
+		<age>0.05</age>
+		<spectraltype>A0V</spectraltype>
+		<metallicity>-0.3</metallicity>
+		<planet>
+			<name>HD 1160 b</name>
+			<semimajoraxis errorminus="0.0" errorplus="0.0">80.0</semimajoraxis>
+			<mass errorminus="40.0" errorplus="65.0">79.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/08/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-709</name>
+	<rightascension>19 28 25</rightascension>
+	<declination>+42 22 49</declination>
+	<distance>668.0</distance>
+	<star>
+		<name>Kepler-709</name>
+		<radius>0.77</radius>
+		<mass>0.8</mass>
+		<temperature>5071.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-709 b</name>
+			<period errorminus="0.000026" errorplus="0.000026">16.08524954</period>
+			<radius errorminus="0.017" errorplus="0.016">0.261</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

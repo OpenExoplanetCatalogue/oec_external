@@ -1,0 +1,23 @@
+<system>
+	<name>TYC 9486-927-1</name>
+	<rightascension>21 25 28</rightascension>
+	<declination>-81 21 32</declination>
+	<distance>24.75</distance>
+	<star>
+		<name>TYC 9486-927-1</name>
+		<age>0.027</age>
+		<mass>0.4</mass>
+		<spectraltype>M2</spectraltype>
+		<planet>
+			<name>2M J2126-81 b</name>
+			<semimajoraxis>6900.0</semimajoraxis>
+			<mass errorminus="1.7" errorplus="1.7">13.3</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1800.0</temperature>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

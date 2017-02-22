@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-641</name>
+	<rightascension>19 27 18</rightascension>
+	<declination>+42 30 58</declination>
+	<distance>673.0</distance>
+	<star>
+		<name>Kepler-641</name>
+		<radius>1.13</radius>
+		<mass>1.02</mass>
+		<temperature>5713.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>Kepler-641 b</name>
+			<period errorminus="0.000024" errorplus="0.000024">9.48961571</period>
+			<radius errorminus="0.022" errorplus="0.028">0.165</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

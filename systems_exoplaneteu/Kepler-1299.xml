@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1299</name>
+	<rightascension>19 04 36</rightascension>
+	<declination>+37 24 41</declination>
+	<distance>1352.0</distance>
+	<star>
+		<name>Kepler-1299</name>
+		<radius>0.91</radius>
+		<mass>0.94</mass>
+		<temperature>5609.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1299 b</name>
+			<period errorminus="0.000146" errorplus="0.000146">19.9400874</period>
+			<radius errorminus="0.037" errorplus="0.059">0.266</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-967</name>
+	<rightascension>19 06 14</rightascension>
+	<declination>+38 24 19</declination>
+	<distance>499.0</distance>
+	<star>
+		<name>Kepler-967</name>
+		<radius>0.8</radius>
+		<mass>0.84</mass>
+		<temperature>5178.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-967 b</name>
+			<period errorminus="0.000022" errorplus="0.000022">13.22713379</period>
+			<radius errorminus="0.009" errorplus="0.007">0.21</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-967 c</name>
+			<period errorminus="0.000656" errorplus="0.000656">198.7112502</period>
+			<radius errorminus="0.012" errorplus="0.013">0.326</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

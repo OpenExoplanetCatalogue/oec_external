@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-51</name>
+	<rightascension>01 24 16</rightascension>
+	<declination>+32 48 39</declination>
+	<distance>470.0</distance>
+	<star>
+		<name>HAT-P-51</name>
+		<age>8.2</age>
+		<radius>1.041</radius>
+		<mass>0.976</mass>
+		<temperature>5449.0</temperature>
+		<metallicity>0.27</metallicity>
+		<planet>
+			<name>HAT-P-51 b</name>
+			<semimajoraxis errorminus="0.00049" errorplus="0.00049">0.05069</semimajoraxis>
+			<eccentricity errorminus="0.123" errorplus="0.0">0.123</eccentricity>
+			<inclination errorminus="0.57" errorplus="0.57">88.48</inclination>
+			<period errorminus="0.000006" errorplus="0.000006">4.2180278</period>
+			<mass errorminus="0.0181" errorplus="0.0181">0.309</mass>
+			<radius errorminus="0.054" errorplus="0.054">1.293</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

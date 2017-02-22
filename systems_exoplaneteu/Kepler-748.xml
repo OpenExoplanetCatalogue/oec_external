@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-748</name>
+	<rightascension>19 29 03</rightascension>
+	<declination>+37 14 13</declination>
+	<distance>1271.0</distance>
+	<star>
+		<name>Kepler-748</name>
+		<radius>1.1</radius>
+		<mass>1.07</mass>
+		<temperature>5934.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-748 b</name>
+			<period errorminus="0.000034" errorplus="0.000034">7.40742793</period>
+			<radius errorminus="0.026" errorplus="0.058">0.225</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

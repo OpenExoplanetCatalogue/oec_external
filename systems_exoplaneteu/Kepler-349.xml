@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-349</name>
+	<rightascension>19 34 42</rightascension>
+	<declination>+44 36 56</declination>
+	<star>
+		<name>Kepler-349</name>
+		<radius>0.93</radius>
+		<mass>0.97</mass>
+		<temperature>5956.0</temperature>
+		<metallicity>-0.091</metallicity>
+		<planet>
+			<name>Kepler-349 b</name>
+			<semimajoraxis>0.065</semimajoraxis>
+			<period errorminus="0.000020" errorplus="0.000020">5.929778</period>
+			<radius errorminus="0.064" errorplus="0.064">0.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-349 c</name>
+			<semimajoraxis>0.105</semimajoraxis>
+			<period errorminus="0.000063" errorplus="0.000063">12.247629</period>
+			<radius errorminus="0.066" errorplus="0.066">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

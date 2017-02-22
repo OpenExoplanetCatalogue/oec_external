@@ -1,0 +1,29 @@
+<system>
+	<name>OGLE-TR-132</name>
+	<rightascension>10 50 34</rightascension>
+	<declination>-61 02 35</declination>
+	<distance>1500.0</distance>
+	<star>
+		<name>OGLE-TR-132</name>
+		<radius>1.34</radius>
+		<mass>1.26</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6210.0</temperature>
+		<metallicity>0.37</metallicity>
+		<planet>
+			<name>OGLE-TR-132 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0306</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.3" errorplus="1.3">83.4</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">1.689868</period>
+			<mass errorminus="0.14" errorplus="0.14">1.17</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.23</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>10/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

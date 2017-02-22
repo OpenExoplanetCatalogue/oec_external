@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1194</name>
+	<rightascension>19 26 48</rightascension>
+	<declination>+38 08 43</declination>
+	<distance>616.0</distance>
+	<star>
+		<name>Kepler-1194</name>
+		<radius>0.92</radius>
+		<mass>0.94</mass>
+		<temperature>5590.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-1194 b</name>
+			<period errorminus="0.000089" errorplus="0.000089">16.22371307</period>
+			<radius errorminus="0.008" errorplus="0.011">0.135</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

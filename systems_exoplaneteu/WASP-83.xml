@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-83</name>
+	<rightascension>12 40 37</rightascension>
+	<declination>-19 42 57</declination>
+	<distance>300.0</distance>
+	<star>
+		<name>WASP-83</name>
+		<age>5.0</age>
+		<radius>1.05</radius>
+		<mass>1.11</mass>
+		<spectraltype>G8</spectraltype>
+		<temperature>5480.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>WASP-83 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">88.9</inclination>
+			<period errorminus="0.000015" errorplus="0.000015">4.071252</period>
+			<mass errorminus="0.03" errorplus="0.03">0.3</mass>
+			<radius errorminus="0.05" errorplus="0.08">1.04</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 152581</name>
+	<rightascension>16 53 44</rightascension>
+	<declination>+11 58 25</declination>
+	<distance>186.0</distance>
+	<star>
+		<name>HD 152581</name>
+		<age>12.0</age>
+		<radius>4.8</radius>
+		<mass>0.927</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5155.0</temperature>
+		<metallicity>-0.46</metallicity>
+		<planet>
+			<name>HD 152581 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.48</semimajoraxis>
+			<periastron errorminus="90.0" errorplus="90.0">321.0</periastron>
+			<eccentricity errorminus="inf" errorplus="nan">0.22</eccentricity>
+			<period errorminus="13.000000" errorplus="13.000000">689.0</period>
+			<mass errorminus="0.1" errorplus="0.1">1.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>
