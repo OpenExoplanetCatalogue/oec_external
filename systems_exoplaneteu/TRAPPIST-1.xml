@@ -10,45 +10,107 @@
 		<mass>0.08</mass>
 		<spectraltype>M8</spectraltype>
 		<temperature>2550.0</temperature>
+		<metallicity>0.04</metallicity>
 		<planet>
 			<name>TRAPPIST-1 b</name>
-			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.01111</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.41" errorplus="0.41">89.41</inclination>
-			<period errorminus="0.000019" errorplus="0.000019">1.510848</period>
-			<radius errorminus="0.0039" errorplus="0.0039">0.0993</radius>
+			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.01111</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.081">0.0</eccentricity>
+			<inclination errorminus="0.27" errorplus="0.27">89.65</inclination>
+			<period errorminus="0.000060" errorplus="0.000060">1.51087081</period>
+			<mass errorminus="0.0023" errorplus="0.0023">0.0027</mass>
+			<radius errorminus="0.00031" errorplus="0.00031">0.09689</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/03</lastupdate>
+			<lastupdate>17/02/22</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>TRAPPIST-1 c</name>
-			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.01522</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.31" errorplus="0.31">89.5</inclination>
-			<period errorminus="0.000028" errorplus="0.000028">2.421848</period>
-			<radius errorminus="0.0045" errorplus="0.0045">0.09359</radius>
+			<semimajoraxis errorminus="0.00047" errorplus="0.00047">0.01521</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.083">0.0</eccentricity>
+			<inclination errorminus="0.17" errorplus="0.17">89.67</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">2.4218233</period>
+			<mass errorminus="0.0019" errorplus="0.0019">0.00434</mass>
+			<radius errorminus="0.00031" errorplus="0.00031">0.09421</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/03</lastupdate>
+			<lastupdate>17/02/22</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>TRAPPIST-1 d</name>
-			<semimajoraxis errorminus="0.06" errorplus="0.06">0.08</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.1" errorplus="0.1">89.87</inclination>
-			<period errorminus="14.000000" errorplus="54.000000">18.202</period>
-			<radius errorminus="0.0061" errorplus="0.0061">0.1042</radius>
+			<semimajoraxis errorminus="0.00063" errorplus="0.00066">0.02144</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.7">0.0</eccentricity>
+			<inclination errorminus="0.16" errorplus="0.16">89.75</inclination>
+			<period errorminus="0.000063" errorplus="0.000063">4.04961</period>
+			<mass errorminus="0.00085" errorplus="0.00085">0.0013</mass>
+			<radius errorminus="0.0027" errorplus="0.0027">0.0689</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/03</lastupdate>
+			<lastupdate>17/02/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>TRAPPIST-1 e</name>
+			<semimajoraxis errorminus="0.00087" errorplus="0.00083">0.02817</semimajoraxis>
+			<eccentricity errorminus="0.085" errorplus="0.085">0.0</eccentricity>
+			<inclination errorminus="0.12" errorplus="0.1">89.86</inclination>
+			<period errorminus="0.000011" errorplus="0.000011">6.099615</period>
+			<mass errorminus="0.0018" errorplus="0.0018">0.002</mass>
+			<radius errorminus="0.0035" errorplus="0.0035">0.0819</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/02/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>TRAPPIST-1 f</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0371</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.063">0.0</eccentricity>
+			<inclination errorminus="0.034" errorplus="0.034">89.68</inclination>
+			<period errorminus="0.000015" errorplus="0.000015">9.20669</period>
+			<mass errorminus="0.00057" errorplus="0.00057">0.0021</mass>
+			<radius errorminus="0.0034" errorplus="0.0034">0.09323</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/02/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>TRAPPIST-1 g</name>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0451</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.061">0.0</eccentricity>
+			<inclination errorminus="0.025" errorplus="0.025">89.71</inclination>
+			<period errorminus="0.000120" errorplus="0.000120">12.35294</period>
+			<mass errorminus="0.0028" errorplus="0.0028">0.00422</mass>
+			<radius errorminus="0.0037" errorplus="0.0037">0.1005</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/02/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>TRAPPIST-1 h</name>
+			<semimajoraxis errorminus="0.013" errorplus="0.027">0.063</semimajoraxis>
+			<inclination errorminus="0.05" errorplus="0.1">89.8</inclination>
+			<period errorminus="6.000000" errorplus="15.000000">20.0</period>
+			<radius errorminus="0.003" errorplus="0.003">0.0674</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/02/22</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
