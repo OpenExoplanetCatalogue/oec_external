@@ -12,14 +12,14 @@
 		<temperature>5904.0</temperature>
 		<metallicity>-0.16</metallicity>
 		<planet>
-			<name>HD17674 b</name>
+			<name>HD 17674 b</name>
 			<semimajoraxis errorminus="0.05" errorplus="0.04">1.42</semimajoraxis>
 			<eccentricity errorminus="0.0" errorplus="0.13">0.0</eccentricity>
 			<period errorminus="1.500000" errorplus="1.600000">623.8</period>
 			<mass errorminus="0.06" errorplus="0.07">0.87</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2017</discoveryyear>
-			<lastupdate>17/02/26</lastupdate>
+			<lastupdate>17/02/27</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
