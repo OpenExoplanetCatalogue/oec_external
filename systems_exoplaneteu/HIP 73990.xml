@@ -15,7 +15,7 @@
 			<mass errorminus="5.0" errorplus="30.0">21.0</mass>
 			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/05/20</lastupdate>
+			<lastupdate>17/02/28</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
