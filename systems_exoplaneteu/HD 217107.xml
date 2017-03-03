@@ -20,7 +20,7 @@
 			<mass errorminus="0.05" errorplus="0.05">1.33</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>1998</discoveryyear>
-			<lastupdate>13/05/20</lastupdate>
+			<lastupdate>17/03/02</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
@@ -33,7 +33,7 @@
 			<mass errorminus="0.25" errorplus="0.25">2.49</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>1998</discoveryyear>
-			<lastupdate>13/05/20</lastupdate>
+			<lastupdate>17/03/02</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
