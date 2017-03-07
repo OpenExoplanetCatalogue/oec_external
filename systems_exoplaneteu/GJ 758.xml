@@ -17,11 +17,11 @@
 			<eccentricity errorminus="0.148" errorplus="0.148">0.564</eccentricity>
 			<inclination errorminus="17.4" errorplus="13.1">43.6</inclination>
 			<period errorminus="62000.000000" errorplus="198000.000000">109000.0</period>
-			<mass errorminus="5.0" errorplus="5.0">35.0</mass>
+			<mass errorminus="5.0" errorplus="5.0">45.0</mass>
 			<discoverymethod>imaging</discoverymethod>
-			<temperature>600.0</temperature>
+			<temperature>741.0</temperature>
 			<discoveryyear>2009</discoveryyear>
-			<lastupdate>15/03/14</lastupdate>
+			<lastupdate>17/03/06</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
