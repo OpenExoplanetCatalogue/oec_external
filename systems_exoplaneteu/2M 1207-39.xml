@@ -9,6 +9,15 @@
 		<mass>0.025</mass>
 		<spectraltype>M8</spectraltype>
 		<planet>
+			<name>2M 1207-39</name>
+			<mass errorminus="6.0" errorplus="6.0">24.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>17/03/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
 			<name>2M 1207-39 b</name>
 			<semimajoraxis errorminus="5.0" errorplus="5.0">46.0</semimajoraxis>
 			<mass errorminus="1.0" errorplus="1.0">4.0</mass>

@@ -1,0 +1,24 @@
+<system>
+	<name>GJ 570 ABC</name>
+	<rightascension>14 57 28</rightascension>
+	<declination>-21 35 05</declination>
+	<distance>5.91</distance>
+	<star>
+		<name>GJ 570 ABC</name>
+		<mass>0.802</mass>
+		<spectraltype>K4/M1/M3</spectraltype>
+		<temperature>4758.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>GJ 570 D</name>
+			<semimajoraxis>1500.0</semimajoraxis>
+			<mass errorminus="4.5" errorplus="4.5">42.5</mass>
+			<radius errorminus="0.023" errorplus="0.023">0.855</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>17/03/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

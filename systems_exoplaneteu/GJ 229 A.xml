@@ -1,14 +1,14 @@
 <system>
-	<name>GJ 229</name>
+	<name>GJ 229 A</name>
 	<rightascension>06 10 35</rightascension>
-	<declination>-20 51 53</declination>
+	<declination>-21 08 07</declination>
 	<star>
-		<name>GJ 229</name>
+		<name>GJ 229 A</name>
 		<mass>0.58</mass>
-		<spectraltype>M1/M2V</spectraltype>
+		<spectraltype>M1 V</spectraltype>
 		<temperature>3564.0</temperature>
 		<planet>
-			<name>GJ 229 b</name>
+			<name>GJ 229 A b</name>
 			<semimajoraxis errorminus="0.09" errorplus="0.12">0.97</semimajoraxis>
 			<periastron>148.97</periastron>
 			<eccentricity errorminus="0.1" errorplus="0.22">0.1</eccentricity>
@@ -16,7 +16,16 @@
 			<mass errorminus="0.050326659" errorplus="0.053472075">0.100682754932</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/05/25</lastupdate>
+			<lastupdate>17/03/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 229 B</name>
+			<mass errorminus="15.0" errorplus="15.0">35.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>1995</discoveryyear>
+			<lastupdate>17/03/09</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
