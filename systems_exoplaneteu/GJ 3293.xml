@@ -12,27 +12,39 @@
 		<metallicity>0.02</metallicity>
 		<planet>
 			<name>GJ 3293 b</name>
-			<semimajoraxis>0.1434</semimajoraxis>
+			<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.14339</semimajoraxis>
 			<periastron errorminus="24.2" errorplus="24.2">282.3</periastron>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
-			<period errorminus="0.020000" errorplus="0.020000">30.6</period>
-			<mass errorminus="0.0053" errorplus="0.0053">0.0812</mass>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+			<period errorminus="0.890000" errorplus="0.890000">23.54</period>
+			<mass errorminus="1.7e-05" errorplus="1.7e-05">0.07406</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/12/17</lastupdate>
+			<lastupdate>17/03/17</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>GJ 3293 d</name>
-			<semimajoraxis>0.364</semimajoraxis>
+			<semimajoraxis errorminus="0.00018" errorplus="0.00018">0.194</semimajoraxis>
 			<periastron errorminus="14.1" errorplus="14.1">322.0</periastron>
-			<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
-			<period errorminus="0.380000" errorplus="0.380000">123.98</period>
-			<mass errorminus="0.0053" errorplus="0.0053">0.0705</mass>
+			<eccentricity errorminus="0.09" errorplus="0.13">0.12</eccentricity>
+			<period errorminus="0.006000" errorplus="0.006000">48.1345</period>
+			<mass errorminus="0.0031" errorplus="0.0031">0.024</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/12/02</lastupdate>
+			<lastupdate>17/03/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 3293 e</name>
+			<semimajoraxis errorminus="4e-05" errorplus="4e-05">0.0821</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.2">0.21</eccentricity>
+			<period errorminus="0.010000" errorplus="0.008000">13.2543</period>
+			<mass errorminus="0.002" errorplus="0.002">0.0103</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/03/17</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
