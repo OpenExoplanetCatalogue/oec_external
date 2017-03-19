@@ -15,11 +15,11 @@
 			<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.14339</semimajoraxis>
 			<periastron errorminus="24.2" errorplus="24.2">282.3</periastron>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
-			<period errorminus="0.890000" errorplus="0.890000">23.54</period>
-			<mass errorminus="1.7e-05" errorplus="1.7e-05">0.07406</mass>
+			<period errorminus="0.008000" errorplus="0.008000">30.5987</period>
+			<mass errorminus="0.0028" errorplus="0.0028">0.07406</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>17/03/17</lastupdate>
+			<lastupdate>17/03/18</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
