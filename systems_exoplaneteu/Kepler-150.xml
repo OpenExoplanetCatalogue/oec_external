@@ -55,5 +55,19 @@
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
+		<planet>
+			<name>Kepler-150 f</name>
+			<semimajoraxis errorminus="0.45" errorplus="0.29">1.24</semimajoraxis>
+			<inclination errorminus="0.19" errorplus="0.19">90.0</inclination>
+			<period errorminus="0.015400" errorplus="0.016900">637.2093</period>
+			<mass errorminus="0.00475" errorplus="0.00431">0.0283</mass>
+			<radius errorminus="0.035" errorplus="0.046">0.325</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/03/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
 	</star>
 </system>

@@ -24,6 +24,18 @@
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
+			<name>GJ 3293 c</name>
+			<semimajoraxis errorminus="0.00048" errorplus="0.00048">0.36175</semimajoraxis>
+			<periastron errorminus="46.3" errorplus="46.3">17.3</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.1">0.11</eccentricity>
+			<period errorminus="0.240000" errorplus="0.240000">122.6196</period>
+			<mass errorminus="0.00396" errorplus="0.00396">0.06636</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>17/03/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
 			<name>GJ 3293 d</name>
 			<semimajoraxis errorminus="0.00018" errorplus="0.00018">0.194</semimajoraxis>
 			<periastron errorminus="14.1" errorplus="14.1">322.0</periastron>

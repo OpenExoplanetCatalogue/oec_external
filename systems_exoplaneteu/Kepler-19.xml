@@ -23,5 +23,17 @@
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
+		<planet>
+			<name>Kepler-19 d</name>
+			<periastron errorminus="57.0" errorplus="77.0">55.2</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.16">0.05</eccentricity>
+			<period errorminus="0.300000" errorplus="0.040000">62.95</period>
+			<mass errorminus="0.018" errorplus="0.0038">0.0708</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/03/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
 	</star>
 </system>

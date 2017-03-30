@@ -1,5 +1,5 @@
 #!/usr/bin/python 
-import urllib
+import urllib.request
 import os
 import xml.etree.ElementTree as ET 
 import xmltools
@@ -11,7 +11,7 @@ url_exoplaneteu = "http://exoplanet.eu/catalog/csv/"
 
 def get():
     xmltools.ensure_empty_dir("tmp_data")
-    urllib.urlretrieve (url_exoplaneteu, "tmp_data/exoplanet.eu_catalog.csv")
+    urllib.request.urlretrieve (url_exoplaneteu, "tmp_data/exoplanet.eu_catalog.csv")
 
 def tofl(s):
     'convert str to nicer str'
