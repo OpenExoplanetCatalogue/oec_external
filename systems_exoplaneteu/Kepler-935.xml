@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-935</name>
+	<rightascension>19 40 05</rightascension>
+	<declination>+46 37 09</declination>
+	<distance>482.0</distance>
+	<star>
+		<name>Kepler-935</name>
+		<radius>0.73</radius>
+		<mass>0.78</mass>
+		<temperature>4830.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-935 b</name>
+			<period errorminus="0.000015" errorplus="0.000015">4.88083852</period>
+			<radius errorminus="0.006" errorplus="0.007">0.12</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

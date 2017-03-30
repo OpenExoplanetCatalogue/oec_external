@@ -1,0 +1,31 @@
+<system>
+	<name>HATS-17</name>
+	<rightascension>12 48 46</rightascension>
+	<declination>-47 23 11</declination>
+	<distance>339.0</distance>
+	<star>
+		<name>HATS-17</name>
+		<age>2.1</age>
+		<radius>1.091</radius>
+		<mass>1.131</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5846.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>HATS-17 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.1308</semimajoraxis>
+			<periastron>354.0</periastron>
+			<eccentricity errorminus="0.022" errorplus="0.022">0.029</eccentricity>
+			<inclination errorminus="0.26" errorplus="0.26">89.08</inclination>
+			<period errorminus="0.000073" errorplus="0.000073">16.254611</period>
+			<mass errorminus="0.06509" errorplus="0.06513">1.338</mass>
+			<radius errorminus="0.056" errorplus="0.056">0.777</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

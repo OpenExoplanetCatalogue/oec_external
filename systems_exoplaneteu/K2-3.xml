@@ -1,0 +1,60 @@
+<system>
+	<name>K2-3</name>
+	<rightascension>11 29 20</rightascension>
+	<declination>-01 32 43</declination>
+	<distance>42.0</distance>
+	<star>
+		<name>K2-3</name>
+		<age>1.0</age>
+		<radius>0.553</radius>
+		<mass>0.612</mass>
+		<spectraltype>M0.0V</spectraltype>
+		<temperature>3951.0</temperature>
+		<metallicity>-0.3</metallicity>
+		<planet>
+			<name>K2-3  b</name>
+			<semimajoraxis errorminus="0.0039" errorplus="0.0039">0.0775</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.06</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.24">89.59</inclination>
+			<period errorminus="0.000260" errorplus="0.000260">10.05449</period>
+			<mass errorminus="0.0066" errorplus="0.0066">0.026</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.194</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-3 c</name>
+			<semimajoraxis errorminus="0.0067" errorplus="0.0067">0.1405</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.04</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">89.7</inclination>
+			<period errorminus="0.001170" errorplus="0.001170">24.64354</period>
+			<mass errorminus="0.0041" errorplus="0.0066">0.0066</mass>
+			<radius errorminus="0.024" errorplus="0.024">0.165</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-3 d</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.2086</semimajoraxis>
+			<eccentricity errorminus="0.045" errorplus="0.045">0.045</eccentricity>
+			<inclination errorminus="0.15" errorplus="0.15">89.79</inclination>
+			<period errorminus="0.005900" errorplus="0.005900">44.5598</period>
+			<mass errorminus="0.011" errorplus="0.011">0.0349</mass>
+			<radius errorminus="0.021" errorplus="0.021">0.135</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/12/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

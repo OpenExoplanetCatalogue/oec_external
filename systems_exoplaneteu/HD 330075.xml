@@ -1,0 +1,29 @@
+<system>
+	<name>HD 330075</name>
+	<rightascension>15 49 37</rightascension>
+	<declination>-49 02 12</declination>
+	<distance>50.2</distance>
+	<star>
+		<name>HD 330075</name>
+		<age>6.21</age>
+		<mass>0.95</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>6295.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>HD 330075 b</name>
+			<semimajoraxis>0.039</semimajoraxis>
+			<periastron errorminus="91.2" errorplus="91.2">38.2</periastron>
+			<eccentricity errorminus="0.0684" errorplus="0.0187">0.0187</eccentricity>
+			<period errorminus="0.001870" errorplus="0.001870">3.6413</period>
+			<mass>0.62</mass>
+			<radius>1.06</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>15/02/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

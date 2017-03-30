@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-45</name>
+	<rightascension>19 31 30</rightascension>
+	<declination>+41 03 51</declination>
+	<distance>333.0</distance>
+	<star>
+		<name>Kepler-45</name>
+		<radius>0.55</radius>
+		<mass>0.59</mass>
+		<spectraltype>M</spectraltype>
+		<temperature>3820.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-45 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.027</semimajoraxis>
+			<periastron errorminus="68.0" errorplus="68.0">230.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.11</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">87.0</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">2.455239</period>
+			<mass errorminus="0.09" errorplus="0.09">0.505</mass>
+			<radius errorminus="0.11" errorplus="0.11">0.96</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

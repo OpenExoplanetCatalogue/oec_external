@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-603</name>
+	<rightascension>19 37 07</rightascension>
+	<declination>+42 17 27</declination>
+	<distance>967.0</distance>
+	<star>
+		<name>Kepler-603</name>
+		<radius>1.01</radius>
+		<mass>1.01</mass>
+		<temperature>5808.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-603 b</name>
+			<period errorminus="0.000089" errorplus="0.000089">21.05358596</period>
+			<radius errorminus="0.023" errorplus="0.053">0.236</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-603 c</name>
+			<period errorminus="0.000500" errorplus="0.000500">127.9075774</period>
+			<radius errorminus="0.055" errorplus="0.132">0.58</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-603 d</name>
+			<period errorminus="0.000042" errorplus="0.000042">6.2171292</period>
+			<radius errorminus="0.012" errorplus="0.022">0.118</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

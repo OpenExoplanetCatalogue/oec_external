@@ -1,0 +1,25 @@
+<system>
+	<name>HD 180777</name>
+	<rightascension>19 09 10</rightascension>
+	<declination>+76 33 38</declination>
+	<distance>27.3</distance>
+	<star>
+		<name>HD 180777</name>
+		<mass>1.7</mass>
+		<spectraltype>A9V</spectraltype>
+		<temperature>7250.0</temperature>
+		<planet>
+			<name>HD 180777 b</name>
+			<semimajoraxis>0.22</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">56.0</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.2</eccentricity>
+			<period>28.44</period>
+			<mass>25.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/08/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

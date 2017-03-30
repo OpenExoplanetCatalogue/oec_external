@@ -1,0 +1,40 @@
+<system>
+	<name>HD 110014</name>
+	<rightascension>12 39 14</rightascension>
+	<declination>-07 00 16</declination>
+	<distance>90.0</distance>
+	<star>
+		<name>HD 110014</name>
+		<age>0.95</age>
+		<radius>20.9</radius>
+		<mass>2.17</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>4445.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 110014 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.31</semimajoraxis>
+			<periastron errorminus="15.5" errorplus="15.5">47.72</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.26</eccentricity>
+			<period errorminus="21.500000" errorplus="21.500000">882.6</period>
+			<mass errorminus="1.0" errorplus="1.0">10.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/09/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 110014 c</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.64</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.44</eccentricity>
+			<period errorminus="0.900000" errorplus="0.900000">130.0</period>
+			<mass errorminus="0.4" errorplus="0.4">3.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/09/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>2M 0122-24</name>
+	<rightascension>01 22 51</rightascension>
+	<declination>-24 23 09</declination>
+	<distance>36.0</distance>
+	<star>
+		<name>2M 0122-24</name>
+		<age>0.12</age>
+		<mass>0.4</mass>
+		<spectraltype>M3.5</spectraltype>
+		<planet>
+			<name>2M 0122-24 b</name>
+			<semimajoraxis errorminus="6.0" errorplus="6.0">52.0</semimajoraxis>
+			<mass errorminus="7.0" errorplus="7.0">20.0</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.0</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1380.0</temperature>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

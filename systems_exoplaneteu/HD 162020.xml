@@ -1,0 +1,28 @@
+<system>
+	<name>HD 162020</name>
+	<rightascension>17 50 38</rightascension>
+	<declination>-40 40 54</declination>
+	<distance>31.26</distance>
+	<star>
+		<name>HD 162020</name>
+		<age>0.76</age>
+		<radius>0.71</radius>
+		<mass>0.75</mass>
+		<spectraltype>K2 V</spectraltype>
+		<temperature>4830.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>HD 162020 b</name>
+			<semimajoraxis>0.074</semimajoraxis>
+			<periastron errorminus="0.002" errorplus="0.002">332.672</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.277</eccentricity>
+			<period errorminus="0.000056" errorplus="0.000056">8.428198</period>
+			<mass>14.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

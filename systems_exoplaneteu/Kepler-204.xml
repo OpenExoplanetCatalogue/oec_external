@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-204</name>
+	<rightascension>19 01 23</rightascension>
+	<declination>+41 45 43</declination>
+	<star>
+		<name>Kepler-204</name>
+		<radius>1.24</radius>
+		<mass>0.96</mass>
+		<temperature>5812.0</temperature>
+		<metallicity>-0.213</metallicity>
+		<planet>
+			<name>Kepler-204 b</name>
+			<semimajoraxis>0.117</semimajoraxis>
+			<period errorminus="0.000056" errorplus="0.000056">14.400974</period>
+			<radius errorminus="0.048" errorplus="0.048">0.226</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-204 c</name>
+			<semimajoraxis>0.173</semimajoraxis>
+			<period errorminus="0.000288" errorplus="0.000288">25.660593</period>
+			<radius errorminus="0.035" errorplus="0.035">0.16</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

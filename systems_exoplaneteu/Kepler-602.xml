@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-602</name>
+	<rightascension>19 44 08</rightascension>
+	<declination>+42 08 31</declination>
+	<distance>971.0</distance>
+	<star>
+		<name>Kepler-602</name>
+		<radius>1.13</radius>
+		<mass>1.08</mass>
+		<temperature>6062.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-602 b</name>
+			<period errorminus="0.000069" errorplus="0.000069">15.28469497</period>
+			<radius errorminus="0.029" errorplus="0.058">0.186</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

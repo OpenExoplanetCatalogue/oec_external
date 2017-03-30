@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2007-BLG-368L</name>
+	<rightascension>17 56 26</rightascension>
+	<declination>-32 45 45</declination>
+	<distance>5900.0</distance>
+	<star>
+		<name>OGLE-2007-BLG-368L</name>
+		<mass>0.64</mass>
+		<planet>
+			<name>OGLE-2007-BLG-368L b</name>
+			<semimajoraxis errorminus="8.8" errorplus="8.8">3.3</semimajoraxis>
+			<mass>0.0694</mass>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>09/12/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

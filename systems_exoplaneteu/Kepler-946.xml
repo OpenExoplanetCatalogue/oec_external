@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-946</name>
+	<rightascension>20 03 43</rightascension>
+	<declination>+44 01 44</declination>
+	<distance>918.0</distance>
+	<star>
+		<name>Kepler-946</name>
+		<radius>0.93</radius>
+		<mass>0.94</mass>
+		<temperature>5665.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-946 b</name>
+			<period errorminus="0.000055" errorplus="0.000055">11.79162572</period>
+			<radius errorminus="0.018" errorplus="0.029">0.172</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

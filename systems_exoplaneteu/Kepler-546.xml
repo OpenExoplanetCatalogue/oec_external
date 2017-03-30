@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-546</name>
+	<rightascension>18 53 02</rightascension>
+	<declination>+40 59 26</declination>
+	<distance>896.0</distance>
+	<star>
+		<name>Kepler-546</name>
+		<radius>1.15</radius>
+		<mass>1.11</mass>
+		<temperature>5967.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>Kepler-546 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">4.14702026</period>
+			<radius errorminus="0.069" errorplus="0.172">0.624</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

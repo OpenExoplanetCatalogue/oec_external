@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-632</name>
+	<rightascension>19 49 01</rightascension>
+	<declination>+40 17 19</declination>
+	<distance>349.0</distance>
+	<star>
+		<name>Kepler-632</name>
+		<radius>0.84</radius>
+		<mass>0.91</mass>
+		<temperature>5322.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>Kepler-632 b</name>
+			<period errorminus="0.000048" errorplus="0.000048">30.99660733</period>
+			<radius errorminus="0.007" errorplus="0.029">0.197</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

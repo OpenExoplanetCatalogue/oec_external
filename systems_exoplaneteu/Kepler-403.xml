@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-403</name>
+	<rightascension>19 19 41</rightascension>
+	<declination>+46 44 40</declination>
+	<star>
+		<name>Kepler-403</name>
+		<radius>1.33</radius>
+		<temperature>6090.0</temperature>
+		<metallicity>-0.145</metallicity>
+		<planet>
+			<name>Kepler-403 b</name>
+			<semimajoraxis>0.076</semimajoraxis>
+			<period errorminus="0.000051" errorplus="0.000051">7.031462</period>
+			<radius errorminus="0.02" errorplus="0.02">0.112</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-403 c</name>
+			<semimajoraxis>0.297</semimajoraxis>
+			<period errorminus="0.000562" errorplus="0.000562">54.280749</period>
+			<radius errorminus="0.029" errorplus="0.029">0.156</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-403 d</name>
+			<period errorminus="0.000083" errorplus="0.000083">13.61159129</period>
+			<radius errorminus="0.017" errorplus="0.027">0.127</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

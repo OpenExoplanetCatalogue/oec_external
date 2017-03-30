@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1472</name>
+	<rightascension>19 39 25</rightascension>
+	<declination>+49 03 27</declination>
+	<distance>1269.0</distance>
+	<star>
+		<name>Kepler-1472</name>
+		<radius>1.25</radius>
+		<mass>1.16</mass>
+		<temperature>6159.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1472 b</name>
+			<period errorminus="0.000575" errorplus="0.000575">38.1312831</period>
+			<radius errorminus="0.032" errorplus="0.068">0.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

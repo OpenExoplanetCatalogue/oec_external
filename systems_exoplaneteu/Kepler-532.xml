@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-532</name>
+	<rightascension>19 54 39</rightascension>
+	<declination>+48 36 23</declination>
+	<distance>325.0</distance>
+	<star>
+		<name>Kepler-532</name>
+		<radius>0.79</radius>
+		<mass>0.87</mass>
+		<temperature>5192.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-532 b</name>
+			<period errorminus="0.000012" errorplus="0.000012">12.92491623</period>
+			<radius errorminus="0.012" errorplus="0.019">0.229</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

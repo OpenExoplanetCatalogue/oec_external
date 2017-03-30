@@ -1,0 +1,28 @@
+<system>
+	<name>TrES-3</name>
+	<rightascension>17 52 07</rightascension>
+	<declination>+37 32 46</declination>
+	<star>
+		<name>TrES-3</name>
+		<radius>0.813</radius>
+		<mass>0.924</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5720.0</temperature>
+		<metallicity>-0.19</metallicity>
+		<planet>
+			<name>TrES-3</name>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0226</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.21" errorplus="0.21">82.15</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">1.30618608</period>
+			<mass errorminus="0.07" errorplus="0.06">1.91</mass>
+			<radius errorminus="0.09" errorplus="0.09">1.305</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler 455</name>
+	<rightascension>19 39 48</rightascension>
+	<declination>+38 36 19</declination>
+	<star>
+		<name>Kepler 455</name>
+		<radius>1.005</radius>
+		<mass>0.98</mass>
+		<temperature>6175.0</temperature>
+		<metallicity>-0.42</metallicity>
+		<planet>
+			<name>Kepler-455 b</name>
+			<inclination errorminus="0.031" errorplus="0.023">89.973</inclination>
+			<period errorminus="11.200000" errorplus="386.100000">1322.3</period>
+			<radius errorminus="0.08" errorplus="0.0892">0.62</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

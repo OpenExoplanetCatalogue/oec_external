@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-802</name>
+	<rightascension>19 04 04</rightascension>
+	<declination>+45 00 28</declination>
+	<distance>828.0</distance>
+	<star>
+		<name>Kepler-802</name>
+		<radius>0.9</radius>
+		<mass>0.93</mass>
+		<temperature>5507.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>Kepler-802 b</name>
+			<period errorminus="0.000109" errorplus="0.000109">40.0587473</period>
+			<radius errorminus="0.036" errorplus="0.042">0.316</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

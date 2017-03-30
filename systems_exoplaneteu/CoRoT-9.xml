@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-9</name>
+	<rightascension>18 43 09</rightascension>
+	<declination>+06 12 15</declination>
+	<distance>460.0</distance>
+	<star>
+		<name>CoRoT-9</name>
+		<age>4.0</age>
+		<radius>0.94</radius>
+		<mass>0.99</mass>
+		<spectraltype>G3V</spectraltype>
+		<temperature>5625.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>CoRoT-9 b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.407</semimajoraxis>
+			<periastron errorminus="37.0" errorplus="37.0">37.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.11</eccentricity>
+			<inclination errorminus="nan" errorplus="inf">89.9</inclination>
+			<period errorminus="0.001400" errorplus="0.001400">95.273804</period>
+			<mass errorminus="0.07" errorplus="0.07">0.84</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.94</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>13/06/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

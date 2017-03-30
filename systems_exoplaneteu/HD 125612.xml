@@ -1,0 +1,54 @@
+<system>
+	<name>HD 125612</name>
+	<rightascension>14 20 54</rightascension>
+	<declination>-17 31 07</declination>
+	<distance>52.82</distance>
+	<star>
+		<name>HD 125612</name>
+		<age>2.1</age>
+		<radius>1.05</radius>
+		<mass>1.1</mass>
+		<spectraltype>G3V</spectraltype>
+		<temperature>5897.0</temperature>
+		<metallicity>0.24</metallicity>
+		<planet>
+			<name>HD 125612 b</name>
+			<semimajoraxis>1.37</semimajoraxis>
+			<periastron errorminus="1.7" errorplus="1.7">41.5</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.46</eccentricity>
+			<period errorminus="14.000000" errorplus="14.000000">502.0</period>
+			<mass>3.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 125612 c</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<periastron errorminus="23.0" errorplus="23.0">103.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.27</eccentricity>
+			<period errorminus="0.000500" errorplus="0.000500">4.1547</period>
+			<mass>0.058</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 125612 d</name>
+			<semimajoraxis>4.2</semimajoraxis>
+			<periastron errorminus="8.0" errorplus="8.0">284.0</periastron>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.28</eccentricity>
+			<period errorminus="202.000000" errorplus="202.000000">3008.0</period>
+			<mass>7.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-53</name>
+	<rightascension>01 27 29</rightascension>
+	<declination>+38 58 05</declination>
+	<distance>719.0</distance>
+	<star>
+		<name>HAT-P-53</name>
+		<age>4.67</age>
+		<radius>1.209</radius>
+		<mass>1.093</mass>
+		<temperature>5956.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>HAT-P-53 b</name>
+			<semimajoraxis errorminus="0.00052" errorplus="0.00052">0.03159</semimajoraxis>
+			<eccentricity errorminus="0.134" errorplus="0.0">0.134</eccentricity>
+			<inclination errorminus="1.5" errorplus="1.5">86.2</inclination>
+			<period errorminus="0.000004" errorplus="0.000004">1.9616241</period>
+			<mass errorminus="0.05812" errorplus="0.05934">1.487</mass>
+			<radius errorminus="0.091" errorplus="0.091">1.318</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,32 @@
+<system>
+	<name>KELT-4 A</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<distance>211.0</distance>
+	<star>
+		<name>KELT-4 A</name>
+		<age>4.38</age>
+		<radius>1.61</radius>
+		<mass>1.204</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6207.0</temperature>
+		<metallicity>-0.116</metallicity>
+		<planet>
+			<name>KELT-4A b</name>
+			<semimajoraxis errorminus="0.00077" errorplus="0.00085">0.04321</semimajoraxis>
+			<periastron errorminus="130.0" errorplus="110.0">300.0</periastron>
+			<eccentricity errorminus="0.021" errorplus="0.016">0.03</eccentricity>
+			<longitude errorminus="74.0" errorplus="95.0">30.0</longitude>
+			<inclination errorminus="0.57" errorplus="0.48">83.11</inclination>
+			<period errorminus="0.000005" errorplus="0.000005">2.9895933</period>
+			<mass errorminus="0.0683" errorplus="0.0717">0.884</mass>
+			<radius errorminus="0.076" errorplus="0.085">1.706</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

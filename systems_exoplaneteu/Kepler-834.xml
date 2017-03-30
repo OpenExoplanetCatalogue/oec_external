@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-834</name>
+	<rightascension>19 08 13</rightascension>
+	<declination>+45 10 49</declination>
+	<distance>620.0</distance>
+	<star>
+		<name>Kepler-834</name>
+		<radius>0.66</radius>
+		<mass>0.7</mass>
+		<temperature>4554.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>Kepler-834 b</name>
+			<period errorminus="0.000052" errorplus="0.000052">13.32388301</period>
+			<radius errorminus="0.009" errorplus="0.009">0.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

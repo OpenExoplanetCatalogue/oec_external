@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-567</name>
+	<rightascension>19 50 41</rightascension>
+	<declination>+48 18 08</declination>
+	<distance>568.0</distance>
+	<star>
+		<name>Kepler-567</name>
+		<radius>0.79</radius>
+		<mass>0.84</mass>
+		<temperature>5148.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-567 b</name>
+			<period errorminus="0.000041" errorplus="0.000041">16.54297375</period>
+			<radius errorminus="0.011" errorplus="0.013">0.201</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

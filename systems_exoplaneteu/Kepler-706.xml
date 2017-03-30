@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-706</name>
+	<rightascension>19 27 02</rightascension>
+	<declination>+41 56 39</declination>
+	<distance>810.0</distance>
+	<star>
+		<name>Kepler-706</name>
+		<radius>0.84</radius>
+		<mass>0.87</mass>
+		<temperature>5394.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-706 b</name>
+			<period errorminus="0.000007" errorplus="0.000007">41.40831347</period>
+			<radius errorminus="0.079" errorplus="0.106">1.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

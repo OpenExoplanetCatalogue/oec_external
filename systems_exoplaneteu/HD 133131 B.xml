@@ -1,0 +1,25 @@
+<system>
+	<name>HD 133131 B</name>
+	<rightascension>15 03 36</rightascension>
+	<declination>-27 09 32</declination>
+	<distance>47.0</distance>
+	<star>
+		<name>HD 133131 B</name>
+		<age>9.7</age>
+		<mass>0.93</mass>
+		<spectraltype>G2</spectraltype>
+		<temperature>5805.0</temperature>
+		<metallicity>-0.281</metallicity>
+		<planet>
+			<name>HD 133131 B b</name>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.62</eccentricity>
+			<period errorminus="831.000000" errorplus="831.000000">6119.0</period>
+			<mass errorminus="0.05" errorplus="0.05">2.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/08/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,31 @@
+<system>
+	<name>HAT-P-27-WASP-40</name>
+	<rightascension>14 51 04</rightascension>
+	<declination>+05 56 50</declination>
+	<distance>204.0</distance>
+	<star>
+		<name>HAT-P-27-WASP-40</name>
+		<age>4.4</age>
+		<radius>0.898</radius>
+		<mass>0.945</mass>
+		<spectraltype>G8</spectraltype>
+		<temperature>5300.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HAT-P-27-WASP-40 b</name>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0403</semimajoraxis>
+			<periastron errorminus="64.0" errorplus="64.0">63.0</periastron>
+			<eccentricity errorminus="0.047" errorplus="0.047">0.078</eccentricity>
+			<inclination errorminus="0.07" errorplus="0.07">85.08</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">3.0395803</period>
+			<mass errorminus="0.033" errorplus="0.033">0.66</mass>
+			<radius errorminus="0.036" errorplus="0.036">1.055</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

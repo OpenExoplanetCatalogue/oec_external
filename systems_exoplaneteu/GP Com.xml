@@ -1,0 +1,20 @@
+<system>
+	<name>GP Com</name>
+	<rightascension>13 05 42</rightascension>
+	<declination>+18 01 04</declination>
+	<star>
+		<name>GP Com</name>
+		<mass>0.33</mass>
+		<spectraltype>DBe D</spectraltype>
+		<planet>
+			<name>GP Com b</name>
+			<inclination errorminus="22.5" errorplus="22.5">55.5</inclination>
+			<period>0.032</period>
+			<mass errorminus="16.6" errorplus="16.6">26.2</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>17/01/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

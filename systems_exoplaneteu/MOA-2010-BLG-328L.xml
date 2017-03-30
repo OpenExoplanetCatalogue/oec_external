@@ -1,0 +1,20 @@
+<system>
+	<name>MOA-2010-BLG-328L</name>
+	<rightascension>17 57 59</rightascension>
+	<declination>-30 17 05</declination>
+	<distance>810.0</distance>
+	<star>
+		<name>MOA-2010-BLG-328L</name>
+		<mass>0.11</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>MOA-2010-BLG-328L b</name>
+			<semimajoraxis errorminus="0.16" errorplus="0.16">0.92</semimajoraxis>
+			<mass errorminus="0.007" errorplus="0.007">0.029</mass>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/10/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

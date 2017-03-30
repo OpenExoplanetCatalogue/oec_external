@@ -1,0 +1,29 @@
+<system>
+	<name>GJ 758</name>
+	<rightascension>19 23 34</rightascension>
+	<declination>+33 13 19</declination>
+	<distance>15.5</distance>
+	<star>
+		<name>GJ 758</name>
+		<age>8.2</age>
+		<radius>0.88</radius>
+		<mass>0.97</mass>
+		<spectraltype>K0V</spectraltype>
+		<temperature>5425.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>GJ 758 b</name>
+			<semimajoraxis errorminus="14.1" errorplus="44.4">44.8</semimajoraxis>
+			<eccentricity errorminus="0.148" errorplus="0.148">0.564</eccentricity>
+			<inclination errorminus="17.4" errorplus="13.1">43.6</inclination>
+			<period errorminus="62000.000000" errorplus="198000.000000">109000.0</period>
+			<mass errorminus="5.0" errorplus="5.0">45.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>741.0</temperature>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>17/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

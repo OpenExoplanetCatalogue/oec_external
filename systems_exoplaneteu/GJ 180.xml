@@ -1,0 +1,37 @@
+<system>
+	<name>GJ 180</name>
+	<rightascension>04 53 50</rightascension>
+	<declination>-17 13 36</declination>
+	<star>
+		<name>GJ 180</name>
+		<mass>0.43</mass>
+		<spectraltype>M2V</spectraltype>
+		<temperature>3371.0</temperature>
+		<planet>
+			<name>GJ 180 b</name>
+			<semimajoraxis errorminus="0.014" errorplus="0.006">0.103</semimajoraxis>
+			<periastron>11.46</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.14">0.11</eccentricity>
+			<period errorminus="0.020000" errorplus="0.018000">17.38</period>
+			<mass errorminus="0.016670706" errorplus="0.011008956">0.0261145895605</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 180 c</name>
+			<semimajoraxis errorminus="0.017" errorplus="0.007">0.129</semimajoraxis>
+			<periastron>234.91</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.2">0.09</eccentricity>
+			<period errorminus="0.066000" errorplus="0.052000">24.329</period>
+			<mass errorminus="0.012896206" errorplus="0.01163804">0.0201365509864</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

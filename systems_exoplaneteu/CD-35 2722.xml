@@ -1,0 +1,24 @@
+<system>
+	<name>CD-35 2722</name>
+	<rightascension>06 09 19</rightascension>
+	<declination>-35 10 29</declination>
+	<distance>21.3</distance>
+	<star>
+		<name>CD-35 2722</name>
+		<age>0.1</age>
+		<mass>0.4</mass>
+		<spectraltype>M1V</spectraltype>
+		<temperature>3680.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>CD-35 2722 b</name>
+			<semimajoraxis errorminus="4.0" errorplus="4.0">67.0</semimajoraxis>
+			<mass errorminus="8.0" errorplus="8.0">31.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

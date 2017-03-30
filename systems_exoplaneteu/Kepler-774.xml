@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-774</name>
+	<rightascension>19 24 08</rightascension>
+	<declination>+38 12 43</declination>
+	<distance>1190.0</distance>
+	<star>
+		<name>Kepler-774</name>
+		<radius>2.42</radius>
+		<mass>1.57</mass>
+		<temperature>6403.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-774 b</name>
+			<period errorminus="0.000044" errorplus="0.000044">11.0895723</period>
+			<radius errorminus="0.048" errorplus="0.041">0.283</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

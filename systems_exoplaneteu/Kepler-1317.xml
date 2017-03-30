@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1317</name>
+	<rightascension>19 26 27</rightascension>
+	<declination>+42 06 57</declination>
+	<distance>734.0</distance>
+	<star>
+		<name>Kepler-1317</name>
+		<radius>0.79</radius>
+		<mass>0.83</mass>
+		<temperature>5144.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1317 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">0.56887443</period>
+			<radius errorminus="0.007" errorplus="0.008">0.139</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

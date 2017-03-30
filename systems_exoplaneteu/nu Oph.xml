@@ -1,0 +1,38 @@
+<system>
+	<name>nu Oph</name>
+	<rightascension>17 59 02</rightascension>
+	<declination>-09 13 35</declination>
+	<distance>46.8</distance>
+	<star>
+		<name>nu Oph</name>
+		<radius>15.1</radius>
+		<mass>3.04</mass>
+		<spectraltype>K0III</spectraltype>
+		<temperature>4928.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>nu Oph b</name>
+			<semimajoraxis>1.9</semimajoraxis>
+			<eccentricity>0.13</eccentricity>
+			<period errorminus="0.350000" errorplus="0.350000">530.32</period>
+			<mass>24.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>15/08/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>nu Oph c</name>
+			<semimajoraxis>6.1</semimajoraxis>
+			<eccentricity>0.18</eccentricity>
+			<period errorminus="14.000000" errorplus="14.000000">3186.0</period>
+			<mass>27.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/08/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

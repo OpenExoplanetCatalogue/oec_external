@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-710</name>
+	<rightascension>19 27 51</rightascension>
+	<declination>+42 41 46</declination>
+	<distance>919.0</distance>
+	<star>
+		<name>Kepler-710</name>
+		<radius>0.91</radius>
+		<mass>0.94</mass>
+		<temperature>5611.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-710 b</name>
+			<period errorminus="0.000008" errorplus="0.000008">4.34728553</period>
+			<radius errorminus="0.013" errorplus="0.021">0.168</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

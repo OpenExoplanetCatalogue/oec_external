@@ -1,0 +1,52 @@
+<system>
+	<name>Kepler-51</name>
+	<rightascension>19 45 55</rightascension>
+	<declination>+49 56 16</declination>
+	<star>
+		<name>Kepler-51</name>
+		<radius>0.91</radius>
+		<mass>1.0</mass>
+		<temperature>5803.0</temperature>
+		<planet>
+			<name>KOI-620.02</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.509</semimajoraxis>
+			<eccentricity errorminus="0.008" errorplus="0.011">0.008</eccentricity>
+			<period errorminus="0.005000" errorplus="0.002000">130.194</period>
+			<mass errorminus="0.00346096970078344" errorplus="0.00346096970078344">0.0239121542963</mass>
+			<radius errorminus="0.0446070918138849" errorplus="0.0446070918138849">0.865377581189</radius>
+			<istransiting>1</istransiting>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-51 b</name>
+			<semimajoraxis errorminus="0.0097" errorplus="0.0097">0.2514</semimajoraxis>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.04</eccentricity>
+			<period errorminus="0.000072" errorplus="0.000072">45.1555023</period>
+			<mass errorminus="0.00251706887329705" errorplus="0.00471950413743196">0.0066073057924</mass>
+			<radius errorminus="0.026764255088331" errorplus="0.026764255088331">0.633420703757</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-51 c</name>
+			<semimajoraxis errorminus="0.015" errorplus="0.015">0.384</semimajoraxis>
+			<eccentricity errorminus="0.009" errorplus="0.013">0.014</eccentricity>
+			<period errorminus="0.000960" errorplus="0.000960">85.3128662</period>
+			<mass errorminus="0.00125853443664852" errorplus="0.00125853443664852">0.0125853443665</mass>
+			<radius errorminus="0.151664112167209" errorplus="0.249799714157756">0.80292765265</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

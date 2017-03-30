@@ -1,0 +1,27 @@
+<system>
+	<name>DE0823-49</name>
+	<rightascension>08 23 03</rightascension>
+	<declination>-48 12 01</declination>
+	<distance>20.69</distance>
+	<star>
+		<name>DE0823-49</name>
+		<age>0.1</age>
+		<mass>0.045</mass>
+		<temperature>2150.0</temperature>
+		<planet>
+			<name>DE0823-49 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.36</semimajoraxis>
+			<periastron errorminus="4.9" errorplus="4.9">41.8</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.36</eccentricity>
+			<inclination errorminus="1.5" errorplus="1.5">52.2</inclination>
+			<period errorminus="0.640000" errorplus="0.640000">247.75</period>
+			<mass errorminus="13.0" errorplus="13.0">31.5</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1670.0</temperature>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/06/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

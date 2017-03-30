@@ -1,0 +1,21 @@
+<system>
+	<name>Teide 1</name>
+	<rightascension>03 47 18</rightascension>
+	<declination>+24 22 32</declination>
+	<star>
+		<name>Teide 1</name>
+		<mass>0.052</mass>
+		<spectraltype>M8 D</spectraltype>
+		<temperature>2584.0</temperature>
+		<planet>
+			<name>Teide 1</name>
+			<mass>54.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>2584.0</temperature>
+			<discoveryyear>1995</discoveryyear>
+			<lastupdate>17/03/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

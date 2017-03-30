@@ -1,0 +1,92 @@
+<system>
+	<name>GJ 667 C</name>
+	<rightascension>17 18 57</rightascension>
+	<declination>-34 00 37</declination>
+	<distance>6.84</distance>
+	<star>
+		<name>GJ 667 C</name>
+		<age>2.0</age>
+		<mass>0.33</mass>
+		<spectraltype>M1.5V</spectraltype>
+		<temperature>3600.0</temperature>
+		<metallicity>-0.55</metallicity>
+		<planet>
+			<name>GJ 667 C b</name>
+			<semimajoraxis errorminus="0.0053" errorplus="0.0044">0.0505</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">5.7</periastron>
+			<eccentricity errorminus="0.11" errorplus="0.1">0.13</eccentricity>
+			<period errorminus="0.001700" errorplus="0.001700">7.2004</period>
+			<mass errorminus="0.0041" errorplus="0.0044">0.0176</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 667 C c</name>
+			<semimajoraxis errorminus="0.013" errorplus="0.012">0.125</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">292.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.15">0.02</eccentricity>
+			<period errorminus="0.030000" errorplus="0.030000">28.14</period>
+			<mass errorminus="0.0038" errorplus="0.0047">0.012</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/10/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 667 C d</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.024">0.276</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">40.11</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.2">0.03</eccentricity>
+			<period errorminus="0.890000" errorplus="0.810000">91.61</period>
+			<mass errorminus="0.00535" errorplus="0.00566">0.01604</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 667 C e</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.213</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">28.65</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.004">0.02</eccentricity>
+			<period errorminus="0.550000" errorplus="0.550000">62.24</period>
+			<mass errorminus="0.0044" errorplus="0.005">0.0085</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 667 C f</name>
+			<semimajoraxis errorminus="0.017" errorplus="0.014">0.156</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">103.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.16">0.03</eccentricity>
+			<period errorminus="0.211000" errorplus="0.194000">39.026</period>
+			<mass errorminus="0.0038" errorplus="0.0044">0.0085</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 667 C g</name>
+			<semimajoraxis errorminus="0.058" errorplus="0.052">0.549</semimajoraxis>
+			<periastron errorminus="360.0" errorplus="360.0">51.56</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.41">0.08</eccentricity>
+			<period errorminus="7.900000" errorplus="13.800000">256.2</period>
+			<mass errorminus="0.0072" errorplus="0.0082">0.0145</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

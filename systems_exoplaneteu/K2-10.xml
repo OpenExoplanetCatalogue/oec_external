@@ -1,0 +1,26 @@
+<system>
+	<name>K2-10</name>
+	<rightascension>11 28 29</rightascension>
+	<declination>+01 41 26</declination>
+	<star>
+		<name>K2-10</name>
+		<radius>0.98</radius>
+		<mass>0.92</mass>
+		<temperature>5620.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>K2-10 b</name>
+			<eccentricity errorminus="0.18" errorplus="0.18">0.31</eccentricity>
+			<inclination>88.5</inclination>
+			<period errorminus="0.001200" errorplus="0.001200">19.3044</period>
+			<mass errorminus="0.053" errorplus="0.053">0.085</mass>
+			<radius errorminus="0.031" errorplus="0.031">0.343</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

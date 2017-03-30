@@ -1,0 +1,26 @@
+<system>
+	<name>POTS-1</name>
+	<rightascension>13 34 26</rightascension>
+	<declination>-66 25 08</declination>
+	<star>
+		<name>POTS-1</name>
+		<mass>0.695</mass>
+		<spectraltype>K5</spectraltype>
+		<temperature>4400.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>POTS-1 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.03734</semimajoraxis>
+			<inclination errorminus="0.34" errorplus="0.47">88.06</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">3.1606296</period>
+			<mass errorminus="0.77" errorplus="0.77">2.31</mass>
+			<radius errorminus="0.047" errorplus="0.036">0.941</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

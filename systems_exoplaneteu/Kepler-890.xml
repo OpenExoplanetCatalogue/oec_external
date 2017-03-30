@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-890</name>
+	<rightascension>19 13 45</rightascension>
+	<declination>+43 45 49</declination>
+	<distance>1387.0</distance>
+	<star>
+		<name>Kepler-890</name>
+		<radius>1.13</radius>
+		<mass>1.09</mass>
+		<temperature>5954.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>Kepler-890 b</name>
+			<period errorminus="0.000033" errorplus="0.000033">52.75875577</period>
+			<radius errorminus="0.095" errorplus="0.255">0.793</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

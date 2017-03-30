@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-767</name>
+	<rightascension>19 26 19</rightascension>
+	<declination>+38 02 09</declination>
+	<distance>1185.0</distance>
+	<star>
+		<name>Kepler-767</name>
+		<radius>0.94</radius>
+		<mass>0.96</mass>
+		<temperature>5694.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-767 b</name>
+			<period errorminus="0.000309" errorplus="0.000309">161.5280101</period>
+			<radius errorminus="0.049" errorplus="0.077">0.592</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

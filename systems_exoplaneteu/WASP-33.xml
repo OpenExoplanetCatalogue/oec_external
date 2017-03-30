@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-33</name>
+	<rightascension>02 26 51</rightascension>
+	<declination>+37 33 02</declination>
+	<distance>116.0</distance>
+	<star>
+		<name>WASP-33</name>
+		<radius>1.444</radius>
+		<mass>1.495</mass>
+		<spectraltype>A5</spectraltype>
+		<temperature>7400.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>WASP-33 b</name>
+			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.02558</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.8" errorplus="1.8">87.7</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">1.21986967</period>
+			<mass errorminus="0.1" errorplus="0.1">2.1</mass>
+			<radius errorminus="0.014" errorplus="0.014">1.603</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/09/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

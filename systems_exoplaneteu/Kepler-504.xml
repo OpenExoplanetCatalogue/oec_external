@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-504</name>
+	<rightascension>18 59 41</rightascension>
+	<declination>+45 58 21</declination>
+	<distance>75.0</distance>
+	<star>
+		<name>Kepler-504</name>
+		<radius>0.33</radius>
+		<mass>0.33</mass>
+		<temperature>3519.0</temperature>
+		<metallicity>-0.31</metallicity>
+		<planet>
+			<name>Kepler-504 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">9.54927542</period>
+			<radius errorminus="0.02" errorplus="0.016">0.142</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

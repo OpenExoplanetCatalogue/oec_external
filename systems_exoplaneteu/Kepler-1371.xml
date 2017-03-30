@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1371</name>
+	<rightascension>19 15 20</rightascension>
+	<declination>+47 33 07</declination>
+	<distance>450.0</distance>
+	<star>
+		<name>Kepler-1371</name>
+		<radius>0.83</radius>
+		<mass>0.87</mass>
+		<temperature>5361.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>Kepler-1371 b</name>
+			<period errorminus="0.000020" errorplus="0.000020">3.4462039</period>
+			<radius errorminus="0.004" errorplus="0.007">0.065</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1371 c</name>
+			<period errorminus="0.000011" errorplus="0.000011">2.00541269</period>
+			<radius errorminus="0.004" errorplus="0.006">0.057</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

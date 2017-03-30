@@ -1,0 +1,27 @@
+<system>
+	<name>HD 102329</name>
+	<rightascension>11 46 47</rightascension>
+	<declination>+03 28 27</declination>
+	<distance>158.0</distance>
+	<star>
+		<name>HD 102329</name>
+		<age>1.6</age>
+		<radius>6.3</radius>
+		<mass>1.95</mass>
+		<temperature>4830.0</temperature>
+		<metallicity>0.3</metallicity>
+		<planet>
+			<name>HD 102329 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.01</semimajoraxis>
+			<periastron errorminus="10.0" errorplus="10.0">182.0</periastron>
+			<eccentricity errorminus="0.044" errorplus="0.044">0.211</eccentricity>
+			<period errorminus="7.100000" errorplus="7.100000">778.1</period>
+			<mass errorminus="0.3" errorplus="0.3">5.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

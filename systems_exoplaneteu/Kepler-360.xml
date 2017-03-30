@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-360</name>
+	<rightascension>19 05 08</rightascension>
+	<declination>+44 46 54</declination>
+	<star>
+		<name>Kepler-360</name>
+		<radius>1.06</radius>
+		<mass>0.95</mass>
+		<temperature>6053.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>Kepler-360 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<period errorminus="0.000012" errorplus="0.000012">3.289672</period>
+			<radius errorminus="0.07" errorplus="0.07">0.147</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-360 c</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<period errorminus="0.000029" errorplus="0.000029">7.186434</period>
+			<radius errorminus="0.089" errorplus="0.089">0.187</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

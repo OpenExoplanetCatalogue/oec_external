@@ -1,0 +1,39 @@
+<system>
+	<name>Kepler-436</name>
+	<rightascension>20 06 53</rightascension>
+	<declination>+44 24 43</declination>
+	<distance>618.0</distance>
+	<star>
+		<name>Kepler-436</name>
+		<age>3.0</age>
+		<radius>0.697</radius>
+		<mass>0.729</mass>
+		<temperature>4551.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-436 b</name>
+			<semimajoraxis errorminus="0.134" errorplus="0.053">0.339</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.19</eccentricity>
+			<inclination errorminus="0.07" errorplus="0.18">89.93</inclination>
+			<period errorminus="0.000720" errorplus="0.000530">64.00205</period>
+			<radius errorminus="0.021" errorplus="0.021">0.244</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/01/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-436 c</name>
+			<period errorminus="0.000086" errorplus="0.000086">16.79713874</period>
+			<radius errorminus="0.012" errorplus="0.017">0.208</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

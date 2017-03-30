@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-511</name>
+	<rightascension>18 51 47</rightascension>
+	<declination>+47 34 30</declination>
+	<distance>448.0</distance>
+	<star>
+		<name>Kepler-511</name>
+		<radius>1.2</radius>
+		<mass>1.0</mass>
+		<temperature>5770.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-511 b</name>
+			<period errorminus="0.000447" errorplus="0.000447">296.637865</period>
+			<radius errorminus="0.091" errorplus="0.125">0.567</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

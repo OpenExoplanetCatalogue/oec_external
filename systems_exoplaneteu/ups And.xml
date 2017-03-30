@@ -1,0 +1,70 @@
+<system>
+	<name>ups And</name>
+	<rightascension>01 36 48</rightascension>
+	<declination>+41 24 38</declination>
+	<distance>13.47</distance>
+	<star>
+		<name>ups And</name>
+		<age>3.8</age>
+		<radius>1.631</radius>
+		<mass>1.27</mass>
+		<spectraltype>F8 V</spectraltype>
+		<temperature>6212.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>ups And b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.059</semimajoraxis>
+			<periastron errorminus="24.0" errorplus="24.0">44.519</periastron>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.01186</eccentricity>
+			<inclination errorminus="0.0" errorplus="90.0">90.0</inclination>
+			<period errorminus="0.000180" errorplus="0.000180">4.61711</period>
+			<mass errorminus="0.09" errorplus="inf">0.62</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>14/11/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>ups And c</name>
+			<semimajoraxis>0.861</semimajoraxis>
+			<periastron errorminus="2.2" errorplus="2.2">247.629</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.2445</eccentricity>
+			<inclination errorminus="3.0" errorplus="3.0">11.347</inclination>
+			<period errorminus="0.060000" errorplus="0.060000">240.937</period>
+			<mass errorminus="2.9" errorplus="5.0">9.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>14/11/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>ups And d</name>
+			<semimajoraxis>2.55</semimajoraxis>
+			<periastron errorminus="1.32" errorplus="1.32">252.991</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.006">0.316</eccentricity>
+			<inclination errorminus="3.0" errorplus="3.0">25.609</inclination>
+			<period errorminus="2.000000" errorplus="2.000000">1281.439</period>
+			<mass errorminus="2.295" errorplus="2.931">23.58</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>14/11/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>ups And e</name>
+			<semimajoraxis errorminus="0.00067" errorplus="0.00067">5.2456</semimajoraxis>
+			<periastron errorminus="2.3" errorplus="2.3">7.3</periastron>
+			<eccentricity errorminus="0.00044" errorplus="0.00044">0.00536</eccentricity>
+			<period errorminus="0.740000" errorplus="0.740000">3848.86</period>
+			<mass errorminus="0.028" errorplus="0.028">1.059</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

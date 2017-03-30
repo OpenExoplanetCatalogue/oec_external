@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-805</name>
+	<rightascension>19 32 55</rightascension>
+	<declination>+45 03 12</declination>
+	<distance>657.0</distance>
+	<star>
+		<name>Kepler-805</name>
+		<radius>1.65</radius>
+		<mass>1.19</mass>
+		<temperature>6112.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-805 b</name>
+			<period errorminus="0.000126" errorplus="0.000126">30.8638931</period>
+			<radius errorminus="0.022" errorplus="0.012">0.258</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

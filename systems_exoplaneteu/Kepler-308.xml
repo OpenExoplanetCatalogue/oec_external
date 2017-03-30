@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-308</name>
+	<rightascension>19 43 08</rightascension>
+	<declination>+40 26 22</declination>
+	<star>
+		<name>Kepler-308</name>
+		<radius>0.94</radius>
+		<temperature>5895.0</temperature>
+		<metallicity>-0.112</metallicity>
+		<planet>
+			<name>Kepler-308 b</name>
+			<semimajoraxis>0.09</semimajoraxis>
+			<period errorminus="0.000090" errorplus="0.000090">9.694928</period>
+			<radius errorminus="0.091" errorplus="0.091">0.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-308 c</name>
+			<semimajoraxis>0.123</semimajoraxis>
+			<period errorminus="0.000171" errorplus="0.000171">15.38231</period>
+			<radius errorminus="0.093" errorplus="0.093">0.193</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-346</name>
+	<rightascension>19 12 03</rightascension>
+	<declination>+46 07 03</declination>
+	<star>
+		<name>Kepler-346</name>
+		<radius>1.02</radius>
+		<mass>0.97</mass>
+		<temperature>6033.0</temperature>
+		<metallicity>-0.031</metallicity>
+		<planet>
+			<name>Kepler-346 b</name>
+			<semimajoraxis>0.071</semimajoraxis>
+			<period errorminus="0.000017" errorplus="0.000017">6.511127</period>
+			<radius errorminus="0.111" errorplus="0.111">0.237</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-346 c</name>
+			<semimajoraxis>0.168</semimajoraxis>
+			<period errorminus="0.000098" errorplus="0.000098">23.851549</period>
+			<radius errorminus="0.13" errorplus="0.13">0.274</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

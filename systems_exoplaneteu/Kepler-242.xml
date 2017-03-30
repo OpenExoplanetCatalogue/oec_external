@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-242</name>
+	<rightascension>19 06 16</rightascension>
+	<declination>+41 48 30</declination>
+	<star>
+		<name>Kepler-242</name>
+		<radius>0.85</radius>
+		<temperature>5020.0</temperature>
+		<metallicity>0.103</metallicity>
+		<planet>
+			<name>Kepler-242 b</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<period errorminus="0.000020" errorplus="0.000020">8.20395</period>
+			<radius errorminus="0.143" errorplus="0.143">0.233</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-242 c</name>
+			<semimajoraxis>0.109</semimajoraxis>
+			<period errorminus="0.000083" errorplus="0.000083">14.496481</period>
+			<radius errorminus="0.11" errorplus="0.11">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

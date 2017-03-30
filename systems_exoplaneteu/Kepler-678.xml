@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-678</name>
+	<rightascension>19 41 49</rightascension>
+	<declination>+50 29 40</declination>
+	<distance>875.0</distance>
+	<star>
+		<name>Kepler-678</name>
+		<radius>0.91</radius>
+		<mass>0.94</mass>
+		<temperature>5520.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-678 b</name>
+			<period errorminus="0.000004" errorplus="0.000004">7.27503724</period>
+			<radius errorminus="0.031" errorplus="0.059">0.459</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

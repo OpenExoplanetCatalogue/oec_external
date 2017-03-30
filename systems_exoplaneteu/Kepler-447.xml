@@ -1,0 +1,26 @@
+<system>
+	<name>Kepler-447</name>
+	<rightascension>19 01 04</rightascension>
+	<declination>+48 33 36</declination>
+	<star>
+		<name>Kepler-447</name>
+		<radius>1.03</radius>
+		<mass>1.0</mass>
+		<temperature>5493.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-447 b</name>
+			<semimajoraxis errorminus="0.0062" errorplus="0.0079">0.0769</semimajoraxis>
+			<inclination errorminus="0.24" errorplus="0.32">86.55</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">7.79430132</period>
+			<mass errorminus="0.481" errorplus="0.481">1.37</mass>
+			<radius errorminus="0.59" errorplus="0.59">1.65</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/02/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

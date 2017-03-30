@@ -1,0 +1,28 @@
+<system>
+	<name>HD 40979</name>
+	<rightascension>06 04 29</rightascension>
+	<declination>+44 15 37</declination>
+	<distance>33.3</distance>
+	<star>
+		<name>HD 40979</name>
+		<age>1.48</age>
+		<radius>1.21</radius>
+		<mass>1.1</mass>
+		<spectraltype>F8 V</spectraltype>
+		<temperature>6205.0</temperature>
+		<metallicity>0.194</metallicity>
+		<planet>
+			<name>HD 40979 b</name>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.846</semimajoraxis>
+			<periastron errorminus="4.1" errorplus="4.1">323.4</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.252</eccentricity>
+			<period errorminus="0.230000" errorplus="0.230000">264.1</period>
+			<mass errorminus="0.13" errorplus="0.13">4.01</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>16/02/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

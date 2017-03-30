@@ -1,0 +1,27 @@
+<system>
+	<name>HD 59686 A</name>
+	<rightascension>07 31 48</rightascension>
+	<declination>+17 05 09</declination>
+	<distance>96.8</distance>
+	<star>
+		<name>HD 59686 A</name>
+		<age>1.73</age>
+		<radius>13.2</radius>
+		<mass>1.9</mass>
+		<spectraltype>K2 III</spectraltype>
+		<temperature>4658.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>HD 59686 A b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0006">1.086</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.03">0.05</eccentricity>
+			<period errorminus="0.310000" errorplus="0.260000">299.36</period>
+			<mass errorminus="0.24" errorplus="0.18">6.92</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>16/08/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

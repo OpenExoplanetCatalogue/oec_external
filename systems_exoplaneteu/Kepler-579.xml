@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-579</name>
+	<rightascension>19 40 00</rightascension>
+	<declination>+39 57 11</declination>
+	<distance>663.0</distance>
+	<star>
+		<name>Kepler-579</name>
+		<radius>0.96</radius>
+		<mass>0.99</mass>
+		<temperature>5636.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>Kepler-579 b</name>
+			<period errorminus="0.000019" errorplus="0.000019">9.66857723</period>
+			<radius errorminus="0.016" errorplus="0.031">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

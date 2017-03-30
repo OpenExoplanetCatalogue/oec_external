@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-610</name>
+	<rightascension>19 32 41</rightascension>
+	<declination>+45 03 56</declination>
+	<distance>1113.0</distance>
+	<star>
+		<name>Kepler-610</name>
+		<radius>1.13</radius>
+		<mass>1.1</mass>
+		<temperature>5943.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>Kepler-610 b</name>
+			<period errorminus="0.000006" errorplus="0.000006">6.99692655</period>
+			<radius errorminus="0.04" errorplus="0.103">0.374</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-610 c</name>
+			<period errorminus="0.001118" errorplus="0.001118">151.86392</period>
+			<radius errorminus="0.033" errorplus="0.075">0.294</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-173</name>
+	<rightascension>19 38 35</rightascension>
+	<declination>+41 53 03</declination>
+	<star>
+		<name>Kepler-173</name>
+		<radius>0.95</radius>
+		<mass>0.78</mass>
+		<temperature>6031.0</temperature>
+		<metallicity>-0.786</metallicity>
+		<planet>
+			<name>Kepler-173 b</name>
+			<semimajoraxis>0.048</semimajoraxis>
+			<period errorminus="0.000021" errorplus="0.000021">4.263742</period>
+			<radius errorminus="0.057" errorplus="0.057">0.115</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-173 c</name>
+			<semimajoraxis>0.074</semimajoraxis>
+			<period errorminus="0.000015" errorplus="0.000015">8.005777</period>
+			<radius errorminus="0.108" errorplus="0.108">0.217</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

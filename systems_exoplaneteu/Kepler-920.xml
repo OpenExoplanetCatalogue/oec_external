@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-920</name>
+	<rightascension>18 57 11</rightascension>
+	<declination>+49 09 31</declination>
+	<distance>926.0</distance>
+	<star>
+		<name>Kepler-920</name>
+		<radius>0.85</radius>
+		<mass>0.89</mass>
+		<temperature>5403.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-920 b</name>
+			<period errorminus="0.000023" errorplus="0.000023">6.53192704</period>
+			<radius errorminus="0.014" errorplus="0.02">0.216</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-920 c</name>
+			<period errorminus="0.000706" errorplus="0.000706">100.8274113</period>
+			<radius errorminus="0.025" errorplus="0.052">0.339</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

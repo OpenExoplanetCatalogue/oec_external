@@ -1,0 +1,92 @@
+<system>
+	<name>HD 10180</name>
+	<rightascension>01 37 54</rightascension>
+	<declination>-60 29 18</declination>
+	<distance>39.4</distance>
+	<star>
+		<name>HD 10180</name>
+		<age>4.3</age>
+		<mass>1.06</mass>
+		<spectraltype>G1V</spectraltype>
+		<temperature>5911.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>HD 10180 c</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.0641</semimajoraxis>
+			<periastron errorminus="43.0" errorplus="43.0">332.0</periastron>
+			<eccentricity errorminus="0.026" errorplus="0.026">0.045</eccentricity>
+			<period errorminus="0.000620" errorplus="0.000620">5.75979</period>
+			<mass>0.041217</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/01/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 10180 d</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.1286</semimajoraxis>
+			<periastron errorminus="33.0" errorplus="33.0">315.0</periastron>
+			<eccentricity errorminus="0.041" errorplus="0.041">0.088</eccentricity>
+			<period errorminus="0.038000" errorplus="0.038000">16.3579</period>
+			<mass>0.03696945</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/01/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 10180 e</name>
+			<semimajoraxis errorminus="0.0042" errorplus="0.0042">0.2699</semimajoraxis>
+			<periastron errorminus="110.0" errorplus="110.0">166.0</periastron>
+			<eccentricity errorminus="0.036" errorplus="0.036">0.026</eccentricity>
+			<period errorminus="0.022000" errorplus="0.022000">49.745</period>
+			<mass>0.07897304</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/01/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 10180 f</name>
+			<semimajoraxis errorminus="0.0078" errorplus="0.0078">0.4929</semimajoraxis>
+			<periastron>332.0</periastron>
+			<eccentricity>0.135</eccentricity>
+			<period errorminus="0.170000" errorplus="0.170000">122.76</period>
+			<mass>0.07519743</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/01/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 10180 g</name>
+			<semimajoraxis errorminus="0.026" errorplus="0.026">1.422</semimajoraxis>
+			<periastron errorminus="49.0" errorplus="49.0">347.0</periastron>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.19</eccentricity>
+			<period errorminus="8.100000" errorplus="8.100000">601.2</period>
+			<mass>0.06733159</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 10180 h</name>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">3.4</semimajoraxis>
+			<periastron errorminus="74.0" errorplus="74.0">174.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.08</eccentricity>
+			<period errorminus="91.000000" errorplus="91.000000">2222.0</period>
+			<mass>0.202624</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/12/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

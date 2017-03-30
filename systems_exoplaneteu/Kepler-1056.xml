@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1056</name>
+	<rightascension>19 58 06</rightascension>
+	<declination>+46 53 57</declination>
+	<distance>971.0</distance>
+	<star>
+		<name>Kepler-1056</name>
+		<radius>1.2</radius>
+		<mass>1.12</mass>
+		<temperature>6127.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1056 b</name>
+			<period errorminus="0.000146" errorplus="0.000146">27.495606</period>
+			<radius errorminus="0.054" errorplus="0.119">0.269</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-638</name>
+	<rightascension>18 59 41</rightascension>
+	<declination>+41 37 02</declination>
+	<distance>426.0</distance>
+	<star>
+		<name>Kepler-638</name>
+		<radius>0.93</radius>
+		<mass>0.88</mass>
+		<temperature>5382.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-638 b</name>
+			<period errorminus="0.000015" errorplus="0.000015">6.07972888</period>
+			<radius errorminus="0.028" errorplus="0.05">0.163</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,39 @@
+<system>
+	<name>KOI-89</name>
+	<rightascension>19 59 17</rightascension>
+	<declination>+43 48 51</declination>
+	<star>
+		<name>KOI-89</name>
+		<radius>2.3</radius>
+		<mass>1.965</mass>
+		<temperature>7717.0</temperature>
+		<planet>
+			<name>Kepler-462 b</name>
+			<eccentricity errorminus="0.019" errorplus="0.019">0.056</eccentricity>
+			<longitude errorminus="11.0" errorplus="11.0">328.0</longitude>
+			<inclination errorminus="0.05" errorplus="0.05">89.34</inclination>
+			<period>84.69</period>
+			<radius errorminus="0.03" errorplus="0.03">0.45</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-462 c</name>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.5</eccentricity>
+			<longitude errorminus="40.0" errorplus="40.0">328.0</longitude>
+			<inclination errorminus="0.06" errorplus="0.06">90.64</inclination>
+			<period>207.58</period>
+			<radius errorminus="0.05" errorplus="0.05">0.43</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

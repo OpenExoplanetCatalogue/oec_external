@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-475</name>
+	<rightascension>19 08 12</rightascension>
+	<declination>+40 12 42</declination>
+	<distance>280.0</distance>
+	<star>
+		<name>Kepler-475</name>
+		<radius>0.79</radius>
+		<mass>0.86</mass>
+		<temperature>5009.0</temperature>
+		<metallicity>0.21</metallicity>
+		<planet>
+			<name>Kepler-475 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">3.10550819</period>
+			<radius errorminus="0.016" errorplus="0.004">0.222</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

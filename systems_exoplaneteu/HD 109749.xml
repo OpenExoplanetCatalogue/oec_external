@@ -1,0 +1,29 @@
+<system>
+	<name>HD 109749</name>
+	<rightascension>12 37 16</rightascension>
+	<declination>-40 11 17</declination>
+	<distance>59.0</distance>
+	<star>
+		<name>HD 109749</name>
+		<age>10.3</age>
+		<mass>1.2</mass>
+		<spectraltype>G3 IV</spectraltype>
+		<temperature>5610.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HD 109749 b</name>
+			<semimajoraxis>0.0635</semimajoraxis>
+			<periastron errorminus="55.8" errorplus="55.8">72.3</periastron>
+			<eccentricity errorminus="0.025" errorplus="0.451">0.0451</eccentricity>
+			<period errorminus="0.000936" errorplus="0.000936">5.23921</period>
+			<mass errorminus="0.016" errorplus="0.016">0.28</mass>
+			<radius>0.99</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>15/02/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

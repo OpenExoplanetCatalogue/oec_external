@@ -1,0 +1,46 @@
+<system>
+	<name>Kepler-148</name>
+	<rightascension>19 19 09</rightascension>
+	<declination>+46 51 32</declination>
+	<star>
+		<name>Kepler-148</name>
+		<radius>0.85</radius>
+		<temperature>5272.0</temperature>
+		<metallicity>0.143</metallicity>
+		<planet>
+			<name>Kepler-148 b</name>
+			<semimajoraxis>0.028</semimajoraxis>
+			<period errorminus="0.000004" errorplus="0.000004">1.729366</period>
+			<radius errorminus="0.078" errorplus="0.078">0.161</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-148 c</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<period errorminus="0.000004" errorplus="0.000004">4.180043</period>
+			<radius errorminus="0.157" errorplus="0.157">0.321</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-148 d</name>
+			<period errorminus="0.000026" errorplus="0.000026">51.84688575</period>
+			<radius errorminus="0.037" errorplus="0.046">0.774</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1523</name>
+	<rightascension>19 44 13</rightascension>
+	<declination>+45 49 37</declination>
+	<distance>918.0</distance>
+	<star>
+		<name>Kepler-1523</name>
+		<radius>0.96</radius>
+		<mass>0.97</mass>
+		<temperature>5708.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-1523 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">0.93875077</period>
+			<radius errorminus="0.013" errorplus="0.024">0.141</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

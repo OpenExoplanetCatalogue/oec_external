@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1042</name>
+	<rightascension>19 14 41</rightascension>
+	<declination>+39 49 26</declination>
+	<distance>659.0</distance>
+	<star>
+		<name>Kepler-1042</name>
+		<radius>0.72</radius>
+		<mass>0.75</mass>
+		<temperature>4815.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>Kepler-1042 b</name>
+			<period errorminus="0.000030" errorplus="0.000030">10.13202575</period>
+			<radius errorminus="0.014" errorplus="0.01">0.195</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

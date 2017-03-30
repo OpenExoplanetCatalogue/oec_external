@@ -1,0 +1,62 @@
+<system>
+	<name>Kepler-289</name>
+	<rightascension>19 49 52</rightascension>
+	<declination>+42 52 58</declination>
+	<distance>700.0</distance>
+	<star>
+		<name>Kepler-289</name>
+		<age>0.65</age>
+		<radius>1.0</radius>
+		<mass>1.08</mass>
+		<temperature>5990.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-289 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
+			<periastron>28.0</periastron>
+			<eccentricity errorminus="0.024" errorplus="0.024">0.024</eccentricity>
+			<inclination errorminus="0.48" errorplus="0.3">89.59</inclination>
+			<period errorminus="0.000500" errorplus="0.000500">34.545</period>
+			<mass errorminus="0.021" errorplus="0.021">0.023</mass>
+			<radius errorminus="0.009" errorplus="0.009">0.192</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/02/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-289 c</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.33</semimajoraxis>
+			<periastron>72.0</periastron>
+			<eccentricity>0.0115</eccentricity>
+			<inclination errorminus="0.38" errorplus="0.2">89.73</inclination>
+			<period errorminus="0.011400" errorplus="0.011400">66.0634</period>
+			<mass errorminus="0.003" errorplus="0.003">0.013</mass>
+			<radius errorminus="0.015" errorplus="0.015">0.239</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/02/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-289 d</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">0.51</semimajoraxis>
+			<periastron>45.0</periastron>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.0033</eccentricity>
+			<inclination errorminus="0.017" errorplus="0.017">89.794</inclination>
+			<period errorminus="0.007600" errorplus="0.007600">125.8518</period>
+			<mass errorminus="0.053" errorplus="0.053">0.415</mass>
+			<radius errorminus="0.017" errorplus="0.017">1.034</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/02/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

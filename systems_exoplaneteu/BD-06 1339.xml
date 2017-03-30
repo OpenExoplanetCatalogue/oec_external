@@ -1,0 +1,51 @@
+<system>
+	<name>BD-06 1339</name>
+	<rightascension>05 52 60</rightascension>
+	<declination>-05 00 19</declination>
+	<distance>20.0</distance>
+	<star>
+		<name>BD-06 1339</name>
+		<age>4.4</age>
+		<mass>0.7</mass>
+		<spectraltype>K7V/M0V</spectraltype>
+		<temperature>4324.0</temperature>
+		<metallicity>-0.14</metallicity>
+		<planet>
+			<name>BD-06 1339 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0428</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.000400" errorplus="0.000400">3.8728</period>
+			<mass errorminus="0.004" errorplus="0.004">0.027</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>BD-06 1339 c</name>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.435</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.440000" errorplus="0.440000">125.94</period>
+			<mass errorminus="0.03" errorplus="0.03">0.17</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 221  BD-06 1339 d</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">1.06</semimajoraxis>
+			<periastron errorminus="85.0" errorplus="275.0">275.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.25">0.04</eccentricity>
+			<period errorminus="26.000000" errorplus="32.000000">500.0</period>
+			<mass errorminus="0.063" errorplus="0.057">0.091</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

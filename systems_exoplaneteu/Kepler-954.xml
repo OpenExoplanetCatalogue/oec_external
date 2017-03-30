@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-954</name>
+	<rightascension>19 43 26</rightascension>
+	<declination>+47 56 22</declination>
+	<distance>224.0</distance>
+	<star>
+		<name>Kepler-954</name>
+		<radius>0.76</radius>
+		<mass>0.82</mass>
+		<temperature>4990.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-954 b</name>
+			<period errorminus="0.000016" errorplus="0.000016">16.78176602</period>
+			<radius errorminus="0.01" errorplus="0.004">0.207</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

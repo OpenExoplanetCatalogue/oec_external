@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-236</name>
+	<rightascension>18 55 28</rightascension>
+	<declination>+39 53 53</declination>
+	<star>
+		<name>Kepler-236</name>
+		<radius>0.51</radius>
+		<mass>0.56</mass>
+		<temperature>3750.0</temperature>
+		<metallicity>0.119</metallicity>
+		<planet>
+			<name>Kepler-236 b</name>
+			<semimajoraxis>0.065</semimajoraxis>
+			<period errorminus="0.000032" errorplus="0.000032">8.295611</period>
+			<radius errorminus="0.011" errorplus="0.011">0.14</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-236 c</name>
+			<semimajoraxis>0.132</semimajoraxis>
+			<period errorminus="0.000174" errorplus="0.000174">23.968127</period>
+			<radius errorminus="0.015" errorplus="0.015">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1383</name>
+	<rightascension>19 51 47</rightascension>
+	<declination>+42 11 31</declination>
+	<distance>961.0</distance>
+	<star>
+		<name>Kepler-1383</name>
+		<radius>1.44</radius>
+		<mass>1.26</mass>
+		<temperature>6370.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1383 b</name>
+			<period errorminus="0.000155" errorplus="0.000155">13.9093583</period>
+			<radius errorminus="0.026" errorplus="0.056">0.126</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

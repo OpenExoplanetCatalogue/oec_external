@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1477</name>
+	<rightascension>18 45 12</rightascension>
+	<declination>+42 41 09</declination>
+	<distance>525.0</distance>
+	<star>
+		<name>Kepler-1477</name>
+		<radius>0.78</radius>
+		<mass>0.81</mass>
+		<temperature>5100.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-1477 b</name>
+			<period errorminus="0.000081" errorplus="0.000081">11.55530021</period>
+			<radius errorminus="0.008" errorplus="0.008">0.105</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

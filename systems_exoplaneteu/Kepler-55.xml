@@ -1,0 +1,69 @@
+<system>
+	<name>Kepler-55</name>
+	<rightascension>19 00 40</rightascension>
+	<declination>+44 01 35</declination>
+	<star>
+		<name>Kepler-55</name>
+		<radius>0.58</radius>
+		<mass>0.62</mass>
+		<temperature>4362.0</temperature>
+		<planet>
+			<name>Kepler-55 b</name>
+			<period errorminus="0.000240" errorplus="0.000240">27.94811449</period>
+			<radius>0.22</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-55 c</name>
+			<period errorminus="0.000053" errorplus="0.000053">42.1516418</period>
+			<radius>0.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/01/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-55 d</name>
+			<semimajoraxis>0.029</semimajoraxis>
+			<period errorminus="0.000004" errorplus="0.000004">2.211099</period>
+			<radius errorminus="0.008" errorplus="0.008">0.142</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-55 e</name>
+			<semimajoraxis>0.048</semimajoraxis>
+			<period errorminus="0.000021" errorplus="0.000021">4.617534</period>
+			<radius errorminus="0.021" errorplus="0.021">0.138</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-55 f</name>
+			<semimajoraxis>0.081</semimajoraxis>
+			<period errorminus="0.000045" errorplus="0.000045">10.198545</period>
+			<radius errorminus="0.009" errorplus="0.009">0.142</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

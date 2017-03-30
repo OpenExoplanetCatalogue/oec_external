@@ -1,0 +1,23 @@
+<system>
+	<name>UScoCTIO 108</name>
+	<rightascension>16 05 54</rightascension>
+	<declination>-18 41 17</declination>
+	<distance>145.0</distance>
+	<star>
+		<name>UScoCTIO 108</name>
+		<age>0.011</age>
+		<mass>0.057</mass>
+		<spectraltype>M7</spectraltype>
+		<temperature>2600.0</temperature>
+		<planet>
+			<name>UScoCTIO 108 b</name>
+			<semimajoraxis>670.0</semimajoraxis>
+			<mass errorminus="8.0" errorplus="2.0">14.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

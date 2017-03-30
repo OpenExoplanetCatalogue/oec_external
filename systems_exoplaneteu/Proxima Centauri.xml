@@ -1,0 +1,25 @@
+<system>
+	<name>Proxima Centauri</name>
+	<rightascension>14 29 43</rightascension>
+	<declination>-62 19 14</declination>
+	<distance>1.295</distance>
+	<star>
+		<name>Proxima Centauri</name>
+		<radius>0.141</radius>
+		<mass>0.12</mass>
+		<spectraltype>M5.5V</spectraltype>
+		<temperature>3050.0</temperature>
+		<planet>
+			<name>Proxima Cen b</name>
+			<semimajoraxis errorminus="0.0041" errorplus="0.0041">0.0485</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+			<period errorminus="0.001000" errorplus="0.001000">11.186</period>
+			<mass errorminus="0.0006" errorplus="0.0006">0.004</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/08/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

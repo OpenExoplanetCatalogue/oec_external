@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-449</name>
+	<rightascension>19 34 56</rightascension>
+	<declination>+41 54 03</declination>
+	<star>
+		<name>Kepler-449</name>
+		<radius>1.467</radius>
+		<mass>0.969</mass>
+		<temperature>5552.0</temperature>
+		<planet>
+			<name>Kepler-449 b</name>
+			<eccentricity errorminus="0.03" errorplus="0.28">0.03</eccentricity>
+			<period errorminus="0.000270" errorplus="0.000270">12.58242</period>
+			<radius errorminus="0.0062" errorplus="0.0062">0.1834</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-449 c</name>
+			<eccentricity errorminus="0.05" errorplus="0.24">0.05</eccentricity>
+			<period errorminus="0.001000" errorplus="0.001000">33.6727</period>
+			<radius errorminus="0.0077" errorplus="0.0077">0.2466</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

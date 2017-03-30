@@ -1,0 +1,25 @@
+<system>
+	<name>SAND364</name>
+	<rightascension>08 49 57</rightascension>
+	<declination>+11 41 33</declination>
+	<star>
+		<name>SAND364</name>
+		<radius>21.8</radius>
+		<mass>1.35</mass>
+		<spectraltype>K3III</spectraltype>
+		<temperature>4284.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>SAND364 b</name>
+			<periastron errorminus="12.81" errorplus="12.81">273.51</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.35</eccentricity>
+			<period errorminus="0.305000" errorplus="0.305000">121.71</period>
+			<mass errorminus="0.24" errorplus="0.24">1.54</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/01/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 104985</name>
+	<rightascension>12 05 15</rightascension>
+	<declination>+76 54 20</declination>
+	<distance>102.0</distance>
+	<star>
+		<name>HD 104985</name>
+		<age>2.95</age>
+		<radius>10.87</radius>
+		<mass>1.6</mass>
+		<spectraltype>G9 III</spectraltype>
+		<temperature>4786.0</temperature>
+		<metallicity>-0.35</metallicity>
+		<planet>
+			<name>HD 104985 b</name>
+			<semimajoraxis>0.95</semimajoraxis>
+			<periastron errorminus="5.7" errorplus="5.7">203.5</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.09</eccentricity>
+			<period errorminus="0.085000" errorplus="0.085000">199.505</period>
+			<mass>8.3</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>16/01/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

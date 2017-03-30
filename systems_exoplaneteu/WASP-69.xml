@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-69</name>
+	<rightascension>21 00 06</rightascension>
+	<declination>-05 54 20</declination>
+	<distance>50.0</distance>
+	<star>
+		<name>WASP-69</name>
+		<age>2.0</age>
+		<radius>0.813</radius>
+		<mass>0.826</mass>
+		<spectraltype>K5</spectraltype>
+		<temperature>4715.0</temperature>
+		<metallicity>0.144</metallicity>
+		<planet>
+			<name>WASP-69 b</name>
+			<semimajoraxis errorminus="0.00053" errorplus="0.00053">0.04525</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">86.71</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">3.8681382</period>
+			<mass errorminus="0.017" errorplus="0.017">0.26</mass>
+			<radius errorminus="0.047" errorplus="0.047">1.057</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/10/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

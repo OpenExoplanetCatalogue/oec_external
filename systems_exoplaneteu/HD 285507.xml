@@ -1,0 +1,28 @@
+<system>
+	<name>HD 285507</name>
+	<rightascension>04 07 01</rightascension>
+	<declination>+15 20 06</declination>
+	<distance>41.3</distance>
+	<star>
+		<name>HD 285507</name>
+		<age>0.625</age>
+		<radius>0.656</radius>
+		<mass>0.734</mass>
+		<spectraltype>K5</spectraltype>
+		<temperature>4503.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>HD 285507 b</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.0729</semimajoraxis>
+			<periastron errorminus="11.0" errorplus="11.0">182.0</periastron>
+			<eccentricity errorminus="0.019" errorplus="0.019">0.086</eccentricity>
+			<period errorminus="0.001800" errorplus="0.001800">6.0881</period>
+			<mass errorminus="0.033" errorplus="0.033">0.917</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/06/14</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

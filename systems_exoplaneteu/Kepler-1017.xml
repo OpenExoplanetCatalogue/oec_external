@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1017</name>
+	<rightascension>18 53 53</rightascension>
+	<declination>+40 07 57</declination>
+	<distance>554.0</distance>
+	<star>
+		<name>Kepler-1017</name>
+		<radius>0.87</radius>
+		<mass>0.93</mass>
+		<temperature>5473.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1017 b</name>
+			<period errorminus="0.000014" errorplus="0.000014">7.23400469</period>
+			<radius errorminus="0.011" errorplus="0.026">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-565</name>
+	<rightascension>18 54 28</rightascension>
+	<declination>+47 11 48</declination>
+	<distance>1041.0</distance>
+	<star>
+		<name>Kepler-565</name>
+		<radius>0.95</radius>
+		<mass>0.98</mass>
+		<temperature>5735.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-565 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">4.24374723</period>
+			<radius errorminus="0.024" errorplus="0.045">0.325</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

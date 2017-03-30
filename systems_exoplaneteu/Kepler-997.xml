@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-997</name>
+	<rightascension>19 16 56</rightascension>
+	<declination>+49 56 20</declination>
+	<distance>470.0</distance>
+	<star>
+		<name>Kepler-997</name>
+		<radius>1.56</radius>
+		<mass>1.22</mass>
+		<temperature>6150.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-997 b</name>
+			<period errorminus="0.000006" errorplus="0.000006">2.70730672</period>
+			<radius errorminus="0.023" errorplus="0.029">0.121</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

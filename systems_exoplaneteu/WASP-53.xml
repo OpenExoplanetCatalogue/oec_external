@@ -1,0 +1,42 @@
+<system>
+	<name>WASP-53</name>
+	<rightascension>02 07 38</rightascension>
+	<declination>-20 20 17</declination>
+	<distance>235.0</distance>
+	<star>
+		<name>WASP-53</name>
+		<radius>0.798</radius>
+		<mass>0.839</mass>
+		<spectraltype>K3</spectraltype>
+		<temperature>4953.0</temperature>
+		<metallicity>0.22</metallicity>
+		<planet>
+			<name>WASP-53 b</name>
+			<semimajoraxis errorminus="0.00091" errorplus="0.00083">0.04101</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.03">0.0</eccentricity>
+			<inclination errorminus="0.15" errorplus="0.16">87.08</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">3.3098443</period>
+			<mass errorminus="0.094" errorplus="0.092">2.132</mass>
+			<radius errorminus="0.037" errorplus="0.037">1.074</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>WASP-53 c</name>
+			<semimajoraxis errorminus="0.14" errorplus="inf">3.73</semimajoraxis>
+			<periastron errorminus="0.2" errorplus="0.2">198.6</periastron>
+			<eccentricity errorminus="0.007" errorplus="0.0069">0.8369</eccentricity>
+			<period errorminus="130.000000" errorplus="inf">2840.0</period>
+			<mass errorminus="0.0" errorplus="inf">16.35</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

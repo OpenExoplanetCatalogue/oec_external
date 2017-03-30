@@ -1,0 +1,26 @@
+<system>
+	<name>HD 132563B</name>
+	<rightascension>14 58 21</rightascension>
+	<declination>+44 02 36</declination>
+	<distance>96.0</distance>
+	<star>
+		<name>HD 132563B</name>
+		<age>5.0</age>
+		<mass>1.01</mass>
+		<temperature>5985.0</temperature>
+		<metallicity>-0.19</metallicity>
+		<planet>
+			<name>HD 132563 B b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">2.62</semimajoraxis>
+			<periastron errorminus="35.0" errorplus="35.0">158.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.22</eccentricity>
+			<period errorminus="34.000000" errorplus="34.000000">1544.0</period>
+			<mass errorminus="0.09" errorplus="0.09">1.49</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

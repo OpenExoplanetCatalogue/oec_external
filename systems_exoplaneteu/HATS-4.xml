@@ -1,0 +1,30 @@
+<system>
+	<name>HATS-4</name>
+	<rightascension>06 16 27</rightascension>
+	<declination>-21 32 49</declination>
+	<distance>420.0</distance>
+	<star>
+		<name>HATS-4</name>
+		<age>2.1</age>
+		<radius>0.925</radius>
+		<mass>1.001</mass>
+		<temperature>5403.0</temperature>
+		<metallicity>0.43</metallicity>
+		<planet>
+			<name>HATS-4 b</name>
+			<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.0362</semimajoraxis>
+			<periastron errorminus="98.0" errorplus="98.0">275.0</periastron>
+			<eccentricity errorminus="0.013" errorplus="0.016">0.013</eccentricity>
+			<inclination errorminus="0.6" errorplus="0.6">88.5</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">2.516729</period>
+			<mass errorminus="0.028" errorplus="0.028">1.323</mass>
+			<radius errorminus="0.037" errorplus="0.037">1.02</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

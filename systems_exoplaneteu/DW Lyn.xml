@@ -1,0 +1,19 @@
+<system>
+	<name>DW Lyn</name>
+	<rightascension>07 07 10</rightascension>
+	<declination>+60 38 50</declination>
+	<star>
+		<name>DW Lyn</name>
+		<spectraltype>SdB D</spectraltype>
+		<planet>
+			<name>DW Lyn b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1148.0</semimajoraxis>
+			<mass errorminus="1.44" errorplus="1.44">5.58</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/19</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

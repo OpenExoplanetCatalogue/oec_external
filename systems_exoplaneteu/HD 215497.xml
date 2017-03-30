@@ -1,0 +1,40 @@
+<system>
+	<name>HD 215497</name>
+	<rightascension>22 46 37</rightascension>
+	<declination>-56 24 02</declination>
+	<distance>44.0</distance>
+	<star>
+		<name>HD 215497</name>
+		<age>7.0</age>
+		<mass>0.87</mass>
+		<spectraltype>K3V</spectraltype>
+		<temperature>5113.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>HD 215497 b</name>
+			<semimajoraxis>0.047</semimajoraxis>
+			<periastron errorminus="34.0" errorplus="34.0">96.0</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.16</eccentricity>
+			<period errorminus="0.000660" errorplus="0.000660">3.93404</period>
+			<mass>0.02</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 215497 c</name>
+			<semimajoraxis>1.282</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">45.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.49</eccentricity>
+			<period errorminus="2.700000" errorplus="2.700000">567.94</period>
+			<mass>0.33</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

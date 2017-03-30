@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-283</name>
+	<rightascension>19 34 27</rightascension>
+	<declination>+47 50 20</declination>
+	<star>
+		<name>Kepler-283</name>
+		<radius>0.57</radius>
+		<temperature>4351.0</temperature>
+		<metallicity>-0.26</metallicity>
+		<planet>
+			<name>Kepler-283 b</name>
+			<semimajoraxis>0.082</semimajoraxis>
+			<period errorminus="0.000029" errorplus="0.000029">11.008151</period>
+			<radius errorminus="0.023" errorplus="0.023">0.19</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-283 c</name>
+			<semimajoraxis>0.341</semimajoraxis>
+			<period errorminus="0.001413" errorplus="0.001413">92.743711</period>
+			<radius errorminus="0.011" errorplus="0.011">0.162</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,34 @@
+<system>
+	<name>HD 20781</name>
+	<rightascension>03 20 03</rightascension>
+	<declination>-28 12 58</declination>
+	<distance>35.4</distance>
+	<star>
+		<name>HD 20781</name>
+		<spectraltype>G9.5V</spectraltype>
+		<planet>
+			<name>HD 20781 b</name>
+			<semimajoraxis errorminus="0.0028" errorplus="0.0028">0.169</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.11</eccentricity>
+			<period errorminus="0.020100" errorplus="0.020100">29.15</period>
+			<mass errorminus="0.0035" errorplus="0.0035">0.0379</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 20781 c</name>
+			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.3456</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.28</eccentricity>
+			<period errorminus="0.116100" errorplus="0.116100">85.131</period>
+			<mass errorminus="0.0038" errorplus="0.0038">0.0496</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

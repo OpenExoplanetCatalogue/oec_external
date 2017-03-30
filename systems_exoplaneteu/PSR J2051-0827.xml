@@ -1,0 +1,22 @@
+<system>
+	<name>PSR J2051-0827</name>
+	<rightascension>20 51 08</rightascension>
+	<declination>-08 32 22</declination>
+	<distance>1280.0</distance>
+	<star>
+		<name>PSR J2051-0827</name>
+		<age>5.61</age>
+		<mass>1.4</mass>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR J2051-0827 b</name>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.000000" errorplus="0.000000">0.099110266</period>
+			<mass>28.3</mass>
+			<discoveryyear>1996</discoveryyear>
+			<lastupdate>15/10/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

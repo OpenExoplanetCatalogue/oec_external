@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-564</name>
+	<rightascension>19 47 21</rightascension>
+	<declination>+46 37 35</declination>
+	<distance>830.0</distance>
+	<star>
+		<name>Kepler-564</name>
+		<radius>0.92</radius>
+		<mass>0.95</mass>
+		<temperature>5626.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-564 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">3.75083228</period>
+			<radius errorminus="0.032" errorplus="0.059">0.413</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

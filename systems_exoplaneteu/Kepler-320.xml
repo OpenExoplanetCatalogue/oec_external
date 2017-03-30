@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-320</name>
+	<rightascension>19 32 51</rightascension>
+	<declination>+46 10 30</declination>
+	<star>
+		<name>Kepler-320</name>
+		<radius>1.11</radius>
+		<temperature>6435.0</temperature>
+		<metallicity>-0.244</metallicity>
+		<planet>
+			<name>Kepler-320 b</name>
+			<semimajoraxis>0.085</semimajoraxis>
+			<period errorminus="0.000162" errorplus="0.000162">8.371554</period>
+			<radius errorminus="0.048" errorplus="0.048">0.102</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-320 c</name>
+			<semimajoraxis>0.142</semimajoraxis>
+			<period errorminus="0.000281" errorplus="0.000281">17.934937</period>
+			<radius errorminus="0.057" errorplus="0.057">0.122</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

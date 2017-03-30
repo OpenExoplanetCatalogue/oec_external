@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-721</name>
+	<rightascension>18 57 43</rightascension>
+	<declination>+44 28 50</declination>
+	<distance>848.0</distance>
+	<star>
+		<name>Kepler-721</name>
+		<radius>0.78</radius>
+		<mass>0.82</mass>
+		<temperature>5075.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-721 b</name>
+			<period errorminus="0.000007" errorplus="0.000007">5.39202539</period>
+			<radius errorminus="0.012" errorplus="0.012">0.236</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

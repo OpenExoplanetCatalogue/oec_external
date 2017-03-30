@@ -1,0 +1,25 @@
+<system>
+	<name>Pr 0201</name>
+	<rightascension>08 41 44</rightascension>
+	<declination>+20 13 37</declination>
+	<distance>170.0</distance>
+	<star>
+		<name>Pr 0201</name>
+		<age>0.578</age>
+		<radius>1.167</radius>
+		<mass>1.234</mass>
+		<spectraltype>F7</spectraltype>
+		<temperature>6174.0</temperature>
+		<metallicity>0.187</metallicity>
+		<planet>
+			<name>Pr 0201 b</name>
+			<period errorminus="0.007000" errorplus="0.007000">4.4264</period>
+			<mass errorminus="0.039" errorplus="0.039">0.54</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/03/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

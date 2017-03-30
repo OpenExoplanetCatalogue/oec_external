@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2014-BLG-0257L</name>
+	<rightascension>18 01 48</rightascension>
+	<declination>-28 44 17</declination>
+	<distance>1250.0</distance>
+	<star>
+		<name>OGLE-2014-BLG-0257L</name>
+		<mass>0.19</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>OGLE-2014-BLG-0257L b</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">0.61</semimajoraxis>
+			<mass errorminus="5.0" errorplus="5.0">36.0</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/03/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

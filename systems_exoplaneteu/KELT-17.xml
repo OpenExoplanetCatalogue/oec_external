@@ -1,0 +1,28 @@
+<system>
+	<name>KELT-17</name>
+	<rightascension>08 22 28</rightascension>
+	<declination>+13 44 07</declination>
+	<distance>210.0</distance>
+	<star>
+		<name>KELT-17</name>
+		<radius>1.645</radius>
+		<mass>1.635</mass>
+		<spectraltype>A</spectraltype>
+		<temperature>7454.0</temperature>
+		<metallicity>-0.018</metallicity>
+		<planet>
+			<name>KELT-17 b</name>
+			<semimajoraxis errorminus="0.00061" errorplus="0.00065">0.04881</semimajoraxis>
+			<longitude errorminus="4.0" errorplus="4.0">244.0</longitude>
+			<period errorminus="0.000005" errorplus="0.000005">3.0801716</period>
+			<mass errorminus="0.29" errorplus="0.29">1.31</mass>
+			<radius errorminus="0.06" errorplus="0.065">1.525</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/07/14</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

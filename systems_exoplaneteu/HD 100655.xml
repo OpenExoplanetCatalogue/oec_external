@@ -1,0 +1,27 @@
+<system>
+	<name>HD 100655</name>
+	<rightascension>11 35 04</rightascension>
+	<declination>+20 26 30</declination>
+	<distance>122.0</distance>
+	<star>
+		<name>HD 100655</name>
+		<radius>9.3</radius>
+		<mass>2.4</mass>
+		<spectraltype>G9III</spectraltype>
+		<temperature>4861.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>HD 100655 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">0.76</semimajoraxis>
+			<periastron errorminus="37.0" errorplus="37.0">132.0</periastron>
+			<eccentricity errorminus="0.054" errorplus="0.054">0.085</eccentricity>
+			<period errorminus="0.650000" errorplus="0.650000">157.57</period>
+			<mass errorminus="0.2" errorplus="0.1">1.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

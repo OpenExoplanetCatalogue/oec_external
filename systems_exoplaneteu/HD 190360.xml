@@ -1,0 +1,41 @@
+<system>
+	<name>HD 190360</name>
+	<rightascension>20 03 37</rightascension>
+	<declination>+29 53 48</declination>
+	<distance>15.89</distance>
+	<star>
+		<name>HD 190360</name>
+		<age>12.11</age>
+		<radius>1.2</radius>
+		<mass>1.04</mass>
+		<spectraltype>G6 IV</spectraltype>
+		<temperature>5588.0</temperature>
+		<metallicity>0.24</metallicity>
+		<planet>
+			<name>HD 190360 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">3.92</semimajoraxis>
+			<periastron errorminus="32.0" errorplus="32.0">14.7</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.343</eccentricity>
+			<period errorminus="7.700000" errorplus="7.700000">2867.9</period>
+			<mass errorminus="0.15" errorplus="0.15">1.495</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>15/09/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 190360 c</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.128</semimajoraxis>
+			<periastron errorminus="280.0" errorplus="39.0">305.8</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.107</eccentricity>
+			<period errorminus="0.001600" errorplus="0.001600">17.1186</period>
+			<mass errorminus="0.00994" errorplus="0.00994">0.06381</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>15/09/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

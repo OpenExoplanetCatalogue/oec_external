@@ -1,0 +1,37 @@
+<system>
+	<name>Kepler-278</name>
+	<rightascension>19 20 26</rightascension>
+	<declination>+38 42 08</declination>
+	<star>
+		<name>Kepler-278</name>
+		<radius>2.94</radius>
+		<temperature>4991.0</temperature>
+		<metallicity>0.422</metallicity>
+		<planet>
+			<name>Kepler-278 b</name>
+			<semimajoraxis>0.207</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.33">0.04</eccentricity>
+			<period errorminus="0.000910" errorplus="0.000910">30.15856</period>
+			<radius errorminus="0.023" errorplus="0.023">0.409</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-278 c</name>
+			<semimajoraxis>0.294</semimajoraxis>
+			<eccentricity errorminus="0.12" errorplus="0.19">0.51</eccentricity>
+			<period errorminus="0.003500" errorplus="0.003500">51.0851</period>
+			<radius errorminus="0.011" errorplus="0.011">0.295</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

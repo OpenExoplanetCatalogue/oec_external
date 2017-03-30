@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-948</name>
+	<rightascension>19 33 12</rightascension>
+	<declination>+41 31 24</declination>
+	<distance>884.0</distance>
+	<star>
+		<name>Kepler-948</name>
+		<radius>0.94</radius>
+		<mass>0.96</mass>
+		<temperature>5679.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-948 b</name>
+			<period errorminus="0.000042" errorplus="0.000042">7.76846622</period>
+			<radius errorminus="0.037" errorplus="0.029">0.165</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

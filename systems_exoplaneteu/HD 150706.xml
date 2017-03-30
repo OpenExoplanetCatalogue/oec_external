@@ -1,0 +1,28 @@
+<system>
+	<name>HD 150706</name>
+	<rightascension>16 31 17</rightascension>
+	<declination>+79 47 23</declination>
+	<distance>27.2</distance>
+	<star>
+		<name>HD 150706</name>
+		<age>1.17</age>
+		<radius>0.87</radius>
+		<mass>0.94</mass>
+		<spectraltype>G0</spectraltype>
+		<temperature>5741.0</temperature>
+		<metallicity>-0.13</metallicity>
+		<planet>
+			<name>HD 150706 b</name>
+			<semimajoraxis errorminus="1.4" errorplus="4.0">6.7</semimajoraxis>
+			<periastron errorminus="33.0" errorplus="37.0">132.0</periastron>
+			<eccentricity errorminus="0.32" errorplus="0.28">0.38</eccentricity>
+			<period errorminus="1498.000000" errorplus="5584.000000">5894.0</period>
+			<mass errorminus="0.66" errorplus="1.14">2.71</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

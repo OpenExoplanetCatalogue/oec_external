@@ -1,0 +1,24 @@
+<system>
+	<name>11 Oph</name>
+	<rightascension>16 22 25</rightascension>
+	<declination>-24 54 46</declination>
+	<distance>145.0</distance>
+	<star>
+		<name>11 Oph</name>
+		<age>0.011</age>
+		<mass>0.0162</mass>
+		<spectraltype>M9</spectraltype>
+		<temperature>2375.0</temperature>
+		<planet>
+			<name>11 Oph b</name>
+			<semimajoraxis errorminus="55.0" errorplus="55.0">243.0</semimajoraxis>
+			<period errorminus="365000.000000" errorplus="365000.000000">730000.0</period>
+			<mass errorminus="3.0" errorplus="3.0">21.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

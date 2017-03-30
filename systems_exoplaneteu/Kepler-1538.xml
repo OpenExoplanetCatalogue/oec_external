@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1538</name>
+	<rightascension>18 53 23</rightascension>
+	<declination>+45 16 28</declination>
+	<distance>1291.0</distance>
+	<star>
+		<name>Kepler-1538</name>
+		<radius>1.03</radius>
+		<mass>1.03</mass>
+		<temperature>5837.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1538 b</name>
+			<period errorminus="0.002807" errorplus="0.002807">175.138819</period>
+			<radius errorminus="0.028" errorplus="0.062">0.252</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

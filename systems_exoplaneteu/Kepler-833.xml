@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-833</name>
+	<rightascension>19 21 55</rightascension>
+	<declination>+45 36 03</declination>
+	<distance>421.0</distance>
+	<star>
+		<name>Kepler-833</name>
+		<radius>0.62</radius>
+		<mass>0.64</mass>
+		<temperature>4339.0</temperature>
+		<metallicity>-0.18</metallicity>
+		<planet>
+			<name>Kepler-833 b</name>
+			<period errorminus="0.000051" errorplus="0.000051">18.7546998</period>
+			<radius errorminus="0.008" errorplus="0.011">0.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

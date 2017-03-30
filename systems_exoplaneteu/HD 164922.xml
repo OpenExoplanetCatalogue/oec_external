@@ -1,0 +1,41 @@
+<system>
+	<name>HD 164922</name>
+	<rightascension>18 02 30</rightascension>
+	<declination>+26 18 46</declination>
+	<distance>22.13</distance>
+	<star>
+		<name>HD 164922</name>
+		<age>13.4</age>
+		<radius>0.999</radius>
+		<mass>0.874</mass>
+		<spectraltype>G9V</spectraltype>
+		<temperature>5293.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>HD 164922 b</name>
+			<semimajoraxis errorminus="0.012" errorplus="0.012">2.115</semimajoraxis>
+			<periastron errorminus="0.2" errorplus="0.24">129.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.126</eccentricity>
+			<period errorminus="5.600000" errorplus="5.600000">1201.1</period>
+			<mass errorminus="0.015" errorplus="0.015">0.3385</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 164922 c</name>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.3351</semimajoraxis>
+			<periastron errorminus="49.0" errorplus="49.0">81.0</periastron>
+			<eccentricity errorminus="0.13" errorplus="0.13">0.22</eccentricity>
+			<period errorminus="0.058000" errorplus="0.058000">75.765</period>
+			<mass errorminus="0.005" errorplus="0.005">0.0406</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/07/11</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,21 @@
+<system>
+	<name>WISE 1828+2650</name>
+	<rightascension>18 28 31</rightascension>
+	<declination>+26 50 38</declination>
+	<distance>14.0</distance>
+	<star>
+		<name>WISE 1828+2650</name>
+		<age>5.0</age>
+		<spectraltype>Y2</spectraltype>
+		<temperature>325.0</temperature>
+		<planet>
+			<name>WISE 1828+2650</name>
+			<mass errorminus="9.75" errorplus="9.75">10.25</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>17/03/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

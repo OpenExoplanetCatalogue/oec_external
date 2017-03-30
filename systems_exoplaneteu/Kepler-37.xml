@@ -1,0 +1,56 @@
+<system>
+	<name>Kepler-37</name>
+	<rightascension>18 58 23</rightascension>
+	<declination>+44 31 05</declination>
+	<distance>66.0</distance>
+	<star>
+		<name>Kepler-37</name>
+		<age>6.0</age>
+		<radius>0.77</radius>
+		<mass>0.803</mass>
+		<temperature>5417.0</temperature>
+		<metallicity>-0.32</metallicity>
+		<planet>
+			<name>Kepler-37 b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.1003</semimajoraxis>
+			<inclination errorminus="0.53" errorplus="0.3">88.63</inclination>
+			<period errorminus="0.000085" errorplus="0.000058">13.367308</period>
+			<mass errorminus="0.0116414435389988" errorplus="0.0116414435389988">0.00874681433471</mass>
+			<radius errorminus="0.0017842836725554" errorplus="0.0017842836725554">0.0285485387609</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-37 c</name>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0011">0.1368</semimajoraxis>
+			<inclination errorminus="0.33" errorplus="0.19">89.07</inclination>
+			<period errorminus="0.000044" errorplus="0.000046">21.301886</period>
+			<mass>0.0314633609162</mass>
+			<radius errorminus="0.0026764255088331" errorplus="0.0026764255088331">0.0669106377208</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-37 d</name>
+			<semimajoraxis errorminus="0.0022" errorplus="0.0016">0.2076</semimajoraxis>
+			<inclination errorminus="0.047" errorplus="0.043">89.335</inclination>
+			<period errorminus="0.000043" errorplus="0.000040">39.792187</period>
+			<mass>0.0383853003178</mass>
+			<radius errorminus="0.00535285101766619" errorplus="0.00535285101766619">0.173075516238</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

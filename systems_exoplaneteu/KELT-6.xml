@@ -1,0 +1,44 @@
+<system>
+	<name>KELT-6</name>
+	<rightascension>13 03 56</rightascension>
+	<declination>+30 38 24</declination>
+	<star>
+		<name>KELT-6</name>
+		<age>4.9</age>
+		<radius>1.529</radius>
+		<mass>1.126</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6272.0</temperature>
+		<metallicity>-0.27</metallicity>
+		<planet>
+			<name>KELT-6 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.08</semimajoraxis>
+			<periastron errorminus="272.0" errorplus="30.0">308.0</periastron>
+			<eccentricity errorminus="0.016" errorplus="0.016">0.029</eccentricity>
+			<longitude errorminus="11.0" errorplus="11.0">324.0</longitude>
+			<inclination errorminus="0.91" errorplus="0.79">88.81</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">7.845582</period>
+			<mass errorminus="0.0191" errorplus="0.0192">0.442</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.18</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>KELT-6 c</name>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">2.39</semimajoraxis>
+			<periastron errorminus="8.8" errorplus="8.8">268.7</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.21</eccentricity>
+			<period errorminus="67.000000" errorplus="81.000000">1276.0</period>
+			<mass errorminus="0.21" errorplus="0.21">3.71</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

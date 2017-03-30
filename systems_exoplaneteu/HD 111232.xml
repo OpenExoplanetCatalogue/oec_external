@@ -1,0 +1,27 @@
+<system>
+	<name>HD 111232</name>
+	<rightascension>12 48 51</rightascension>
+	<declination>-68 34 30</declination>
+	<distance>29.0</distance>
+	<star>
+		<name>HD 111232</name>
+		<age>5.2</age>
+		<mass>0.78</mass>
+		<spectraltype>G8V</spectraltype>
+		<temperature>5494.0</temperature>
+		<metallicity>-0.36</metallicity>
+		<planet>
+			<name>HD 111232 b</name>
+			<semimajoraxis>1.97</semimajoraxis>
+			<periastron errorminus="6.0" errorplus="6.0">98.0</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.2</eccentricity>
+			<period errorminus="14.000000" errorplus="14.000000">1143.0</period>
+			<mass>6.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>10/12/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

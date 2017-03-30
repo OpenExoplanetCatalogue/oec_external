@@ -1,0 +1,29 @@
+<system>
+	<name>CoRoT-21</name>
+	<rightascension>06 44 13</rightascension>
+	<declination>+00 42 03</declination>
+	<star>
+		<name>CoRoT-21</name>
+		<age>4.1</age>
+		<radius>1.945</radius>
+		<mass>1.29</mass>
+		<spectraltype>F8IV</spectraltype>
+		<temperature>6200.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>CoRoT-21 b</name>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0417</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="2.1" errorplus="2.1">86.8</inclination>
+			<period errorminus="0.000140" errorplus="0.000140">2.72474</period>
+			<mass errorminus="0.31" errorplus="0.31">2.26</mass>
+			<radius errorminus="0.14" errorplus="0.14">1.3</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,41 @@
+<system>
+	<name>HD 177830</name>
+	<rightascension>19 05 20</rightascension>
+	<declination>+25 55 14</declination>
+	<distance>59.0</distance>
+	<star>
+		<name>HD 177830</name>
+		<age>4.4</age>
+		<radius>2.99</radius>
+		<mass>1.47</mass>
+		<spectraltype>K0IV</spectraltype>
+		<temperature>4948.0</temperature>
+		<metallicity>0.55</metallicity>
+		<planet>
+			<name>HD 177830 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">1.2218</semimajoraxis>
+			<periastron errorminus="31.0" errorplus="31.0">85.0</periastron>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.0009</eccentricity>
+			<period errorminus="0.400000" errorplus="0.400000">406.6</period>
+			<mass errorminus="0.03" errorplus="0.03">1.49</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>12/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 177830 c</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.5137</semimajoraxis>
+			<periastron errorminus="2.0" errorplus="2.0">110.0</periastron>
+			<eccentricity errorminus="0.0002" errorplus="0.0002">0.3495</eccentricity>
+			<period errorminus="0.300000" errorplus="0.300000">110.9</period>
+			<mass errorminus="0.03" errorplus="0.03">0.15</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

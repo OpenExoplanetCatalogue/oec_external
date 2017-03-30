@@ -1,0 +1,25 @@
+<system>
+	<name>SWEEPS-11</name>
+	<rightascension>17 59 03</rightascension>
+	<declination>-29 48 06</declination>
+	<distance>8500.0</distance>
+	<star>
+		<name>SWEEPS-11</name>
+		<radius>1.45</radius>
+		<mass>1.1</mass>
+		<planet>
+			<name>SWEEPS-11</name>
+			<semimajoraxis>0.03</semimajoraxis>
+			<inclination errorminus="nan" errorplus="inf">84.0</inclination>
+			<period>1.796</period>
+			<mass errorminus="5.6" errorplus="5.6">9.7</mass>
+			<radius errorminus="0.21" errorplus="0.21">1.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2006</discoveryyear>
+			<lastupdate>07/11/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

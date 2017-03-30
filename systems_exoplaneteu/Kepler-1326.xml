@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1326</name>
+	<rightascension>19 44 53</rightascension>
+	<declination>+39 16 08</declination>
+	<distance>910.0</distance>
+	<star>
+		<name>Kepler-1326</name>
+		<radius>1.74</radius>
+		<mass>1.45</mass>
+		<temperature>6725.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1326 b</name>
+			<period errorminus="0.000137" errorplus="0.000137">42.3514267</period>
+			<radius errorminus="0.068" errorplus="0.135">0.373</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

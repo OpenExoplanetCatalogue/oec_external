@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-642</name>
+	<rightascension>19 35 20</rightascension>
+	<declination>+42 37 30</declination>
+	<distance>1022.0</distance>
+	<star>
+		<name>Kepler-642</name>
+		<radius>1.66</radius>
+		<mass>1.4</mass>
+		<temperature>6570.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>Kepler-642 b</name>
+			<period errorminus="0.000007" errorplus="0.000007">4.41745855</period>
+			<radius errorminus="0.05" errorplus="0.116">0.259</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

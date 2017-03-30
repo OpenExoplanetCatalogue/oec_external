@@ -1,0 +1,38 @@
+<system>
+	<name>Kepler-29</name>
+	<rightascension>19 53 24</rightascension>
+	<declination>+47 29 28</declination>
+	<star>
+		<name>Kepler-29</name>
+		<radius>0.96</radius>
+		<mass>1.0</mass>
+		<temperature>5750.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-29 b</name>
+			<semimajoraxis>0.09</semimajoraxis>
+			<period errorminus="0.000200" errorplus="0.000200">10.3376</period>
+			<mass errorminus="0.0044" errorplus="0.0044">0.0142</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.299</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/03/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-29 c</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="0.000400" errorplus="0.000400">13.2907</period>
+			<mass errorminus="0.0041" errorplus="0.0041">0.013</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.28</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/03/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

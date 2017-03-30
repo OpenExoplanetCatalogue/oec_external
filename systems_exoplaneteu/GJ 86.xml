@@ -1,0 +1,28 @@
+<system>
+	<name>GJ 86</name>
+	<rightascension>02 10 26</rightascension>
+	<declination>-50 10 35</declination>
+	<distance>10.9</distance>
+	<star>
+		<name>GJ 86</name>
+		<age>2.03</age>
+		<radius>0.855</radius>
+		<mass>0.8</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5350.0</temperature>
+		<metallicity>-0.24</metallicity>
+		<planet>
+			<name>GJ 86 A b</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<periastron>266.0</periastron>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.046</eccentricity>
+			<period errorminus="0.040000" errorplus="0.040000">15.766</period>
+			<mass>4.01</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

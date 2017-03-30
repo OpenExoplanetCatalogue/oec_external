@@ -1,0 +1,23 @@
+<system>
+	<name>AB Pic</name>
+	<rightascension>06 19 12</rightascension>
+	<declination>-58 56 45</declination>
+	<distance>47.3</distance>
+	<star>
+		<name>AB Pic</name>
+		<age>0.03</age>
+		<spectraltype>K2 V</spectraltype>
+		<temperature>4875.0</temperature>
+		<metallicity>-0.64</metallicity>
+		<planet>
+			<name>AB Pic b</name>
+			<semimajoraxis>275.0</semimajoraxis>
+			<mass errorminus="0.5" errorplus="0.5">13.5</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

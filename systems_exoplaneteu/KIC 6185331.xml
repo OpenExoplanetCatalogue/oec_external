@@ -1,0 +1,26 @@
+<system>
+	<name>KIC 6185331</name>
+	<rightascension>18 57 06</rightascension>
+	<declination>+41 32 06</declination>
+	<star>
+		<name>KIC 6185331</name>
+		<age>8.7</age>
+		<radius>1.27</radius>
+		<mass>1.027</mass>
+		<temperature>5619.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>KIC 6185331 b</name>
+			<semimajoraxis errorminus="0.0036" errorplus="0.0036">0.2672</semimajoraxis>
+			<inclination errorminus="0.21" errorplus="0.21">89.2</inclination>
+			<period errorminus="0.000390" errorplus="0.000390">49.76971</period>
+			<radius errorminus="0.047" errorplus="0.07">0.529</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/06/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

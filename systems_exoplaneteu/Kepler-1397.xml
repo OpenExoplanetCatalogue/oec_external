@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1397</name>
+	<rightascension>19 58 42</rightascension>
+	<declination>+47 04 33</declination>
+	<distance>770.0</distance>
+	<star>
+		<name>Kepler-1397</name>
+		<radius>1.12</radius>
+		<mass>1.09</mass>
+		<temperature>6026.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-1397 b</name>
+			<period errorminus="0.000752" errorplus="0.000752">47.449955</period>
+			<radius errorminus="0.012" errorplus="0.017">0.153</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

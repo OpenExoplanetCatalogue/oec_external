@@ -1,0 +1,37 @@
+<system>
+	<name>GJ 832</name>
+	<rightascension>21 33 34</rightascension>
+	<declination>-49 59 28</declination>
+	<distance>4.94</distance>
+	<star>
+		<name>GJ 832</name>
+		<mass>0.45</mass>
+		<metallicity>-0.31</metallicity>
+		<planet>
+			<name>GJ 832 b</name>
+			<semimajoraxis errorminus="0.36" errorplus="0.36">3.6</semimajoraxis>
+			<periastron errorminus="58.0" errorplus="100.0">246.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.08</eccentricity>
+			<period errorminus="131.000000" errorplus="131.000000">3416.0</period>
+			<mass errorminus="0.160463140672687" errorplus="0.160463140672687">0.689047604065</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/08/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 832 c</name>
+			<semimajoraxis errorminus="0.017" errorplus="0.017">0.162</semimajoraxis>
+			<periastron errorminus="280.0" errorplus="80.0">80.0</periastron>
+			<eccentricity errorminus="0.22" errorplus="0.03">0.03</eccentricity>
+			<period errorminus="0.150000" errorplus="0.150000">35.67</period>
+			<mass errorminus="0.00975364188402605" errorplus="0.00975364188402605">0.0157316804581065</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/06/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

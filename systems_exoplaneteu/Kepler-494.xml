@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-494</name>
+	<rightascension>19 48 51</rightascension>
+	<declination>+41 39 51</declination>
+	<distance>862.0</distance>
+	<star>
+		<name>Kepler-494</name>
+		<radius>1.26</radius>
+		<mass>1.1</mass>
+		<temperature>6007.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-494 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">8.02511821</period>
+			<radius errorminus="0.089" errorplus="0.118">0.637</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

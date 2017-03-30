@@ -1,0 +1,41 @@
+<system>
+	<name>HD 200964</name>
+	<rightascension>21 06 40</rightascension>
+	<declination>+03 48 11</declination>
+	<distance>68.4</distance>
+	<star>
+		<name>HD 200964</name>
+		<age>3.0</age>
+		<radius>4.3</radius>
+		<mass>1.44</mass>
+		<spectraltype>KO</spectraltype>
+		<temperature>5164.0</temperature>
+		<metallicity>-0.15</metallicity>
+		<planet>
+			<name>HD 200964 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">1.601</semimajoraxis>
+			<periastron errorminus="111.9" errorplus="47.0">288.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.04">0.04</eccentricity>
+			<period errorminus="1.400000" errorplus="1.300000">613.8</period>
+			<mass errorminus="0.08" errorplus="0.14">1.85</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 200964 c</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.008">1.95</semimajoraxis>
+			<periastron errorminus="57.1" errorplus="67.7">182.6</periastron>
+			<eccentricity errorminus="0.017" errorplus="0.024">0.181</eccentricity>
+			<period errorminus="3.100000" errorplus="5.100000">825.0</period>
+			<mass errorminus="0.063" errorplus="0.123">0.895</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

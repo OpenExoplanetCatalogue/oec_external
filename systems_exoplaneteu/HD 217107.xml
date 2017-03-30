@@ -1,0 +1,41 @@
+<system>
+	<name>HD 217107</name>
+	<rightascension>22 58 15</rightascension>
+	<declination>-02 36 18</declination>
+	<distance>19.72</distance>
+	<star>
+		<name>HD 217107</name>
+		<age>7.32</age>
+		<radius>1.08</radius>
+		<mass>1.02</mass>
+		<spectraltype>G8 IV</spectraltype>
+		<temperature>5666.0</temperature>
+		<metallicity>0.37</metallicity>
+		<planet>
+			<name>HD 217107 b</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.073</semimajoraxis>
+			<periastron errorminus="2.0" errorplus="2.0">22.7</periastron>
+			<eccentricity errorminus="0.005" errorplus="0.005">0.132</eccentricity>
+			<period errorminus="0.000050" errorplus="0.000050">7.12689</period>
+			<mass errorminus="0.05" errorplus="0.05">1.33</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>17/03/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 217107 c</name>
+			<semimajoraxis errorminus="0.36" errorplus="0.36">5.27</semimajoraxis>
+			<periastron errorminus="6.0" errorplus="6.0">198.6</periastron>
+			<eccentricity errorminus="0.033" errorplus="0.033">0.517</eccentricity>
+			<period errorminus="190.000000" errorplus="190.000000">4210.0</period>
+			<mass errorminus="0.25" errorplus="0.25">2.49</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>17/03/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

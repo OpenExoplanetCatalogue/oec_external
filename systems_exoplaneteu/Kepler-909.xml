@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-909</name>
+	<rightascension>19 18 02</rightascension>
+	<declination>+45 22 16</declination>
+	<distance>318.0</distance>
+	<star>
+		<name>Kepler-909</name>
+		<radius>1.23</radius>
+		<mass>1.17</mass>
+		<temperature>6154.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-909 b</name>
+			<period errorminus="0.000045" errorplus="0.000045">13.93290318</period>
+			<radius errorminus="0.01" errorplus="0.014">0.131</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

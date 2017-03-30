@@ -1,0 +1,23 @@
+<system>
+	<name>L2 Pup</name>
+	<rightascension>07 13 32</rightascension>
+	<declination>-44 21 37</declination>
+	<distance>64.0</distance>
+	<star>
+		<name>L2 Pup</name>
+		<mass>0.659</mass>
+		<spectraltype>M5</spectraltype>
+		<temperature>3500.0</temperature>
+		<metallicity>0.008</metallicity>
+		<planet>
+			<name>L2 Pup b</name>
+			<semimajoraxis>2.0</semimajoraxis>
+			<mass errorminus="11.99" errorplus="16.0">12.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

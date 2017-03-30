@@ -1,0 +1,53 @@
+<system>
+	<name>HD 204313</name>
+	<rightascension>21 28 12</rightascension>
+	<declination>-21 16 25</declination>
+	<distance>47.37</distance>
+	<star>
+		<name>HD 204313</name>
+		<age>3.38</age>
+		<mass>1.045</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5767.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>HD 204313 b</name>
+			<semimajoraxis errorminus="0.12" errorplus="0.12">3.167</semimajoraxis>
+			<periastron errorminus="2.7" errorplus="2.7">292.5</periastron>
+			<eccentricity errorminus="0.0032" errorplus="0.0032">0.0946</eccentricity>
+			<period errorminus="3.100000" errorplus="3.100000">2024.1</period>
+			<mass errorminus="0.3" errorplus="0.3">4.28</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>15/10/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 204313 c</name>
+			<semimajoraxis errorminus="0.0071" errorplus="0.0071">0.2099</semimajoraxis>
+			<periastron errorminus="22.0" errorplus="22.0">238.0</periastron>
+			<eccentricity errorminus="0.071" errorplus="0.071">0.155</eccentricity>
+			<period errorminus="0.012000" errorplus="0.012000">34.905</period>
+			<mass errorminus="0.0053" errorplus="0.0053">0.0553</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/10/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 204313 d</name>
+			<semimajoraxis errorminus="0.14" errorplus="0.14">3.93</semimajoraxis>
+			<periastron errorminus="16.0" errorplus="16.0">247.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.28</eccentricity>
+			<period errorminus="150.000000" errorplus="150.000000">2831.6</period>
+			<mass errorminus="0.3" errorplus="0.3">1.68</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

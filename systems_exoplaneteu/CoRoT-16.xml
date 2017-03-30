@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-16</name>
+	<rightascension>18 34 06</rightascension>
+	<declination>-06 59 51</declination>
+	<distance>840.0</distance>
+	<star>
+		<name>CoRoT-16</name>
+		<age>6.73</age>
+		<radius>1.19</radius>
+		<mass>1.098</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5650.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>CoRoT-16 b</name>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0618</semimajoraxis>
+			<periastron errorminus="21.0" errorplus="21.0">168.41</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.33</eccentricity>
+			<inclination errorminus="1.2" errorplus="1.2">85.01</inclination>
+			<period errorminus="0.000200" errorplus="0.000200">5.35227</period>
+			<mass errorminus="0.085" errorplus="0.085">0.535</mass>
+			<radius errorminus="0.14" errorplus="0.14">1.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

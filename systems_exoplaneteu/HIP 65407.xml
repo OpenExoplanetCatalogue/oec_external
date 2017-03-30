@@ -1,0 +1,39 @@
+<system>
+	<name>HIP 65407</name>
+	<rightascension>13 24 21</rightascension>
+	<declination>+48 53 06</declination>
+	<distance>16.74</distance>
+	<star>
+		<name>HIP 65407</name>
+		<mass>0.93</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5460.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HIP 65407 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">0.177</semimajoraxis>
+			<periastron errorminus="150.0" errorplus="150.0">50.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.14</eccentricity>
+			<period errorminus="0.019000" errorplus="0.019000">28.125</period>
+			<mass errorminus="0.032" errorplus="0.032">0.428</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HIP 65407 c</name>
+			<semimajoraxis errorminus="0.008" errorplus="0.008">0.316</semimajoraxis>
+			<periastron errorminus="25.0" errorplus="25.0">341.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.12</eccentricity>
+			<period errorminus="0.080000" errorplus="0.080000">67.3</period>
+			<mass errorminus="0.054" errorplus="0.054">0.784</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

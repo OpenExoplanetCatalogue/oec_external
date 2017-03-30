@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-643</name>
+	<rightascension>19 21 19</rightascension>
+	<declination>+42 53 54</declination>
+	<distance>1029.0</distance>
+	<star>
+		<name>Kepler-643</name>
+		<radius>2.52</radius>
+		<mass>1.0</mass>
+		<temperature>4908.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>Kepler-643 b</name>
+			<period errorminus="0.000018" errorplus="0.000018">16.33889626</period>
+			<radius errorminus="0.024" errorplus="0.031">0.906</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

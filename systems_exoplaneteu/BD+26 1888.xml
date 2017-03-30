@@ -1,0 +1,26 @@
+<system>
+	<name>BD+26 1888</name>
+	<rightascension>09 02 31</rightascension>
+	<declination>+25 53 22</declination>
+	<distance>38.0</distance>
+	<star>
+		<name>BD+26 1888</name>
+		<mass>0.76</mass>
+		<spectraltype>K7</spectraltype>
+		<temperature>4748.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>BD+26 1888 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.19</semimajoraxis>
+			<periastron errorminus="0.7" errorplus="0.7">1.3</periastron>
+			<eccentricity errorminus="0.0016" errorplus="0.0016">0.2675</eccentricity>
+			<period errorminus="0.250000" errorplus="0.250000">536.78</period>
+			<mass errorminus="2.0" errorplus="2.0">26.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

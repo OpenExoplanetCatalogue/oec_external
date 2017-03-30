@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-120</name>
+	<rightascension>04 10 28</rightascension>
+	<declination>-45 06 06</declination>
+	<star>
+		<name>WASP-120</name>
+		<radius>1.93</radius>
+		<mass>1.45</mass>
+		<spectraltype>F5</spectraltype>
+		<temperature>6450.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>WASP-120 b</name>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0522</semimajoraxis>
+			<periastron errorminus="21.0" errorplus="39.0">323.0</periastron>
+			<eccentricity errorminus="0.018" errorplus="0.025">0.059</eccentricity>
+			<inclination errorminus="0.48" errorplus="0.48">82.29</inclination>
+			<period errorminus="0.000004" errorplus="0.000004">3.6112706</period>
+			<mass errorminus="0.268" errorplus="0.269">5.06</mass>
+			<radius errorminus="0.083" errorplus="0.083">1.515</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<temperature>50.0</temperature>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

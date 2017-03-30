@@ -1,0 +1,27 @@
+<system>
+	<name>BD-11 4672</name>
+	<rightascension>18 33 29</rightascension>
+	<declination>-11 21 50</declination>
+	<distance>27.3</distance>
+	<star>
+		<name>BD-11 4672</name>
+		<age>4.4</age>
+		<radius>0.52</radius>
+		<mass>0.571</mass>
+		<spectraltype>K7V</spectraltype>
+		<temperature>4475.0</temperature>
+		<metallicity>-0.48</metallicity>
+		<planet>
+			<name>BD-11 4672 b</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">2.28</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.05</eccentricity>
+			<period errorminus="33.000000" errorplus="33.000000">1667.0</period>
+			<mass errorminus="0.05" errorplus="0.05">0.53</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

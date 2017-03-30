@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1085</name>
+	<rightascension>19 09 55</rightascension>
+	<declination>+46 08 28</declination>
+	<distance>1518.0</distance>
+	<star>
+		<name>Kepler-1085</name>
+		<radius>1.14</radius>
+		<mass>1.11</mass>
+		<temperature>6000.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-1085 b</name>
+			<period errorminus="0.000895" errorplus="0.000895">219.3217528</period>
+			<radius errorminus="0.066" errorplus="0.158">0.644</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

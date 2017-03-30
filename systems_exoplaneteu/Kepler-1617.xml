@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1617</name>
+	<rightascension>19 11 45</rightascension>
+	<declination>+46 25 07</declination>
+	<distance>813.0</distance>
+	<star>
+		<name>Kepler-1617</name>
+		<radius>1.22</radius>
+		<mass>1.15</mass>
+		<temperature>6167.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1617 b</name>
+			<period errorminus="0.000508" errorplus="0.000508">27.4785572</period>
+			<radius errorminus="0.014" errorplus="0.033">0.107</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

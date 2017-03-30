@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-924</name>
+	<rightascension>19 22 40</rightascension>
+	<declination>+40 23 52</declination>
+	<distance>995.0</distance>
+	<star>
+		<name>Kepler-924</name>
+		<radius>1.23</radius>
+		<mass>1.14</mass>
+		<temperature>6167.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-924 b</name>
+			<period errorminus="0.000337" errorplus="0.000337">61.0370117</period>
+			<radius errorminus="0.054" errorplus="0.099">0.274</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

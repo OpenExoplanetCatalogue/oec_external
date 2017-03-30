@@ -1,0 +1,25 @@
+<system>
+	<name>HD 214823</name>
+	<rightascension>22 40 20</rightascension>
+	<declination>+31 47 15</declination>
+	<star>
+		<name>HD 214823</name>
+		<age>2.7</age>
+		<mass>1.22</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>6215.0</temperature>
+		<metallicity>0.17</metallicity>
+		<planet>
+			<name>HD 214823 b</name>
+			<semimajoraxis errorminus="0.12" errorplus="0.12">3.18</semimajoraxis>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.154</eccentricity>
+			<period errorminus="15.000000" errorplus="15.000000">1877.0</period>
+			<mass errorminus="1.4" errorplus="1.4">19.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/04/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

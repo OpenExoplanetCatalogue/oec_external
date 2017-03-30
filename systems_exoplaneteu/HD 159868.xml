@@ -1,0 +1,40 @@
+<system>
+	<name>HD 159868</name>
+	<rightascension>17 39 00</rightascension>
+	<declination>-43 51 16</declination>
+	<distance>52.7</distance>
+	<star>
+		<name>HD 159868</name>
+		<age>8.1</age>
+		<mass>1.09</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5395.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>HD 159868 b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">2.25</semimajoraxis>
+			<periastron errorminus="171.0" errorplus="171.0">350.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.01</eccentricity>
+			<period errorminus="8.800000" errorplus="8.800000">1178.4</period>
+			<mass errorminus="0.11" errorplus="0.11">2.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>14/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 159868 c</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">1.0</semimajoraxis>
+			<periastron errorminus="25.0" errorplus="25.0">290.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.15</eccentricity>
+			<period errorminus="1.300000" errorplus="1.300000">352.3</period>
+			<mass errorminus="0.05" errorplus="0.05">0.73</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/08/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

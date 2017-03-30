@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-559</name>
+	<rightascension>19 46 33</rightascension>
+	<declination>+43 48 10</declination>
+	<distance>793.0</distance>
+	<star>
+		<name>Kepler-559</name>
+		<radius>0.95</radius>
+		<mass>0.96</mass>
+		<temperature>5630.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-559 b</name>
+			<period errorminus="0.000021" errorplus="0.000021">17.58752333</period>
+			<radius errorminus="0.032" errorplus="0.057">0.322</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

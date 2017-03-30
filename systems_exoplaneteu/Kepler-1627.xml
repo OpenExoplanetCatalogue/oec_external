@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1627</name>
+	<rightascension>18 56 14</rightascension>
+	<declination>+41 34 36</declination>
+	<distance>311.0</distance>
+	<star>
+		<name>Kepler-1627</name>
+		<radius>0.84</radius>
+		<mass>0.87</mass>
+		<temperature>5445.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>Kepler-1627 b</name>
+			<period errorminus="0.000088" errorplus="0.000088">7.20283653</period>
+			<radius errorminus="0.037" errorplus="0.044">0.329</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

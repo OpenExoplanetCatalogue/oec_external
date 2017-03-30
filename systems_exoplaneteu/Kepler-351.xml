@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-351</name>
+	<rightascension>19 05 49</rightascension>
+	<declination>+42 39 28</declination>
+	<star>
+		<name>Kepler-351</name>
+		<radius>0.85</radius>
+		<mass>0.89</mass>
+		<temperature>5643.0</temperature>
+		<metallicity>-0.134</metallicity>
+		<planet>
+			<name>Kepler-351 b</name>
+			<semimajoraxis>0.214</semimajoraxis>
+			<period errorminus="0.000484" errorplus="0.000484">37.054919</period>
+			<radius errorminus="0.138" errorplus="0.138">0.273</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-351 c</name>
+			<semimajoraxis>0.287</semimajoraxis>
+			<period errorminus="0.000599" errorplus="0.000599">57.24809</period>
+			<radius errorminus="0.138" errorplus="0.138">0.285</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-351 d</name>
+			<period errorminus="0.002303" errorplus="0.002303">142.544247</period>
+			<radius errorminus="0.027" errorplus="0.017">0.243</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

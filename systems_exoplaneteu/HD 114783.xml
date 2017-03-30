@@ -1,0 +1,29 @@
+<system>
+	<name>HD 114783</name>
+	<rightascension>13 12 43</rightascension>
+	<declination>-02 44 06</declination>
+	<distance>20.4</distance>
+	<star>
+		<name>HD 114783</name>
+		<age>3.7</age>
+		<radius>0.78</radius>
+		<mass>0.92</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5105.0</temperature>
+		<metallicity>0.33</metallicity>
+		<planet>
+			<name>HD 114783 b</name>
+			<semimajoraxis errorminus="0.019" errorplus="0.019">1.16</semimajoraxis>
+			<periastron errorminus="11.0" errorplus="11.0">86.0</periastron>
+			<eccentricity errorminus="0.032" errorplus="0.032">0.144</eccentricity>
+			<inclination errorminus="8.0" errorplus="8.0">10.0</inclination>
+			<period errorminus="1.800000" errorplus="1.800000">493.7</period>
+			<mass errorminus="3.0" errorplus="27.0">6.3</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>16/01/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

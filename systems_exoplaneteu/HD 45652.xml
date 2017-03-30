@@ -1,0 +1,26 @@
+<system>
+	<name>HD 45652</name>
+	<rightascension>06 29 13</rightascension>
+	<declination>+10 56 02</declination>
+	<distance>36.0</distance>
+	<star>
+		<name>HD 45652</name>
+		<mass>0.83</mass>
+		<spectraltype>G8-K0</spectraltype>
+		<temperature>5312.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HD 45652 b</name>
+			<semimajoraxis>0.23</semimajoraxis>
+			<periastron errorminus="12.0" errorplus="12.0">273.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.38</eccentricity>
+			<period errorminus="0.200000" errorplus="0.200000">43.6</period>
+			<mass>0.47</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/10/14</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,19 @@
+<system>
+	<name>DW Uma</name>
+	<rightascension>10 33 53</rightascension>
+	<declination>+58 46 55</declination>
+	<star>
+		<name>DW Uma</name>
+		<spectraltype>M3</spectraltype>
+		<planet>
+			<name>DW Uma b</name>
+			<semimajoraxis>5.8</semimajoraxis>
+			<period>4967.0</period>
+			<mass>10.06</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

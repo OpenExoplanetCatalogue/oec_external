@@ -1,0 +1,65 @@
+<system>
+	<name>KOI-94</name>
+	<rightascension>19 49 20</rightascension>
+	<declination>+41 53 28</declination>
+	<star>
+		<name>KOI-94</name>
+		<age>3.9</age>
+		<radius>1.656</radius>
+		<mass>1.25</mass>
+		<temperature>6116.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-89 b</name>
+			<semimajoraxis>0.05</semimajoraxis>
+			<period errorminus="0.000031" errorplus="0.000031">3.7432451</period>
+			<mass errorminus="0.014" errorplus="0.014">0.033</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.153</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/11/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-89 c</name>
+			<semimajoraxis>0.099</semimajoraxis>
+			<period errorminus="0.000026" errorplus="0.000026">10.423707</period>
+			<mass errorminus="0.049" errorplus="0.018">0.049</mass>
+			<radius errorminus="0.008" errorplus="0.008">0.386</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-89 d</name>
+			<semimajoraxis>0.165</semimajoraxis>
+			<period errorminus="0.000011" errorplus="0.000011">22.3430004</period>
+			<mass errorminus="0.022" errorplus="0.021">0.164</mass>
+			<radius errorminus="0.0085" errorplus="0.0085">0.98</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/08/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-89 e</name>
+			<semimajoraxis>0.298</semimajoraxis>
+			<period errorminus="0.000120" errorplus="0.000120">54.319931</period>
+			<mass errorminus="0.007" errorplus="0.008">0.041</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.55</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

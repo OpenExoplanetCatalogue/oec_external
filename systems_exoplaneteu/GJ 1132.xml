@@ -1,0 +1,29 @@
+<system>
+	<name>GJ 1132</name>
+	<rightascension>10 14 52</rightascension>
+	<declination>-47 50 36</declination>
+	<distance>12.04</distance>
+	<star>
+		<name>GJ 1132</name>
+		<age>5.0</age>
+		<radius>0.207</radius>
+		<mass>0.181</mass>
+		<spectraltype>M3.5</spectraltype>
+		<temperature>3270.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>GJ 1132 b</name>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0154</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.000031" errorplus="0.000031">1.62893</period>
+			<mass errorminus="0.0017" errorplus="0.0017">0.0051</mass>
+			<radius errorminus="0.0098" errorplus="0.0098">0.103</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/07/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

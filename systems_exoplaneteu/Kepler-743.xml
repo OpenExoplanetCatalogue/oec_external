@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-743</name>
+	<rightascension>19 42 18</rightascension>
+	<declination>+42 48 23</declination>
+	<distance>258.0</distance>
+	<star>
+		<name>Kepler-743</name>
+		<radius>0.85</radius>
+		<mass>0.94</mass>
+		<temperature>5486.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-743 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">3.17926292</period>
+			<radius errorminus="0.004" errorplus="0.003">0.108</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

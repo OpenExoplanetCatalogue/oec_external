@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2011-BLG-0251L</name>
+	<rightascension>17 38 14</rightascension>
+	<declination>-27 51 50</declination>
+	<distance>4090.0</distance>
+	<star>
+		<name>OGLE-2011-BLG-0251L</name>
+		<mass>0.47</mass>
+		<planet>
+			<name>OGLE-2011-BLG-0251L b</name>
+			<semimajoraxis errorminus="0.64" errorplus="0.64">3.86</semimajoraxis>
+			<mass errorminus="0.14" errorplus="0.14">0.96</mass>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

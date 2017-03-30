@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-280</name>
+	<rightascension>19 25 34</rightascension>
+	<declination>+42 10 50</declination>
+	<star>
+		<name>Kepler-280</name>
+		<radius>0.89</radius>
+		<mass>0.91</mass>
+		<temperature>5744.0</temperature>
+		<metallicity>-0.169</metallicity>
+		<planet>
+			<name>Kepler-280 b</name>
+			<semimajoraxis>0.032</semimajoraxis>
+			<period errorminus="0.000006" errorplus="0.000006">2.139542</period>
+			<radius errorminus="0.062" errorplus="0.062">0.129</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-280 c</name>
+			<semimajoraxis>0.056</semimajoraxis>
+			<period errorminus="0.000009" errorplus="0.000009">4.807091</period>
+			<radius errorminus="0.087" errorplus="0.087">0.179</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

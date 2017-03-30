@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-529</name>
+	<rightascension>19 03 33</rightascension>
+	<declination>+47 52 49</declination>
+	<distance>787.0</distance>
+	<star>
+		<name>Kepler-529</name>
+		<radius>1.14</radius>
+		<mass>1.07</mass>
+		<temperature>6087.0</temperature>
+		<metallicity>-0.1</metallicity>
+		<planet>
+			<name>Kepler-529 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">1.98035766</period>
+			<radius errorminus="0.015" errorplus="0.022">0.166</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-529 c</name>
+			<period errorminus="0.000037" errorplus="0.000037">12.8345022</period>
+			<radius errorminus="0.019" errorplus="0.037">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

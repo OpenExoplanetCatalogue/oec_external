@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1092</name>
+	<rightascension>19 50 54</rightascension>
+	<declination>+47 06 46</declination>
+	<distance>914.0</distance>
+	<star>
+		<name>Kepler-1092</name>
+		<radius>1.0</radius>
+		<mass>0.99</mass>
+		<temperature>5862.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-1092 b</name>
+			<period errorminus="0.000601" errorplus="0.000601">58.6017925</period>
+			<radius errorminus="0.021" errorplus="0.033">0.185</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

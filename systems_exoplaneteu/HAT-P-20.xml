@@ -1,0 +1,32 @@
+<system>
+	<name>HAT-P-20</name>
+	<rightascension>07 27 40</rightascension>
+	<declination>+24 20 11</declination>
+	<distance>70.0</distance>
+	<star>
+		<name>HAT-P-20</name>
+		<age>6.7</age>
+		<radius>0.694</radius>
+		<mass>0.756</mass>
+		<spectraltype>K7</spectraltype>
+		<temperature>4595.0</temperature>
+		<metallicity>0.35</metallicity>
+		<planet>
+			<name>HAT-P-20 b</name>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0361</semimajoraxis>
+			<periastron errorminus="130.0" errorplus="130.0">317.0</periastron>
+			<eccentricity errorminus="0.0005" errorplus="0.0005">0.015</eccentricity>
+			<longitude errorminus="6.9" errorplus="6.9">172.0</longitude>
+			<inclination errorminus="0.1" errorplus="0.1">81.9</inclination>
+			<period errorminus="0.000004" errorplus="0.000004">2.875317</period>
+			<mass errorminus="0.187" errorplus="0.187">7.246</mass>
+			<radius errorminus="0.033" errorplus="0.033">0.867</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>17/02/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1559</name>
+	<rightascension>19 29 09</rightascension>
+	<declination>+42 04 21</declination>
+	<distance>580.0</distance>
+	<star>
+		<name>Kepler-1559</name>
+		<radius>0.82</radius>
+		<mass>0.86</mass>
+		<temperature>5316.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-1559 b</name>
+			<period errorminus="0.000004" errorplus="0.000004">0.97191543</period>
+			<radius errorminus="0.004" errorplus="0.006">0.064</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

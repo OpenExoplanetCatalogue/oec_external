@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1373</name>
+	<rightascension>19 03 00</rightascension>
+	<declination>+39 14 57</declination>
+	<distance>1112.0</distance>
+	<star>
+		<name>Kepler-1373</name>
+		<radius>1.33</radius>
+		<mass>1.22</mass>
+		<temperature>6299.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1373 b</name>
+			<period errorminus="0.000006" errorplus="0.000006">1.29123275</period>
+			<radius errorminus="0.017" errorplus="0.048">0.103</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

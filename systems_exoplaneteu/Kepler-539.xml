@@ -1,0 +1,40 @@
+<system>
+	<name>Kepler-539</name>
+	<rightascension>19 56 29</rightascension>
+	<declination>+41 52 00</declination>
+	<star>
+		<name>Kepler-539</name>
+		<age>1.1</age>
+		<radius>0.952</radius>
+		<mass>1.048</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5820.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-539 b</name>
+			<semimajoraxis errorminus="0.0054" errorplus="0.0054">0.4988</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.39">0.0</eccentricity>
+			<inclination errorminus="0.086" errorplus="0.086">89.845</inclination>
+			<period errorminus="0.000710" errorplus="0.000710">125.63243</period>
+			<mass errorminus="0.29" errorplus="0.29">0.97</mass>
+			<radius errorminus="0.016" errorplus="0.016">0.747</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-539 c</name>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.5</eccentricity>
+			<inclination errorminus="0.68" errorplus="59.0">97.92</inclination>
+			<period errorminus="0.000000" errorplus="inf">1000.0</period>
+			<mass errorminus="1.2" errorplus="1.2">2.4</mass>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

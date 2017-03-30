@@ -1,0 +1,28 @@
+<system>
+	<name>HD 33564</name>
+	<rightascension>05 22 33</rightascension>
+	<declination>+79 13 52</declination>
+	<distance>20.98</distance>
+	<star>
+		<name>HD 33564</name>
+		<age>3.0</age>
+		<radius>1.1</radius>
+		<mass>1.25</mass>
+		<spectraltype>F6 V</spectraltype>
+		<temperature>6250.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>HD 33564 b</name>
+			<semimajoraxis>1.1</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">205.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.34</eccentricity>
+			<period errorminus="3.000000" errorplus="3.000000">388.0</period>
+			<mass>9.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>10/12/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

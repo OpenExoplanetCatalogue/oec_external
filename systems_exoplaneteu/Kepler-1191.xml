@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1191</name>
+	<rightascension>19 26 38</rightascension>
+	<declination>+48 00 34</declination>
+	<distance>876.0</distance>
+	<star>
+		<name>Kepler-1191</name>
+		<radius>0.81</radius>
+		<mass>0.85</mass>
+		<temperature>5308.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-1191 b</name>
+			<period errorminus="0.000019" errorplus="0.000019">5.60014851</period>
+			<radius errorminus="0.01" errorplus="0.012">0.135</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

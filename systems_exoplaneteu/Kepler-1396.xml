@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1396</name>
+	<rightascension>19 37 21</rightascension>
+	<declination>+44 55 06</declination>
+	<distance>1236.0</distance>
+	<star>
+		<name>Kepler-1396</name>
+		<radius>1.27</radius>
+		<mass>1.18</mass>
+		<temperature>6195.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-1396 b</name>
+			<period errorminus="0.000138" errorplus="0.000138">18.2206421</period>
+			<radius errorminus="0.033" errorplus="0.07">0.185</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

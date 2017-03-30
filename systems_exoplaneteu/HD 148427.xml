@@ -1,0 +1,28 @@
+<system>
+	<name>HD 148427</name>
+	<rightascension>16 28 28</rightascension>
+	<declination>-13 36 01</declination>
+	<distance>59.3</distance>
+	<star>
+		<name>HD 148427</name>
+		<age>2.5</age>
+		<radius>3.22</radius>
+		<mass>1.45</mass>
+		<spectraltype>K0IV</spectraltype>
+		<temperature>5052.0</temperature>
+		<metallicity>0.154</metallicity>
+		<planet>
+			<name>HD 148427 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.93</semimajoraxis>
+			<periastron errorminus="68.0" errorplus="68.0">277.0</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.16</eccentricity>
+			<period errorminus="3.000000" errorplus="3.000000">331.5</period>
+			<mass errorminus="0.1" errorplus="0.1">0.96</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/08/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

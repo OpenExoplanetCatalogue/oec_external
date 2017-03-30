@@ -1,0 +1,27 @@
+<system>
+	<name>BD+49 828</name>
+	<rightascension>03 02 34</rightascension>
+	<declination>+49 43 48</declination>
+	<star>
+		<name>BD+49 828</name>
+		<age>2.3</age>
+		<radius>7.6</radius>
+		<mass>1.52</mass>
+		<spectraltype>KO</spectraltype>
+		<temperature>4943.0</temperature>
+		<metallicity>-0.19</metallicity>
+		<planet>
+			<name>BD+49 828 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.32">4.2</semimajoraxis>
+			<periastron errorminus="32.0" errorplus="32.0">170.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.24">0.35</eccentricity>
+			<period errorminus="180.000000" errorplus="300.000000">2590.0</period>
+			<mass errorminus="0.2" errorplus="0.4">1.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/07/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

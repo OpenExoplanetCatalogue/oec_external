@@ -1,0 +1,39 @@
+<system>
+	<name>GJ 433</name>
+	<rightascension>11 35 27</rightascension>
+	<declination>-32 27 36</declination>
+	<distance>9.04</distance>
+	<star>
+		<name>GJ 433</name>
+		<mass>0.48</mass>
+		<spectraltype>M1.5</spectraltype>
+		<temperature>3600.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>GJ 433 b</name>
+			<semimajoraxis errorminus="0.008" errorplus="0.004">0.06</semimajoraxis>
+			<periastron>309.39</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.16">0.05</eccentricity>
+			<period errorminus="0.003600" errorplus="0.003400">7.3697</period>
+			<mass errorminus="0.00597" errorplus="0.00629">0.01667</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 433 c</name>
+			<semimajoraxis>3.6</semimajoraxis>
+			<periastron errorminus="36.0" errorplus="36.0">206.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.17</eccentricity>
+			<period errorminus="253.000000" errorplus="253.000000">3693.0</period>
+			<mass>0.14</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

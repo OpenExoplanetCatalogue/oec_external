@@ -1,0 +1,31 @@
+<system>
+	<name>EPIC 219388192</name>
+	<rightascension>19 17 34</rightascension>
+	<declination>-16 07 42</declination>
+	<distance>300.0</distance>
+	<star>
+		<name>EPIC 219388192</name>
+		<age>3.9</age>
+		<radius>1.01</radius>
+		<mass>0.99</mass>
+		<spectraltype>G</spectraltype>
+		<temperature>5850.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>EPIC 219388192 b</name>
+			<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.0593</semimajoraxis>
+			<periastron errorminus="1.0" errorplus="1.0">345.9</periastron>
+			<eccentricity errorminus="0.0019" errorplus="0.0019">0.1929</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.0">90.0</inclination>
+			<period errorminus="0.000026" errorplus="0.000026">5.292569</period>
+			<mass errorminus="0.09" errorplus="0.09">36.5</mass>
+			<radius errorminus="0.042" errorplus="0.042">0.937</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/10/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

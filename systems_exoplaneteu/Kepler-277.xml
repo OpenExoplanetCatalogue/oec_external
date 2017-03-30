@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-277</name>
+	<rightascension>19 06 20</rightascension>
+	<declination>+39 04 38</declination>
+	<star>
+		<name>Kepler-277</name>
+		<radius>1.65</radius>
+		<mass>1.19</mass>
+		<temperature>6306.0</temperature>
+		<metallicity>-0.315</metallicity>
+		<planet>
+			<name>Kepler-277 b</name>
+			<period>17.324</period>
+			<mass errorminus="0.471" errorplus="0.139">0.28</mass>
+			<radius errorminus="0.0349" errorplus="0.0349">0.261</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-277 c</name>
+			<period>33.006</period>
+			<mass errorminus="0.313" errorplus="0.134">0.21</mass>
+			<radius errorminus="0.04" errorplus="0.04">0.3</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/12/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

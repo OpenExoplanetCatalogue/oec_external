@@ -1,0 +1,25 @@
+<system>
+	<name>alpha Cen B</name>
+	<rightascension>14 39 35</rightascension>
+	<declination>-60 09 45</declination>
+	<distance>1.295</distance>
+	<star>
+		<name>alpha Cen B</name>
+		<radius>0.8632</radius>
+		<mass>0.934</mass>
+		<spectraltype>K1V</spectraltype>
+		<temperature>5214.0</temperature>
+		<planet>
+			<name>alf Cen B b</name>
+			<semimajoraxis>0.04</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.000800" errorplus="0.000800">3.2357</period>
+			<mass errorminus="0.0003" errorplus="0.0003">0.0036</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/11/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

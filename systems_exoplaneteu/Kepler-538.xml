@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-538</name>
+	<rightascension>19 49 57</rightascension>
+	<declination>+49 37 24</declination>
+	<distance>165.0</distance>
+	<star>
+		<name>Kepler-538</name>
+		<radius>0.9</radius>
+		<mass>0.96</mass>
+		<temperature>5650.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-538 b</name>
+			<period errorminus="0.000093" errorplus="0.000093">81.73780699</period>
+			<radius errorminus="0.008" errorplus="0.009">0.202</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

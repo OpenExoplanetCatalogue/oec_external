@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-780</name>
+	<rightascension>18 47 04</rightascension>
+	<declination>+44 17 33</declination>
+	<distance>520.0</distance>
+	<star>
+		<name>Kepler-780</name>
+		<radius>1.02</radius>
+		<mass>1.01</mass>
+		<temperature>5769.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-780 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">0.67737516</period>
+			<radius errorminus="0.005" errorplus="0.008">0.079</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

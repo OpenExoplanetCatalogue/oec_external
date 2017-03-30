@@ -1,0 +1,29 @@
+<system>
+	<name>WASP-122</name>
+	<rightascension>07 13 12</rightascension>
+	<declination>-42 35 25</declination>
+	<star>
+		<name>WASP-122</name>
+		<radius>1.567</radius>
+		<mass>1.4</mass>
+		<spectraltype>G4</spectraltype>
+		<temperature>5730.0</temperature>
+		<metallicity>0.32</metallicity>
+		<planet>
+			<name>WASP-122 b</name>
+			<semimajoraxis errorminus="0.00079" errorplus="0.00079">0.03107</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.08">0.0</eccentricity>
+			<inclination errorminus="0.31" errorplus="0.31">78.35</inclination>
+			<period errorminus="0.000004" errorplus="0.000004">1.7100567</period>
+			<mass errorminus="0.07497" errorplus="0.07518">1.401</mass>
+			<radius errorminus="0.069" errorplus="0.069">1.792</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<temperature>50.0</temperature>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/02/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

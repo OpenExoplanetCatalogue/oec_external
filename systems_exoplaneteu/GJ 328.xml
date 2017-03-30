@@ -1,0 +1,25 @@
+<system>
+	<name>GJ 328</name>
+	<rightascension>08 55 08</rightascension>
+	<declination>+01 32 56</declination>
+	<distance>19.8</distance>
+	<star>
+		<name>GJ 328</name>
+		<mass>0.69</mass>
+		<spectraltype>K7</spectraltype>
+		<temperature>3900.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>GJ 328 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">4.5</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.37</eccentricity>
+			<period errorminus="300.000000" errorplus="300.000000">4100.0</period>
+			<mass errorminus="13.0" errorplus="13.0">2.3</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/08/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

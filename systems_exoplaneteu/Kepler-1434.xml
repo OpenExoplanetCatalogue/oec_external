@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1434</name>
+	<rightascension>19 42 09</rightascension>
+	<declination>+51 12 11</declination>
+	<distance>680.0</distance>
+	<star>
+		<name>Kepler-1434</name>
+		<radius>2.04</radius>
+		<mass>1.47</mass>
+		<temperature>6291.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>Kepler-1434 b</name>
+			<period errorminus="0.000089" errorplus="0.000089">8.05333618</period>
+			<radius errorminus="0.018" errorplus="0.019">0.099</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

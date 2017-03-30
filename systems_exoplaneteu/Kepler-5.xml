@@ -1,0 +1,27 @@
+<system>
+	<name>Kepler-5</name>
+	<rightascension>19 57 38</rightascension>
+	<declination>+44 02 06</declination>
+	<star>
+		<name>Kepler-5</name>
+		<radius>1.793</radius>
+		<mass>1.374</mass>
+		<temperature>6297.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-5 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.05064</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.6" errorplus="0.6">86.3</inclination>
+			<period errorminus="0.000032" errorplus="0.000032">3.54846</period>
+			<mass errorminus="0.064" errorplus="0.064">2.114</mass>
+			<radius errorminus="0.048" errorplus="0.048">1.431</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>15/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

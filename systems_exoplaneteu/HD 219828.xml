@@ -1,0 +1,41 @@
+<system>
+	<name>HD 219828</name>
+	<rightascension>23 18 47</rightascension>
+	<declination>+18 38 45</declination>
+	<distance>81.1</distance>
+	<star>
+		<name>HD 219828</name>
+		<age>5.8</age>
+		<radius>1.7</radius>
+		<mass>1.24</mass>
+		<spectraltype>G0IV</spectraltype>
+		<temperature>5891.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 219828 b</name>
+			<semimajoraxis>0.045</semimajoraxis>
+			<periastron errorminus="38.0" errorplus="38.0">255.0</periastron>
+			<eccentricity errorminus="0.036" errorplus="0.036">0.059</eccentricity>
+			<period errorminus="0.000096" errorplus="0.000096">3.834887</period>
+			<mass errorminus="0.0044" errorplus="0.0044">0.0661</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 219828 c</name>
+			<semimajoraxis>5.96</semimajoraxis>
+			<periastron errorminus="0.28" errorplus="0.28">145.77</periastron>
+			<eccentricity errorminus="0.0032" errorplus="0.0032">0.8118</eccentricity>
+			<period errorminus="75.000000" errorplus="75.000000">4791.0</period>
+			<mass errorminus="0.85" errorplus="0.85">15.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

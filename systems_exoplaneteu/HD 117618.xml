@@ -1,0 +1,41 @@
+<system>
+	<name>HD 117618</name>
+	<rightascension>13 32 25</rightascension>
+	<declination>-47 43 44</declination>
+	<distance>38.0</distance>
+	<star>
+		<name>HD 117618</name>
+		<age>3.88</age>
+		<radius>1.19</radius>
+		<mass>1.05</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5861.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>HD 117618 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.176</semimajoraxis>
+			<periastron errorminus="19.0" errorplus="19.0">245.0</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.42</eccentricity>
+			<period errorminus="0.020000" errorplus="0.020000">25.827</period>
+			<mass errorminus="0.02" errorplus="0.02">0.178</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>16/01/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 117618 c</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.93</semimajoraxis>
+			<periastron errorminus="29.0" errorplus="29.0">360.0</periastron>
+			<eccentricity errorminus="0.26" errorplus="0.26">0.0</eccentricity>
+			<period errorminus="2.000000" errorplus="2.000000">318.0</period>
+			<mass errorminus="0.1" errorplus="0.1">0.2</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/07/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

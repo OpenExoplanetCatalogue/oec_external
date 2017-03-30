@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1624</name>
+	<rightascension>19 30 19</rightascension>
+	<declination>+37 22 35</declination>
+	<distance>199.0</distance>
+	<star>
+		<name>Kepler-1624</name>
+		<radius>0.47</radius>
+		<mass>0.5</mass>
+		<temperature>3636.0</temperature>
+		<metallicity>0.06</metallicity>
+		<planet>
+			<name>Kepler-1624 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">3.29030452</period>
+			<radius errorminus="0.041" errorplus="0.035">0.509</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

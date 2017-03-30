@@ -1,0 +1,64 @@
+<system>
+	<name>Kepler-338</name>
+	<rightascension>18 51 55</rightascension>
+	<declination>+40 47 04</declination>
+	<star>
+		<name>Kepler-338</name>
+		<radius>1.74</radius>
+		<mass>1.1</mass>
+		<temperature>5923.0</temperature>
+		<metallicity>-0.106</metallicity>
+		<planet>
+			<name>Kepler-338 b</name>
+			<semimajoraxis>0.117</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.27">0.04</eccentricity>
+			<period errorminus="0.000470" errorplus="0.000470">13.72699</period>
+			<mass errorminus="0.0664" errorplus="0.0761">0.0963</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.23</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-338 c</name>
+			<semimajoraxis>0.172</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.24">0.03</eccentricity>
+			<period errorminus="0.000870" errorplus="0.000870">24.31168</period>
+			<radius errorminus="0.012" errorplus="0.012">0.221</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-338 d</name>
+			<semimajoraxis>0.257</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.22">0.03</eccentricity>
+			<period errorminus="0.001600" errorplus="0.001600">44.4287</period>
+			<radius errorminus="0.013" errorplus="0.013">0.237</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-338 e</name>
+			<eccentricity errorminus="0.05" errorplus="0.23">0.05</eccentricity>
+			<period errorminus="0.000400" errorplus="0.000400">9.34149</period>
+			<mass errorminus="0.02" errorplus="0.023">0.027</mass>
+			<radius errorminus="0.0074" errorplus="0.0074">0.1416</radius>
+			<istransiting>1</istransiting>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

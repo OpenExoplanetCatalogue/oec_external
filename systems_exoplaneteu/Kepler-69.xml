@@ -1,0 +1,41 @@
+<system>
+	<name>Kepler-69</name>
+	<rightascension>19 33 03</rightascension>
+	<declination>+44 52 08</declination>
+	<star>
+		<name>Kepler-69</name>
+		<radius>0.93</radius>
+		<mass>0.81</mass>
+		<spectraltype>G4V</spectraltype>
+		<temperature>5638.0</temperature>
+		<metallicity>-0.29</metallicity>
+		<planet>
+			<name>Kepler-69 b</name>
+			<semimajoraxis errorminus="0.016" errorplus="0.023">0.094</semimajoraxis>
+			<eccentricity errorminus="0.001" errorplus="0.17">0.16</eccentricity>
+			<inclination errorminus="0.45" errorplus="0.62">89.62</inclination>
+			<period errorminus="0.000036" errorplus="0.000036">13.722341</period>
+			<radius errorminus="0.026" errorplus="0.039">0.199</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-69 c</name>
+			<semimajoraxis errorminus="0.11" errorplus="0.15">0.64</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.18">0.14</eccentricity>
+			<inclination errorminus="0.08" errorplus="0.03">89.85</inclination>
+			<period errorminus="0.005900" errorplus="0.006400">242.4613</period>
+			<radius errorminus="0.021" errorplus="0.03">0.153</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/07/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-408</name>
+	<rightascension>18 59 09</rightascension>
+	<declination>+48 25 23</declination>
+	<star>
+		<name>Kepler-408</name>
+		<age>6.68</age>
+		<radius>1.23</radius>
+		<mass>1.08</mass>
+		<temperature>6104.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>Kepler-408 b</name>
+			<period>2.56502</period>
+			<mass>0.02</mass>
+			<radius errorminus="0.0003" errorplus="0.0003">0.073</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/01/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

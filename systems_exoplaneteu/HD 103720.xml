@@ -1,0 +1,28 @@
+<system>
+	<name>HD 103720</name>
+	<rightascension>11 56 41</rightascension>
+	<declination>-02 13 16</declination>
+	<distance>41.6</distance>
+	<star>
+		<name>HD 103720</name>
+		<age>3.8</age>
+		<radius>0.73</radius>
+		<mass>0.794</mass>
+		<spectraltype>K3V</spectraltype>
+		<temperature>5017.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>HD 103720 b</name>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0498</semimajoraxis>
+			<periastron errorminus="15.0" errorplus="15.0">262.0</periastron>
+			<eccentricity errorminus="0.024" errorplus="0.024">0.086</eccentricity>
+			<period errorminus="0.000100" errorplus="0.000100">4.5557</period>
+			<mass errorminus="0.025" errorplus="0.025">0.62</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/01/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

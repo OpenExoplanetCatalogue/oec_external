@@ -1,0 +1,28 @@
+<system>
+	<name>WISE 0458+6434 A</name>
+	<rightascension>04 58 54</rightascension>
+	<declination>+64 34 53</declination>
+	<distance>10.5</distance>
+	<star>
+		<name>WISE 0458+6434 A</name>
+		<age>1.0</age>
+		<radius>0.098</radius>
+		<mass>0.019</mass>
+		<spectraltype>T 8.5</spectraltype>
+		<temperature>730.0</temperature>
+		<planet>
+			<name>WISE 0458+6434 b</name>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">5.0</semimajoraxis>
+			<period>25800.0</period>
+			<mass errorminus="7.0" errorplus="3.0">13.0</mass>
+			<radius errorminus="0.035" errorplus="0.011">1.009</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>590.0</temperature>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/10/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,50 @@
+<system>
+	<name>Kepler-127</name>
+	<rightascension>19 00 46</rightascension>
+	<declination>+46 01 41</declination>
+	<star>
+		<name>Kepler-127</name>
+		<radius>1.36</radius>
+		<temperature>6106.0</temperature>
+		<metallicity>-0.154</metallicity>
+		<planet>
+			<name>Kepler-127 b</name>
+			<semimajoraxis>0.125</semimajoraxis>
+			<eccentricity errorminus="0.39" errorplus="0.06">0.47</eccentricity>
+			<period errorminus="0.000100" errorplus="0.000100">14.43577</period>
+			<radius errorminus="0.012" errorplus="0.012">0.136</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-127 c</name>
+			<semimajoraxis>0.2</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.14">0.03</eccentricity>
+			<period errorminus="0.000170" errorplus="0.000170">29.39344</period>
+			<radius errorminus="0.006" errorplus="0.006">0.2131</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-127 d</name>
+			<semimajoraxis>0.28</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.28">0.03</eccentricity>
+			<period errorminus="0.000570" errorplus="0.000570">48.62997</period>
+			<radius errorminus="0.0075" errorplus="0.0075">0.238</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

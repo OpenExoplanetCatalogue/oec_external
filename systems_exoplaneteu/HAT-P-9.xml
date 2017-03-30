@@ -1,0 +1,30 @@
+<system>
+	<name>HAT-P-9</name>
+	<rightascension>07 20 40</rightascension>
+	<declination>+37 08 26</declination>
+	<distance>480.0</distance>
+	<star>
+		<name>HAT-P-9</name>
+		<age>1.6</age>
+		<radius>1.32</radius>
+		<mass>1.28</mass>
+		<spectraltype>F</spectraltype>
+		<temperature>6350.0</temperature>
+		<metallicity>0.12</metallicity>
+		<planet>
+			<name>HAT-P-9 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.053</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">86.5</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">3.922814</period>
+			<mass errorminus="0.08" errorplus="0.08">0.67</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.4</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>13/05/31</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

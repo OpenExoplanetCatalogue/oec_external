@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1160</name>
+	<rightascension>19 11 31</rightascension>
+	<declination>+43 21 51</declination>
+	<distance>1293.0</distance>
+	<star>
+		<name>Kepler-1160</name>
+		<radius>0.89</radius>
+		<mass>0.92</mass>
+		<temperature>5519.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1160 b</name>
+			<period errorminus="0.000031" errorplus="0.000031">7.97034958</period>
+			<radius errorminus="0.012" errorplus="0.025">0.191</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

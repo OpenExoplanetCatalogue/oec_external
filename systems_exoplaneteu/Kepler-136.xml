@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-136</name>
+	<rightascension>19 45 52</rightascension>
+	<declination>+42 35 56</declination>
+	<star>
+		<name>Kepler-136</name>
+		<radius>1.35</radius>
+		<mass>1.2</mass>
+		<temperature>6165.0</temperature>
+		<planet>
+			<name>Kepler-136 b</name>
+			<semimajoraxis>0.106</semimajoraxis>
+			<period errorminus="0.000030" errorplus="0.000030">11.5789</period>
+			<radius errorminus="0.034" errorplus="0.034">0.183</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-136 c</name>
+			<semimajoraxis>0.133</semimajoraxis>
+			<period errorminus="0.000051" errorplus="0.000051">16.399235</period>
+			<radius errorminus="0.033" errorplus="0.033">0.178</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

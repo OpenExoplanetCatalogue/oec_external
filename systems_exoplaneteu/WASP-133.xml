@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-133</name>
+	<rightascension>20 58 18</rightascension>
+	<declination>-35 12 12</declination>
+	<distance>457.0</distance>
+	<star>
+		<name>WASP-133</name>
+		<age>6.8</age>
+		<radius>1.44</radius>
+		<mass>1.16</mass>
+		<spectraltype>G4</spectraltype>
+		<temperature>5700.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>WASP-133 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0345</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.0">0.17</eccentricity>
+			<inclination errorminus="1.0" errorplus="1.0">87.0</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">2.176423</period>
+			<mass errorminus="0.0909" errorplus="0.0915">1.16</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.21</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

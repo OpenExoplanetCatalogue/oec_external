@@ -1,0 +1,28 @@
+<system>
+	<name>beta Umi</name>
+	<rightascension>14 50 42</rightascension>
+	<declination>+74 09 20</declination>
+	<distance>40.14</distance>
+	<star>
+		<name>beta Umi</name>
+		<age>2.95</age>
+		<radius>42.06</radius>
+		<mass>1.4</mass>
+		<spectraltype>K4III</spectraltype>
+		<temperature>4126.0</temperature>
+		<metallicity>-0.27</metallicity>
+		<planet>
+			<name>beta Umi b</name>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.4</semimajoraxis>
+			<periastron errorminus="2.8" errorplus="2.8">307.4</periastron>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.19</eccentricity>
+			<period errorminus="2.700000" errorplus="2.700000">522.3</period>
+			<mass errorminus="1.0" errorplus="1.0">6.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

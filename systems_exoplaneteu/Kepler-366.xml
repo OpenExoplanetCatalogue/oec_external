@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-366</name>
+	<rightascension>19 47 24</rightascension>
+	<declination>+49 05 04</declination>
+	<star>
+		<name>Kepler-366</name>
+		<radius>1.05</radius>
+		<mass>1.05</mass>
+		<temperature>6209.0</temperature>
+		<metallicity>-0.081</metallicity>
+		<planet>
+			<name>Kepler-366 b</name>
+			<semimajoraxis>0.045</semimajoraxis>
+			<period errorminus="0.000022" errorplus="0.000022">3.281959</period>
+			<radius errorminus="0.059" errorplus="0.059">0.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-366 c</name>
+			<semimajoraxis>0.11</semimajoraxis>
+			<period errorminus="0.000095" errorplus="0.000095">12.51616</period>
+			<radius errorminus="0.072" errorplus="0.072">0.16</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2007-BLG-349(AB)</name>
+	<rightascension>18 05 24</rightascension>
+	<declination>-26 34 41</declination>
+	<distance>2760.0</distance>
+	<star>
+		<name>OGLE-2007-BLG-349(AB)</name>
+		<mass>0.71</mass>
+		<planet>
+			<name>OGLE-2007-BLG-349(AB) b</name>
+			<semimajoraxis errorminus="0.34" errorplus="0.43">2.59</semimajoraxis>
+			<mass errorminus="0.041" errorplus="0.041">0.25</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/09/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

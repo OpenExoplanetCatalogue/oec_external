@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-158</name>
+	<rightascension>18 56 08</rightascension>
+	<declination>+39 46 53</declination>
+	<star>
+		<name>Kepler-158</name>
+		<radius>0.62</radius>
+		<temperature>4623.0</temperature>
+		<metallicity>-0.232</metallicity>
+		<planet>
+			<name>Kepler-158 b</name>
+			<semimajoraxis>0.111</semimajoraxis>
+			<period errorminus="0.000064" errorplus="0.000064">16.709184</period>
+			<radius errorminus="0.032" errorplus="0.032">0.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-158 c</name>
+			<semimajoraxis>0.158</semimajoraxis>
+			<period errorminus="0.000140" errorplus="0.000140">28.551383</period>
+			<radius errorminus="0.027" errorplus="0.027">0.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

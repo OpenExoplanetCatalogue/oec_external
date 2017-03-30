@@ -1,0 +1,23 @@
+<system>
+	<name>TWA 5 A (AB)</name>
+	<rightascension>11 31 55</rightascension>
+	<declination>-34 23 33</declination>
+	<distance>25.0</distance>
+	<star>
+		<name>TWA 5 A (AB)</name>
+		<age>0.1</age>
+		<mass>0.4</mass>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>TWA 5 A (AB) b</name>
+			<semimajoraxis>86.0</semimajoraxis>
+			<eccentricity>0.45</eccentricity>
+			<mass errorminus="20.0" errorplus="120.0">25.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-772</name>
+	<rightascension>19 25 42</rightascension>
+	<declination>+38 12 60</declination>
+	<distance>689.0</distance>
+	<star>
+		<name>Kepler-772</name>
+		<radius>1.11</radius>
+		<mass>0.98</mass>
+		<temperature>5714.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-772 b</name>
+			<period errorminus="0.000054" errorplus="0.000054">12.99207337</period>
+			<radius errorminus="0.021" errorplus="0.033">0.162</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

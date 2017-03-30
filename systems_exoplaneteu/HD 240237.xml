@@ -1,0 +1,27 @@
+<system>
+	<name>HD 240237</name>
+	<rightascension>23 15 42</rightascension>
+	<declination>+58 02 36</declination>
+	<distance>1500.0</distance>
+	<star>
+		<name>HD 240237</name>
+		<radius>32.0</radius>
+		<mass>1.69</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>4361.0</temperature>
+		<metallicity>-0.26</metallicity>
+		<planet>
+			<name>HD 240237 b</name>
+			<semimajoraxis>1.9</semimajoraxis>
+			<periastron errorminus="21.8" errorplus="21.8">108.1</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.4</eccentricity>
+			<period errorminus="13.800000" errorplus="13.800000">745.7</period>
+			<mass>5.3</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>11/10/11</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

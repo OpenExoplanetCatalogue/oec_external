@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1490</name>
+	<rightascension>19 42 46</rightascension>
+	<declination>+42 36 34</declination>
+	<distance>968.0</distance>
+	<star>
+		<name>Kepler-1490</name>
+		<radius>0.87</radius>
+		<mass>0.9</mass>
+		<temperature>5515.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-1490 b</name>
+			<period errorminus="0.000904" errorplus="0.000904">92.4362973</period>
+			<radius errorminus="0.056" errorplus="0.033">0.271</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

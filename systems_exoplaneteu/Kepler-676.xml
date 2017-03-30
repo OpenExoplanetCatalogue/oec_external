@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-676</name>
+	<rightascension>19 44 53</rightascension>
+	<declination>+50 17 14</declination>
+	<distance>243.0</distance>
+	<star>
+		<name>Kepler-676</name>
+		<radius>0.49</radius>
+		<mass>0.51</mass>
+		<temperature>3701.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-676 b</name>
+			<period errorminus="0.000014" errorplus="0.000014">11.59822172</period>
+			<radius errorminus="0.03" errorplus="0.012">0.271</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

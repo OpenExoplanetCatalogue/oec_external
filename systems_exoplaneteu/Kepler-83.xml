@@ -1,0 +1,52 @@
+<system>
+	<name>Kepler-83</name>
+	<rightascension>18 48 56</rightascension>
+	<declination>+43 39 56</declination>
+	<star>
+		<name>Kepler-83</name>
+		<radius>0.539</radius>
+		<mass>0.664</mass>
+		<temperature>4164.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>Kepler-83 b</name>
+			<semimajoraxis>0.078</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>88.24</inclination>
+			<period errorminus="0.000047" errorplus="0.000047">9.770513</period>
+			<radius errorminus="0.19" errorplus="0.19">0.209</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-83 c</name>
+			<semimajoraxis>0.126</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>88.81</inclination>
+			<period errorminus="0.000210" errorplus="0.000210">20.08976</period>
+			<radius errorminus="0.21" errorplus="0.21">0.1733</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>13/09/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-83 d</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="0.000016" errorplus="0.000016">5.169796</period>
+			<radius errorminus="0.012" errorplus="0.012">0.173</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

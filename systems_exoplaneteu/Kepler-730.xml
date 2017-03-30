@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-730</name>
+	<rightascension>19 02 13</rightascension>
+	<declination>+45 34 44</declination>
+	<distance>1455.0</distance>
+	<star>
+		<name>Kepler-730</name>
+		<radius>1.01</radius>
+		<mass>1.0</mass>
+		<temperature>5726.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-730 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">6.49168426</period>
+			<radius errorminus="0.072" errorplus="0.227">0.822</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

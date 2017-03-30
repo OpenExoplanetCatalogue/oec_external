@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-465</name>
+	<rightascension>18 58 13</rightascension>
+	<declination>+46 03 50</declination>
+	<distance>587.0</distance>
+	<star>
+		<name>Kepler-465</name>
+		<radius>1.29</radius>
+		<mass>1.23</mass>
+		<temperature>6310.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>Kepler-465 b</name>
+			<period errorminus="0.000007" errorplus="0.000007">9.94067247</period>
+			<radius errorminus="0.014" errorplus="0.022">0.263</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

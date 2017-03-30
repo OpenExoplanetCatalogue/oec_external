@@ -1,0 +1,24 @@
+<system>
+	<name>VHS 1256-1257</name>
+	<rightascension>12 56 02</rightascension>
+	<declination>-12 02 36</declination>
+	<distance>12.7</distance>
+	<star>
+		<name>VHS 1256-1257</name>
+		<age>0.2</age>
+		<mass>0.073</mass>
+		<spectraltype>M7.5</spectraltype>
+		<temperature>2620.0</temperature>
+		<planet>
+			<name>VHS 1256-1257 b</name>
+			<semimajoraxis errorminus="9.0" errorplus="9.0">102.0</semimajoraxis>
+			<mass errorminus="1.8" errorplus="9.7">11.2</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>880.0</temperature>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/07/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

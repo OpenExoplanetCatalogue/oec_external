@@ -1,0 +1,27 @@
+<system>
+	<name>51 Eri</name>
+	<rightascension>04 37 36</rightascension>
+	<declination>-02 31 35</declination>
+	<distance>29.4</distance>
+	<star>
+		<name>51 Eri</name>
+		<age>0.02</age>
+		<mass>1.75</mass>
+		<spectraltype>F0IV</spectraltype>
+		<metallicity>-0.027</metallicity>
+		<planet>
+			<name>51 Eri b</name>
+			<semimajoraxis errorminus="3.0" errorplus="7.0">14.0</semimajoraxis>
+			<periastron errorminus="58.0" errorplus="58.0">90.0</periastron>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.21</eccentricity>
+			<inclination errorminus="13.0" errorplus="15.0">138.0</inclination>
+			<period errorminus="4380.000000" errorplus="12775.000000">14965.0</period>
+			<mass errorminus="5.0" errorplus="5.0">7.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/10/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

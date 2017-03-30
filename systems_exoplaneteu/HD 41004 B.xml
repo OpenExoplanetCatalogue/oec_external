@@ -1,0 +1,29 @@
+<system>
+	<name>HD 41004 B</name>
+	<rightascension>05 59 50</rightascension>
+	<declination>-48 45 37</declination>
+	<distance>43.03</distance>
+	<star>
+		<name>HD 41004 B</name>
+		<age>1.56</age>
+		<mass>0.4</mass>
+		<spectraltype>M2</spectraltype>
+		<temperature>5035.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>HD 41004 B b</name>
+			<semimajoraxis>0.0177</semimajoraxis>
+			<periastron errorminus="72.2" errorplus="72.2">149.0</periastron>
+			<eccentricity errorminus="0.0511" errorplus="0.058">0.058</eccentricity>
+			<period errorminus="0.000089" errorplus="0.000089">1.32363</period>
+			<mass errorminus="0.22" errorplus="0.22">18.4</mass>
+			<radius>1.06</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>15/02/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

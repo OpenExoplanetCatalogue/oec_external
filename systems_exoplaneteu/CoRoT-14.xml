@@ -1,0 +1,30 @@
+<system>
+	<name>CoRoT-14</name>
+	<rightascension>06 53 42</rightascension>
+	<declination>-05 27 50</declination>
+	<distance>1340.0</distance>
+	<star>
+		<name>CoRoT-14</name>
+		<age>4.2</age>
+		<radius>1.21</radius>
+		<mass>1.13</mass>
+		<spectraltype>F9V</spectraltype>
+		<temperature>6035.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>CoRoT-14 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.027</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.8" errorplus="0.8">79.6</inclination>
+			<period errorminus="0.000130" errorplus="0.000130">1.51214</period>
+			<mass errorminus="0.6" errorplus="0.6">7.6</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.09</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/01/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

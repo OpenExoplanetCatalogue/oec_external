@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1064</name>
+	<rightascension>19 26 58</rightascension>
+	<declination>+37 41 20</declination>
+	<distance>374.0</distance>
+	<star>
+		<name>Kepler-1064</name>
+		<radius>0.79</radius>
+		<mass>0.85</mass>
+		<temperature>5153.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-1064 b</name>
+			<period errorminus="0.000041" errorplus="0.000041">16.54080322</period>
+			<radius errorminus="0.004" errorplus="0.006">0.138</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

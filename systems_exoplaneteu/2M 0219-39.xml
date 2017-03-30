@@ -1,0 +1,26 @@
+<system>
+	<name>2M 0219-39</name>
+	<rightascension>02 19 22</rightascension>
+	<declination>-39 34 37</declination>
+	<distance>39.4</distance>
+	<star>
+		<name>2M 0219-39</name>
+		<radius>0.27</radius>
+		<mass>0.11</mass>
+		<spectraltype>M6</spectraltype>
+		<temperature>3064.0</temperature>
+		<planet>
+			<name>2M 0219-39 b</name>
+			<semimajoraxis errorminus="10.0" errorplus="10.0">156.0</semimajoraxis>
+			<mass errorminus="1.1" errorplus="1.1">13.9</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.44</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1683.0</temperature>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

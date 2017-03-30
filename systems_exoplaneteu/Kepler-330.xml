@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-330</name>
+	<rightascension>19 13 47</rightascension>
+	<declination>+44 48 06</declination>
+	<star>
+		<name>Kepler-330</name>
+		<radius>0.72</radius>
+		<mass>0.78</mass>
+		<temperature>5117.0</temperature>
+		<metallicity>-0.097</metallicity>
+		<planet>
+			<name>Kepler-330 b</name>
+			<semimajoraxis>0.075</semimajoraxis>
+			<period errorminus="0.000076" errorplus="0.000076">8.25978</period>
+			<radius errorminus="0.047" errorplus="0.047">0.12</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-330 c</name>
+			<semimajoraxis>0.116</semimajoraxis>
+			<period errorminus="0.000076" errorplus="0.000076">15.955387</period>
+			<radius errorminus="0.064" errorplus="0.064">0.174</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

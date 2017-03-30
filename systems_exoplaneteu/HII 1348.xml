@@ -1,0 +1,20 @@
+<system>
+	<name>HII 1348</name>
+	<rightascension>03 47 18</rightascension>
+	<declination>+24 23 27</declination>
+	<distance>127.0</distance>
+	<star>
+		<name>HII 1348</name>
+		<spectraltype>K5V</spectraltype>
+		<planet>
+			<name>HII 1348 b</name>
+			<semimajoraxis errorminus="7.0" errorplus="7.0">138.0</semimajoraxis>
+			<mass errorminus="6.0" errorplus="6.0">59.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/05/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

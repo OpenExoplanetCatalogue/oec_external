@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-739</name>
+	<rightascension>19 20 16</rightascension>
+	<declination>+46 34 45</declination>
+	<distance>1128.0</distance>
+	<star>
+		<name>Kepler-739</name>
+		<radius>0.9</radius>
+		<mass>0.93</mass>
+		<temperature>5601.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>Kepler-739 b</name>
+			<period errorminus="0.000023" errorplus="0.000023">12.53248465</period>
+			<radius errorminus="0.026" errorplus="0.044">0.296</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

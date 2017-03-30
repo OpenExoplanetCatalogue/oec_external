@@ -1,0 +1,90 @@
+<system>
+	<name>HD 219134</name>
+	<rightascension>23 13 17</rightascension>
+	<declination>+57 10 06</declination>
+	<distance>6.55</distance>
+	<star>
+		<name>HD 219134</name>
+		<radius>0.778</radius>
+		<spectraltype>K3V</spectraltype>
+		<temperature>4699.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>HD 219134 b</name>
+			<semimajoraxis errorminus="8e-07" errorplus="8e-07">0.038474</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.13">0.0</eccentricity>
+			<inclination errorminus="0.08" errorplus="0.08">85.058</inclination>
+			<period errorminus="0.000100" errorplus="0.000100">3.0931</period>
+			<mass errorminus="0.001" errorplus="0.001">0.012</mass>
+			<radius errorminus="0.0077" errorplus="0.0077">0.1433</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 219134 c</name>
+			<semimajoraxis errorminus="4e-06" errorplus="4e-06">0.064816</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.26">0.0</eccentricity>
+			<period errorminus="0.000600" errorplus="0.000600">6.7635</period>
+			<mass errorminus="0.002" errorplus="0.002">0.011</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/11/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 219134 d</name>
+			<semimajoraxis errorminus="4e-06" errorplus="4e-06">0.23508</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.010000" errorplus="0.010000">46.71</period>
+			<mass errorminus="0.004" errorplus="0.004">0.067</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/11/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 219134 e</name>
+			<semimajoraxis errorminus="0.15" errorplus="3.41">2.56</semimajoraxis>
+			<periastron errorminus="36.83" errorplus="16.38">345.42</periastron>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.34</eccentricity>
+			<period errorminus="34.000000" errorplus="379.000000">1190.0</period>
+			<mass errorminus="0.006" errorplus="0.19">0.0117</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 219134 g</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.3753</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<period errorminus="0.200000" errorplus="0.200000">94.2</period>
+			<mass errorminus="0.004" errorplus="0.004">0.034</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/11/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 219134 h</name>
+			<semimajoraxis errorminus="0.048" errorplus="0.048">3.064</semimajoraxis>
+			<periastron errorminus="19.0" errorplus="19.0">180.0</periastron>
+			<eccentricity errorminus="0.18" errorplus="0.18">0.37</eccentricity>
+			<period errorminus="51.000000" errorplus="51.000000">2198.0</period>
+			<mass errorminus="0.056" errorplus="0.056">0.28</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/02/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

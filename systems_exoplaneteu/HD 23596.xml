@@ -1,0 +1,28 @@
+<system>
+	<name>HD 23596</name>
+	<rightascension>03 47 60</rightascension>
+	<declination>+40 31 50</declination>
+	<distance>52.0</distance>
+	<star>
+		<name>HD 23596</name>
+		<age>6.89</age>
+		<radius>2.09</radius>
+		<mass>1.27</mass>
+		<spectraltype>F8</spectraltype>
+		<temperature>5888.0</temperature>
+		<metallicity>0.32</metallicity>
+		<planet>
+			<name>HD 23596 b</name>
+			<semimajoraxis>2.88</semimajoraxis>
+			<periastron errorminus="3.9" errorplus="3.9">274.1</periastron>
+			<eccentricity errorminus="0.023" errorplus="0.023">0.292</eccentricity>
+			<period errorminus="21.000000" errorplus="21.000000">1565.0</period>
+			<mass>8.1</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>10/12/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

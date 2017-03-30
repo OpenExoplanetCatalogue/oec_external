@@ -1,0 +1,28 @@
+<system>
+	<name>kappa And</name>
+	<rightascension>23 40 25</rightascension>
+	<declination>+44 20 02</declination>
+	<distance>51.6</distance>
+	<star>
+		<name>kappa And</name>
+		<age>0.03</age>
+		<radius>2.29</radius>
+		<mass>2.8</mass>
+		<spectraltype>B9IV</spectraltype>
+		<temperature>11361.0</temperature>
+		<metallicity>-0.36</metallicity>
+		<planet>
+			<name>kappa And b</name>
+			<semimajoraxis errorminus="2.0" errorplus="2.0">55.0</semimajoraxis>
+			<mass errorminus="2.0" errorplus="25.0">14.0</mass>
+			<radius errorminus="0.1" errorplus="0.2">1.2</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>1900.0</temperature>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/05/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

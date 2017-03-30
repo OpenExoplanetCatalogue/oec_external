@@ -1,0 +1,22 @@
+<system>
+	<name>CI Tau</name>
+	<rightascension>04 33 52</rightascension>
+	<declination>+22 50 30</declination>
+	<star>
+		<name>CI Tau</name>
+		<age>0.002</age>
+		<mass>0.8</mass>
+		<spectraltype>K4IV</spectraltype>
+		<planet>
+			<name>CI Tau b</name>
+			<inclination errorminus="1.1" errorplus="1.1">45.7</inclination>
+			<period errorminus="0.032700" errorplus="0.032700">8.9965</period>
+			<mass errorminus="2.39" errorplus="2.39">12.31</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>17/03/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

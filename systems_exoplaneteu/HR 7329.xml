@@ -1,0 +1,20 @@
+<system>
+	<name>HR 7329</name>
+	<rightascension>19 22 51</rightascension>
+	<declination>-54 34 34</declination>
+	<distance>48.0</distance>
+	<star>
+		<name>HR 7329</name>
+		<age>0.03</age>
+		<spectraltype>A0V</spectraltype>
+		<planet>
+			<name>HR 7329</name>
+			<mass errorminus="15.0" errorplus="15.0">35.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>16/05/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

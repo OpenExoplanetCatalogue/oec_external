@@ -1,0 +1,39 @@
+<system>
+	<name>HD 65216</name>
+	<rightascension>07 53 41</rightascension>
+	<declination>-63 21 10</declination>
+	<distance>34.3</distance>
+	<star>
+		<name>HD 65216</name>
+		<mass>0.92</mass>
+		<spectraltype>G5 V</spectraltype>
+		<temperature>5666.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>HD 65216 b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.3</semimajoraxis>
+			<periastron errorminus="6.0" errorplus="6.0">198.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.41</eccentricity>
+			<period errorminus="0.210000" errorplus="0.210000">572.4</period>
+			<mass errorminus="0.04" errorplus="0.04">1.26</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>14/01/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 65216 c</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.54</semimajoraxis>
+			<periastron errorminus="54.0" errorplus="54.0">360.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.02</eccentricity>
+			<period errorminus="0.600000" errorplus="0.600000">152.6</period>
+			<mass errorminus="0.03" errorplus="0.03">0.17</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/01/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

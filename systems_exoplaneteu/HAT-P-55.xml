@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-55</name>
+	<rightascension>17 37 06</rightascension>
+	<declination>+25 43 52</declination>
+	<distance>480.0</distance>
+	<star>
+		<name>HAT-P-55</name>
+		<age>4.2</age>
+		<radius>1.011</radius>
+		<mass>1.013</mass>
+		<temperature>5808.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>HAT-P-55 b</name>
+			<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.04604</semimajoraxis>
+			<eccentricity errorminus="0.139" errorplus="0.0">0.139</eccentricity>
+			<inclination errorminus="0.56" errorplus="0.56">87.7</inclination>
+			<period errorminus="0.000006" errorplus="0.000006">3.5852467</period>
+			<mass errorminus="0.0562" errorplus="0.0563">0.582</mass>
+			<radius errorminus="0.055" errorplus="0.055">1.182</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

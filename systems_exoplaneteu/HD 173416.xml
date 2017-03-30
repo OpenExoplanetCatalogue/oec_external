@@ -1,0 +1,26 @@
+<system>
+	<name>HD 173416</name>
+	<rightascension>18 43 36</rightascension>
+	<declination>+36 33 24</declination>
+	<distance>135.0</distance>
+	<star>
+		<name>HD 173416</name>
+		<radius>13.5</radius>
+		<mass>2.0</mass>
+		<spectraltype>G8</spectraltype>
+		<temperature>4683.0</temperature>
+		<planet>
+			<name>HD 173416 b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">1.16</semimajoraxis>
+			<periastron errorminus="11.0" errorplus="11.0">254.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.21</eccentricity>
+			<period errorminus="2.200000" errorplus="2.200000">323.6</period>
+			<mass errorminus="0.3" errorplus="0.3">2.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>09/01/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

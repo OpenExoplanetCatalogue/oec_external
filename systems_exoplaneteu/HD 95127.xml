@@ -1,0 +1,28 @@
+<system>
+	<name>HD 95127</name>
+	<rightascension>10 59 35</rightascension>
+	<declination>+43 48 52</declination>
+	<distance>300.0</distance>
+	<star>
+		<name>HD 95127</name>
+		<age>5.5</age>
+		<radius>20.0</radius>
+		<mass>1.2</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>4218.0</temperature>
+		<metallicity>-0.18</metallicity>
+		<planet>
+			<name>HD 95127 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">1.28</semimajoraxis>
+			<periastron errorminus="40.0" errorplus="40.0">40.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.15">0.11</eccentricity>
+			<period errorminus="5.000000" errorplus="5.000000">482.0</period>
+			<mass errorminus="0.44" errorplus="0.61">5.01</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

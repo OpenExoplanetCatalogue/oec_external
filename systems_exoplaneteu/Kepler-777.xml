@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-777</name>
+	<rightascension>18 50 54</rightascension>
+	<declination>+44 20 47</declination>
+	<distance>383.0</distance>
+	<star>
+		<name>Kepler-777</name>
+		<radius>0.56</radius>
+		<mass>0.58</mass>
+		<temperature>4043.0</temperature>
+		<metallicity>-0.17</metallicity>
+		<planet>
+			<name>Kepler-777 b</name>
+			<period errorminus="0.000020" errorplus="0.000020">5.72812599</period>
+			<radius errorminus="0.007" errorplus="0.007">0.131</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

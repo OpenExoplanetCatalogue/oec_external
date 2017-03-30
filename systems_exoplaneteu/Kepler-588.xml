@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-588</name>
+	<rightascension>18 57 02</rightascension>
+	<declination>+47 41 20</declination>
+	<distance>972.0</distance>
+	<star>
+		<name>Kepler-588</name>
+		<radius>1.0</radius>
+		<mass>1.01</mass>
+		<temperature>5835.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-588 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">4.22162536</period>
+			<radius errorminus="0.02" errorplus="0.045">0.235</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

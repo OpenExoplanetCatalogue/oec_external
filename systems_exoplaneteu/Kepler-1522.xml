@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1522</name>
+	<rightascension>19 19 22</rightascension>
+	<declination>+52 04 13</declination>
+	<distance>690.0</distance>
+	<star>
+		<name>Kepler-1522</name>
+		<radius>0.93</radius>
+		<mass>0.96</mass>
+		<temperature>5706.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>Kepler-1522 b</name>
+			<period errorminus="0.000003" errorplus="0.000003">1.84788917</period>
+			<radius errorminus="0.012" errorplus="0.021">0.154</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

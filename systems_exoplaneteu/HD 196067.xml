@@ -1,0 +1,23 @@
+<system>
+	<name>HD 196067</name>
+	<rightascension>20 41 44</rightascension>
+	<declination>-75 38 57</declination>
+	<distance>44.3</distance>
+	<star>
+		<name>HD 196067</name>
+		<spectraltype>G0V</spectraltype>
+		<planet>
+			<name>HD 196067 b</name>
+			<semimajoraxis errorminus="0.19" errorplus="0.19">5.02</semimajoraxis>
+			<periastron errorminus="7.8" errorplus="7.8">148.2</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.18">0.66</eccentricity>
+			<period errorminus="232.000000" errorplus="185.000000">3638.0</period>
+			<mass errorminus="1.1" errorplus="3.9">6.9</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

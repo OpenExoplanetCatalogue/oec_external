@@ -1,0 +1,28 @@
+<system>
+	<name>HD 70642</name>
+	<rightascension>08 21 28</rightascension>
+	<declination>-39 17 41</declination>
+	<distance>28.8</distance>
+	<star>
+		<name>HD 70642</name>
+		<age>3.88</age>
+		<radius>0.84</radius>
+		<mass>1.0</mass>
+		<spectraltype>G5 IV-V</spectraltype>
+		<temperature>5670.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>HD 70642 b</name>
+			<semimajoraxis>3.3</semimajoraxis>
+			<periastron errorminus="75.0" errorplus="75.0">277.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.1</eccentricity>
+			<period errorminus="400.000000" errorplus="400.000000">2231.0</period>
+			<mass>2.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2003</discoveryyear>
+			<lastupdate>11/01/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

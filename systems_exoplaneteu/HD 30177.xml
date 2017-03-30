@@ -1,0 +1,41 @@
+<system>
+	<name>HD 30177</name>
+	<rightascension>04 41 54</rightascension>
+	<declination>-58 58 46</declination>
+	<distance>54.7</distance>
+	<star>
+		<name>HD 30177</name>
+		<age>11.6</age>
+		<radius>1.12</radius>
+		<mass>1.05</mass>
+		<spectraltype>G8 V</spectraltype>
+		<temperature>5580.0</temperature>
+		<metallicity>0.33</metallicity>
+		<planet>
+			<name>HD 30177 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">3.58</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">32.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.18</eccentricity>
+			<period errorminus="10.600000" errorplus="10.600000">2532.5</period>
+			<mass errorminus="0.12" errorplus="0.12">8.07</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2002</discoveryyear>
+			<lastupdate>16/12/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 30177 c</name>
+			<semimajoraxis errorminus="0.42" errorplus="0.42">6.99</semimajoraxis>
+			<periastron errorminus="13.0" errorplus="13.0">11.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.35</eccentricity>
+			<period errorminus="621.000000" errorplus="621.000000">6921.0</period>
+			<mass errorminus="0.3" errorplus="0.3">3.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/12/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

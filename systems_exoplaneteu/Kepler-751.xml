@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-751</name>
+	<rightascension>19 39 23</rightascension>
+	<declination>+44 04 40</declination>
+	<distance>748.0</distance>
+	<star>
+		<name>Kepler-751</name>
+		<radius>0.84</radius>
+		<mass>0.87</mass>
+		<temperature>5387.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-751 b</name>
+			<period errorminus="0.000042" errorplus="0.000042">17.44490636</period>
+			<radius errorminus="0.016" errorplus="0.021">0.219</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

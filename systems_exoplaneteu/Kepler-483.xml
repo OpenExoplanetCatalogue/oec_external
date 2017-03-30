@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-483</name>
+	<rightascension>19 26 35</rightascension>
+	<declination>+41 53 05</declination>
+	<distance>953.0</distance>
+	<star>
+		<name>Kepler-483</name>
+		<radius>1.47</radius>
+		<mass>1.28</mass>
+		<temperature>6346.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>Kepler-483 b</name>
+			<period errorminus="0.000079" errorplus="0.000079">30.229104</period>
+			<radius errorminus="0.038" errorplus="0.061">0.286</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

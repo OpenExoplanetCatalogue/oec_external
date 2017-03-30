@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-566</name>
+	<rightascension>19 26 13</rightascension>
+	<declination>+47 48 52</declination>
+	<distance>628.0</distance>
+	<star>
+		<name>Kepler-566</name>
+		<radius>0.79</radius>
+		<mass>0.83</mass>
+		<temperature>5132.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-566 b</name>
+			<period errorminus="0.000042" errorplus="0.000042">18.42794624</period>
+			<radius errorminus="0.012" errorplus="0.012">0.192</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

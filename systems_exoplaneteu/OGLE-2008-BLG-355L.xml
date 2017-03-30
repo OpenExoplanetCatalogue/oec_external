@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE-2008-BLG-355L</name>
+	<rightascension>17 59 09</rightascension>
+	<declination>-29 45 34</declination>
+	<distance>6800.0</distance>
+	<star>
+		<name>OGLE-2008-BLG-355L</name>
+		<mass>0.37</mass>
+		<planet>
+			<name>OGLE-2008-BLG-355L b</name>
+			<mass errorminus="2.2" errorplus="3.7">4.6</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/01/13</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

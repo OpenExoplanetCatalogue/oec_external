@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-269</name>
+	<rightascension>19 20 52</rightascension>
+	<declination>+41 46 33</declination>
+	<star>
+		<name>Kepler-269</name>
+		<radius>0.96</radius>
+		<mass>0.98</mass>
+		<temperature>5847.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-269 b</name>
+			<semimajoraxis>0.061</semimajoraxis>
+			<period errorminus="0.000035" errorplus="0.000035">5.326718</period>
+			<radius errorminus="0.103" errorplus="0.103">0.22</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-269 c</name>
+			<semimajoraxis>0.081</semimajoraxis>
+			<period errorminus="0.000149" errorplus="0.000149">8.127899</period>
+			<radius errorminus="0.071" errorplus="0.071">0.151</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

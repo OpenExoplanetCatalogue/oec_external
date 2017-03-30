@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1037</name>
+	<rightascension>19 45 22</rightascension>
+	<declination>+47 10 15</declination>
+	<distance>451.0</distance>
+	<star>
+		<name>Kepler-1037</name>
+		<radius>0.78</radius>
+		<mass>0.82</mass>
+		<temperature>5105.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-1037 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">1.06378867</period>
+			<radius errorminus="0.006" errorplus="0.008">0.114</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

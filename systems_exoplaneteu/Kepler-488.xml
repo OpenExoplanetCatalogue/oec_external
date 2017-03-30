@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-488</name>
+	<rightascension>18 51 52</rightascension>
+	<declination>+48 20 42</declination>
+	<distance>1157.0</distance>
+	<star>
+		<name>Kepler-488</name>
+		<radius>1.09</radius>
+		<mass>1.07</mass>
+		<temperature>5970.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-488 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">3.12082923</period>
+			<radius errorminus="0.135" errorplus="0.343">1.409</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

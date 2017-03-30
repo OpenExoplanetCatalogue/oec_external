@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1157</name>
+	<rightascension>18 52 29</rightascension>
+	<declination>+43 31 32</declination>
+	<distance>346.0</distance>
+	<star>
+		<name>Kepler-1157</name>
+		<radius>0.71</radius>
+		<mass>0.76</mass>
+		<temperature>4679.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-1157 b</name>
+			<period errorminus="0.000017" errorplus="0.000017">4.45743164</period>
+			<radius errorminus="0.018" errorplus="0.004">0.097</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

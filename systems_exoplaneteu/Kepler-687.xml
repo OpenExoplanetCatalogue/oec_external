@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-687</name>
+	<rightascension>19 17 16</rightascension>
+	<declination>+39 09 12</declination>
+	<distance>628.0</distance>
+	<star>
+		<name>Kepler-687</name>
+		<radius>0.73</radius>
+		<mass>0.77</mass>
+		<temperature>4841.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>Kepler-687 b</name>
+			<period errorminus="0.000028" errorplus="0.000028">20.50586978</period>
+			<radius errorminus="0.018" errorplus="0.014">0.314</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

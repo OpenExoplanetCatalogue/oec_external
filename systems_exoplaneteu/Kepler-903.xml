@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-903</name>
+	<rightascension>19 15 05</rightascension>
+	<declination>+40 39 51</declination>
+	<distance>829.0</distance>
+	<star>
+		<name>Kepler-903</name>
+		<radius>0.97</radius>
+		<mass>0.98</mass>
+		<temperature>5682.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>Kepler-903 b</name>
+			<period errorminus="0.000051" errorplus="0.000051">10.3507721</period>
+			<radius errorminus="0.032" errorplus="0.031">0.179</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-903 c</name>
+			<period errorminus="0.000735" errorplus="0.000735">62.9228557</period>
+			<radius errorminus="0.04" errorplus="0.036">0.226</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

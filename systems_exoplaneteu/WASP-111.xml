@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-111</name>
+	<rightascension>21 55 04</rightascension>
+	<declination>-22 23 15</declination>
+	<distance>210.0</distance>
+	<star>
+		<name>WASP-111</name>
+		<age>2.6</age>
+		<radius>1.85</radius>
+		<mass>1.5</mass>
+		<spectraltype>F5</spectraltype>
+		<temperature>6400.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>WASP-111 b</name>
+			<semimajoraxis errorminus="0.00098" errorplus="0.00098">0.03914</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.82" errorplus="0.82">81.61</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">2.310965</period>
+			<mass errorminus="0.155" errorplus="0.156">1.85</mass>
+			<radius errorminus="0.094" errorplus="0.094">1.442</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

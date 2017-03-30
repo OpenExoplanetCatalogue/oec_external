@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1178</name>
+	<rightascension>19 13 49</rightascension>
+	<declination>+45 48 08</declination>
+	<distance>336.0</distance>
+	<star>
+		<name>Kepler-1178</name>
+		<radius>0.75</radius>
+		<mass>0.8</mass>
+		<temperature>4990.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>Kepler-1178 b</name>
+			<period errorminus="0.000386" errorplus="0.000386">31.80634</period>
+			<radius errorminus="0.007" errorplus="0.005">0.095</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 106270</name>
+	<rightascension>12 13 37</rightascension>
+	<declination>-09 29 12</declination>
+	<distance>84.9</distance>
+	<star>
+		<name>HD 106270</name>
+		<age>4.3</age>
+		<radius>2.5</radius>
+		<mass>1.32</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5638.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>HD 106270 b</name>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">4.3</semimajoraxis>
+			<periastron errorminus="0.4" errorplus="0.4">15.4</periastron>
+			<eccentricity errorminus="0.054" errorplus="0.054">0.402</eccentricity>
+			<period errorminus="390.000000" errorplus="390.000000">2890.0</period>
+			<mass errorminus="0.8" errorplus="0.8">11.0</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

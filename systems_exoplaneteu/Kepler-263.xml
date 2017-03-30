@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-263</name>
+	<rightascension>19 29 53</rightascension>
+	<declination>+37 34 04</declination>
+	<star>
+		<name>Kepler-263</name>
+		<radius>0.79</radius>
+		<temperature>5265.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>Kepler-263 b</name>
+			<semimajoraxis>0.12</semimajoraxis>
+			<period errorminus="0.000065" errorplus="0.000065">16.568087</period>
+			<radius errorminus="0.129" errorplus="0.129">0.238</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-263 c</name>
+			<semimajoraxis>0.242</semimajoraxis>
+			<period errorminus="0.000456" errorplus="0.000456">47.332773</period>
+			<radius errorminus="0.12" errorplus="0.12">0.22</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

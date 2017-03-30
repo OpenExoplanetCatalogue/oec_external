@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-551</name>
+	<rightascension>19 01 56</rightascension>
+	<declination>+48 03 16</declination>
+	<distance>312.0</distance>
+	<star>
+		<name>Kepler-551</name>
+		<radius>0.63</radius>
+		<mass>0.65</mass>
+		<temperature>4286.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-551 b</name>
+			<period errorminus="0.000013" errorplus="0.000013">12.3764661</period>
+			<radius errorminus="0.013" errorplus="0.022">0.244</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

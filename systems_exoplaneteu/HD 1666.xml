@@ -1,0 +1,28 @@
+<system>
+	<name>HD 1666</name>
+	<rightascension>00 20 52</rightascension>
+	<declination>-19 04 08</declination>
+	<distance>110.6</distance>
+	<star>
+		<name>HD 1666</name>
+		<age>1.76</age>
+		<radius>1.93</radius>
+		<mass>1.5</mass>
+		<spectraltype>F7 V</spectraltype>
+		<temperature>6317.0</temperature>
+		<metallicity>0.37</metallicity>
+		<planet>
+			<name>HD 1666 b</name>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.94</semimajoraxis>
+			<periastron errorminus="0.5" errorplus="5.2">295.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.63</eccentricity>
+			<period errorminus="0.900000" errorplus="0.800000">270.0</period>
+			<mass errorminus="0.22" errorplus="0.31">6.43</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

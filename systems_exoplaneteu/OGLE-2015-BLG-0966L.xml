@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2015-BLG-0966L</name>
+	<rightascension>17 55 01</rightascension>
+	<declination>-29 57 10</declination>
+	<distance>2900.0</distance>
+	<star>
+		<name>OGLE-2015-BLG-0966L</name>
+		<mass>0.38</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>OGLE-2015-BLG-0966L b</name>
+			<semimajoraxis errorminus="0.3" errorplus="0.3">2.4</semimajoraxis>
+			<mass errorminus="0.006" errorplus="0.006">0.066</mass>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1341</name>
+	<rightascension>18 42 03</rightascension>
+	<declination>+44 09 34</declination>
+	<distance>466.0</distance>
+	<star>
+		<name>Kepler-1341</name>
+		<radius>0.72</radius>
+		<mass>0.79</mass>
+		<temperature>4662.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>Kepler-1341 b</name>
+			<period errorminus="0.000924" errorplus="0.000924">132.9968322</period>
+			<radius errorminus="0.033" errorplus="0.037">0.267</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

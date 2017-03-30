@@ -1,0 +1,39 @@
+<system>
+	<name>HD 75784</name>
+	<rightascension>08 52 24</rightascension>
+	<declination>+13 14 00</declination>
+	<distance>68.7</distance>
+	<star>
+		<name>HD 75784</name>
+		<age>4.0</age>
+		<radius>3.3</radius>
+		<mass>1.41</mass>
+		<spectraltype>K3 IV</spectraltype>
+		<temperature>4917.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HD 75784 b</name>
+			<semimajoraxis errorminus="0.013" errorplus="0.013">1.073</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.13</eccentricity>
+			<period errorminus="6.100000" errorplus="6.100000">341.7</period>
+			<mass errorminus="0.3" errorplus="0.3">1.15</mass>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/08/07</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 75784 c</name>
+			<semimajoraxis errorminus="2.0" errorplus="2.0">6.5</semimajoraxis>
+			<eccentricity errorminus="0.16" errorplus="0.16">0.36</eccentricity>
+			<period errorminus="3414.000000" errorplus="3414.000000">5040.0</period>
+			<mass errorminus="1.2" errorplus="1.2">5.6</mass>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/08/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-930</name>
+	<rightascension>19 53 15</rightascension>
+	<declination>+42 14 51</declination>
+	<distance>905.0</distance>
+	<star>
+		<name>Kepler-930</name>
+		<radius>1.4</radius>
+		<mass>1.25</mass>
+		<temperature>6335.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-930 b</name>
+			<period errorminus="0.000752" errorplus="0.000752">71.4517775</period>
+			<radius errorminus="0.037" errorplus="0.082">0.19</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

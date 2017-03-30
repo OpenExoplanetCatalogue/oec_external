@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-639</name>
+	<rightascension>19 28 45</rightascension>
+	<declination>+41 43 37</declination>
+	<distance>680.0</distance>
+	<star>
+		<name>Kepler-639</name>
+		<radius>1.29</radius>
+		<mass>1.14</mass>
+		<temperature>5896.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>Kepler-639 b</name>
+			<period errorminus="0.000021" errorplus="0.000021">10.21420496</period>
+			<radius errorminus="0.03" errorplus="0.049">0.212</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

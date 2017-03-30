@@ -1,0 +1,19 @@
+<system>
+	<name>V396 Hya</name>
+	<rightascension>13 12 46</rightascension>
+	<declination>-23 38 28</declination>
+	<star>
+		<name>V396 Hya</name>
+		<mass>0.32</mass>
+		<spectraltype>DD D</spectraltype>
+		<planet>
+			<name>V396 Hya b</name>
+			<inclination errorminus="27.0" errorplus="27.0">52.0</inclination>
+			<mass errorminus="12.2" errorplus="12.2">18.3</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>17/01/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

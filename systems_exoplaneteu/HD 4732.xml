@@ -1,0 +1,40 @@
+<system>
+	<name>HD 4732</name>
+	<rightascension>00 49 14</rightascension>
+	<declination>-24 51 48</declination>
+	<distance>56.5</distance>
+	<star>
+		<name>HD 4732</name>
+		<radius>5.4</radius>
+		<mass>1.74</mass>
+		<spectraltype>K0 IV</spectraltype>
+		<temperature>4959.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>HD 4732 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.19</semimajoraxis>
+			<periastron errorminus="16.0" errorplus="16.0">85.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.13</eccentricity>
+			<period errorminus="1.400000" errorplus="1.400000">360.2</period>
+			<mass errorminus="0.34" errorplus="0.34">2.37</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/04/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 4732 c</name>
+			<semimajoraxis errorminus="0.23" errorplus="0.23">4.6</semimajoraxis>
+			<periastron errorminus="15.0" errorplus="15.0">118.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.23</eccentricity>
+			<period errorminus="81.000000" errorplus="81.000000">2732.0</period>
+			<mass errorminus="0.38" errorplus="0.38">2.37</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/04/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

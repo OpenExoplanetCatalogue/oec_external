@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-621</name>
+	<rightascension>19 23 43</rightascension>
+	<declination>+39 54 51</declination>
+	<distance>389.0</distance>
+	<star>
+		<name>Kepler-621</name>
+		<radius>0.68</radius>
+		<mass>0.72</mass>
+		<temperature>4521.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-621 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">2.62811375</period>
+			<radius errorminus="0.017" errorplus="0.006">0.205</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

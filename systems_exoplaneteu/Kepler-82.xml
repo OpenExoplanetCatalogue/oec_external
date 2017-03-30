@@ -1,0 +1,64 @@
+<system>
+	<name>Kepler-82</name>
+	<rightascension>19 31 30</rightascension>
+	<declination>+42 57 58</declination>
+	<star>
+		<name>Kepler-82</name>
+		<radius>0.945</radius>
+		<mass>0.85</mass>
+		<temperature>5428.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>Kepler-82 b</name>
+			<semimajoraxis>0.169</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.38</inclination>
+			<period errorminus="0.000065" errorplus="0.000065">26.443794</period>
+			<radius errorminus="0.055" errorplus="0.055">0.367</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/07/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-82 c</name>
+			<semimajoraxis>0.264</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.95</inclination>
+			<period errorminus="0.000099" errorplus="0.000099">51.531855</period>
+			<radius errorminus="0.075" errorplus="0.075">0.503</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/07/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-82 d</name>
+			<semimajoraxis>0.034</semimajoraxis>
+			<period errorminus="0.000005" errorplus="0.000005">2.382961</period>
+			<radius errorminus="0.024" errorplus="0.024">0.158</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/07/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-82 e</name>
+			<semimajoraxis>0.063</semimajoraxis>
+			<period errorminus="0.000012" errorplus="0.000012">5.902206</period>
+			<radius errorminus="0.033" errorplus="0.033">0.22</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/07/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

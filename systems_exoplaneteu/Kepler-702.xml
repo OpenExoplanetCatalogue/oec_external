@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-702</name>
+	<rightascension>19 35 31</rightascension>
+	<declination>+41 39 42</declination>
+	<distance>892.0</distance>
+	<star>
+		<name>Kepler-702</name>
+		<radius>0.86</radius>
+		<mass>0.9</mass>
+		<temperature>5419.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-702 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">10.52629406</period>
+			<radius errorminus="0.052" errorplus="0.075">0.818</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

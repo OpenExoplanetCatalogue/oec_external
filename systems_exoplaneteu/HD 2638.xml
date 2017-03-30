@@ -1,0 +1,29 @@
+<system>
+	<name>HD 2638</name>
+	<rightascension>00 29 59</rightascension>
+	<declination>-05 14 10</declination>
+	<distance>53.71</distance>
+	<star>
+		<name>HD 2638</name>
+		<age>3.0</age>
+		<mass>0.93</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5192.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>HD 2638 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<periastron errorminus="78.6" errorplus="78.6">126.9</periastron>
+			<eccentricity errorminus="0.0351" errorplus="0.0407">0.0407</eccentricity>
+			<period errorminus="0.008239" errorplus="0.008239">3.43752</period>
+			<mass>0.48</mass>
+			<radius>1.04</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>16/09/03</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

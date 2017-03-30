@@ -1,0 +1,30 @@
+<system>
+	<name>BD+20 594</name>
+	<rightascension>03 34 36</rightascension>
+	<declination>+20 35 57</declination>
+	<distance>152.1</distance>
+	<star>
+		<name>BD+20 594</name>
+		<age>3.34</age>
+		<radius>0.928</radius>
+		<mass>0.961</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>5766.0</temperature>
+		<metallicity>-0.15</metallicity>
+		<planet>
+			<name>BD+20 594 b</name>
+			<semimajoraxis errorminus="0.019" errorplus="0.019">0.241</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.14" errorplus="0.17">89.55</inclination>
+			<period errorminus="0.003100" errorplus="0.003100">41.6855</period>
+			<mass errorminus="0.019" errorplus="0.019">0.0513</mass>
+			<radius errorminus="0.0098" errorplus="0.012">0.199</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,23 @@
+<system>
+	<name>HR 3549</name>
+	<rightascension>08 53 04</rightascension>
+	<declination>-56 21 02</declination>
+	<distance>92.5</distance>
+	<star>
+		<name>HR 3549</name>
+		<age>0.125</age>
+		<spectraltype>A0V</spectraltype>
+		<temperature>10207.0</temperature>
+		<planet>
+			<name>HR 3549 b</name>
+			<semimajoraxis>80.0</semimajoraxis>
+			<mass errorminus="5.0" errorplus="5.0">45.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>2350.0</temperature>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/06/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

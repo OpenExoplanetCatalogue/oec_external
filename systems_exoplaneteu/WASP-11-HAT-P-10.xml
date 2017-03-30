@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-11-HAT-P-10</name>
+	<rightascension>03 09 29</rightascension>
+	<declination>+30 40 25</declination>
+	<distance>125.0</distance>
+	<star>
+		<name>WASP-11-HAT-P-10</name>
+		<age>11.2</age>
+		<radius>0.81</radius>
+		<mass>0.82</mass>
+		<spectraltype>K3V</spectraltype>
+		<temperature>4980.0</temperature>
+		<metallicity>0.13</metallicity>
+		<planet>
+			<name>WASP-11-HAT-P-10 b</name>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0439</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.1">89.8</inclination>
+			<period errorminus="0.000007" errorplus="0.000007">3.722469</period>
+			<mass errorminus="0.028" errorplus="0.028">0.46</mass>
+			<radius errorminus="0.033" errorplus="0.033">1.045</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/08/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

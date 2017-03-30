@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-5</name>
+	<rightascension>06 45 07</rightascension>
+	<declination>+00 48 55</declination>
+	<distance>400.0</distance>
+	<star>
+		<name>CoRoT-5</name>
+		<age>6.9</age>
+		<radius>1.186</radius>
+		<mass>1.0</mass>
+		<spectraltype>F9V</spectraltype>
+		<temperature>6100.0</temperature>
+		<metallicity>-0.25</metallicity>
+		<planet>
+			<name>CoRoT-5 b</name>
+			<semimajoraxis errorminus="0.00029" errorplus="0.00029">0.04947</semimajoraxis>
+			<periastron errorminus="48.0" errorplus="48.0">231.7</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
+			<inclination errorminus="1.38" errorplus="1.38">85.83</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">4.0378962</period>
+			<mass errorminus="0.024" errorplus="0.047">0.467</mass>
+			<radius errorminus="0.047" errorplus="0.047">1.33</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

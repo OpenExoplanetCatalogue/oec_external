@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1621</name>
+	<rightascension>19 50 21</rightascension>
+	<declination>+43 50 28</declination>
+	<distance>1461.0</distance>
+	<star>
+		<name>Kepler-1621</name>
+		<radius>1.24</radius>
+		<mass>1.15</mass>
+		<temperature>6158.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1621 b</name>
+			<period errorminus="0.002385" errorplus="0.002385">92.263714</period>
+			<radius errorminus="0.033" errorplus="0.071">0.193</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

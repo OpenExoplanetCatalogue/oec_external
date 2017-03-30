@@ -1,0 +1,28 @@
+<system>
+	<name>HD 213240</name>
+	<rightascension>22 30 60</rightascension>
+	<declination>-49 34 01</declination>
+	<distance>40.75</distance>
+	<star>
+		<name>HD 213240</name>
+		<age>5.11</age>
+		<radius>1.5</radius>
+		<mass>1.22</mass>
+		<spectraltype>G4 IV</spectraltype>
+		<temperature>5975.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>HD 213240 b</name>
+			<semimajoraxis>2.03</semimajoraxis>
+			<periastron errorminus="7.0" errorplus="7.0">214.0</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.45</eccentricity>
+			<period errorminus="42.000000" errorplus="42.000000">951.0</period>
+			<mass>4.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>12/09/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

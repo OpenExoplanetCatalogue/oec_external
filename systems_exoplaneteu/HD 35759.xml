@@ -1,0 +1,26 @@
+<system>
+	<name>HD 35759</name>
+	<rightascension>05 31 33</rightascension>
+	<declination>+64 16 58</declination>
+	<distance>72.5</distance>
+	<star>
+		<name>HD 35759</name>
+		<mass>1.15</mass>
+		<spectraltype>G0</spectraltype>
+		<temperature>6060.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>HD 35759 b</name>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">0.389</semimajoraxis>
+			<periastron errorminus="1.3" errorplus="1.3">256.0</periastron>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.389</eccentricity>
+			<period errorminus="0.019000" errorplus="0.019000">82.467</period>
+			<mass errorminus="0.17" errorplus="0.17">3.76</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/02/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

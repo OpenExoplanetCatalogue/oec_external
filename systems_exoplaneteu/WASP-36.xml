@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-36</name>
+	<rightascension>08 46 19</rightascension>
+	<declination>-08 58 23</declination>
+	<distance>450.0</distance>
+	<star>
+		<name>WASP-36</name>
+		<age>3.0</age>
+		<radius>0.943</radius>
+		<mass>1.02</mass>
+		<spectraltype>G2</spectraltype>
+		<temperature>5881.0</temperature>
+		<metallicity>-0.31</metallicity>
+		<planet>
+			<name>WASP-36 b</name>
+			<semimajoraxis errorminus="0.00027" errorplus="0.00027">0.02624</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.22" errorplus="0.22">83.65</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">1.5373653</period>
+			<mass errorminus="0.068" errorplus="0.068">2.279</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.269</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>11/10/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

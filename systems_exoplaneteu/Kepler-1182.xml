@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1182</name>
+	<rightascension>19 45 14</rightascension>
+	<declination>+43 49 17</declination>
+	<distance>1258.0</distance>
+	<star>
+		<name>Kepler-1182</name>
+		<radius>1.05</radius>
+		<mass>1.04</mass>
+		<temperature>5924.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1182 b</name>
+			<period errorminus="0.000063" errorplus="0.000063">11.17394617</period>
+			<radius errorminus="0.045" errorplus="0.054">0.215</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-5</name>
+	<rightascension>23 57 24</rightascension>
+	<declination>-41 43 22</declination>
+	<distance>297.0</distance>
+	<star>
+		<name>WASP-5</name>
+		<age>3.0</age>
+		<radius>1.084</radius>
+		<mass>1.0</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5700.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>WASP-5 b</name>
+			<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.02729</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.1" errorplus="1.1">85.8</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">1.6284246</period>
+			<mass errorminus="0.082" errorplus="0.082">1.637</mass>
+			<radius errorminus="0.057" errorplus="0.057">1.171</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>13/08/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

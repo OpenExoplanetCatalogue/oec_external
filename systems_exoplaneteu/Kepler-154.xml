@@ -1,0 +1,69 @@
+<system>
+	<name>Kepler-154</name>
+	<rightascension>19 19 07</rightascension>
+	<declination>+49 53 48</declination>
+	<star>
+		<name>Kepler-154</name>
+		<radius>1.0</radius>
+		<mass>0.89</mass>
+		<temperature>5690.0</temperature>
+		<metallicity>-0.391</metallicity>
+		<planet>
+			<name>Kepler-154 b</name>
+			<semimajoraxis>0.198</semimajoraxis>
+			<period errorminus="0.000215" errorplus="0.000215">33.040532</period>
+			<radius errorminus="0.039" errorplus="0.039">0.202</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-154 c</name>
+			<semimajoraxis>0.303</semimajoraxis>
+			<period errorminus="0.000406" errorplus="0.000406">62.303276</period>
+			<radius errorminus="0.055" errorplus="0.055">0.263</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-154 d</name>
+			<period errorminus="0.000026" errorplus="0.000026">20.54981883</period>
+			<radius errorminus="0.021" errorplus="0.029">0.343</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-154 e</name>
+			<period errorminus="0.000012" errorplus="0.000012">3.93276465</period>
+			<radius errorminus="0.011" errorplus="0.012">0.134</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-154 f</name>
+			<period errorminus="0.000078" errorplus="0.000078">9.91935684</period>
+			<radius errorminus="0.019" errorplus="0.03">0.134</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

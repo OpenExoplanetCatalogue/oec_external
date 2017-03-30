@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-744</name>
+	<rightascension>19 45 59</rightascension>
+	<declination>+47 10 58</declination>
+	<distance>486.0</distance>
+	<star>
+		<name>Kepler-744</name>
+		<radius>0.93</radius>
+		<mass>0.94</mass>
+		<temperature>5594.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-744 b</name>
+			<period errorminus="0.000026" errorplus="0.000026">12.06222443</period>
+			<radius errorminus="0.008" errorplus="0.011">0.145</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

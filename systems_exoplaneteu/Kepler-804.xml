@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-804</name>
+	<rightascension>19 33 29</rightascension>
+	<declination>+44 47 06</declination>
+	<distance>648.0</distance>
+	<star>
+		<name>Kepler-804</name>
+		<radius>1.05</radius>
+		<mass>1.01</mass>
+		<temperature>5817.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-804 b</name>
+			<period errorminus="0.000032" errorplus="0.000032">14.37457351</period>
+			<radius errorminus="0.014" errorplus="0.021">0.173</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-804 c</name>
+			<period errorminus="0.000050" errorplus="0.000050">9.65185017</period>
+			<radius errorminus="0.012" errorplus="0.018">0.102</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

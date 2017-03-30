@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2005-169L</name>
+	<rightascension>18 06 05</rightascension>
+	<declination>-30 16 03</declination>
+	<distance>4100.0</distance>
+	<star>
+		<name>OGLE-2005-169L</name>
+		<mass>0.69</mass>
+		<spectraltype>K5</spectraltype>
+		<planet>
+			<name>OGLE-2005-169L b</name>
+			<semimajoraxis errorminus="0.6" errorplus="2.2">4.0</semimajoraxis>
+			<mass errorminus="0.003" errorplus="0.003">0.0444</mass>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>16/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

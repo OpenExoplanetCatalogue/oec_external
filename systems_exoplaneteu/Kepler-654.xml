@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-654</name>
+	<rightascension>19 48 16</rightascension>
+	<declination>+46 50 03</declination>
+	<distance>661.0</distance>
+	<star>
+		<name>Kepler-654</name>
+		<radius>1.11</radius>
+		<mass>1.04</mass>
+		<temperature>5865.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-654 b</name>
+			<period errorminus="0.000050" errorplus="0.000050">13.72465129</period>
+			<radius errorminus="0.023" errorplus="0.033">0.185</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

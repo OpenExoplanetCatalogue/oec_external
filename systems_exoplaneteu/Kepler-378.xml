@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-378</name>
+	<rightascension>19 39 48</rightascension>
+	<declination>+46 26 19</declination>
+	<star>
+		<name>Kepler-378</name>
+		<radius>0.67</radius>
+		<mass>0.96</mass>
+		<temperature>4661.0</temperature>
+		<metallicity>0.553</metallicity>
+		<planet>
+			<name>Kepler-378 b</name>
+			<semimajoraxis>0.112</semimajoraxis>
+			<period errorminus="0.000073" errorplus="0.000073">16.092361</period>
+			<radius errorminus="0.013" errorplus="0.013">0.067</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-378 c</name>
+			<semimajoraxis>0.166</semimajoraxis>
+			<period errorminus="0.000216" errorplus="0.000216">28.906009</period>
+			<radius errorminus="0.004" errorplus="0.004">0.062</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

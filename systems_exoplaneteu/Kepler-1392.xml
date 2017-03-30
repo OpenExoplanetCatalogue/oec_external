@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1392</name>
+	<rightascension>19 15 04</rightascension>
+	<declination>+46 23 40</declination>
+	<distance>1117.0</distance>
+	<star>
+		<name>Kepler-1392</name>
+		<radius>0.85</radius>
+		<mass>0.88</mass>
+		<temperature>5479.0</temperature>
+		<metallicity>-0.11</metallicity>
+		<planet>
+			<name>Kepler-1392 b</name>
+			<period errorminus="0.000113" errorplus="0.000113">15.1410397</period>
+			<radius errorminus="0.014" errorplus="0.02">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-594</name>
+	<rightascension>19 15 41</rightascension>
+	<declination>+49 45 43</declination>
+	<distance>742.0</distance>
+	<star>
+		<name>Kepler-594</name>
+		<radius>0.87</radius>
+		<mass>0.91</mass>
+		<temperature>5485.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-594 b</name>
+			<period errorminus="0.000035" errorplus="0.000035">13.64618192</period>
+			<radius errorminus="0.013" errorplus="0.02">0.194</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

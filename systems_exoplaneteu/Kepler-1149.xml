@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1149</name>
+	<rightascension>19 36 45</rightascension>
+	<declination>+45 09 06</declination>
+	<distance>1023.0</distance>
+	<star>
+		<name>Kepler-1149</name>
+		<radius>1.01</radius>
+		<mass>1.02</mass>
+		<temperature>5833.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1149 b</name>
+			<period errorminus="0.000015" errorplus="0.000015">3.73089898</period>
+			<radius errorminus="0.015" errorplus="0.023">0.128</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

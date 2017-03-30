@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-453 A</name>
+	<rightascension>18 52 58</rightascension>
+	<declination>+46 22 43</declination>
+	<star>
+		<name>Kepler-453 A</name>
+		<radius>0.833</radius>
+		<mass>0.934</mass>
+		<temperature>5527.0</temperature>
+		<planet>
+			<name>Kepler-453 (AB) b</name>
+			<inclination errorminus="0.0056" errorplus="0.0056">89.4338</inclination>
+			<period errorminus="0.053000" errorplus="0.053000">240.503</period>
+			<mass errorminus="0.03" errorplus="0.03">0.03</mass>
+			<radius errorminus="0.0031" errorplus="0.0031">0.55</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

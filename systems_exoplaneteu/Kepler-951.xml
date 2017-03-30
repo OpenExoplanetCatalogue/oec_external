@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-951</name>
+	<rightascension>19 10 57</rightascension>
+	<declination>+38 06 52</declination>
+	<distance>408.0</distance>
+	<star>
+		<name>Kepler-951</name>
+		<radius>0.73</radius>
+		<mass>0.77</mass>
+		<temperature>4834.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-951 b</name>
+			<period errorminus="0.000084" errorplus="0.000084">71.52530845</period>
+			<radius errorminus="0.023" errorplus="0.021">0.499</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

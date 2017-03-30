@@ -1,0 +1,26 @@
+<system>
+	<name>TYC-3667-1280-1</name>
+	<rightascension>05 13 30</rightascension>
+	<declination>+58 25 34</declination>
+	<distance>431.0</distance>
+	<star>
+		<name>TYC-3667-1280-1</name>
+		<radius>6.26</radius>
+		<mass>1.87</mass>
+		<temperature>5130.0</temperature>
+		<metallicity>-0.08</metallicity>
+		<planet>
+			<name>TYC-3667-1280-1 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
+			<periastron errorminus="50.0" errorplus="50.0">240.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.043">0.036</eccentricity>
+			<period errorminus="0.005000" errorplus="0.005000">26.468</period>
+			<mass errorminus="0.4" errorplus="0.4">5.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/03/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

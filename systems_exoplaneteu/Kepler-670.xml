@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-670</name>
+	<rightascension>19 48 04</rightascension>
+	<declination>+49 13 31</declination>
+	<distance>980.0</distance>
+	<star>
+		<name>Kepler-670</name>
+		<radius>0.99</radius>
+		<mass>0.99</mass>
+		<temperature>5709.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-670 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">2.81650485</period>
+			<radius errorminus="0.108" errorplus="0.262">1.176</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

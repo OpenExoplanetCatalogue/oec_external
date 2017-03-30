@@ -1,0 +1,27 @@
+<system>
+	<name>HD 220773</name>
+	<rightascension>23 26 27</rightascension>
+	<declination>+08 38 38</declination>
+	<distance>49.0</distance>
+	<star>
+		<name>HD 220773</name>
+		<age>4.4</age>
+		<mass>1.16</mass>
+		<spectraltype>F9</spectraltype>
+		<temperature>5940.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>HD 220773 b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">4.94</semimajoraxis>
+			<periastron errorminus="13.0" errorplus="13.0">226.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.51</eccentricity>
+			<period errorminus="463.000000" errorplus="463.000000">3724.7</period>
+			<mass errorminus="0.3" errorplus="0.3">1.45</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>12/02/04</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

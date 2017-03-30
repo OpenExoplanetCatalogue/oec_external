@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-545</name>
+	<rightascension>19 22 16</rightascension>
+	<declination>+40 41 31</declination>
+	<distance>831.0</distance>
+	<star>
+		<name>Kepler-545</name>
+		<radius>1.07</radius>
+		<mass>1.04</mass>
+		<temperature>5882.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-545 b</name>
+			<period errorminus="0.000021" errorplus="0.000021">13.24934059</period>
+			<radius errorminus="0.019" errorplus="0.027">0.24</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

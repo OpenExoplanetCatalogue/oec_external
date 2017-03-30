@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-738</name>
+	<rightascension>19 10 17</rightascension>
+	<declination>+46 34 04</declination>
+	<distance>992.0</distance>
+	<star>
+		<name>Kepler-738</name>
+		<radius>0.82</radius>
+		<mass>0.86</mass>
+		<temperature>5327.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-738 b</name>
+			<period errorminus="0.000088" errorplus="0.000088">24.58721573</period>
+			<radius errorminus="0.015" errorplus="0.018">0.223</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

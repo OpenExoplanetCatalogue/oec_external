@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-984</name>
+	<rightascension>19 47 50</rightascension>
+	<declination>+46 23 39</declination>
+	<distance>461.0</distance>
+	<star>
+		<name>Kepler-984</name>
+		<radius>0.93</radius>
+		<mass>0.96</mass>
+		<temperature>5610.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-984 b</name>
+			<period errorminus="0.000148" errorplus="0.000148">43.0342272</period>
+			<radius errorminus="0.01" errorplus="0.012">0.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

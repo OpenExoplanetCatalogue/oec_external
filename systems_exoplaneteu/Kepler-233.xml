@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-233</name>
+	<rightascension>19 45 28</rightascension>
+	<declination>+51 19 10</declination>
+	<star>
+		<name>Kepler-233</name>
+		<radius>0.76</radius>
+		<temperature>5360.0</temperature>
+		<metallicity>-0.067</metallicity>
+		<planet>
+			<name>Kepler-233 b</name>
+			<semimajoraxis>0.077</semimajoraxis>
+			<period errorminus="0.000026" errorplus="0.000026">8.472382</period>
+			<radius errorminus="0.059" errorplus="0.059">0.217</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-233 c</name>
+			<semimajoraxis>0.287</semimajoraxis>
+			<period errorminus="0.000630" errorplus="0.000630">60.418955</period>
+			<radius errorminus="0.07" errorplus="0.07">0.242</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

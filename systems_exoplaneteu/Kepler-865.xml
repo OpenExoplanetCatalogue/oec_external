@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-865</name>
+	<rightascension>19 50 54</rightascension>
+	<declination>+43 31 39</declination>
+	<distance>664.0</distance>
+	<star>
+		<name>Kepler-865</name>
+		<radius>0.92</radius>
+		<mass>0.93</mass>
+		<temperature>5570.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-865 b</name>
+			<period errorminus="0.000025" errorplus="0.000025">14.16399294</period>
+			<radius errorminus="0.021" errorplus="0.044">0.222</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

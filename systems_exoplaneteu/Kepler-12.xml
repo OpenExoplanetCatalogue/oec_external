@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-12</name>
+	<rightascension>00 00 00</rightascension>
+	<declination>+00 00 00</declination>
+	<star>
+		<name>Kepler-12</name>
+		<age>4.0</age>
+		<radius>1.483</radius>
+		<mass>1.166</mass>
+		<spectraltype>G0</spectraltype>
+		<temperature>5947.0</temperature>
+		<metallicity>0.07</metallicity>
+		<planet>
+			<name>Kepler-12 b</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0556</semimajoraxis>
+			<periastron errorminus="98.0" errorplus="98.0">182.0</periastron>
+			<eccentricity>0.01</eccentricity>
+			<inclination errorminus="0.08" errorplus="0.08">88.76</inclination>
+			<period errorminus="0.000000" errorplus="0.000000">4.4379637</period>
+			<mass errorminus="0.041" errorplus="0.041">0.431</mass>
+			<radius errorminus="0.032" errorplus="0.032">1.695</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>15/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

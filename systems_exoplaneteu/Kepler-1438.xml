@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1438</name>
+	<rightascension>19 17 10</rightascension>
+	<declination>+40 40 54</declination>
+	<distance>866.0</distance>
+	<star>
+		<name>Kepler-1438</name>
+		<radius>0.96</radius>
+		<mass>0.97</mass>
+		<temperature>5530.0</temperature>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>Kepler-1438 b</name>
+			<period errorminus="0.000017" errorplus="0.000017">2.31942009</period>
+			<radius errorminus="0.009" errorplus="0.017">0.084</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

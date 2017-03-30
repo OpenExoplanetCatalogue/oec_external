@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1216</name>
+	<rightascension>19 09 37</rightascension>
+	<declination>+45 55 05</declination>
+	<distance>1124.0</distance>
+	<star>
+		<name>Kepler-1216</name>
+		<radius>0.98</radius>
+		<mass>0.99</mass>
+		<temperature>5743.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-1216 b</name>
+			<period errorminus="0.000020" errorplus="0.000020">4.37034536</period>
+			<radius errorminus="0.01" errorplus="0.02">0.124</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

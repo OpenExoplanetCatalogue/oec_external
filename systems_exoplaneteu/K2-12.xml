@@ -1,0 +1,25 @@
+<system>
+	<name>K2-12</name>
+	<rightascension>11 32 46</rightascension>
+	<declination>+02 14 42</declination>
+	<distance>294.0</distance>
+	<star>
+		<name>K2-12</name>
+		<radius>1.01</radius>
+		<mass>1.01</mass>
+		<temperature>5800.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>K2-12 b</name>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.0802</semimajoraxis>
+			<period errorminus="0.000600" errorplus="0.000600">8.28212</period>
+			<radius errorminus="0.052" errorplus="0.052">0.208</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

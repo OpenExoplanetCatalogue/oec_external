@@ -1,0 +1,29 @@
+<system>
+	<name>HATS-13</name>
+	<rightascension>21 07 51</rightascension>
+	<declination>-26 54 12</declination>
+	<distance>476.0</distance>
+	<star>
+		<name>HATS-13</name>
+		<age>2.5</age>
+		<radius>0.887</radius>
+		<mass>0.962</mass>
+		<temperature>5523.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HATS-13 b</name>
+			<semimajoraxis errorminus="0.00041" errorplus="0.00041">0.04057</semimajoraxis>
+			<eccentricity errorminus="0.18" errorplus="0.0">0.18</eccentricity>
+			<inclination errorminus="0.43" errorplus="0.43">88.55</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">3.0440499</period>
+			<mass errorminus="0.0721" errorplus="0.0722">0.543</mass>
+			<radius errorminus="0.035" errorplus="0.035">1.212</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

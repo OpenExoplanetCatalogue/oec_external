@@ -1,0 +1,27 @@
+<system>
+	<name>KIC 9704149</name>
+	<rightascension>19 16 39</rightascension>
+	<declination>+46 25 18</declination>
+	<star>
+		<name>KIC 9704149</name>
+		<radius>0.78</radius>
+		<mass>0.86</mass>
+		<temperature>5640.0</temperature>
+		<metallicity>-0.16</metallicity>
+		<planet>
+			<name>KIC 9704149 b</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">1.46</semimajoraxis>
+			<periastron errorminus="32.0" errorplus="7.4">7.4</periastron>
+			<eccentricity errorminus="0.28" errorplus="0.17">0.29</eccentricity>
+			<inclination errorminus="0.05" errorplus="0.05">89.95</inclination>
+			<period errorminus="0.005800" errorplus="0.005800">697.0159</period>
+			<radius errorminus="0.09" errorplus="0.09">0.4</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

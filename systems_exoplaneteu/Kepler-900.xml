@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-900</name>
+	<rightascension>19 44 43</rightascension>
+	<declination>+46 59 56</declination>
+	<distance>505.0</distance>
+	<star>
+		<name>Kepler-900</name>
+		<radius>0.73</radius>
+		<mass>0.78</mass>
+		<temperature>4836.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-900 b</name>
+			<period errorminus="0.000014" errorplus="0.000014">6.9913086</period>
+			<radius errorminus="0.03" errorplus="0.011">0.186</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

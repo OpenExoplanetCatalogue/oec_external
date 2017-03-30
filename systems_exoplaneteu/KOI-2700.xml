@@ -1,0 +1,24 @@
+<system>
+	<name>KOI-2700</name>
+	<rightascension>19 48 01</rightascension>
+	<declination>+44 46 30</declination>
+	<star>
+		<name>KOI-2700</name>
+		<radius>0.574</radius>
+		<mass>0.632</mass>
+		<temperature>4433.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>KOI-2700 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">0.910022</period>
+			<mass errorminus="0.00270584903879432" errorplus="0.0">0.00270584903879</mass>
+			<radius errorminus="0.0945670346454" errorplus="0.0">0.0945670346454</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/08/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

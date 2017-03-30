@@ -1,0 +1,28 @@
+<system>
+	<name>TrES-5</name>
+	<rightascension>20 20 53</rightascension>
+	<declination>+59 26 57</declination>
+	<distance>360.0</distance>
+	<star>
+		<name>TrES-5</name>
+		<age>7.38</age>
+		<radius>0.866</radius>
+		<mass>0.893</mass>
+		<temperature>5171.0</temperature>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>TrES-5</name>
+			<semimajoraxis errorminus="0.0001069" errorplus="0.0001069">0.02446</semimajoraxis>
+			<inclination errorminus="0.005" errorplus="0.005">84.529</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">1.4822446</period>
+			<mass errorminus="0.063" errorplus="0.063">1.778</mass>
+			<radius errorminus="0.021" errorplus="0.021">1.209</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

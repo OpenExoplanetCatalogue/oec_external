@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-662</name>
+	<rightascension>19 21 52</rightascension>
+	<declination>+47 55 45</declination>
+	<distance>641.0</distance>
+	<star>
+		<name>Kepler-662</name>
+		<radius>0.74</radius>
+		<mass>0.79</mass>
+		<temperature>4897.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-662 b</name>
+			<period errorminus="0.000067" errorplus="0.000067">21.67697486</period>
+			<radius errorminus="0.011" errorplus="0.01">0.194</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

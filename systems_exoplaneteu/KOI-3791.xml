@@ -1,0 +1,35 @@
+<system>
+	<name>KOI-3791</name>
+	<rightascension>19 13 54</rightascension>
+	<declination>+40 39 05</declination>
+	<star>
+		<name>KOI-3791</name>
+		<radius>1.24</radius>
+		<mass>1.07</mass>
+		<temperature>6340.0</temperature>
+		<metallicity>-0.38</metallicity>
+		<planet>
+			<name>Kepler-460 b</name>
+			<inclination errorminus="0.086" errorplus="0.066">89.904</inclination>
+			<period errorminus="0.005770" errorplus="0.005630">440.7813</period>
+			<radius errorminus="0.14" errorplus="0.14">0.57</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-460 c</name>
+			<period errorminus="0.000639" errorplus="0.000639">220.1303357</period>
+			<radius errorminus="0.065" errorplus="0.185">0.492</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

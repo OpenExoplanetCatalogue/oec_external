@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-118</name>
+	<rightascension>19 56 51</rightascension>
+	<declination>+41 25 29</declination>
+	<star>
+		<name>Kepler-118</name>
+		<radius>1.09</radius>
+		<mass>0.86</mass>
+		<temperature>5274.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>Kepler-118 b</name>
+			<semimajoraxis>0.073</semimajoraxis>
+			<period errorminus="0.000056" errorplus="0.000056">7.518496</period>
+			<radius errorminus="0.084" errorplus="0.084">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-118 c</name>
+			<semimajoraxis>0.141</semimajoraxis>
+			<period errorminus="0.000013" errorplus="0.000013">20.17202</period>
+			<radius errorminus="0.306" errorplus="0.306">0.685</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

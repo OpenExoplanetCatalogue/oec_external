@@ -1,0 +1,30 @@
+<system>
+	<name>CoRoT-28</name>
+	<rightascension>18 34 45</rightascension>
+	<declination>+05 34 26</declination>
+	<distance>560.0</distance>
+	<star>
+		<name>CoRoT-28</name>
+		<age>12.0</age>
+		<radius>1.78</radius>
+		<mass>1.01</mass>
+		<spectraltype>G8/9IV</spectraltype>
+		<temperature>5150.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>CoRoT-28 b</name>
+			<semimajoraxis errorminus="0.0027" errorplus="0.0027">0.059</semimajoraxis>
+			<periastron errorminus="61.0" errorplus="140.0">126.0</periastron>
+			<eccentricity errorminus="0.038" errorplus="0.055">0.047</eccentricity>
+			<period errorminus="0.000380" errorplus="0.000380">5.20851</period>
+			<mass errorminus="0.087" errorplus="0.087">0.484</mass>
+			<radius errorminus="0.066" errorplus="0.066">0.955</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/08/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

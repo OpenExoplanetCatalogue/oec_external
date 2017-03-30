@@ -1,0 +1,60 @@
+<system>
+	<name>Kepler-215</name>
+	<rightascension>19 39 54</rightascension>
+	<declination>+45 12 49</declination>
+	<star>
+		<name>Kepler-215</name>
+		<radius>1.03</radius>
+		<mass>0.77</mass>
+		<temperature>5739.0</temperature>
+		<metallicity>-0.618</metallicity>
+		<planet>
+			<name>Kepler-215 b</name>
+			<semimajoraxis>0.084</semimajoraxis>
+			<period errorminus="0.000040" errorplus="0.000040">9.360672</period>
+			<radius errorminus="0.036" errorplus="0.036">0.145</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-215 c</name>
+			<semimajoraxis>0.113</semimajoraxis>
+			<period errorminus="0.000089" errorplus="0.000089">14.667108</period>
+			<radius errorminus="0.037" errorplus="0.037">0.158</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-215 d</name>
+			<semimajoraxis>0.185</semimajoraxis>
+			<period errorminus="0.000092" errorplus="0.000092">30.864423</period>
+			<radius errorminus="0.049" errorplus="0.049">0.213</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-215 e</name>
+			<semimajoraxis>0.314</semimajoraxis>
+			<period errorminus="0.000630" errorplus="0.000630">68.16101</period>
+			<radius errorminus="0.037" errorplus="0.037">0.156</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

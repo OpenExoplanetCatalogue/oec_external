@@ -1,0 +1,29 @@
+<system>
+	<name>OGLE2-TR-L9</name>
+	<rightascension>11 07 55</rightascension>
+	<declination>-61 51 14</declination>
+	<distance>900.0</distance>
+	<star>
+		<name>OGLE2-TR-L9</name>
+		<age>0.66</age>
+		<radius>1.53</radius>
+		<mass>1.52</mass>
+		<spectraltype>F3</spectraltype>
+		<temperature>6933.0</temperature>
+		<metallicity>-0.05</metallicity>
+		<planet>
+			<name>OGLE2-TR-L9 b</name>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0308</semimajoraxis>
+			<inclination errorminus="0.3" errorplus="0.3">79.8</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">2.4855335</period>
+			<mass errorminus="1.48" errorplus="1.48">4.34</mass>
+			<radius errorminus="0.083" errorplus="0.083">1.614</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>10/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

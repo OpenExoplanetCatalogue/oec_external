@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-381</name>
+	<rightascension>19 00 44</rightascension>
+	<declination>+43 49 52</declination>
+	<star>
+		<name>Kepler-381</name>
+		<radius>1.57</radius>
+		<mass>1.34</mass>
+		<temperature>6152.0</temperature>
+		<planet>
+			<name>Kepler-381 b</name>
+			<semimajoraxis>0.066</semimajoraxis>
+			<period errorminus="0.000028" errorplus="0.000028">5.629021</period>
+			<radius errorminus="0.02" errorplus="0.02">0.088</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-381 c</name>
+			<semimajoraxis>0.117</semimajoraxis>
+			<period errorminus="0.000129" errorplus="0.000129">13.391635</period>
+			<radius errorminus="0.022" errorplus="0.022">0.1</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>CoRoT-27</name>
+	<rightascension>18 33 59</rightascension>
+	<declination>+05 32 19</declination>
+	<star>
+		<name>CoRoT-27</name>
+		<age>4.21</age>
+		<radius>1.08</radius>
+		<mass>1.05</mass>
+		<spectraltype>G2</spectraltype>
+		<temperature>5900.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>CoRoT-27 b</name>
+			<semimajoraxis errorminus="0.0066" errorplus="0.0066">0.0476</semimajoraxis>
+			<eccentricity errorminus="0.065" errorplus="0.0">0.065</eccentricity>
+			<inclination errorminus="0.87" errorplus="1.2">86.7</inclination>
+			<period errorminus="0.000060" errorplus="0.000060">3.57532</period>
+			<mass errorminus="0.55" errorplus="0.55">10.39</mass>
+			<radius errorminus="0.044" errorplus="0.044">1.007</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/07/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

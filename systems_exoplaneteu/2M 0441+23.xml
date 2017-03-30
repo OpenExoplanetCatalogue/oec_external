@@ -1,0 +1,22 @@
+<system>
+	<name>2M 0441+23</name>
+	<rightascension>04 41 45</rightascension>
+	<declination>+23 01 51</declination>
+	<distance>140.0</distance>
+	<star>
+		<name>2M 0441+23</name>
+		<age>0.001</age>
+		<mass>0.02</mass>
+		<spectraltype>M8.5</spectraltype>
+		<planet>
+			<name>2M 0441+23 b</name>
+			<semimajoraxis errorminus="0.6" errorplus="0.6">15.0</semimajoraxis>
+			<mass errorminus="2.5" errorplus="2.5">7.5</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/02/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

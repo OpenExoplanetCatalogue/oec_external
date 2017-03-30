@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2008-BLG-092L</name>
+	<rightascension>17 47 29</rightascension>
+	<declination>-34 16 24</declination>
+	<distance>7000.0</distance>
+	<star>
+		<name>OGLE-2008-BLG-092L</name>
+		<mass>0.71</mass>
+		<planet>
+			<name>OGLE-2008-BLG-092L b</name>
+			<semimajoraxis>15.0</semimajoraxis>
+			<mass>0.18</mass>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>17/03/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

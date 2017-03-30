@@ -1,0 +1,22 @@
+<system>
+	<name>HD 126525</name>
+	<rightascension>14 27 33</rightascension>
+	<declination>-51 04 01</declination>
+	<distance>38.1</distance>
+	<star>
+		<name>HD 126525</name>
+		<spectraltype>G4V</spectraltype>
+		<planet>
+			<name>HD 126525 b</name>
+			<semimajoraxis errorminus="0.0411" errorplus="0.0411">1.8105</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.13</eccentricity>
+			<period errorminus="21.966000" errorplus="21.966000">948.12</period>
+			<mass errorminus="0.0182" errorplus="0.0182">0.224</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

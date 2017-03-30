@@ -1,0 +1,25 @@
+<system>
+	<name>K2-9</name>
+	<rightascension>11 45 03</rightascension>
+	<declination>+00 00 19</declination>
+	<distance>66.0</distance>
+	<star>
+		<name>K2-9</name>
+		<radius>0.25</radius>
+		<mass>0.24</mass>
+		<temperature>3468.0</temperature>
+		<metallicity>-0.46</metallicity>
+		<planet>
+			<name>K2-9 b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.0848</semimajoraxis>
+			<period errorminus="0.001370" errorplus="0.001370">18.44883</period>
+			<radius errorminus="0.037" errorplus="0.037">0.143</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>K2-4</name>
+	<rightascension>11 38 59</rightascension>
+	<declination>-03 05 40</declination>
+	<distance>218.0</distance>
+	<star>
+		<name>K2-4</name>
+		<radius>0.6</radius>
+		<mass>0.63</mass>
+		<temperature>4197.0</temperature>
+		<metallicity>-0.12</metallicity>
+		<planet>
+			<name>K2-4 b</name>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0777</semimajoraxis>
+			<period errorminus="0.001590" errorplus="0.001590">10.00329</period>
+			<radius errorminus="0.036" errorplus="0.036">0.211</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

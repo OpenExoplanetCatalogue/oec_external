@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-740</name>
+	<rightascension>19 05 56</rightascension>
+	<declination>+46 41 33</declination>
+	<distance>1262.0</distance>
+	<star>
+		<name>Kepler-740</name>
+		<radius>0.87</radius>
+		<mass>0.91</mass>
+		<temperature>5438.0</temperature>
+		<metallicity>0.03</metallicity>
+		<planet>
+			<name>Kepler-740 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">3.58410122</period>
+			<radius errorminus="0.024" errorplus="0.047">0.408</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

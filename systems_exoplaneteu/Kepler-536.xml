@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-536</name>
+	<rightascension>19 50 57</rightascension>
+	<declination>+49 38 14</declination>
+	<distance>446.0</distance>
+	<star>
+		<name>Kepler-536</name>
+		<radius>0.89</radius>
+		<mass>0.92</mass>
+		<temperature>5524.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-536 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">1.8270823</period>
+			<radius errorminus="0.02" errorplus="0.034">0.277</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

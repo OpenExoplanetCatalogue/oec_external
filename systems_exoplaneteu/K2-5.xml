@@ -1,0 +1,37 @@
+<system>
+	<name>K2-5</name>
+	<rightascension>11 17 13</rightascension>
+	<declination>-01 07 19</declination>
+	<distance>181.0</distance>
+	<star>
+		<name>K2-5</name>
+		<radius>0.52</radius>
+		<mass>0.53</mass>
+		<temperature>4102.0</temperature>
+		<metallicity>-0.51</metallicity>
+		<planet>
+			<name>K2-5 b</name>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0509</semimajoraxis>
+			<period errorminus="0.000610" errorplus="0.000610">5.73491</period>
+			<radius errorminus="0.021" errorplus="0.021">0.171</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>K2-5 c</name>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0783</semimajoraxis>
+			<period errorminus="0.002050" errorplus="0.002050">10.93406</period>
+			<radius errorminus="0.018" errorplus="0.018">0.171</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,63 @@
+<system>
+	<name>Kepler-107</name>
+	<rightascension>19 48 07</rightascension>
+	<declination>+48 12 31</declination>
+	<star>
+		<name>Kepler-107</name>
+		<radius>1.41</radius>
+		<temperature>5851.0</temperature>
+		<metallicity>-0.092</metallicity>
+		<planet>
+			<name>Kepler-107 b</name>
+			<semimajoraxis>0.044</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.2">0.02</eccentricity>
+			<period errorminus="0.000012" errorplus="0.000012">3.180026</period>
+			<radius errorminus="0.005" errorplus="0.005">0.141</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-107 c</name>
+			<semimajoraxis>0.059</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.26">0.02</eccentricity>
+			<period errorminus="0.000030" errorplus="0.000030">4.901441</period>
+			<radius errorminus="0.0058" errorplus="0.0058">0.1485</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-107 d</name>
+			<semimajoraxis>0.082</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.25">0.14</eccentricity>
+			<period errorminus="0.000110" errorplus="0.000110">7.95825</period>
+			<radius errorminus="0.00553" errorplus="0.00553">0.09492</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-107 e</name>
+			<semimajoraxis>0.123</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.18">0.02</eccentricity>
+			<period errorminus="0.000034" errorplus="0.000034">14.749176</period>
+			<radius errorminus="0.009" errorplus="0.009">0.261</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

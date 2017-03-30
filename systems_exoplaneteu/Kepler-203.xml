@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-203</name>
+	<rightascension>19 48 22</rightascension>
+	<declination>+41 23 17</declination>
+	<star>
+		<name>Kepler-203</name>
+		<radius>1.11</radius>
+		<mass>0.98</mass>
+		<temperature>5821.0</temperature>
+		<metallicity>-0.107</metallicity>
+		<planet>
+			<name>Kepler-203 b</name>
+			<semimajoraxis>0.043</semimajoraxis>
+			<period errorminus="0.000004" errorplus="0.000004">3.162697</period>
+			<radius errorminus="0.046" errorplus="0.046">0.229</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-203 c</name>
+			<semimajoraxis>0.061</semimajoraxis>
+			<period errorminus="0.000008" errorplus="0.000008">5.370647</period>
+			<radius errorminus="0.042" errorplus="0.042">0.22</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-203 d</name>
+			<semimajoraxis>0.1</semimajoraxis>
+			<period errorminus="0.000080" errorplus="0.000080">11.32972</period>
+			<radius errorminus="0.025" errorplus="0.025">0.128</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

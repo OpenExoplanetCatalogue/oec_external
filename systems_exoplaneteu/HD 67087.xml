@@ -1,0 +1,41 @@
+<system>
+	<name>HD 67087</name>
+	<rightascension>08 07 40</rightascension>
+	<declination>+31 33 05</declination>
+	<distance>88.8</distance>
+	<star>
+		<name>HD 67087</name>
+		<age>1.45</age>
+		<radius>1.55</radius>
+		<mass>1.36</mass>
+		<spectraltype>F8 V</spectraltype>
+		<temperature>6330.0</temperature>
+		<metallicity>0.25</metallicity>
+		<planet>
+			<name>HD 67087 b</name>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.08</semimajoraxis>
+			<periastron errorminus="17.0" errorplus="21.0">284.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.17</eccentricity>
+			<period errorminus="1.700000" errorplus="1.700000">352.2</period>
+			<mass errorminus="0.2" errorplus="0.22">3.06</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 67087 c</name>
+			<semimajoraxis errorminus="0.37" errorplus="0.43">3.86</semimajoraxis>
+			<periastron errorminus="26.0" errorplus="28.0">255.0</periastron>
+			<eccentricity errorminus="0.24" errorplus="0.17">0.76</eccentricity>
+			<period errorminus="156.000000" errorplus="193.000000">2374.0</period>
+			<mass errorminus="3.61" errorplus="10.0">4.85</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/07/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1093</name>
+	<rightascension>18 59 55</rightascension>
+	<declination>+41 25 13</declination>
+	<distance>848.0</distance>
+	<star>
+		<name>Kepler-1093</name>
+		<radius>1.2</radius>
+		<mass>1.13</mass>
+		<temperature>6166.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1093 b</name>
+			<period errorminus="0.000121" errorplus="0.000121">25.0824626</period>
+			<radius errorminus="0.022" errorplus="0.055">0.174</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1093 c</name>
+			<period errorminus="0.001080" errorplus="0.001080">89.722292</period>
+			<radius errorminus="0.024" errorplus="0.064">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

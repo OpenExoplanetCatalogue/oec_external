@@ -1,0 +1,27 @@
+<system>
+	<name>HD 8535</name>
+	<rightascension>01 23 37</rightascension>
+	<declination>-41 43 49</declination>
+	<distance>52.5</distance>
+	<star>
+		<name>HD 8535</name>
+		<radius>1.19</radius>
+		<mass>1.13</mass>
+		<spectraltype>G0V</spectraltype>
+		<temperature>6136.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>HD 8535 b</name>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.45</semimajoraxis>
+			<periastron errorminus="43.0" errorplus="43.0">61.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.15</eccentricity>
+			<period errorminus="28.000000" errorplus="28.000000">1313.0</period>
+			<mass errorminus="0.04" errorplus="0.07">0.68</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2009</discoveryyear>
+			<lastupdate>10/09/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

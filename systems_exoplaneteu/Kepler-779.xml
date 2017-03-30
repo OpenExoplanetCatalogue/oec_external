@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-779</name>
+	<rightascension>19 02 31</rightascension>
+	<declination>+44 18 39</declination>
+	<distance>224.0</distance>
+	<star>
+		<name>Kepler-779</name>
+		<radius>0.44</radius>
+		<mass>0.46</mass>
+		<temperature>3804.0</temperature>
+		<metallicity>-0.43</metallicity>
+		<planet>
+			<name>Kepler-779 b</name>
+			<period errorminus="0.000029" errorplus="0.000029">7.09714223</period>
+			<radius errorminus="0.006" errorplus="0.006">0.082</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

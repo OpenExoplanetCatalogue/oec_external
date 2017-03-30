@@ -1,0 +1,80 @@
+<system>
+	<name>Kepler-102</name>
+	<rightascension>18 45 56</rightascension>
+	<declination>+47 12 29</declination>
+	<star>
+		<name>Kepler-102</name>
+		<age>1.41</age>
+		<radius>0.76</radius>
+		<mass>0.81</mass>
+		<temperature>4809.0</temperature>
+		<metallicity>0.18</metallicity>
+		<planet>
+			<name>Kepler-102 b</name>
+			<semimajoraxis>0.055</semimajoraxis>
+			<period>5.28696</period>
+			<mass errorminus="0.005" errorplus="0.005">0.0013</mass>
+			<radius errorminus="0.002" errorplus="0.002">0.042</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-102 c</name>
+			<semimajoraxis>0.067</semimajoraxis>
+			<period>7.07142</period>
+			<mass errorminus="inf" errorplus="nan">0.009</mass>
+			<radius errorminus="0.002" errorplus="0.002">0.052</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-102 d</name>
+			<period>10.3117</period>
+			<mass errorminus="0.0035" errorplus="0.0041">0.0082</mass>
+			<radius errorminus="0.006" errorplus="0.004">0.104</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-102 e</name>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.117</semimajoraxis>
+			<periastron errorminus="235.0" errorplus="0.0">360.0</periastron>
+			<eccentricity errorminus="0.0" errorplus="0.4">0.0</eccentricity>
+			<inclination errorminus="0.64" errorplus="0.44">89.56</inclination>
+			<period errorminus="0.000030" errorplus="0.000030">16.14569</period>
+			<mass errorminus="0.0063" errorplus="0.0063">0.0281</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.198</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-102 f</name>
+			<semimajoraxis>0.165</semimajoraxis>
+			<period>27.4536</period>
+			<mass errorminus="0.01" errorplus="0.01">0.002</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.079</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>15/12/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

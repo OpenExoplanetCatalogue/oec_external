@@ -1,0 +1,42 @@
+<system>
+	<name>HD 168443</name>
+	<rightascension>18 20 04</rightascension>
+	<declination>-09 24 26</declination>
+	<distance>37.38</distance>
+	<star>
+		<name>HD 168443</name>
+		<age>9.8</age>
+		<radius>1.51</radius>
+		<mass>0.995</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5591.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>HD 168443 b</name>
+			<semimajoraxis errorminus="0.00181" errorplus="0.00181">0.2931</semimajoraxis>
+			<periastron errorminus="0.139" errorplus="0.139">172.923</periastron>
+			<eccentricity errorminus="0.00103" errorplus="0.00103">0.52883</eccentricity>
+			<period errorminus="0.000300" errorplus="0.000300">58.11247</period>
+			<mass errorminus="0.0975" errorplus="0.0975">7.659</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>16/01/10</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 168443 c</name>
+			<semimajoraxis errorminus="0.018" errorplus="0.018">2.8373</semimajoraxis>
+			<periastron errorminus="0.51" errorplus="0.51">64.87</periastron>
+			<eccentricity errorminus="0.0017" errorplus="0.0017">0.2113</eccentricity>
+			<inclination errorminus="11.0" errorplus="11.0">35.7</inclination>
+			<period errorminus="0.570000" errorplus="0.570000">1749.83</period>
+			<mass errorminus="6.1276" errorplus="12.184">29.463</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2001</discoveryyear>
+			<lastupdate>14/08/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

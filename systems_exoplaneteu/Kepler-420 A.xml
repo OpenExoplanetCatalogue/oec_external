@@ -1,0 +1,32 @@
+<system>
+	<name>Kepler-420 A</name>
+	<rightascension>19 24 54</rightascension>
+	<declination>+44 35 39</declination>
+	<distance>900.0</distance>
+	<star>
+		<name>Kepler-420 A</name>
+		<age>9.3</age>
+		<radius>1.13</radius>
+		<mass>0.99</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5520.0</temperature>
+		<metallicity>0.27</metallicity>
+		<planet>
+			<name>Kepler-420 A b</name>
+			<semimajoraxis errorminus="0.006" errorplus="0.006">0.382</semimajoraxis>
+			<periastron errorminus="17.0" errorplus="17.0">141.3</periastron>
+			<eccentricity errorminus="0.045" errorplus="0.045">0.772</eccentricity>
+			<longitude errorminus="32.0" errorplus="46.0">74.0</longitude>
+			<inclination errorminus="0.24" errorplus="0.38">89.66</inclination>
+			<period errorminus="0.000034" errorplus="0.000034">86.647661</period>
+			<mass errorminus="0.35" errorplus="0.35">1.45</mass>
+			<radius errorminus="0.12" errorplus="0.12">0.94</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>17/01/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

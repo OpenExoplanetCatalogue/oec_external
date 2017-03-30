@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-704</name>
+	<rightascension>18 53 16</rightascension>
+	<declination>+41 50 14</declination>
+	<distance>1054.0</distance>
+	<star>
+		<name>Kepler-704</name>
+		<radius>0.96</radius>
+		<mass>0.97</mass>
+		<temperature>5616.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>Kepler-704 b</name>
+			<period errorminus="0.000012" errorplus="0.000012">3.76182115</period>
+			<radius errorminus="0.038" errorplus="0.054">0.233</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

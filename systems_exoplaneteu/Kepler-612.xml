@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-612</name>
+	<rightascension>19 25 25</rightascension>
+	<declination>+45 44 52</declination>
+	<distance>932.0</distance>
+	<star>
+		<name>Kepler-612</name>
+		<radius>0.96</radius>
+		<mass>0.98</mass>
+		<temperature>5693.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-612 b</name>
+			<period errorminus="0.000004" errorplus="0.000004">3.72215641</period>
+			<radius errorminus="0.024" errorplus="0.059">0.253</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,29 @@
+<system>
+	<name>GJ 674</name>
+	<rightascension>17 28 40</rightascension>
+	<declination>-46 06 17</declination>
+	<distance>4.54</distance>
+	<star>
+		<name>GJ 674</name>
+		<age>0.55</age>
+		<mass>0.35</mass>
+		<spectraltype>M2.5</spectraltype>
+		<temperature>3600.0</temperature>
+		<metallicity>-0.28</metallicity>
+		<planet>
+			<name>GJ 674 b</name>
+			<semimajoraxis>0.039</semimajoraxis>
+			<periastron errorminus="71.2" errorplus="71.2">0.5</periastron>
+			<eccentricity errorminus="0.0766" errorplus="0.07">0.07</eccentricity>
+			<period errorminus="0.001826" errorplus="0.001826">4.6944</period>
+			<mass>0.04</mass>
+			<radius>1.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>15/02/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

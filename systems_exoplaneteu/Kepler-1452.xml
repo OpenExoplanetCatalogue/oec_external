@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1452</name>
+	<rightascension>19 29 41</rightascension>
+	<declination>+38 15 59</declination>
+	<distance>974.0</distance>
+	<star>
+		<name>Kepler-1452</name>
+		<radius>2.06</radius>
+		<mass>1.41</mass>
+		<temperature>6101.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>Kepler-1452 b</name>
+			<period errorminus="0.000369" errorplus="0.000369">42.913751</period>
+			<radius errorminus="0.031" errorplus="0.035">0.241</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

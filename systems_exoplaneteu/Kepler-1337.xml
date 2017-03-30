@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1337</name>
+	<rightascension>19 08 02</rightascension>
+	<declination>+46 47 46</declination>
+	<distance>588.0</distance>
+	<star>
+		<name>Kepler-1337</name>
+		<radius>0.67</radius>
+		<mass>0.7</mass>
+		<temperature>4523.0</temperature>
+		<metallicity>-0.09</metallicity>
+		<planet>
+			<name>Kepler-1337 b</name>
+			<period errorminus="0.000109" errorplus="0.000109">24.4002549</period>
+			<radius errorminus="0.039" errorplus="0.009">0.215</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

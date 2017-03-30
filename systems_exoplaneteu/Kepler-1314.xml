@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1314</name>
+	<rightascension>19 36 57</rightascension>
+	<declination>+45 11 50</declination>
+	<distance>462.0</distance>
+	<star>
+		<name>Kepler-1314</name>
+		<radius>0.59</radius>
+		<mass>0.6</mass>
+		<temperature>4188.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<planet>
+			<name>Kepler-1314 b</name>
+			<period errorminus="0.000004" errorplus="0.000004">5.42474928</period>
+			<radius errorminus="0.017" errorplus="0.017">0.456</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

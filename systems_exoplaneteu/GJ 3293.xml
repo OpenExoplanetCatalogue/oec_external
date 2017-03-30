@@ -1,0 +1,52 @@
+<system>
+	<name>GJ 3293</name>
+	<rightascension>04 28 36</rightascension>
+	<declination>-25 49 51</declination>
+	<distance>17.9</distance>
+	<star>
+		<name>GJ 3293</name>
+		<radius>0.404</radius>
+		<mass>0.42</mass>
+		<spectraltype>M2.5</spectraltype>
+		<temperature>3466.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>GJ 3293 b</name>
+			<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.14339</semimajoraxis>
+			<periastron errorminus="24.2" errorplus="24.2">282.3</periastron>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
+			<period errorminus="0.008000" errorplus="0.008000">30.5987</period>
+			<mass errorminus="0.0028" errorplus="0.0028">0.07406</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>17/03/18</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 3293 d</name>
+			<semimajoraxis errorminus="0.00018" errorplus="0.00018">0.194</semimajoraxis>
+			<periastron errorminus="14.1" errorplus="14.1">322.0</periastron>
+			<eccentricity errorminus="0.09" errorplus="0.13">0.12</eccentricity>
+			<period errorminus="0.006000" errorplus="0.006000">48.1345</period>
+			<mass errorminus="0.0031" errorplus="0.0031">0.024</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>17/03/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>GJ 3293 e</name>
+			<semimajoraxis errorminus="4e-05" errorplus="4e-05">0.0821</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.2">0.21</eccentricity>
+			<period errorminus="0.010000" errorplus="0.008000">13.2543</period>
+			<mass errorminus="0.002" errorplus="0.002">0.0103</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/03/17</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

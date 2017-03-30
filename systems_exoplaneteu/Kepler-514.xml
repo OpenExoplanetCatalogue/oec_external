@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-514</name>
+	<rightascension>19 04 59</rightascension>
+	<declination>+50 14 33</declination>
+	<distance>489.0</distance>
+	<star>
+		<name>Kepler-514</name>
+		<radius>1.44</radius>
+		<mass>1.28</mass>
+		<temperature>6106.0</temperature>
+		<metallicity>0.36</metallicity>
+		<planet>
+			<name>Kepler-514 b</name>
+			<period errorminus="0.000011" errorplus="0.000011">5.65179605</period>
+			<radius errorminus="0.017" errorplus="0.025">0.153</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

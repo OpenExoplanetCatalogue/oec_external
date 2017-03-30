@@ -1,0 +1,21 @@
+<system>
+	<name>MOA-2009-BLG-387L</name>
+	<rightascension>17 53 51</rightascension>
+	<declination>-33 00 35</declination>
+	<distance>5700.0</distance>
+	<star>
+		<name>MOA-2009-BLG-387L</name>
+		<mass>0.19</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>MOA-2009-BLG-387L b</name>
+			<semimajoraxis errorminus="0.7" errorplus="0.7">1.8</semimajoraxis>
+			<period errorminus="1.600000" errorplus="1.600000">1970.0</period>
+			<mass errorminus="1.6" errorplus="4.1">2.6</mass>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/05/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

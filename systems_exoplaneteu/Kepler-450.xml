@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-450</name>
+	<rightascension>19 41 57</rightascension>
+	<declination>+51 00 49</declination>
+	<star>
+		<name>Kepler-450</name>
+		<radius>1.57</radius>
+		<mass>1.346</mass>
+		<temperature>6152.0</temperature>
+		<metallicity>-0.342</metallicity>
+		<planet>
+			<name>Kepler-450 b</name>
+			<eccentricity errorminus="0.02" errorplus="0.14">0.02</eccentricity>
+			<period errorminus="0.000025" errorplus="0.000025">28.454851</period>
+			<radius errorminus="0.029" errorplus="0.029">0.548</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-450 c</name>
+			<eccentricity errorminus="0.02" errorplus="0.17">0.02</eccentricity>
+			<period errorminus="0.000085" errorplus="0.000085">15.413135</period>
+			<radius errorminus="0.012" errorplus="0.012">0.234</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-450 d</name>
+			<eccentricity errorminus="0.14" errorplus="0.24">0.14</eccentricity>
+			<period errorminus="0.000230" errorplus="0.000230">7.51464</period>
+			<radius errorminus="0.0061" errorplus="0.0061">0.0747</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/01/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

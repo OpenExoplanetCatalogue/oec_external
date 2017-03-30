@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-123</name>
+	<rightascension>19 47 60</rightascension>
+	<declination>+42 46 55</declination>
+	<star>
+		<name>Kepler-123</name>
+		<radius>1.26</radius>
+		<mass>1.03</mass>
+		<temperature>6089.0</temperature>
+		<metallicity>-0.199</metallicity>
+		<planet>
+			<name>Kepler-123 b</name>
+			<semimajoraxis>0.135</semimajoraxis>
+			<period errorminus="0.000056" errorplus="0.000056">17.232366</period>
+			<radius errorminus="0.051" errorplus="0.051">0.262</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-123 c</name>
+			<semimajoraxis>0.181</semimajoraxis>
+			<period errorminus="0.000468" errorplus="0.000468">26.695074</period>
+			<radius errorminus="0.027" errorplus="0.027">0.132</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

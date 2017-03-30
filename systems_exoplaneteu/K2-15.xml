@@ -1,0 +1,25 @@
+<system>
+	<name>K2-15</name>
+	<rightascension>11 52 27</rightascension>
+	<declination>+04 15 17</declination>
+	<distance>437.0</distance>
+	<star>
+		<name>K2-15</name>
+		<radius>0.68</radius>
+		<mass>0.72</mass>
+		<temperature>5131.0</temperature>
+		<metallicity>-0.46</metallicity>
+		<planet>
+			<name>K2-15 b</name>
+			<semimajoraxis errorminus="0.0018" errorplus="0.0018">0.091</semimajoraxis>
+			<period errorminus="0.002040" errorplus="0.002040">11.8104</period>
+			<radius errorminus="0.027" errorplus="0.027">0.221</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

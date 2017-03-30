@@ -1,0 +1,28 @@
+<system>
+	<name>HD 98219</name>
+	<rightascension>11 17 48</rightascension>
+	<declination>-23 01 29</declination>
+	<distance>134.0</distance>
+	<star>
+		<name>HD 98219</name>
+		<age>4.0</age>
+		<radius>4.5</radius>
+		<mass>1.3</mass>
+		<spectraltype>K0III/IV</spectraltype>
+		<temperature>4992.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>HD 98219 b</name>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.23</semimajoraxis>
+			<periastron errorminus="30.0" errorplus="30.0">47.0</periastron>
+			<eccentricity errorminus="inf" errorplus="nan">0.21</eccentricity>
+			<period errorminus="4.500000" errorplus="4.500000">436.9</period>
+			<mass errorminus="0.1" errorplus="0.1">1.8</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>11/09/02</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

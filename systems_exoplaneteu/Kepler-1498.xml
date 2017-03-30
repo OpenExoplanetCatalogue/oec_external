@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1498</name>
+	<rightascension>18 59 07</rightascension>
+	<declination>+44 55 00</declination>
+	<distance>740.0</distance>
+	<star>
+		<name>Kepler-1498</name>
+		<radius>0.81</radius>
+		<mass>0.86</mass>
+		<temperature>5256.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-1498 b</name>
+			<period errorminus="0.000933" errorplus="0.000933">48.051405</period>
+			<radius errorminus="0.008" errorplus="0.01">0.119</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

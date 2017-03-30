@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-979</name>
+	<rightascension>20 01 29</rightascension>
+	<declination>+46 24 30</declination>
+	<distance>606.0</distance>
+	<star>
+		<name>Kepler-979</name>
+		<radius>0.83</radius>
+		<mass>0.87</mass>
+		<temperature>5310.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-979 b</name>
+			<period errorminus="0.000011" errorplus="0.000011">8.0880135</period>
+			<radius errorminus="0.021" errorplus="0.037">0.243</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

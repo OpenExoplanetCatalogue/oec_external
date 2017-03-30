@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-322</name>
+	<rightascension>18 45 24</rightascension>
+	<declination>+44 17 43</declination>
+	<star>
+		<name>Kepler-322</name>
+		<radius>0.89</radius>
+		<mass>0.91</mass>
+		<temperature>5388.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-322 b</name>
+			<semimajoraxis>0.027</semimajoraxis>
+			<period errorminus="0.000006" errorplus="0.000006">1.653888</period>
+			<radius errorminus="0.01" errorplus="0.01">0.09</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-322 c</name>
+			<semimajoraxis>0.051</semimajoraxis>
+			<period errorminus="0.000009" errorplus="0.000009">4.337234</period>
+			<radius errorminus="0.016" errorplus="0.016">0.149</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

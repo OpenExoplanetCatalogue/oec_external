@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2015-BLG-1319 L</name>
+	<rightascension>17 57 46</rightascension>
+	<declination>-32 31 40</declination>
+	<distance>5000.0</distance>
+	<star>
+		<name>OGLE-2015-BLG-1319 L</name>
+		<mass>0.58</mass>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>OGLE-2015-BLG-1319 L</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">0.245</semimajoraxis>
+			<mass errorminus="8.0" errorplus="8.0">45.0</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/06/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

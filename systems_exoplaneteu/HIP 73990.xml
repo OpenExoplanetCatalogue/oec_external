@@ -1,0 +1,33 @@
+<system>
+	<name>HIP 73990</name>
+	<rightascension>15 07 15</rightascension>
+	<declination>-29 29 44</declination>
+	<distance>125.0</distance>
+	<star>
+		<name>HIP 73990</name>
+		<age>0.015</age>
+		<mass>1.72</mass>
+		<spectraltype>A9V</spectraltype>
+		<temperature>7450.0</temperature>
+		<planet>
+			<name>HIP 73990 b</name>
+			<semimajoraxis errorminus="4.0" errorplus="4.0">20.0</semimajoraxis>
+			<mass errorminus="5.0" errorplus="30.0">21.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>17/02/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HIP 73990 c</name>
+			<semimajoraxis errorminus="7.0" errorplus="7.0">32.0</semimajoraxis>
+			<mass errorminus="6.0" errorplus="35.0">22.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/05/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

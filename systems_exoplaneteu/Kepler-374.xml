@@ -1,0 +1,48 @@
+<system>
+	<name>Kepler-374</name>
+	<rightascension>19 36 33</rightascension>
+	<declination>+42 22 14</declination>
+	<star>
+		<name>Kepler-374</name>
+		<radius>0.91</radius>
+		<mass>0.84</mass>
+		<temperature>5977.0</temperature>
+		<metallicity>-0.441</metallicity>
+		<planet>
+			<name>Kepler-374 b</name>
+			<semimajoraxis>0.029</semimajoraxis>
+			<period errorminus="0.000011" errorplus="0.000011">1.897806</period>
+			<radius errorminus="0.048" errorplus="0.048">0.092</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-374 c</name>
+			<semimajoraxis>0.042</semimajoraxis>
+			<period errorminus="0.000020" errorplus="0.000020">3.282807</period>
+			<radius errorminus="0.051" errorplus="0.051">0.098</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-374 d</name>
+			<semimajoraxis>0.056</semimajoraxis>
+			<period errorminus="0.000040" errorplus="0.000040">5.028219</period>
+			<radius errorminus="0.062" errorplus="0.062">0.117</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-1398</name>
+	<rightascension>19 39 28</rightascension>
+	<declination>+48 38 20</declination>
+	<distance>793.0</distance>
+	<star>
+		<name>Kepler-1398</name>
+		<radius>1.18</radius>
+		<mass>1.13</mass>
+		<temperature>6126.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1398 b</name>
+			<period errorminus="0.000020" errorplus="0.000020">2.78815679</period>
+			<radius errorminus="0.011" errorplus="0.025">0.08</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-1398 c</name>
+			<period errorminus="0.000026" errorplus="0.000026">4.13827595</period>
+			<radius errorminus="0.013" errorplus="0.033">0.092</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

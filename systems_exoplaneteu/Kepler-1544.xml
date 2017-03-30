@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1544</name>
+	<rightascension>19 49 08</rightascension>
+	<declination>+49 12 45</declination>
+	<distance>349.0</distance>
+	<star>
+		<name>Kepler-1544</name>
+		<radius>0.74</radius>
+		<mass>0.81</mass>
+		<temperature>4886.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-1544 b</name>
+			<period errorminus="0.001271" errorplus="0.001271">168.811174</period>
+			<radius errorminus="0.006" errorplus="0.008">0.159</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

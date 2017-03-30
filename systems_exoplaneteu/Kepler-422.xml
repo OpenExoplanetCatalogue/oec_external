@@ -1,0 +1,25 @@
+<system>
+	<name>Kepler-422</name>
+	<rightascension>18 50 31</rightascension>
+	<declination>+46 19 24</declination>
+	<star>
+		<name>Kepler-422</name>
+		<radius>1.24</radius>
+		<mass>1.15</mass>
+		<temperature>5972.0</temperature>
+		<metallicity>0.23</metallicity>
+		<planet>
+			<name>Kepler-422 b</name>
+			<semimajoraxis errorminus="0.01" errorplus="0.011">0.082</semimajoraxis>
+			<period errorminus="0.000001" errorplus="0.000000">7.8914483</period>
+			<mass errorminus="0.13" errorplus="0.13">0.43</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.15</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/10/09</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

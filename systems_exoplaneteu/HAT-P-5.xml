@@ -1,0 +1,29 @@
+<system>
+	<name>HAT-P-5</name>
+	<rightascension>04 28 54</rightascension>
+	<declination>-21 31 05</declination>
+	<distance>340.0</distance>
+	<star>
+		<name>HAT-P-5</name>
+		<age>1.7</age>
+		<radius>1.137</radius>
+		<mass>1.163</mass>
+		<temperature>5960.0</temperature>
+		<metallicity>0.24</metallicity>
+		<planet>
+			<name>HAT-P-5 b</name>
+			<semimajoraxis errorminus="0.00076" errorplus="0.00076">0.04079</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.44" errorplus="0.44">86.75</inclination>
+			<period errorminus="0.000025" errorplus="0.000025">2.788491</period>
+			<mass errorminus="0.11" errorplus="0.11">1.06</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.252</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>12/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 24064</name>
+	<rightascension>03 56 36</rightascension>
+	<declination>+74 04 48</declination>
+	<distance>264.4</distance>
+	<star>
+		<name>HD 24064</name>
+		<age>9.0</age>
+		<radius>38.0</radius>
+		<mass>1.0</mass>
+		<spectraltype>K0</spectraltype>
+		<temperature>4052.5</temperature>
+		<metallicity>-0.49</metallicity>
+		<planet>
+			<name>HD 24064 b</name>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.29</semimajoraxis>
+			<periastron errorminus="6.3" errorplus="6.3">250.8</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.35</eccentricity>
+			<period errorminus="3.000000" errorplus="3.000000">555.6</period>
+			<mass errorminus="1.3" errorplus="1.3">9.4</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>15/10/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

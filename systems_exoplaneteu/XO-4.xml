@@ -1,0 +1,31 @@
+<system>
+	<name>XO-4</name>
+	<rightascension>07 21 33</rightascension>
+	<declination>+58 16 05</declination>
+	<distance>293.0</distance>
+	<star>
+		<name>XO-4</name>
+		<age>2.1</age>
+		<radius>1.55</radius>
+		<mass>1.32</mass>
+		<spectraltype>F5V</spectraltype>
+		<temperature>5700.0</temperature>
+		<metallicity>-0.04</metallicity>
+		<planet>
+			<name>XO-4 b</name>
+			<semimajoraxis errorminus="0.00042" errorplus="0.00042">0.05485</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<longitude errorminus="7.5" errorplus="8.8">320.0</longitude>
+			<inclination errorminus="0.81" errorplus="0.58">88.47</inclination>
+			<period errorminus="0.000470" errorplus="0.000610">4.12473</period>
+			<mass errorminus="0.1004" errorplus="0.1009">1.616</mass>
+			<radius errorminus="0.029" errorplus="0.04">1.317</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>15/11/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

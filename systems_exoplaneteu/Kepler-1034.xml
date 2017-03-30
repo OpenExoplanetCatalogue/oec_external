@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1034</name>
+	<rightascension>19 04 28</rightascension>
+	<declination>+37 58 01</declination>
+	<distance>706.0</distance>
+	<star>
+		<name>Kepler-1034</name>
+		<radius>0.8</radius>
+		<mass>0.83</mass>
+		<temperature>5198.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-1034 b</name>
+			<period errorminus="0.000033" errorplus="0.000033">12.12400943</period>
+			<radius errorminus="0.012" errorplus="0.015">0.202</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

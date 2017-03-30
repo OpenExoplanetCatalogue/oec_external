@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-1019</name>
+	<rightascension>18 54 52</rightascension>
+	<declination>+47 12 16</declination>
+	<distance>198.0</distance>
+	<star>
+		<name>Kepler-1019</name>
+		<radius>0.67</radius>
+		<mass>0.7</mass>
+		<temperature>4433.0</temperature>
+		<metallicity>0.01</metallicity>
+		<planet>
+			<name>Kepler-1019 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">1.41122985</period>
+			<radius errorminus="0.014" errorplus="0.004">0.13</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

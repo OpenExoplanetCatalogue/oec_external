@@ -1,0 +1,23 @@
+<system>
+	<name>WASP-35</name>
+	<rightascension>05 04 20</rightascension>
+	<declination>-06 46 13</declination>
+	<star>
+		<name>WASP-35</name>
+		<planet>
+			<name>WASP-35 b</name>
+			<semimajoraxis errorminus="0.00028" errorplus="0.00028">0.04317</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.25" errorplus="0.25">87.96</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">3.161575</period>
+			<mass errorminus="0.06" errorplus="0.06">0.72</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.32</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>14/08/16</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-819</name>
+	<rightascension>19 41 29</rightascension>
+	<declination>+39 10 38</declination>
+	<distance>722.0</distance>
+	<star>
+		<name>Kepler-819</name>
+		<radius>0.81</radius>
+		<mass>0.86</mass>
+		<temperature>5279.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-819 b</name>
+			<period errorminus="0.000117" errorplus="0.000117">33.1995648</period>
+			<radius errorminus="0.015" errorplus="0.022">0.246</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

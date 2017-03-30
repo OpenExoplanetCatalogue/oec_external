@@ -1,0 +1,99 @@
+<system>
+	<name>Kepler-20</name>
+	<rightascension>19 10 48</rightascension>
+	<declination>+42 20 19</declination>
+	<distance>290.0</distance>
+	<star>
+		<name>Kepler-20</name>
+		<age>8.8</age>
+		<radius>0.944</radius>
+		<mass>0.912</mass>
+		<spectraltype>G8</spectraltype>
+		<temperature>5466.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-20 b</name>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0009">0.0463</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.09">0.03</eccentricity>
+			<inclination errorminus="1.594" errorplus="0.215">87.355</inclination>
+			<period errorminus="0.000001" errorplus="0.000001">3.69611525</period>
+			<mass errorminus="0.00453" errorplus="0.00444">0.0305</mass>
+			<radius errorminus="0.003" errorplus="0.0059">0.1667</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-20 c</name>
+			<semimajoraxis errorminus="0.0023" errorplus="0.0027">0.0949</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.01">0.16</eccentricity>
+			<inclination errorminus="0.632" errorplus="0.036">89.815</inclination>
+			<period errorminus="0.000003" errorplus="0.000003">10.85409089</period>
+			<mass errorminus="0.00705" errorplus="0.00683">0.04012</mass>
+			<radius errorminus="0.005" errorplus="0.0057">0.2718</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-20 d</name>
+			<semimajoraxis errorminus="0.0101" errorplus="0.0081">0.3506</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.6</eccentricity>
+			<inclination errorminus="0.053" errorplus="0.165">89.708</inclination>
+			<period errorminus="0.000116" errorplus="0.000123">77.61130017</period>
+			<mass errorminus="0.0116" errorplus="0.0125">0.03168</mass>
+			<radius errorminus="0.0049" errorplus="0.0065">0.2448</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-20 e</name>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0019">0.0639</semimajoraxis>
+			<inclination errorminus="0.128" errorplus="1.085">87.632</inclination>
+			<period errorminus="0.000014" errorplus="0.000006">6.09852281</period>
+			<mass errorminus="inf" errorplus="nan">0.0097</mass>
+			<radius errorminus="0.0025" errorplus="0.0023">0.0772</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-20 f</name>
+			<semimajoraxis errorminus="0.0035" errorplus="0.0036">0.1396</semimajoraxis>
+			<inclination errorminus="0.072" errorplus="0.426">88.788</inclination>
+			<period errorminus="0.000123" errorplus="0.000090">19.57758478</period>
+			<mass>0.045</mass>
+			<radius errorminus="0.0079" errorplus="0.0045">0.08948</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-20 g</name>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0022">0.2055</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.01">0.15</eccentricity>
+			<period errorminus="0.035000" errorplus="0.038000">34.94</period>
+			<mass errorminus="0.0114" errorplus="0.00969">0.0628</mass>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/08/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

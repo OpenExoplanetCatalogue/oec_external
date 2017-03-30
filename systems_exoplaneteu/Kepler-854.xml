@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-854</name>
+	<rightascension>19 33 24</rightascension>
+	<declination>+43 08 05</declination>
+	<distance>741.0</distance>
+	<star>
+		<name>Kepler-854</name>
+		<radius>1.27</radius>
+		<mass>1.17</mass>
+		<temperature>6179.0</temperature>
+		<metallicity>0.04</metallicity>
+		<planet>
+			<name>Kepler-854 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">2.14463285</period>
+			<radius errorminus="0.204" errorplus="0.604">1.492</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

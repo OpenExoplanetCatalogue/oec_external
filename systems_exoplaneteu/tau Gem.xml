@@ -1,0 +1,28 @@
+<system>
+	<name>tau Gem</name>
+	<rightascension>07 11 08</rightascension>
+	<declination>+30 14 43</declination>
+	<distance>98.4</distance>
+	<star>
+		<name>tau Gem</name>
+		<age>1.22</age>
+		<radius>26.8</radius>
+		<mass>2.3</mass>
+		<spectraltype>K2III</spectraltype>
+		<temperature>4388.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>tau Gem b</name>
+			<semimajoraxis>1.17</semimajoraxis>
+			<periastron errorminus="0.3" errorplus="0.3">137.4</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.031</eccentricity>
+			<period errorminus="0.100000" errorplus="0.100000">305.5</period>
+			<mass>20.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>15/08/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

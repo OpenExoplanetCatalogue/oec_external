@@ -1,0 +1,31 @@
+<system>
+	<name>CoRoT-29</name>
+	<rightascension>18 35 37</rightascension>
+	<declination>+06 28 47</declination>
+	<distance>765.0</distance>
+	<star>
+		<name>CoRoT-29</name>
+		<age>4.5</age>
+		<radius>0.9</radius>
+		<mass>0.976</mass>
+		<spectraltype>KOV</spectraltype>
+		<temperature>5260.0</temperature>
+		<metallicity>0.2</metallicity>
+		<planet>
+			<name>CoRoT-29 b</name>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.039</semimajoraxis>
+			<periastron errorminus="210.0" errorplus="49.0">87.0</periastron>
+			<eccentricity errorminus="0.081" errorplus="0.081">0.082</eccentricity>
+			<inclination errorminus="2.7" errorplus="2.7">87.3</inclination>
+			<period errorminus="0.000006" errorplus="0.000006">2.85057</period>
+			<mass errorminus="0.2" errorplus="0.2">0.85</mass>
+			<radius errorminus="0.16" errorplus="0.16">0.9</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/04/27</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

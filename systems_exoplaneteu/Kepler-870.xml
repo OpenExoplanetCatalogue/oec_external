@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-870</name>
+	<rightascension>19 41 37</rightascension>
+	<declination>+50 28 43</declination>
+	<distance>1231.0</distance>
+	<star>
+		<name>Kepler-870</name>
+		<radius>1.02</radius>
+		<mass>1.01</mass>
+		<temperature>5857.0</temperature>
+		<metallicity>-0.01</metallicity>
+		<planet>
+			<name>Kepler-870 b</name>
+			<period errorminus="0.000118" errorplus="0.000118">21.3587621</period>
+			<radius errorminus="0.026" errorplus="0.045">0.248</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>Aldebaran</name>
+	<rightascension>04 35 55</rightascension>
+	<declination>+16 30 33</declination>
+	<distance>20.43</distance>
+	<star>
+		<name>Aldebaran</name>
+		<age>6.6</age>
+		<radius>45.1</radius>
+		<mass>1.13</mass>
+		<spectraltype>K5III</spectraltype>
+		<temperature>4055.0</temperature>
+		<metallicity>-0.27</metallicity>
+		<planet>
+			<name>Aldebaran b</name>
+			<semimajoraxis errorminus="0.27" errorplus="0.27">1.46</semimajoraxis>
+			<periastron errorminus="29.0" errorplus="29.0">287.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.1</eccentricity>
+			<period errorminus="0.900000" errorplus="0.900000">628.96</period>
+			<mass errorminus="0.53" errorplus="0.53">6.47</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1998</discoveryyear>
+			<lastupdate>15/05/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

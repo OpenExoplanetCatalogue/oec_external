@@ -1,0 +1,29 @@
+<system>
+	<name>HD 10697</name>
+	<rightascension>01 44 55</rightascension>
+	<declination>+20 04 59</declination>
+	<distance>32.56</distance>
+	<star>
+		<name>HD 10697</name>
+		<age>6.9</age>
+		<radius>1.72</radius>
+		<mass>1.15</mass>
+		<spectraltype>G5 IV</spectraltype>
+		<temperature>5641.0</temperature>
+		<metallicity>0.1</metallicity>
+		<planet>
+			<name>HD 10697 b</name>
+			<semimajoraxis errorminus="0.12" errorplus="0.12">2.16</semimajoraxis>
+			<periastron errorminus="8.2" errorplus="8.2">108.9</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.1</eccentricity>
+			<inclination errorminus="26.0" errorplus="26.0">69.0</inclination>
+			<period errorminus="2.400000" errorplus="2.400000">1076.4</period>
+			<mass errorminus="0.984" errorplus="3.3">6.83</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>16/01/14</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,30 @@
+<system>
+	<name>WASP-29</name>
+	<rightascension>23 51 31</rightascension>
+	<declination>-39 05 36</declination>
+	<distance>80.0</distance>
+	<star>
+		<name>WASP-29</name>
+		<age>15.0</age>
+		<radius>0.846</radius>
+		<mass>0.825</mass>
+		<spectraltype>K4V</spectraltype>
+		<temperature>4800.0</temperature>
+		<metallicity>0.11</metallicity>
+		<planet>
+			<name>WASP-29 b</name>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0457</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.03</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">88.8</inclination>
+			<period errorminus="0.000004" errorplus="0.000004">3.922727</period>
+			<mass errorminus="0.0201050876254602" errorplus="0.0201050876254602">0.242897146273</mass>
+			<radius errorminus="0.0347935316148303" errorplus="0.0553127938492173">0.84128975161</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>14/05/21</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

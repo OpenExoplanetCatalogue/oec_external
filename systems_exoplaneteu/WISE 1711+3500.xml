@@ -1,0 +1,25 @@
+<system>
+	<name>WISE 1711+3500</name>
+	<rightascension>17 11 05</rightascension>
+	<declination>+35 00 37</declination>
+	<distance>19.0</distance>
+	<star>
+		<name>WISE 1711+3500</name>
+		<age>3.0</age>
+		<mass>0.034</mass>
+		<spectraltype>T8</spectraltype>
+		<temperature>770.0</temperature>
+		<planet>
+			<name>WISE 1711+3500 b</name>
+			<semimajoraxis errorminus="2.0" errorplus="2.0">15.0</semimajoraxis>
+			<period errorminus="29000.000000" errorplus="29000.000000">125000.0</period>
+			<mass errorminus="7.0" errorplus="7.0">18.0</mass>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature>460.0</temperature>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/03/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>kappa CrB</name>
+	<rightascension>15 51 14</rightascension>
+	<declination>+35 39 27</declination>
+	<distance>31.1</distance>
+	<star>
+		<name>kappa CrB</name>
+		<age>2.5</age>
+		<radius>5.0</radius>
+		<mass>1.51</mass>
+		<spectraltype>K1IVa</spectraltype>
+		<temperature>4960.0</temperature>
+		<metallicity>0.14</metallicity>
+		<planet>
+			<name>kappa CrB b</name>
+			<semimajoraxis>2.6</semimajoraxis>
+			<periastron errorminus="40.0" errorplus="40.0">34.0</periastron>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.19</eccentricity>
+			<period errorminus="15.000000" errorplus="15.000000">1251.0</period>
+			<mass>1.6</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>12/09/01</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

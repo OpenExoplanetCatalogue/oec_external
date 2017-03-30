@@ -1,0 +1,19 @@
+<system>
+	<name>MOA-2008-BLG-379L</name>
+	<rightascension>17 58 49</rightascension>
+	<declination>-29 11 49</declination>
+	<distance>3600.0</distance>
+	<star>
+		<name>MOA-2008-BLG-379L</name>
+		<mass>0.66</mass>
+		<planet>
+			<name>MOA-2008-BLG-379L b</name>
+			<semimajoraxis errorminus="1.2" errorplus="1.7">3.3</semimajoraxis>
+			<mass errorminus="1.9" errorplus="1.7">4.1</mass>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>14/05/23</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

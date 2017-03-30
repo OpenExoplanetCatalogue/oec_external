@@ -1,0 +1,28 @@
+<system>
+	<name>HD 45350</name>
+	<rightascension>06 28 45</rightascension>
+	<declination>+38 57 46</declination>
+	<distance>49.0</distance>
+	<star>
+		<name>HD 45350</name>
+		<age>5.59</age>
+		<radius>1.27</radius>
+		<mass>1.02</mass>
+		<spectraltype>G5 IV</spectraltype>
+		<temperature>5754.0</temperature>
+		<metallicity>0.29</metallicity>
+		<planet>
+			<name>HD 45350 b</name>
+			<semimajoraxis errorminus="0.067" errorplus="0.067">1.92</semimajoraxis>
+			<periastron errorminus="2.3" errorplus="2.3">343.4</periastron>
+			<eccentricity errorminus="0.009" errorplus="0.009">0.778</eccentricity>
+			<period errorminus="37.420000" errorplus="37.420000">890.76</period>
+			<mass errorminus="0.14" errorplus="0.14">1.79</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>10/12/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

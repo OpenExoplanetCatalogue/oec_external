@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-713</name>
+	<rightascension>19 42 36</rightascension>
+	<declination>+43 01 47</declination>
+	<distance>1003.0</distance>
+	<star>
+		<name>Kepler-713</name>
+		<radius>0.99</radius>
+		<mass>0.98</mass>
+		<temperature>5785.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-713 b</name>
+			<period errorminus="0.000013" errorplus="0.000013">7.411141</period>
+			<radius errorminus="0.026" errorplus="0.045">0.221</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

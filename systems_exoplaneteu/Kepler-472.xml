@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-472</name>
+	<rightascension>19 46 06</rightascension>
+	<declination>+39 14 59</declination>
+	<distance>302.0</distance>
+	<star>
+		<name>Kepler-472</name>
+		<radius>0.78</radius>
+		<mass>0.85</mass>
+		<temperature>4996.0</temperature>
+		<metallicity>0.16</metallicity>
+		<planet>
+			<name>Kepler-472 b</name>
+			<period errorminus="0.000002" errorplus="0.000002">4.17625551</period>
+			<radius errorminus="0.025" errorplus="0.012">0.287</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

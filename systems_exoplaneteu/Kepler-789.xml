@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-789</name>
+	<rightascension>19 43 54</rightascension>
+	<declination>+38 56 48</declination>
+	<distance>915.0</distance>
+	<star>
+		<name>Kepler-789</name>
+		<radius>1.02</radius>
+		<mass>1.01</mass>
+		<temperature>5870.0</temperature>
+		<metallicity>-0.06</metallicity>
+		<planet>
+			<name>Kepler-789 b</name>
+			<period errorminus="0.000031" errorplus="0.000031">8.63847725</period>
+			<radius errorminus="0.021" errorplus="0.037">0.189</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

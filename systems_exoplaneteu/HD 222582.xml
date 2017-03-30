@@ -1,0 +1,28 @@
+<system>
+	<name>HD 222582</name>
+	<rightascension>23 41 51</rightascension>
+	<declination>-05 00 52</declination>
+	<distance>42.0</distance>
+	<star>
+		<name>HD 222582</name>
+		<age>6.16</age>
+		<radius>1.15</radius>
+		<mass>0.99</mass>
+		<spectraltype>G5</spectraltype>
+		<temperature>5662.0</temperature>
+		<metallicity>-0.0229</metallicity>
+		<planet>
+			<name>HD 222582 b</name>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">1.35</semimajoraxis>
+			<periastron errorminus="0.87" errorplus="0.87">319.01</periastron>
+			<eccentricity errorminus="0.012" errorplus="0.012">0.725</eccentricity>
+			<period errorminus="0.610000" errorplus="0.610000">572.38</period>
+			<mass errorminus="0.65" errorplus="0.65">7.75</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>1999</discoveryyear>
+			<lastupdate>16/01/15</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

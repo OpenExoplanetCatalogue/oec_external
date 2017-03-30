@@ -1,0 +1,52 @@
+<system>
+	<name>Kepler-42</name>
+	<rightascension>19 28 53</rightascension>
+	<declination>+44 37 10</declination>
+	<distance>38.7</distance>
+	<star>
+		<name>Kepler-42</name>
+		<radius>0.17</radius>
+		<mass>0.13</mass>
+		<temperature>3068.0</temperature>
+		<metallicity>-0.48</metallicity>
+		<planet>
+			<name>Kepler-42 b</name>
+			<semimajoraxis>0.0116</semimajoraxis>
+			<period errorminus="0.000005" errorplus="0.000005">1.2137672</period>
+			<mass errorminus="inf" errorplus="nan">0.009</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.07</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/08/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-42 c</name>
+			<semimajoraxis>0.006</semimajoraxis>
+			<period errorminus="0.000001" errorplus="0.000001">0.45328509</period>
+			<mass errorminus="inf" errorplus="nan">0.006</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.065</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/08/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-42 d</name>
+			<semimajoraxis>0.0154</semimajoraxis>
+			<period errorminus="0.000014" errorplus="0.000014">1.856169</period>
+			<mass errorminus="inf" errorplus="nan">0.003</mass>
+			<radius errorminus="0.016" errorplus="0.016">0.051</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/08/30</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

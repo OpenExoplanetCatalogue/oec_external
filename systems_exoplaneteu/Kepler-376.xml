@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-376</name>
+	<rightascension>19 26 26</rightascension>
+	<declination>+38 24 37</declination>
+	<star>
+		<name>Kepler-376</name>
+		<radius>1.18</radius>
+		<mass>1.05</mass>
+		<temperature>5900.0</temperature>
+		<metallicity>-0.151</metallicity>
+		<planet>
+			<name>Kepler-376 b</name>
+			<semimajoraxis>0.057</semimajoraxis>
+			<period errorminus="0.000073" errorplus="0.000073">4.920199</period>
+			<radius errorminus="0.02" errorplus="0.02">0.095</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-376 c</name>
+			<semimajoraxis>0.115</semimajoraxis>
+			<period errorminus="0.000108" errorplus="0.000108">14.172327</period>
+			<radius errorminus="0.032" errorplus="0.032">0.16</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

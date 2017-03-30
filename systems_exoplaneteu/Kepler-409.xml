@@ -1,0 +1,26 @@
+<system>
+	<name>Kepler-409</name>
+	<rightascension>19 34 43</rightascension>
+	<declination>+46 51 10</declination>
+	<distance>66.8</distance>
+	<star>
+		<name>Kepler-409</name>
+		<age>6.98</age>
+		<radius>0.89</radius>
+		<mass>0.92</mass>
+		<temperature>5460.0</temperature>
+		<metallicity>0.08</metallicity>
+		<planet>
+			<name>Kepler-409 b</name>
+			<period>68.9584</period>
+			<mass>0.0692</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.106</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/01/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

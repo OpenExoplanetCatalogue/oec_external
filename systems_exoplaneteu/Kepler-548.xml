@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-548</name>
+	<rightascension>19 59 37</rightascension>
+	<declination>+45 26 23</declination>
+	<distance>776.0</distance>
+	<star>
+		<name>Kepler-548</name>
+		<radius>0.9</radius>
+		<mass>0.93</mass>
+		<temperature>5535.0</temperature>
+		<metallicity>0.0</metallicity>
+		<planet>
+			<name>Kepler-548 b</name>
+			<period errorminus="0.000000" errorplus="0.000000">4.45419434</period>
+			<radius errorminus="0.098" errorplus="0.195">1.07</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

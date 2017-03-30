@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-719</name>
+	<rightascension>19 42 09</rightascension>
+	<declination>+43 53 04</declination>
+	<distance>1427.0</distance>
+	<star>
+		<name>Kepler-719</name>
+		<radius>0.98</radius>
+		<mass>0.99</mass>
+		<temperature>5777.0</temperature>
+		<metallicity>-0.02</metallicity>
+		<planet>
+			<name>Kepler-719 b</name>
+			<period errorminus="0.000001" errorplus="0.000001">5.00731778</period>
+			<radius errorminus="0.08" errorplus="0.163">0.76</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

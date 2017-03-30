@@ -1,0 +1,28 @@
+<system>
+	<name>beta Pic</name>
+	<rightascension>05 47 17</rightascension>
+	<declination>-51 56 01</declination>
+	<distance>19.3</distance>
+	<star>
+		<name>beta Pic</name>
+		<age>0.04</age>
+		<mass>1.73</mass>
+		<spectraltype>A6V</spectraltype>
+		<planet>
+			<name>beta Pic b</name>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">13.18</semimajoraxis>
+			<periastron errorminus="5.6" errorplus="5.6">87.0</periastron>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.323</eccentricity>
+			<inclination errorminus="0.36" errorplus="0.36">89.01</inclination>
+			<period errorminus="47.000000" errorplus="47.000000">13288.0</period>
+			<mass errorminus="3.0" errorplus="4.0">7.0</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.65</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

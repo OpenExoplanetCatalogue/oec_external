@@ -1,0 +1,31 @@
+<system>
+	<name>Kepler-75</name>
+	<rightascension>19 24 33</rightascension>
+	<declination>+36 34 39</declination>
+	<distance>1140.0</distance>
+	<star>
+		<name>Kepler-75</name>
+		<age>6.0</age>
+		<radius>0.88</radius>
+		<mass>0.88</mass>
+		<spectraltype>G8V</spectraltype>
+		<temperature>5330.0</temperature>
+		<metallicity>-0.07</metallicity>
+		<planet>
+			<name>Kepler-75 b</name>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.08</semimajoraxis>
+			<periastron errorminus="1.4" errorplus="1.4">63.6</periastron>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.569</eccentricity>
+			<inclination errorminus="1.0" errorplus="0.6">89.1</inclination>
+			<period errorminus="0.000002" errorplus="0.000002">8.884924</period>
+			<mass errorminus="0.5" errorplus="0.5">9.9</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.03</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

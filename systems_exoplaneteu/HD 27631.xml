@@ -1,0 +1,23 @@
+<system>
+	<name>HD 27631</name>
+	<rightascension>04 19 45</rightascension>
+	<declination>-41 02 23</declination>
+	<distance>45.5</distance>
+	<star>
+		<name>HD 27631</name>
+		<spectraltype>G3IV</spectraltype>
+		<planet>
+			<name>HD 27631 b</name>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">3.25</semimajoraxis>
+			<periastron errorminus="44.0" errorplus="44.0">134.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.12</eccentricity>
+			<period errorminus="66.000000" errorplus="66.000000">2208.0</period>
+			<mass errorminus="0.14" errorplus="0.14">1.45</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2011</discoveryyear>
+			<lastupdate>12/11/29</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,28 @@
+<system>
+	<name>HD 102195</name>
+	<rightascension>11 45 42</rightascension>
+	<declination>+02 49 17</declination>
+	<distance>28.98</distance>
+	<star>
+		<name>HD 102195</name>
+		<age>2.4</age>
+		<radius>0.835</radius>
+		<mass>0.926</mass>
+		<spectraltype>K0V</spectraltype>
+		<temperature>5291.0</temperature>
+		<metallicity>0.05</metallicity>
+		<planet>
+			<name>HD 102195 b</name>
+			<semimajoraxis>0.049</semimajoraxis>
+			<periastron errorminus="0.0" errorplus="0.0">360.0</periastron>
+			<eccentricity errorminus="0.0" errorplus="0.0">0.0</eccentricity>
+			<period errorminus="0.000570" errorplus="0.000570">4.113775</period>
+			<mass>0.45</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>15/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

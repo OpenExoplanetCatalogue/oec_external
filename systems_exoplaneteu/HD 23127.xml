@@ -1,0 +1,27 @@
+<system>
+	<name>HD 23127</name>
+	<rightascension>03 39 24</rightascension>
+	<declination>-60 55 20</declination>
+	<distance>89.1</distance>
+	<star>
+		<name>HD 23127</name>
+		<age>7.1</age>
+		<mass>1.13</mass>
+		<spectraltype>G2V</spectraltype>
+		<temperature>5927.0</temperature>
+		<metallicity>0.34</metallicity>
+		<planet>
+			<name>HD 23127 b</name>
+			<semimajoraxis errorminus="0.3" errorplus="0.3">2.4</semimajoraxis>
+			<periastron errorminus="6.0" errorplus="6.0">190.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.44</eccentricity>
+			<period errorminus="9.000000" errorplus="9.000000">1214.0</period>
+			<mass errorminus="0.2" errorplus="0.2">1.5</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/01/14</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

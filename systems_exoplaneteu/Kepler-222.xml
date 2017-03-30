@@ -1,0 +1,47 @@
+<system>
+	<name>Kepler-222</name>
+	<rightascension>19 11 37</rightascension>
+	<declination>+46 56 16</declination>
+	<star>
+		<name>Kepler-222</name>
+		<radius>0.87</radius>
+		<temperature>5433.0</temperature>
+		<metallicity>0.15</metallicity>
+		<planet>
+			<name>Kepler-222 b</name>
+			<semimajoraxis>0.048</semimajoraxis>
+			<period errorminus="0.000005" errorplus="0.000005">3.936981</period>
+			<radius errorminus="0.125" errorplus="0.125">0.282</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-222 c</name>
+			<semimajoraxis>0.091</semimajoraxis>
+			<period errorminus="0.000011" errorplus="0.000011">10.08881</period>
+			<radius errorminus="0.185" errorplus="0.185">0.414</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-222 d</name>
+			<semimajoraxis>0.18</semimajoraxis>
+			<period errorminus="0.000069" errorplus="0.000069">28.081912</period>
+			<radius errorminus="0.145" errorplus="0.145">0.329</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

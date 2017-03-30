@@ -1,0 +1,28 @@
+<system>
+	<name>2M 2140+16</name>
+	<rightascension>21 40 29</rightascension>
+	<declination>+16 25 18</declination>
+	<distance>25.0</distance>
+	<star>
+		<name>2M 2140+16</name>
+		<radius>0.1</radius>
+		<mass>0.08</mass>
+		<temperature>2300.0</temperature>
+		<planet>
+			<name>2M 2140+16 b</name>
+			<semimajoraxis errorminus="0.15" errorplus="0.15">3.53</semimajoraxis>
+			<periastron errorminus="47.0" errorplus="47.0">223.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.26</eccentricity>
+			<inclination errorminus="8.7" errorplus="8.7">46.2</inclination>
+			<period errorminus="584.000000" errorplus="584.000000">7340.0</period>
+			<mass errorminus="20.0" errorplus="80.0">20.0</mass>
+			<radius errorminus="0.39" errorplus="0.39">0.92</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>imaging</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>12/01/20</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

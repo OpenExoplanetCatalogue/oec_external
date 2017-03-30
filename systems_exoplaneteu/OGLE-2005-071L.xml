@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2005-071L</name>
+	<rightascension>17 50 09</rightascension>
+	<declination>-34 19 37</declination>
+	<distance>3300.0</distance>
+	<star>
+		<name>OGLE-2005-071L</name>
+		<mass>0.46</mass>
+		<planet>
+			<name>OGLE-2005-071L b</name>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">3.6</semimajoraxis>
+			<period errorminus="0.000000" errorplus="0.000000">3600.0</period>
+			<mass errorminus="0.3" errorplus="0.3">3.5</mass>
+			<discoveryyear>2005</discoveryyear>
+			<lastupdate>16/02/26</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-162</name>
+	<rightascension>19 49 07</rightascension>
+	<declination>+43 43 26</declination>
+	<star>
+		<name>Kepler-162</name>
+		<radius>0.96</radius>
+		<temperature>5816.0</temperature>
+		<metallicity>-0.301</metallicity>
+		<planet>
+			<name>Kepler-162 b</name>
+			<semimajoraxis>0.069</semimajoraxis>
+			<period errorminus="0.000052" errorplus="0.000052">6.919798</period>
+			<radius errorminus="0.06" errorplus="0.06">0.112</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-162 c</name>
+			<semimajoraxis>0.137</semimajoraxis>
+			<period errorminus="0.000045" errorplus="0.000045">19.446355</period>
+			<radius errorminus="0.145" errorplus="0.145">0.27</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

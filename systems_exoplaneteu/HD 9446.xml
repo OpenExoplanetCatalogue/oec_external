@@ -1,0 +1,40 @@
+<system>
+	<name>HD 9446</name>
+	<rightascension>01 33 20</rightascension>
+	<declination>+29 15 55</declination>
+	<distance>53.0</distance>
+	<star>
+		<name>HD 9446</name>
+		<radius>1.0</radius>
+		<mass>1.0</mass>
+		<spectraltype>G5V</spectraltype>
+		<temperature>5793.0</temperature>
+		<metallicity>0.09</metallicity>
+		<planet>
+			<name>HD 9446 b</name>
+			<semimajoraxis errorminus="0.006" errorplus="0.006">0.189</semimajoraxis>
+			<periastron errorminus="30.0" errorplus="30.0">215.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.2</eccentricity>
+			<period errorminus="0.027000" errorplus="0.027000">30.052</period>
+			<mass errorminus="0.06" errorplus="0.06">0.7</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/01/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 9446 c</name>
+			<semimajoraxis errorminus="0.022" errorplus="0.022">0.654</semimajoraxis>
+			<periastron errorminus="130.0" errorplus="130.0">100.0</periastron>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.06</eccentricity>
+			<period errorminus="0.900000" errorplus="0.900000">192.9</period>
+			<mass errorminus="0.17" errorplus="0.17">1.82</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2010</discoveryyear>
+			<lastupdate>10/01/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,24 @@
+<system>
+	<name>Kepler-523</name>
+	<rightascension>18 56 15</rightascension>
+	<declination>+45 30 25</declination>
+	<distance>270.0</distance>
+	<star>
+		<name>Kepler-523</name>
+		<radius>0.86</radius>
+		<mass>0.93</mass>
+		<temperature>5515.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>Kepler-523 b</name>
+			<period errorminus="0.000005" errorplus="0.000005">5.83598311</period>
+			<radius errorminus="0.005" errorplus="0.007">0.175</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

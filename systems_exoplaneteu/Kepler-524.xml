@@ -1,0 +1,35 @@
+<system>
+	<name>Kepler-524</name>
+	<rightascension>19 47 26</rightascension>
+	<declination>+49 09 43</declination>
+	<distance>730.0</distance>
+	<star>
+		<name>Kepler-524</name>
+		<radius>1.1</radius>
+		<mass>1.09</mass>
+		<temperature>6014.0</temperature>
+		<metallicity>0.02</metallicity>
+		<planet>
+			<name>Kepler-524 b</name>
+			<period errorminus="0.000020" errorplus="0.000020">7.97419807</period>
+			<radius errorminus="0.011" errorplus="0.012">0.17</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-524 c</name>
+			<period errorminus="0.000011" errorplus="0.000011">1.88897906</period>
+			<radius errorminus="0.006" errorplus="0.007">0.086</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/12</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

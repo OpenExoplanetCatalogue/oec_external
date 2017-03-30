@@ -1,0 +1,28 @@
+<system>
+	<name>HD 205739</name>
+	<rightascension>21 38 08</rightascension>
+	<declination>-31 15 45</declination>
+	<distance>90.3</distance>
+	<star>
+		<name>HD 205739</name>
+		<age>2.84</age>
+		<radius>1.33</radius>
+		<mass>1.22</mass>
+		<spectraltype>F7V</spectraltype>
+		<temperature>6176.0</temperature>
+		<metallicity>0.19</metallicity>
+		<planet>
+			<name>HD 205739 b</name>
+			<semimajoraxis errorminus="0.015" errorplus="0.015">0.896</semimajoraxis>
+			<periastron errorminus="8.0" errorplus="8.0">301.0</periastron>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.27</eccentricity>
+			<period errorminus="0.100000" errorplus="0.100000">279.8</period>
+			<mass errorminus="0.09" errorplus="0.07">1.37</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2008</discoveryyear>
+			<lastupdate>08/09/08</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

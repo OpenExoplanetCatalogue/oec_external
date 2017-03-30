@@ -1,0 +1,38 @@
+<system>
+	<name>Kepler-36</name>
+	<rightascension>19 25 00</rightascension>
+	<declination>+49 13 55</declination>
+	<star>
+		<name>Kepler-36</name>
+		<age>6.923</age>
+		<radius>1.66</radius>
+		<mass>1.113</mass>
+		<temperature>5900.0</temperature>
+		<planet>
+			<name>Kepler-36 b</name>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1153</semimajoraxis>
+			<period errorminus="0.006000" errorplus="0.008200">13.83989</period>
+			<mass errorminus="0.000943900827486392" errorplus="0.000943900827486392">0.014032658968631</mass>
+			<radius errorminus="0.0026764255088331" errorplus="0.0026764255088331">0.132036991769099</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>13/11/05</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-36 c</name>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.1283</semimajoraxis>
+			<period errorminus="0.000380" errorplus="0.000540">16.23855</period>
+			<mass errorminus="0.001457" errorplus="0.0018872">0.0254149</mass>
+			<radius errorminus="0.0048" errorplus="0.0048">0.3282</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>14/05/22</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>

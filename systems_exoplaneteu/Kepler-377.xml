@@ -1,0 +1,36 @@
+<system>
+	<name>Kepler-377</name>
+	<rightascension>19 41 41</rightascension>
+	<declination>+38 44 08</declination>
+	<star>
+		<name>Kepler-377</name>
+		<radius>1.22</radius>
+		<mass>0.88</mass>
+		<temperature>5949.0</temperature>
+		<metallicity>-0.497</metallicity>
+		<planet>
+			<name>Kepler-377 b</name>
+			<semimajoraxis>0.109</semimajoraxis>
+			<period errorminus="0.000257" errorplus="0.000257">12.509529</period>
+			<radius errorminus="0.024" errorplus="0.024">0.124</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>Kepler-377 c</name>
+			<semimajoraxis>0.182</semimajoraxis>
+			<period errorminus="0.000347" errorplus="0.000347">27.014976</period>
+			<radius errorminus="0.035" errorplus="0.035">0.184</radius>
+			<istransiting>1</istransiting>
+			<discoverymethod>transit</discoverymethod>
+			<discoveryyear>2014</discoveryyear>
+			<lastupdate>14/03/06</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+	</star>
+</system>
