@@ -18,7 +18,7 @@
 			<mass errorminus="0.004" errorplus="0.004">0.027</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>16/02/23</lastupdate>
+			<lastupdate>17/05/04</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
@@ -30,12 +30,12 @@
 			<mass errorminus="0.03" errorplus="0.03">0.17</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>16/02/23</lastupdate>
+			<lastupdate>17/05/04</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
-			<name>GJ 221  BD-06 1339 d</name>
+			<name>BD-06 1339 d</name>
 			<semimajoraxis errorminus="0.07" errorplus="0.07">1.06</semimajoraxis>
 			<periastron errorminus="85.0" errorplus="275.0">275.0</periastron>
 			<eccentricity errorminus="0.04" errorplus="0.25">0.04</eccentricity>
@@ -43,7 +43,7 @@
 			<mass errorminus="0.063" errorplus="0.057">0.091</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/02/23</lastupdate>
+			<lastupdate>17/05/04</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

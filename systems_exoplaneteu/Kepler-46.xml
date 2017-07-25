@@ -16,12 +16,12 @@
 			<eccentricity errorminus="0.01" errorplus="0.01">0.01</eccentricity>
 			<inclination errorminus="0.069" errorplus="0.069">89.033</inclination>
 			<period errorminus="0.000210" errorplus="0.000210">33.60134</period>
-			<mass errorminus="inf" errorplus="nan">6.0</mass>
+			<mass errorminus="0.343" errorplus="0.374">0.885</mass>
 			<radius errorminus="0.043" errorplus="0.043">0.812</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>16/02/24</lastupdate>
+			<lastupdate>17/04/06</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
@@ -32,9 +32,9 @@
 			<eccentricity errorminus="0.0039" errorplus="0.0039">0.0145</eccentricity>
 			<inclination errorminus="0.95" errorplus="0.95">87.25</inclination>
 			<period errorminus="0.100000" errorplus="0.100000">57.004</period>
-			<mass errorminus="0.023" errorplus="0.023">0.376</mass>
+			<mass errorminus="0.016" errorplus="0.016">0.362</mass>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>16/02/24</lastupdate>
+			<lastupdate>17/04/06</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

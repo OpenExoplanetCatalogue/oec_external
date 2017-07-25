@@ -2,6 +2,7 @@
 	<name>WASP-86</name>
 	<rightascension>17 50 34</rightascension>
 	<declination>+36 34 13</declination>
+	<distance>360.0</distance>
 	<star>
 		<name>WASP-86</name>
 		<age>0.8</age>
@@ -20,7 +21,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/08/16</lastupdate>
+			<lastupdate>17/04/15</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

@@ -14,12 +14,12 @@
 			<semimajoraxis errorminus="0.0015" errorplus="0.0006">0.085</semimajoraxis>
 			<inclination errorminus="0.44" errorplus="0.44">89.94</inclination>
 			<period errorminus="0.000009" errorplus="0.000009">9.2869944</period>
-			<mass errorminus="inf" errorplus="nan">0.064</mass>
+			<mass errorminus="0.005" errorplus="0.005">0.026</mass>
 			<radius errorminus="0.004" errorplus="0.004">0.198</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
-			<lastupdate>13/04/25</lastupdate>
+			<lastupdate>17/04/14</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

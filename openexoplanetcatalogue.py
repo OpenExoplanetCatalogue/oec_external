@@ -1,4 +1,4 @@
-#!/usr/bin/python 
+#!python 
 import urllib
 import os
 import xmltools

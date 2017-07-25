@@ -11,7 +11,7 @@
 		<temperature>3685.0</temperature>
 		<metallicity>-0.08</metallicity>
 		<planet>
-			<name>GJ 536</name>
+			<name>GJ 536 b</name>
 			<semimajoraxis errorminus="1.3e-05" errorplus="1e-05">0.06661</semimajoraxis>
 			<periastron errorminus="50.6" errorplus="42.5">288.7</periastron>
 			<eccentricity errorminus="0.06" errorplus="0.09">0.08</eccentricity>
@@ -19,7 +19,7 @@
 			<mass errorminus="0.002" errorplus="0.0022">0.0169</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/11/08</lastupdate>
+			<lastupdate>17/04/02</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

@@ -14,26 +14,28 @@
 		<planet>
 			<name>HD 202206 b</name>
 			<semimajoraxis>0.83</semimajoraxis>
-			<periastron errorminus="0.3" errorplus="0.3">161.18</periastron>
-			<eccentricity errorminus="0.001" errorplus="0.001">0.435</eccentricity>
-			<period errorminus="0.060000" errorplus="0.060000">255.87</period>
-			<mass>17.4</mass>
+			<periastron errorminus="0.2" errorplus="0.2">161.9</periastron>
+			<eccentricity errorminus="0.001" errorplus="0.001">0.432</eccentricity>
+			<inclination errorminus="0.8" errorplus="0.8">10.9</inclination>
+			<period errorminus="0.020000" errorplus="0.020000">256.33</period>
+			<mass errorminus="6.6" errorplus="7.7">93.6</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>17/05/03</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>HD 202206 c</name>
-			<semimajoraxis>2.55</semimajoraxis>
-			<periastron errorminus="6.65" errorplus="6.65">78.99</periastron>
-			<eccentricity errorminus="0.021" errorplus="0.021">0.267</eccentricity>
-			<period errorminus="18.400000" errorplus="18.400000">1383.4</period>
-			<mass>2.44</mass>
+			<semimajoraxis>2.41</semimajoraxis>
+			<periastron errorminus="4.0" errorplus="4.0">280.0</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.22</eccentricity>
+			<inclination errorminus="1.1" errorplus="1.1">7.7</inclination>
+			<period errorminus="11.000000" errorplus="11.000000">1260.0</period>
+			<mass errorminus="1.8" errorplus="2.9">17.9</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>17/05/03</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

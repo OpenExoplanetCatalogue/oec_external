@@ -7,18 +7,22 @@
 		<age>0.8</age>
 		<radius>0.44</radius>
 		<mass>0.43</mass>
+		<spectraltype>M3.5</spectraltype>
 		<temperature>3410.0</temperature>
+		<metallicity>0.2</metallicity>
 		<planet>
-			<name>EPIC 211916756 b</name>
+			<name>K2-95 b</name>
 			<semimajoraxis errorminus="0.0045" errorplus="0.0187">0.0653</semimajoraxis>
+			<periastron errorminus="53.0" errorplus="69.0">283.0</periastron>
 			<eccentricity errorminus="0.11" errorplus="0.19">0.16</eccentricity>
-			<inclination errorminus="0.5" errorplus="0.04">89.4</inclination>
-			<period errorminus="0.000488" errorplus="0.000495">10.135091</period>
+			<inclination errorminus="0.6" errorplus="0.6">89.25</inclination>
+			<period errorminus="0.000084" errorplus="0.000084">10.134588</period>
+			<mass errorminus="1.66" errorplus="0.0">1.67</mass>
 			<radius errorminus="0.018" errorplus="0.018">0.33</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/12/11</lastupdate>
+			<lastupdate>17/04/14</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
