@@ -10,12 +10,12 @@
 		<planet>
 			<name>Kepler-59 b</name>
 			<period errorminus="0.000360" errorplus="0.000360">11.8681707</period>
-			<mass errorminus="2.05" errorplus="0.0">2.05</mass>
+			<mass errorminus="nan" errorplus="0.0">2.05</mass>
 			<radius>0.098</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/05/27</lastupdate>
+			<lastupdate>17/06/06</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

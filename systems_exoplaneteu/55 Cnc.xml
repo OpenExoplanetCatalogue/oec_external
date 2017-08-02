@@ -13,71 +13,71 @@
 		<metallicity>0.31</metallicity>
 		<planet>
 			<name>55 Cnc b</name>
-			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.1134</semimajoraxis>
-			<periastron>164.0</periastron>
-			<eccentricity errorminus="0.008" errorplus="0.008">0.0159</eccentricity>
-			<period errorminus="0.000100" errorplus="0.000100">14.651</period>
-			<mass errorminus="0.012" errorplus="0.012">0.8</mass>
+			<semimajoraxis errorminus="0.00011" errorplus="0.00011">0.11339</semimajoraxis>
+			<periastron errorminus="54.0" errorplus="54.0">110.0</periastron>
+			<eccentricity errorminus="0.0016" errorplus="0.0025">0.0023</eccentricity>
+			<inclination errorminus="24.54" errorplus="24.49">89.73</inclination>
+			<period errorminus="0.000950" errorplus="0.000900">14.65314</period>
+			<mass errorminus="0.031" errorplus="0.23">0.84</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>1996</discoveryyear>
-			<lastupdate>12/08/29</lastupdate>
+			<lastupdate>17/06/11</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>55 Cnc c</name>
-			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.2403</semimajoraxis>
-			<periastron errorminus="11.0" errorplus="11.0">57.4</periastron>
-			<eccentricity>0.053</eccentricity>
-			<period errorminus="0.007000" errorplus="0.007000">44.3446</period>
-			<mass errorminus="0.008" errorplus="0.008">0.169</mass>
+			<semimajoraxis errorminus="0.00024" errorplus="0.00024">0.23735</semimajoraxis>
+			<periastron errorminus="22.0" errorplus="22.0">356.0</periastron>
+			<eccentricity errorminus="0.014" errorplus="0.013">0.072</eccentricity>
+			<period errorminus="0.018000" errorplus="0.020000">44.373</period>
+			<mass errorminus="0.0078" errorplus="0.0275">0.1784</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
-			<lastupdate>11/06/07</lastupdate>
+			<lastupdate>17/06/11</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>55 Cnc d</name>
-			<semimajoraxis errorminus="0.06" errorplus="0.06">5.76</semimajoraxis>
-			<periastron errorminus="32.0" errorplus="32.0">181.3</periastron>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.025</eccentricity>
-			<inclination errorminus="6.8" errorplus="6.8">53.0</inclination>
-			<period errorminus="230.000000" errorplus="230.000000">5218.0</period>
-			<mass errorminus="0.4573" errorplus="0.6223">4.802</mass>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">5.446</semimajoraxis>
+			<periastron errorminus="32.0" errorplus="32.0">254.0</periastron>
+			<eccentricity errorminus="0.0065" errorplus="0.061">0.0269</eccentricity>
+			<period errorminus="26.000000" errorplus="25.000000">4867.0</period>
+			<mass errorminus="0.15" errorplus="0.6">3.86</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
-			<lastupdate>11/06/07</lastupdate>
+			<lastupdate>17/06/11</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>55 Cnc e</name>
-			<semimajoraxis errorminus="0.00011" errorplus="0.00011">0.0156</semimajoraxis>
+			<semimajoraxis errorminus="1.5e-05" errorplus="1.5e-05">0.015439</semimajoraxis>
 			<periastron errorminus="130.0" errorplus="130.0">170.0</periastron>
-			<eccentricity errorminus="inf" errorplus="nan">0.06</eccentricity>
+			<eccentricity errorminus="0.019" errorplus="0.022">0.028</eccentricity>
 			<longitude errorminus="12.0" errorplus="12.0">72.4</longitude>
-			<inclination errorminus="2.8" errorplus="2.1">85.4</inclination>
-			<period errorminus="0.000003" errorplus="0.000003">0.7365417</period>
-			<mass errorminus="0.0012878946042" errorplus="0.00137264299634">0.0262621097297</mass>
+			<inclination errorminus="4.66" errorplus="3.96">90.36</inclination>
+			<period errorminus="0.000001" errorplus="0.000002">0.7365478</period>
+			<mass errorminus="0.0008105" errorplus="0.0008944">0.02547</mass>
 			<radius errorminus="0.00713713469022159" errorplus="0.00713713469022159">0.177536225419</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2004</discoveryyear>
-			<lastupdate>17/05/10</lastupdate>
+			<lastupdate>17/06/11</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>55 Cnc f</name>
-			<semimajoraxis errorminus="0.006" errorplus="0.006">0.781</semimajoraxis>
-			<periastron errorminus="60.0" errorplus="60.0">205.0</periastron>
-			<eccentricity>0.0002</eccentricity>
-			<period errorminus="1.100000" errorplus="1.100000">260.7</period>
-			<mass errorminus="0.04" errorplus="0.04">0.144</mass>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.7733</semimajoraxis>
+			<periastron errorminus="8.0" errorplus="8.0">139.0</periastron>
+			<eccentricity errorminus="0.057" errorplus="0.102">0.08</eccentricity>
+			<period errorminus="0.360000" errorplus="0.360000">260.91</period>
+			<mass errorminus="0.0093" errorplus="0.0219">0.1479</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2007</discoveryyear>
-			<lastupdate>11/06/07</lastupdate>
+			<lastupdate>17/06/11</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

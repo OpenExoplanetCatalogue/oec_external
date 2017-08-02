@@ -2,12 +2,15 @@
 	<name>EPIC 220674823</name>
 	<rightascension>00 52 19</rightascension>
 	<declination>+10 47 41</declination>
+	<distance>253.0</distance>
 	<star>
 		<name>EPIC 220674823</name>
+		<age>5.0</age>
 		<radius>0.83</radius>
 		<mass>0.93</mass>
+		<spectraltype>G5V</spectraltype>
 		<temperature>5814.0</temperature>
-		<metallicity>-0.28</metallicity>
+		<metallicity>-0.025</metallicity>
 		<planet>
 			<name>EPIC 220674823 b</name>
 			<semimajoraxis>0.011</semimajoraxis>
@@ -18,7 +21,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/11/03</lastupdate>
+			<lastupdate>17/07/02</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
@@ -32,7 +35,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/11/03</lastupdate>
+			<lastupdate>17/07/02</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

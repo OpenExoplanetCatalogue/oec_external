@@ -12,7 +12,7 @@
 		<temperature>5750.0</temperature>
 		<metallicity>0.37</metallicity>
 		<planet>
-			<name>HD 202206 b</name>
+			<name>HD 202206 B</name>
 			<semimajoraxis>0.83</semimajoraxis>
 			<periastron errorminus="0.2" errorplus="0.2">161.9</periastron>
 			<eccentricity errorminus="0.001" errorplus="0.001">0.432</eccentricity>
@@ -21,7 +21,7 @@
 			<mass errorminus="6.6" errorplus="7.7">93.6</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2002</discoveryyear>
-			<lastupdate>17/05/03</lastupdate>
+			<lastupdate>17/06/28</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

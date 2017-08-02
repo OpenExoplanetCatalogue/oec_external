@@ -11,7 +11,7 @@
 		<spectraltype>T8.5</spectraltype>
 		<temperature>575.0</temperature>
 		<planet>
-			<name>WISE 1217+16A b</name>
+			<name>WISE 1217+16 A b</name>
 			<semimajoraxis>7.6</semimajoraxis>
 			<period errorminus="11000.000000" errorplus="80000.000000">47400.0</period>
 			<mass errorminus="2.0" errorplus="2.0">22.0</mass>
@@ -20,7 +20,7 @@
 			<discoverymethod>imaging</discoverymethod>
 			<temperature>450.0</temperature>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>15/03/05</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

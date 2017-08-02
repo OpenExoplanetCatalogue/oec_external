@@ -12,14 +12,40 @@
 		<metallicity>0.3</metallicity>
 		<planet>
 			<name>HD 27894 b</name>
-			<semimajoraxis>0.122</semimajoraxis>
-			<periastron errorminus="9.7" errorplus="9.7">132.9</periastron>
-			<eccentricity errorminus="0.008" errorplus="0.008">0.049</eccentricity>
-			<period errorminus="0.007000" errorplus="0.007000">17.991</period>
-			<mass>0.62</mass>
+			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.125</semimajoraxis>
+			<periastron errorminus="15.2" errorplus="2.8">132.2</periastron>
+			<eccentricity errorminus="0.008" errorplus="0.012">0.047</eccentricity>
+			<period errorminus="0.020000" errorplus="0.010000">18.02</period>
+			<mass errorminus="0.007" errorplus="0.009">0.665</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2005</discoveryyear>
-			<lastupdate>10/12/25</lastupdate>
+			<lastupdate>17/06/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 27894 c</name>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.198</semimajoraxis>
+			<periastron errorminus="7.5" errorplus="11.0">44.2</periastron>
+			<eccentricity errorminus="0.002" errorplus="0.02">0.015</eccentricity>
+			<period errorminus="0.090000" errorplus="0.260000">36.07</period>
+			<mass errorminus="0.04" errorplus="0.011">0.162</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/06/25</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 27894 d</name>
+			<semimajoraxis errorminus="0.058" errorplus="0.119">5.448</semimajoraxis>
+			<periastron errorminus="3.1" errorplus="12.3">353.9</periastron>
+			<eccentricity errorminus="0.03" errorplus="0.087">0.389</eccentricity>
+			<period errorminus="82.000000" errorplus="171.000000">5174.0</period>
+			<mass errorminus="1.214" errorplus="0.239">5.415</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/06/25</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

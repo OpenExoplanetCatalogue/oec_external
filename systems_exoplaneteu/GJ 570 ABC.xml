@@ -16,7 +16,8 @@
 			<radius errorminus="0.023" errorplus="0.023">0.855</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>17/03/09</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+			<lastupdate>17/07/13</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

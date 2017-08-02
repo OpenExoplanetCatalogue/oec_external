@@ -11,7 +11,7 @@
 		<temperature>4300.0</temperature>
 		<metallicity>0.0</metallicity>
 		<planet>
-			<name>AS 205A b</name>
+			<name>AS 205 A b</name>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">0.162</semimajoraxis>
 			<periastron errorminus="7.67" errorplus="7.67">94.14</periastron>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.35</eccentricity>
@@ -19,7 +19,7 @@
 			<mass errorminus="1.96" errorplus="1.96">19.25</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2017</discoveryyear>
-			<lastupdate>17/01/11</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

@@ -10,26 +10,26 @@
 		<temperature>5770.0</temperature>
 		<metallicity>-0.17</metallicity>
 		<planet>
-			<name>HD 87646A b</name>
+			<name>HD 87646 A b</name>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.117</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.05</eccentricity>
 			<period errorminus="0.001000" errorplus="0.001000">13.481</period>
 			<mass errorminus="0.7" errorplus="0.7">12.4</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/08/16</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
-			<name>HD 87646A c</name>
+			<name>HD 87646 A c</name>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">1.58</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.5</eccentricity>
 			<period errorminus="4.000000" errorplus="4.000000">674.0</period>
 			<mass errorminus="3.7" errorplus="3.7">57.0</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/08/16</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

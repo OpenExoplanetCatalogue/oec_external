@@ -11,7 +11,7 @@
 		<temperature>6375.0</temperature>
 		<metallicity>0.09</metallicity>
 		<planet>
-			<name>Kepler-410A b</name>
+			<name>Kepler-410 A b</name>
 			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.1236</semimajoraxis>
 			<periastron errorminus="60.0" errorplus="60.0">270.0</periastron>
 			<eccentricity errorminus="0.32" errorplus="0.32">0.17</eccentricity>
@@ -21,7 +21,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
-			<lastupdate>13/12/20</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

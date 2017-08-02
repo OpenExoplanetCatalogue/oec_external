@@ -33,7 +33,7 @@
 			<mass errorminus="0.85" errorplus="0.85">15.1</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/24</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

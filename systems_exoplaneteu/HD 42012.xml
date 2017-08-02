@@ -12,14 +12,14 @@
 		<temperature>5405.0</temperature>
 		<metallicity>-0.09</metallicity>
 		<planet>
-			<name>HD 42012</name>
+			<name>HD 42012 b</name>
 			<semimajoraxis errorminus="0.06" errorplus="0.05">1.67</semimajoraxis>
 			<eccentricity errorminus="0.0" errorplus="0.2">0.0</eccentricity>
 			<period errorminus="6.300000" errorplus="6.200000">857.5</period>
 			<mass errorminus="0.1" errorplus="0.1">1.6</mass>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2017</discoveryyear>
-			<lastupdate>17/02/27</lastupdate>
+			<lastupdate>17/06/29</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

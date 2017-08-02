@@ -10,12 +10,12 @@
 		<planet>
 			<name>Kepler-57 b</name>
 			<period errorminus="0.000018" errorplus="0.000018">5.7293196</period>
-			<mass errorminus="18.86" errorplus="0.0">18.86</mass>
+			<mass errorminus="nan" errorplus="0.0">18.86</mass>
 			<radius>0.2</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/05/27</lastupdate>
+			<lastupdate>17/06/06</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

@@ -11,7 +11,7 @@
 		<temperature>6148.0</temperature>
 		<metallicity>-0.015</metallicity>
 		<planet>
-			<name>KELT-2A b</name>
+			<name>KELT-2 A b</name>
 			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.05498</semimajoraxis>
 			<periastron errorminus="110.0" errorplus="110.0">160.0</periastron>
 			<eccentricity errorminus="0.08" errorplus="0.08">0.185</eccentricity>
@@ -21,7 +21,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>12/06/11</lastupdate>
+			<lastupdate>17/06/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

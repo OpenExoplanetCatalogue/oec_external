@@ -15,7 +15,7 @@
 			<name>CoRoT-9 b</name>
 			<semimajoraxis errorminus="0.005" errorplus="0.005">0.407</semimajoraxis>
 			<periastron errorminus="37.0" errorplus="37.0">37.0</periastron>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.11</eccentricity>
+			<eccentricity errorminus="0.037" errorplus="0.042">0.133</eccentricity>
 			<inclination errorminus="nan" errorplus="inf">89.9</inclination>
 			<period errorminus="0.001400" errorplus="0.001400">95.273804</period>
 			<mass errorminus="0.07" errorplus="0.07">0.84</mass>
@@ -23,7 +23,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2010</discoveryyear>
-			<lastupdate>13/06/05</lastupdate>
+			<lastupdate>17/07/08</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

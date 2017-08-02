@@ -12,25 +12,44 @@
 		<metallicity>0.0</metallicity>
 		<planet>
 			<name>HD 3167 b</name>
-			<inclination errorminus="5.3" errorplus="3.5">84.8</inclination>
-			<period errorminus="0.000010" errorplus="0.000010">0.959627</period>
-			<radius errorminus="0.0075" errorplus="0.0075">0.1423</radius>
+			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.01815</semimajoraxis>
+			<inclination errorminus="7.7" errorplus="4.6">83.4</inclination>
+			<period errorminus="0.000011" errorplus="0.000012">0.959641</period>
+			<mass errorminus="0.0012" errorplus="0.0012">0.0158</mass>
+			<radius errorminus="0.013" errorplus="0.016">0.152</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/07/20</lastupdate>
+			<lastupdate>17/06/26</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
 		<planet>
 			<name>HD 3167 c</name>
-			<inclination errorminus="0.59" errorplus="0.59">89.06</inclination>
-			<period errorminus="0.001000" errorplus="0.001000">29.8452</period>
-			<radius errorminus="0.018" errorplus="0.018">0.258</radius>
+			<semimajoraxis errorminus="0.0023" errorplus="0.0023">0.1795</semimajoraxis>
+			<periastron errorminus="110.0" errorplus="110.0">180.0</periastron>
+			<eccentricity errorminus="0.267" errorplus="0.0">0.267</eccentricity>
+			<inclination errorminus="0.96" errorplus="0.5">89.3</inclination>
+			<period errorminus="0.001200" errorplus="0.001200">29.8454</period>
+			<mass errorminus="0.0039" errorplus="0.00409">0.0308</mass>
+			<radius errorminus="0.025" errorplus="0.037">0.269</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/07/20</lastupdate>
+			<lastupdate>17/06/28</lastupdate>
+			<list>Confirmed planets</list>
+			<description>Data for this planet was imported from the exoplanet.eu database.</description>
+		</planet>
+		<planet>
+			<name>HD 3167 d</name>
+			<semimajoraxis errorminus="0.00027" errorplus="0.00027">0.07757</semimajoraxis>
+			<periastron errorminus="80.0" errorplus="80.0">176.0</periastron>
+			<eccentricity errorminus="0.36" errorplus="0.0">0.36</eccentricity>
+			<period errorminus="0.024000" errorplus="0.023000">8.492</period>
+			<mass errorminus="0.0022" errorplus="0.0022">0.0217</mass>
+			<discoverymethod>RV</discoverymethod>
+			<discoveryyear>2017</discoveryyear>
+			<lastupdate>17/06/28</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>

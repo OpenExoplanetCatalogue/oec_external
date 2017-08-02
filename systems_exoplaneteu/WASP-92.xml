@@ -11,7 +11,7 @@
 		<temperature>6280.0</temperature>
 		<metallicity>0.0</metallicity>
 		<planet>
-			<name>wasp-92 b</name>
+			<name>WASP-92 b</name>
 			<semimajoraxis errorminus="0.00036" errorplus="0.00036">0.0348</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.69" errorplus="0.69">83.75</inclination>
@@ -21,7 +21,7 @@
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/08/19</lastupdate>
+			<lastupdate>17/06/25</lastupdate>
 			<list>Confirmed planets</list>
 			<description>Data for this planet was imported from the exoplanet.eu database.</description>
 		</planet>
